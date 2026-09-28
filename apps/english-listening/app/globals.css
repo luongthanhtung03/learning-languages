@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f7f7f5;
+  --surface: #ffffff;
+  --surface-2: #f0f0ec;
+  --border: #e3e3de;
+  --foreground: #1c1c1a;
+  --muted: #6b6b66;
+  --accent: #b4232a; /* BBC-ish red, used sparingly */
+  --accent-soft: #fbeaea;
+  --ok: #1f7a4d;
+  --ok-soft: #e4f4ea;
+  --bad: #b3261e;
+  --bad-soft: #fbe7e5;
+  --warn: #8a5a00;
+  --warn-soft: #fbf1dc;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-line: var(--border);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-ok: var(--ok);
+  --color-ok-soft: var(--ok-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #121211;
+    --surface: #1b1b1a;
+    --surface-2: #242422;
+    --border: #33332f;
+    --foreground: #ecece8;
+    --muted: #9b9b95;
+    --accent: #ef6b6b;
+    --accent-soft: #3a1f1f;
+    --ok: #5cc98f;
+    --ok-soft: #1a3326;
+    --bad: #f28b82;
+    --bad-soft: #3b1f1d;
+    --warn: #e8b85c;
+    --warn-soft: #3a2f17;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+.btn {
+  @apply inline-flex items-center justify-center gap-1.5 rounded-lg border border-line bg-surface px-3 py-1.5 text-sm font-medium transition hover:bg-surface-2 disabled:opacity-40 disabled:pointer-events-none;
+}
+.btn-primary {
+  @apply inline-flex items-center justify-center gap-1.5 rounded-lg bg-foreground px-3 py-1.5 text-sm font-medium text-background transition hover:opacity-85 disabled:opacity-40 disabled:pointer-events-none;
+}
+.card {
+  @apply rounded-xl border border-line bg-surface;
+}
+.kbd {
+  @apply rounded border border-line bg-surface-2 px-1 font-mono text-[11px] text-muted;
+}
+.input {
+  @apply w-full rounded-lg border border-line bg-surface px-3 py-2 text-base outline-none focus:border-foreground/40;
+}

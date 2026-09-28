@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.env*
+.venv/
+__pycache__/
+*.log
+.DS_Store
+Thumbs.db
+
+# personal data & copyrighted media (kept local only)
+apps/*/data/
