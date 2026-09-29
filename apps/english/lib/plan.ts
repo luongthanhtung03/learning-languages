@@ -167,6 +167,24 @@ export function getPlan(date = today()): TodayPlan {
   return withStatus(plan);
 }
 
+/** Append another round after the plan: the next episode and the next new topic in rotation order. */
+export function addRound(date: string): TodayPlan {
+  getPlan(date);
+  const plan = load(date)!;
+  const book = loadTopics();
+
+  const episodes = plan.items.flatMap((i) => (i.kind === "listening" ? [i.episodeId] : []));
+  const ep = listeningCandidates([...plan.exclude.episodes, ...episodes])[0];
+  if (ep) plan.items.push({ kind: "listening", mode: "deep", episodeId: ep.id, title: ep.title, done: false });
+
+  const topics = new Set([...plan.exclude.topics, ...plan.items.flatMap((i) => (i.kind === "speaking" ? [i.topicNo] : []))]);
+  const next = [...rotation(book).pending, ...book.topics].find((t) => !topics.has(t.no));
+  if (next) plan.items.push(speakingItem(next, "new"));
+
+  save(plan);
+  return withStatus(plan);
+}
+
 /** Replace one not-yet-done item with the next candidate of the same kind. */
 export function skipItem(date: string, key: string): TodayPlan {
   getPlan(date);

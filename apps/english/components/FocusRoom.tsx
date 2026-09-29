@@ -60,6 +60,14 @@ export function FocusRoom() {
     return () => window.removeEventListener("beforeunload", warn);
   }, [entered, allDone]);
 
+  // append the next episode + topic and jump straight to the first new item
+  const more = async () => {
+    const p = await api<TodayPlan>("/api/plan", { method: "POST", json: { action: "more" } });
+    setPlan(p);
+    const next = p.items.find((i) => !i.done);
+    if (next) setActive(itemKey(next));
+  };
+
   const enter = () => void document.documentElement.requestFullscreen().catch(() => {});
   const leave = async () => {
     enteredOnce = false;
@@ -108,6 +116,7 @@ export function FocusRoom() {
           {allDone && (
             <div className="enter mx-auto max-w-4xl px-6 pt-10">
               <p className="text-2xl font-light">Done for today<span className="text-accent">.</span></p>
+              <button className="link mt-2" onClick={more}>One more round</button>
             </div>
           )}
           {current ? (

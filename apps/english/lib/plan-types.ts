@@ -24,7 +24,7 @@ export const DAY_LABEL: Record<DayType, string> = {
 
 export const itemKey = (i: PlanItem) =>
   i.kind === "listening"
-    ? `l:${i.mode}`
+    ? `l:${i.mode}:${i.episodeId}`
     : i.kind === "speaking"
       ? `s:${i.sessionKind}:${i.topicNo}`
       : i.kind === "review"
