@@ -30,6 +30,7 @@ Open http://localhost:3000. The first Whisper run downloads the ~480 MB `small.e
 
 | Part | What |
 |---|---|
+| Review | Flashcards first: up to 15 due cards (change it on `/speaking`). On day 7 a second, uncapped catch-up session is added |
 | Listening | 1 **deep** episode: listen → quiz → dictation → shadow → review |
 | Speaking | Follows the 7-day rhythm from the topics file (below) |
 
@@ -47,14 +48,39 @@ Press **Begin** to go fullscreen with only today's plan. If you leave fullscreen
 ### One speaking topic
 
 1. **Reveal:** the topic, the block's language target, your secondary target (from the error log) and the filler lifeline.
-2. **Prep** 30s → **Round 1 (cold)** 90s for P2 / 60s for P3 and TQ. Recording starts automatically. There's **no pause and no restart**.
+2. **Prep** 30s (with 2–3 idea angles) → **Round 1 (cold)** 2:00 for P2 / 1:30 for P3 and TQ. Recording starts automatically. There's **no pause and no restart**.
 3. **Review:** the Whisper transcript with pauses ≥2s, fillers and repeated words marked, plus stats.
-4. **Research** (5 min): fill a notes card with phrases, one sentence using the target, and one new idea.
-5. **Prep → Round 2 (target):** you must use the block's language target. Notes are hidden while recording.
-6. **Prep → Round 3 (compress):** 60s / 45s.
-7. **Compare:** R1 → R3 stats, then listen back to Round 3 and tag errors.
+4. **Research** (5 min): read the **model answer** (▶ listen reads it aloud), tap 3–5 of its phrases into your notes, and write one sentence using the target.
+5. **Prep → Round 2 (target):** you must use the block's language target and your phrases. Notes are hidden while recording.
+6. **Prep → Round 3 (polish):** same length, same content, no restarts.
+7. **Compare:** R1 → R3 stats, which of your phrases made it into Rounds 2 and 3, then listen back to Round 3 and tag errors. Your phrases become flashcards.
 
 Click any word in a transcript to log an error (article, plural -s, past -ed, he go, …). A pattern logged **3+ times in 14 days** becomes your secondary target. See `/speaking/errors`.
+
+## Flashcards
+
+Cards come only from what you studied:
+- **Episode words:** when you finish an episode, you pick which of its 6 words to keep. 3–4 is best.
+- **Topic phrases:** when you finish a speaking topic, your research phrases become cards.
+
+**One card:**
+1. You see the word and a grammar pattern from the blocks you've reached (e.g. *a relative clause with who*).
+2. Record one sentence using both (max 30s).
+3. Listen back, then flip. The back shows the BBC definition and the sentence from the episode where you heard it.
+
+**Checks:**
+- Whisper transcribes you. Edit the transcript if it tidied up your mistakes.
+- The app checks the word is there (any form) and the pattern is there. The pattern check is loose; some patterns, like articles, are self-checked only.
+- [LanguageTool](https://languagetool.org)'s free public API checks grammar. The transcript text is sent to it; set `LANGUAGETOOL_URL` to use your own server instead.
+
+**Rating:** the app suggests Again / Hard / Good / Easy from the checks and your ticks (meaning was wrong / not fluent / felt easy). You can override it.
+
+**Scheduling (SM-2, like Anki):**
+- The first review is 1–4 days out; after that the interval multiplies by the card's ease (starting at 2.5).
+- Again resets the interval to 1 day. Late reviews count part of the delay.
+- Patterns aren't scheduled; they're weighted. Ones you fail often, haven't used in a week, belong to your current block, or match your error-log target come up more.
+
+At 4 new words a day, expect roughly 16 due cards a day in month 1 and 35 by month 8. The cap keeps each day at about 15 minutes, and the day-7 catch-up clears the rest.
 
 ## Listening tools
 
@@ -86,11 +112,22 @@ Click any word in a transcript to log an error (article, plural -s, past -ed, he
 | `PYTHON` | `.venv` python | another interpreter |
 | `TOPICS_FILE` | `../../120-speaking-topics.md` | where the speaking topics come from |
 | `APP_DATA_DIR` | `./data` | database and media folder (useful for testing) |
+| `LANGUAGETOOL_URL` | public API | grammar check endpoint for flashcard sentences |
 
 ## Data
 
-All of it lives in `data/` (git-ignored): `app.db` (SQLite: progress, plans, transcripts, error log), `audio/` and `align/` (BBC episodes and timings), and `recordings/` (your speaking recordings).
+All of it lives in `data/` (git-ignored): `app.db` (SQLite: progress, plans, transcripts, error log), `audio/` and `align/` (BBC episodes and timings), and `recordings/` (your speaking and flashcard recordings).
 BBC audio, transcripts and vocabulary belong to the BBC. This app is for personal study only.
+
+## Research packs
+
+Every topic has an offline pack in `content/topics/<topic no>.json`, so research works in fullscreen without the internet:
+
+```json
+{ "ideas": ["…"], "phrases": [{ "phrase": "someone I look up to", "meaning": "a person I admire" }], "model": "…" }
+```
+
+It has 2–3 idea angles (shown before Round 1), 8 phrases, and a band-7 model answer that uses the block's target (shown only after Round 1). Check them with `node scripts/check-topics.mjs`.
 
 ## Understanding questions
 

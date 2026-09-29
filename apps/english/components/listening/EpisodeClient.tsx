@@ -6,6 +6,7 @@ import { api, type EpisodeProgress } from "@/lib/client";
 import type { Alignment, EpisodeDetail } from "@/lib/types";
 import type { WhisperJob as AlignJob } from "@/lib/whisper";
 import { PlayerBar, PlayerProvider } from "../player";
+import { KeepWords } from "../flashcards/KeepWords";
 import { ListenPanel } from "./ListenPanel";
 import { QuizPanel } from "./QuizPanel";
 import { DictationPanel } from "./DictationPanel";
@@ -157,7 +158,7 @@ export function EpisodeClient({
                 <button className="link" onClick={() => post({ type: "status", status: "in-progress" })}>undo</button>
               </>
             ) : (
-              <button className="btn-primary" onClick={() => post({ type: "status", status: "done", mode: "deep" })}>Finish episode</button>
+              <KeepWords ep={ep} onFinish={() => post({ type: "status", status: "done", mode: "deep" })} />
             )}
           </div>
         </main>

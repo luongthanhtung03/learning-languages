@@ -1,5 +1,6 @@
 import { db, getEpisodeRows, localDay } from "./db";
 import { DAY_LABEL, itemKey, type DayType, type PlanItem, type TodayPlan } from "./plan-types";
+import { activeCardCount, sessionStatus } from "./flashcards/store";
 import { completedTopicCounts, getSettings, recentRecordings, saveSettings } from "./speaking/store";
 import { loadTopics, type Topic, type TopicBook } from "./speaking/topics";
 
@@ -135,12 +136,25 @@ function withStatus(plan: Stored): TodayPlan {
         .get(i.topicNo, i.sessionKind, plan.date);
       return { ...i, done: !!r };
     }
+    if (i.kind === "review") return i; // never stored; added fresh by reviewItems()
     const r = d.prepare("SELECT edited_text FROM recordings WHERE id = ?").get(i.recordingId) as { edited_text: string | null } | undefined;
     return { ...i, done: !!r?.edited_text };
   });
   const { exclude: _exclude, ...rest } = plan;
   void _exclude;
-  return { ...rest, items };
+  return { ...rest, items: [...reviewItems(plan.cycleDay, plan.date), ...items] };
+}
+
+/** Flashcard review comes first each day; the weekly review day (day 7) adds an uncapped catch-up session. */
+function reviewItems(cycleDay: number, date: string): PlanItem[] {
+  if (!activeCardCount()) return [];
+  const sessions: (1 | 2)[] = cycleDay === 7 ? [1, 2] : [1];
+  return sessions.map((session) => {
+    const s = sessionStatus(session, date);
+    const n = `${s.left} card${s.left === 1 ? "" : "s"}`;
+    const title = s.complete ? "Cards reviewed" : session === 2 ? `Catch-up · ${n}` : n;
+    return { kind: "review", session, title, left: s.left, done: s.complete };
+  });
 }
 
 export function getPlan(date = today()): TodayPlan {
@@ -157,7 +171,7 @@ export function getPlan(date = today()): TodayPlan {
 export function skipItem(date: string, key: string): TodayPlan {
   getPlan(date);
   const plan = load(date)!;
-  const idx = plan.items.findIndex((i) => itemKey(i) === key);
+  const idx = plan.items.findIndex((i) => itemKey(i) === key && i.kind !== "review");
   if (idx < 0) return withStatus(plan);
   const item = plan.items[idx];
   const book = loadTopics();
@@ -181,7 +195,7 @@ export function skipItem(date: string, key: string): TodayPlan {
           : [];
     const next = pool.find((t) => !skip.has(t.no));
     if (next) replacement = speakingItem(next, item.sessionKind);
-  } else {
+  } else if (item.kind === "transcribe") {
     plan.exclude.recordings.push(item.recordingId);
     const next = transcribeCandidates(date, plan.exclude.recordings)[0];
     if (next) {

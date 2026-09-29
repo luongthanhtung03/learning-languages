@@ -1,8 +1,10 @@
 "use client";
 
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { api } from "@/lib/client";
+import { termRegex } from "@/lib/listening/vocab";
 import type { RecordingWithErrors, SessionDetail } from "@/lib/speaking/detail";
+import type { TopicPack } from "@/lib/speaking/pack";
 import type { SessionKind, SessionNotes } from "@/lib/speaking/store";
 import { useFocus } from "../focus-context";
 import { CountdownRing, MicLevel, StatsTable, TYPE_LABEL } from "./bits";
@@ -65,7 +67,7 @@ function Session({ detail, reload, onDone }: { detail: SessionDetail; reload: ()
   const [step, setStep] = useState<Step>(init.step);
   const [round, setRound] = useState(init.round); // index into detail.rounds for the next/current recording
   const startedAt = useRef(0);
-  const { topic, block, rounds, secondary, fillers, settings, session } = detail;
+  const { topic, block, rounds, secondary, fillers, settings, session, pack } = detail;
   const cur = rounds[Math.min(round, rounds.length - 1)];
   const multi = rounds.length > 1;
 
@@ -174,6 +176,13 @@ function Session({ detail, reload, onDone }: { detail: SessionDetail; reload: ()
         {header}
         <p className="text-sm text-muted">Prepare · {cur.label}</p>
         <CountdownRing left={prepLeft} total={settings.prep_seconds} label="think" />
+        {cur.round === 1 && !!pack?.ideas.length && (
+          <ul className="enter-stagger mx-auto max-w-xl space-y-1.5 text-sm text-foreground/75">
+            {pack.ideas.map((idea) => (
+              <li key={idea}>{idea}</li>
+            ))}
+          </ul>
+        )}
         {cur.round === 2 && (
           <div className="mx-auto max-w-xl space-y-2 text-left text-sm">
             <p className="text-accent">Use: {block.target}</p>
@@ -182,7 +191,7 @@ function Session({ detail, reload, onDone }: { detail: SessionDetail; reload: ()
             <p className="text-xs text-muted">Notes disappear when recording starts.</p>
           </div>
         )}
-        {cur.round === 3 && <p className="text-muted">Same content, {fmtClock(cur.seconds)} only. Faster, no fillers.</p>}
+        {cur.round === 3 && <p className="text-muted">Same content. No restarts. Use your phrases and {block.target}.</p>}
         <div className="flex justify-center">
           <MicLevel level={mic.level} />
         </div>
@@ -233,6 +242,7 @@ function Session({ detail, reload, onDone }: { detail: SessionDetail; reload: ()
         header={header}
         minutes={settings.research_minutes}
         target={block.target}
+        pack={pack}
         notes={session.notes}
         paused={paused}
         save={saveNotes}
@@ -266,6 +276,7 @@ function Session({ detail, reload, onDone }: { detail: SessionDetail; reload: ()
             I used {block.target} in Round 2
           </label>
         )}
+        {multi && <PhraseUse phrases={session.notes.phrases} rounds={[2, 3].map((r) => ({ round: r, rec: recFor(r) }))} />}
       </section>
       <section className="space-y-4">
         <h3 className="text-sm text-muted">Listen back to {multi ? "Round 3" : "your recording"} once. Tag recurring errors.</h3>
@@ -289,6 +300,8 @@ function Session({ detail, reload, onDone }: { detail: SessionDetail; reload: ()
           className="btn-primary px-5 py-2.5 text-base"
           onClick={async () => {
             await api(`/api/speaking/sessions/${session.id}`, { method: "PATCH", json: { completed: true } });
+            // your research phrases become flashcards
+            if (session.notes.phrases?.trim()) await api("/api/cards", { method: "POST", json: { sessionId: session.id } });
             await reload();
             onDone?.();
           }}
@@ -333,10 +346,56 @@ function RecordingView({ rec, reload }: { rec: RecordingWithErrors | null; reloa
   return <TranscriptTagger rec={rec} audioSrc={src} onChanged={() => void reload()} />;
 }
 
+/** "Your phrases · Round 2: 2/3 · Round 3: 3/3": did the language you collected actually make it into your speech? */
+function PhraseUse({ phrases, rounds }: { phrases?: string; rounds: { round: number; rec: RecordingWithErrors | null }[] }) {
+  const list = splitPhrases(phrases);
+  if (!list.length) return null;
+  const said = (rec: RecordingWithErrors | null) => rec?.edited_text ?? rec?.text ?? null;
+  return (
+    <div className="space-y-3 pt-2">
+      <p className="text-sm text-muted">
+        Your phrases
+        {rounds.map(({ round, rec }) => {
+          const text = said(rec);
+          return (
+            <span key={round}>
+              {" · "}Round {round}:{" "}
+              <span className="tabular-nums text-foreground">{text === null ? "…" : `${list.filter((p) => termRegex(p)?.test(text)).length}/${list.length}`}</span>
+            </span>
+          );
+        })}
+      </p>
+      <ul className="space-y-1 text-sm">
+        {list.map((p) => {
+          const hits = rounds.map(({ rec }) => {
+            const text = said(rec);
+            return text === null ? null : !!termRegex(p)?.test(text);
+          });
+          return (
+            <li key={p} className="flex items-baseline gap-3">
+              {hits.map((h, i) => (
+                <span key={i} className={`w-4 text-center ${h === null ? "text-muted" : h ? "text-ok" : "text-bad"}`}>{h === null ? "·" : h ? "✓" : "✗"}</span>
+              ))}
+              <span className="text-foreground/80">{p}</span>
+            </li>
+          );
+        })}
+      </ul>
+    </div>
+  );
+}
+
+const splitPhrases = (s?: string) =>
+  (s ?? "")
+    .split(/\r?\n/)
+    .map((l) => l.replace(/^\s*(?:[-•*]|\d+[.)])\s*/, "").replace(/[…]+$|\.{3}$/, "").trim())
+    .filter((l) => l.length >= 2);
+
 function Research({
   header,
   minutes,
   target,
+  pack,
   notes,
   paused,
   save,
@@ -345,6 +404,7 @@ function Research({
   header: React.ReactNode;
   minutes: number;
   target: string;
+  pack: TopicPack | null;
   notes: SessionNotes;
   paused: boolean;
   save: (n: SessionNotes) => Promise<unknown>;
@@ -355,11 +415,20 @@ function Research({
   const left = useCountdown(minutes * 60, !paused && !over, () => setOver(true), "research");
   const timer = useRef<ReturnType<typeof setTimeout>>(undefined);
 
+  const latest = useRef(draft); // quick taps shouldn't read a stale draft
   const change = (patch: SessionNotes) => {
-    const next = { ...draft, ...patch };
+    const next = { ...latest.current, ...patch };
+    latest.current = next;
     setDraft(next);
     clearTimeout(timer.current);
     timer.current = setTimeout(() => void save(next), 600);
+  };
+
+  const picked = splitPhrases(draft.phrases).map((p) => p.toLowerCase());
+  const togglePhrase = (phrase: string) => {
+    const lines = splitPhrases(latest.current.phrases);
+    const has = lines.some((l) => l.toLowerCase() === phrase.toLowerCase());
+    change({ phrases: (has ? lines.filter((l) => l.toLowerCase() !== phrase.toLowerCase()) : [...lines, phrase]).join("\n") });
   };
 
   return (
@@ -367,11 +436,35 @@ function Research({
       {header}
       <section className="space-y-8">
         <div className="flex items-baseline justify-between gap-4">
-          <p className="text-sm text-muted">Research · collect language, not facts.</p>
+          <p className="text-sm text-muted">Research · compare, then borrow the language.</p>
           <span className={`font-mono text-3xl font-light tabular-nums ${over ? "text-accent" : ""}`}>{over ? "time" : fmtClock(left)}</span>
         </div>
+        {pack && <ModelAnswer pack={pack} target={target} />}
+        {pack && (
+          <div className="space-y-3">
+            <p className="text-sm text-muted">Pick 3–5 phrases to use in Round 2</p>
+            <ul className="space-y-1">
+              {pack.phrases.map((p) => {
+                const on = picked.includes(p.phrase.toLowerCase());
+                return (
+                  <li key={p.phrase}>
+                    <button
+                      onClick={() => togglePhrase(p.phrase)}
+                      aria-pressed={on}
+                      className={`-mx-3 flex w-full items-baseline gap-4 rounded-xl px-3 py-2 text-left text-sm transition ${on ? "bg-surface" : "hover:bg-surface"}`}
+                    >
+                      <span className={`h-2 w-2 shrink-0 self-center rounded-full border transition ${on ? "border-accent bg-accent" : "border-line"}`} />
+                      <span className={`w-56 shrink-0 ${on ? "text-foreground" : "text-foreground/80"}`}>{p.phrase}</span>
+                      <span className="text-muted">{p.meaning}</span>
+                    </button>
+                  </li>
+                );
+              })}
+            </ul>
+          </div>
+        )}
         <label className="block space-y-2">
-          <span className="text-sm text-muted">3–5 phrases for this topic</span>
+          <span className="text-sm text-muted">Your phrases{pack ? " (add your own too)" : " · 3–5 for this topic"}</span>
           <textarea
             className="input min-h-24 text-sm"
             placeholder={"e.g. someone I look up to\nhas a huge following\nshe comes across as…"}
@@ -382,10 +475,6 @@ function Research({
         <label className="block space-y-2">
           <span className="text-sm text-muted">1 sentence using {target}</span>
           <input className="input text-sm" value={draft.targetSentence ?? ""} onChange={(e) => change({ targetSentence: e.target.value })} />
-        </label>
-        <label className="block space-y-2">
-          <span className="text-sm text-muted">1 new idea you didn&apos;t use in Round 1</span>
-          <input className="input text-sm" value={draft.idea ?? ""} onChange={(e) => change({ idea: e.target.value })} />
         </label>
       </section>
       <button
@@ -398,6 +487,62 @@ function Research({
       >
         Round 2
       </button>
+    </div>
+  );
+}
+
+/** The pack's model answer, with its phrases highlighted and an offline read-aloud (the browser's own voices). */
+function ModelAnswer({ pack, target }: { pack: TopicPack; target: string }) {
+  const [speaking, setSpeaking] = useState(false);
+  const parts = useMemo(() => {
+    // mark every phrase occurrence, then cut the text into plain / highlighted runs
+    const marks: [number, number][] = [];
+    for (const p of pack.phrases) {
+      const re = termRegex(p.phrase);
+      if (!re) continue;
+      const g = new RegExp(re.source, "gi");
+      for (const m of pack.model.matchAll(g)) marks.push([m.index!, m.index! + m[0].length]);
+    }
+    marks.sort((a, b) => a[0] - b[0]);
+    const out: { text: string; hit: boolean }[] = [];
+    let pos = 0;
+    for (const [a, b] of marks) {
+      if (a < pos) continue;
+      if (a > pos) out.push({ text: pack.model.slice(pos, a), hit: false });
+      out.push({ text: pack.model.slice(a, b), hit: true });
+      pos = b;
+    }
+    out.push({ text: pack.model.slice(pos), hit: false });
+    return out;
+  }, [pack]);
+
+  useEffect(() => () => window.speechSynthesis?.cancel(), []);
+
+  const listen = () => {
+    const synth = window.speechSynthesis;
+    if (!synth) return;
+    if (speaking) {
+      synth.cancel();
+      return setSpeaking(false);
+    }
+    const u = new SpeechSynthesisUtterance(pack.model);
+    const voices = synth.getVoices();
+    u.voice = voices.find((v) => v.lang === "en-GB") ?? voices.find((v) => v.lang.startsWith("en")) ?? null;
+    u.rate = 0.9;
+    u.onend = u.onerror = () => setSpeaking(false);
+    synth.speak(u);
+    setSpeaking(true);
+  };
+
+  return (
+    <div className="space-y-3">
+      <div className="flex items-baseline gap-4">
+        <p className="text-sm text-muted">Model answer · notice how it uses {target}</p>
+        <button className="link" onClick={listen}>{speaking ? "■ stop" : "▶ listen"}</button>
+      </div>
+      <p className="border-l border-accent/50 pl-5 leading-relaxed text-foreground/85">
+        {parts.map((p, i) => (p.hit ? <span key={i} className="text-accent">{p.text}</span> : <span key={i}>{p.text}</span>))}
+      </p>
     </div>
   );
 }

@@ -3,7 +3,8 @@
 export type PlanItem =
   | { kind: "listening"; mode: "deep"; episodeId: string; title: string; done: boolean }
   | { kind: "speaking"; sessionKind: "new" | "revisit" | "monthly"; topicNo: number; title: string; type: string; done: boolean }
-  | { kind: "transcribe"; recordingId: number; topicNo: number; title: string; done: boolean };
+  | { kind: "transcribe"; recordingId: number; topicNo: number; title: string; done: boolean }
+  | { kind: "review"; session: 1 | 2; title: string; left: number; done: boolean };
 
 export type DayType = "new" | "transcribe" | "revisit";
 
@@ -22,4 +23,10 @@ export const DAY_LABEL: Record<DayType, string> = {
 };
 
 export const itemKey = (i: PlanItem) =>
-  i.kind === "listening" ? `l:${i.mode}` : i.kind === "speaking" ? `s:${i.sessionKind}:${i.topicNo}` : `t:${i.recordingId}`;
+  i.kind === "listening"
+    ? `l:${i.mode}`
+    : i.kind === "speaking"
+      ? `s:${i.sessionKind}:${i.topicNo}`
+      : i.kind === "review"
+        ? `r:${i.session}`
+        : `t:${i.recordingId}`;

@@ -11,15 +11,16 @@ Topic types are mixed on purpose:
 
 ## Daily protocol
 
-Do not just talk once. Three runs, ~6 minutes total:
+Do not just talk once. Three runs of the same content:
 
 | Run | Time | Focus |
 |---|---|---|
-| 1 | 90s (P2) / 60s (P3, TQ) | Content only. Don't stop. Prep ≤15s, no notes. |
-| 2 | same | **Force the block's language target in** (see each block). |
-| 3 | 60s (P2) / 45s (P3, TQ) | Compress. Speed, no fillers. |
+| 1 | 2:00 (P2) / 1:30 (P3, TQ) | Content only. Don't stop. No notes. |
+| — | research | Compare with the model answer, pick 3–5 phrases. |
+| 2 | same | **Force the block's language target in** (see each block), plus your phrases. |
+| 3 | same | Polish. Same content, no restarts, reuse the phrases and the target. |
 
-Record all three. Only listen back to run 3.
+Record all three. Listen back to run 3. Speed comes over days from repeating content, not from rushing one run.
 
 **Non-negotiable rule:** never restart a sentence. If you get stuck, use a filler phrase (*"the thing is…", "what I mean is…", "something along those lines"*) and keep going. Restarting is the habit that costs you the fluency band.
 

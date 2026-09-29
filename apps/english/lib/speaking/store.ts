@@ -11,9 +11,10 @@ export type Settings = {
   start_date: string | null; // first practice day (YYYY-MM-DD), anchors the 7-day rhythm
   prep_seconds: number;
   research_minutes: number;
+  review_cap: number; // flashcards per daily review session
 };
 
-const DEFAULTS: Settings = { start_date: null, prep_seconds: 30, research_minutes: 5 };
+const DEFAULTS: Settings = { start_date: null, prep_seconds: 30, research_minutes: 5, review_cap: 15 };
 
 export function getSettings(): Settings {
   const rows = db().prepare("SELECT key, value FROM settings").all() as { key: string; value: string }[];
@@ -33,15 +34,17 @@ export function saveSettings(patch: Partial<Settings>) {
 
 export type SessionKind = "new" | "revisit" | "monthly";
 
-/** Round lengths from 120-speaking-topics.md: runs 1–2 at 90s (P2) / 60s, run 3 compressed to 60s / 45s. */
+const EXTRA = 30; // every round runs 30s longer than the topics file suggests
+
+/** Round lengths from 120-speaking-topics.md (90s P2 / 60s), each +30s. Round 3 is a polish at the same length, not a rush. */
 export function roundPlan(type: TopicType, kind: SessionKind): { round: number; seconds: number; label: string }[] {
   const long = type === "P2";
-  if (kind === "revisit") return [{ round: 1, seconds: 60, label: "Revisit" }];
-  if (kind === "monthly") return [{ round: 1, seconds: long ? 90 : 60, label: "Monthly check" }];
+  if (kind === "revisit") return [{ round: 1, seconds: 60 + EXTRA, label: "Revisit" }];
+  if (kind === "monthly") return [{ round: 1, seconds: (long ? 90 : 60) + EXTRA, label: "Monthly check" }];
   return [
-    { round: 1, seconds: long ? 90 : 60, label: "Round 1 · Cold" },
-    { round: 2, seconds: long ? 90 : 60, label: "Round 2 · Target" },
-    { round: 3, seconds: long ? 60 : 45, label: "Round 3 · Compress" },
+    { round: 1, seconds: (long ? 90 : 60) + EXTRA, label: "Round 1 · Cold" },
+    { round: 2, seconds: (long ? 90 : 60) + EXTRA, label: "Round 2 · Target" },
+    { round: 3, seconds: (long ? 90 : 60) + EXTRA, label: "Round 3 · Polish" },
   ];
 }
 

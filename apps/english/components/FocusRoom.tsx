@@ -5,6 +5,7 @@ import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from "
 import { api } from "@/lib/client";
 import { itemKey, type PlanItem, type TodayPlan } from "@/lib/plan-types";
 import { FocusContext } from "./focus-context";
+import { Review } from "./flashcards/Review";
 import { EpisodeClient } from "./listening/EpisodeClient";
 import { SpeakingSession } from "./speaking/SpeakingSession";
 import { TranscribeTask } from "./speaking/TranscribeTask";
@@ -135,7 +136,9 @@ function FocusItem({ item, onChange }: { item: PlanItem; onChange: () => void })
     return <EpisodeClient id={item.episodeId} focus onStatusChange={onChange} />;
   return (
     <main className="enter mx-auto w-full max-w-4xl px-6 py-12">
-      {item.kind === "speaking" ? (
+      {item.kind === "review" ? (
+        <Review session={item.session} onDone={onChange} />
+      ) : item.kind === "speaking" ? (
         <SpeakingSession topicNo={item.topicNo} kind={item.sessionKind} onDone={onChange} />
       ) : (
         <TranscribeTask recordingId={item.recordingId} topicText={item.title} onDone={onChange} />

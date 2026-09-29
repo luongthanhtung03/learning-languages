@@ -11,6 +11,7 @@ export async function PATCH(request: Request) {
     saveSettings({
       prep_seconds: clamp(patch.prep_seconds, 5, 120),
       research_minutes: clamp(patch.research_minutes, 1, 20),
+      review_cap: clamp(patch.review_cap, 5, 40),
     }),
   );
 }

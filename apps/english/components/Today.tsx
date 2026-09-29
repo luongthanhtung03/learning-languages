@@ -9,11 +9,13 @@ import { DAY_LABEL, itemKey, type PlanItem, type TodayPlan } from "@/lib/plan-ty
 export function itemHref(i: PlanItem) {
   if (i.kind === "listening") return `/listening/${i.episodeId}`;
   if (i.kind === "speaking") return `/speaking/practice/${i.topicNo}?kind=${i.sessionKind}`;
+  if (i.kind === "review") return `/review?session=${i.session}`;
   return `/speaking/transcribe/${i.recordingId}`;
 }
 
 export function itemLabel(i: PlanItem) {
   if (i.kind === "listening") return "Listen";
+  if (i.kind === "review") return i.session === 2 ? "Review 2" : "Review";
   if (i.kind === "speaking") return i.sessionKind === "new" ? "Speak" : i.sessionKind === "revisit" ? "Revisit" : "Self-check";
   return "Transcribe";
 }
@@ -61,7 +63,7 @@ export function Today() {
                   <span className={`min-w-0 flex-1 text-lg leading-snug transition ${i.done ? "text-muted line-through decoration-muted/50" : ""}`}>{i.title}</span>
                   {i.done && <span className="pop text-accent">✓</span>}
                 </Link>
-                {!i.done && (
+                {!i.done && i.kind !== "review" && (
                   <button
                     className="link absolute right-0 top-1/2 -translate-y-1/2 opacity-0 transition group-hover:opacity-100"
                     onClick={() => skip(i)}

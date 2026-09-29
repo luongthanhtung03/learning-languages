@@ -121,6 +121,12 @@ export function SpeakingOverview() {
               {withValue([3, 5, 8, 10], settings.research_minutes).map((n) => <option key={n} value={n}>{n} min</option>)}
             </select>
           </label>
+          <label className="flex items-center gap-2">
+            Cards per review
+            <select className="text-foreground outline-none" value={settings.review_cap} onChange={(e) => updateSettings({ review_cap: Number(e.target.value) })}>
+              {withValue([10, 15, 20], settings.review_cap).map((n) => <option key={n} value={n}>{n}</option>)}
+            </select>
+          </label>
         </section>
       )}
     </main>

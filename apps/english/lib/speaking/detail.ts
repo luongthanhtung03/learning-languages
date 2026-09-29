@@ -1,4 +1,5 @@
 import { getSettings, getSession, recordingErrors, roundPlan, secondaryTarget, sessionRecordings } from "./store";
+import { loadPack } from "./pack";
 import { findTopic, loadTopics } from "./topics";
 import { transcriptionJob } from "./transcribe";
 
@@ -23,6 +24,7 @@ export function sessionDetail(id: number) {
     })),
     secondary: secondaryTarget(),
     fillers: book.fillers,
+    pack: loadPack(topic.no),
     settings: { prep_seconds: settings.prep_seconds, research_minutes: settings.research_minutes },
   };
 }

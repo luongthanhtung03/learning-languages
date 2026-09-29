@@ -10,14 +10,53 @@ export function termVariants(term: string): string[] {
     .filter((t) => t.length >= 2);
 }
 
-/** Regex matching a vocab term with light inflection (itch -> itching, reset -> resetting). */
+// "go out of their way" should also match "goes out of her way"
+const PRONOUNS = new Set(["one's", "someone's", "somebody's", "their", "your", "my", "his", "her", "our", "its", "someone", "somebody", "something", "sb", "sth"]);
+const IRREGULAR: Record<string, string[]> = {
+  be: ["be", "is", "are", "am", "was", "were", "been", "being"],
+  go: ["go", "goes", "going", "gone", "went"],
+  do: ["do", "does", "doing", "did", "done"],
+  have: ["have", "has", "having", "had"],
+  make: ["make", "makes", "making", "made"],
+  take: ["take", "takes", "taking", "took", "taken"],
+  come: ["come", "comes", "coming", "came"],
+  get: ["get", "gets", "getting", "got", "gotten"],
+  give: ["give", "gives", "giving", "gave", "given"],
+  keep: ["keep", "keeps", "keeping", "kept"],
+  feel: ["feel", "feels", "feeling", "felt"],
+  see: ["see", "sees", "seeing", "saw", "seen"],
+  think: ["think", "thinks", "thinking", "thought"],
+  bring: ["bring", "brings", "bringing", "brought"],
+  find: ["find", "finds", "finding", "found"],
+  tell: ["tell", "tells", "telling", "told"],
+  say: ["say", "says", "saying", "said"],
+  run: ["run", "runs", "running", "ran"],
+  put: ["put", "puts", "putting"],
+  fall: ["fall", "falls", "falling", "fell", "fallen"],
+  hold: ["hold", "holds", "holding", "held"],
+  stand: ["stand", "stands", "standing", "stood"],
+  pay: ["pay", "pays", "paying", "paid"],
+  lose: ["lose", "loses", "losing", "lost"],
+  catch: ["catch", "catches", "catching", "caught"],
+};
+
+/** Regex matching a vocab term with light inflection (itch -> itching, reset -> resetting, go -> went). */
 export function termRegex(term: string): RegExp | null {
   const variants = termVariants(term)
     .sort((a, b) => b.length - a.length)
     .map((v) =>
       v
         .split(/\s+/)
-        .map((w) => (w.length >= 3 ? `${escape(w)}[a-z]{0,4}` : escape(w)))
+        .map((w) => {
+          const lower = w.toLowerCase();
+          if (PRONOUNS.has(lower)) return "[\\w']+";
+          if (IRREGULAR[lower]) return `(?:${IRREGULAR[lower].join("|")})`;
+          if (w.length < 3) return escape(w);
+          // spike -> spiking/spiked, study -> studies/studied, plus plain suffixes (reset -> resetting)
+          if (/[^aeiou]e$/i.test(w) && w.length >= 4) return `${escape(w.slice(0, -1))}(?:e[a-z]{0,3}|ing|ers?|ed)`;
+          if (/[^aeiou]y$/i.test(w)) return `${escape(w.slice(0, -1))}(?:y[a-z]{0,3}|ies|ied|ier|iest)`;
+          return `${escape(w)}[a-z]{0,4}`;
+        })
         .join("\\s+"),
     );
   if (!variants.length) return null;

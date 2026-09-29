@@ -53,6 +53,23 @@ export function db(): DatabaseSync {
       wrong TEXT, correct TEXT, created_at TEXT NOT NULL
     );
     CREATE INDEX IF NOT EXISTS rec_session ON recordings(session_id);
+
+    -- flashcards: words kept from episodes and phrases from speaking topics
+    CREATE TABLE IF NOT EXISTS cards (
+      id INTEGER PRIMARY KEY AUTOINCREMENT, kind TEXT NOT NULL, term TEXT NOT NULL,
+      definition TEXT, example TEXT, source TEXT NOT NULL, source_id TEXT NOT NULL, source_title TEXT,
+      created_at TEXT NOT NULL, due TEXT NOT NULL, interval INTEGER NOT NULL DEFAULT 0,
+      ease REAL NOT NULL DEFAULT 2.5, reps INTEGER NOT NULL DEFAULT 0, lapses INTEGER NOT NULL DEFAULT 0,
+      last_review TEXT, suspended INTEGER NOT NULL DEFAULT 0,
+      UNIQUE (source, source_id, term)
+    );
+    CREATE TABLE IF NOT EXISTS card_reviews (
+      id INTEGER PRIMARY KEY AUTOINCREMENT, card_id INTEGER NOT NULL, date TEXT NOT NULL,
+      pattern_id TEXT NOT NULL, audio_file TEXT, status TEXT NOT NULL, error TEXT,
+      transcript TEXT, edited INTEGER NOT NULL DEFAULT 0, checks TEXT, self TEXT, rating INTEGER, at TEXT NOT NULL
+    );
+    CREATE INDEX IF NOT EXISTS card_due ON cards(due);
+    CREATE INDEX IF NOT EXISTS review_card ON card_reviews(card_id);
     CREATE INDEX IF NOT EXISTS err_rec ON speaking_errors(recording_id);
   `);
   globalForDb.__db = d;
