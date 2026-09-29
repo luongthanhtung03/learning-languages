@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "The first small problem that started the chain",
+    "How one mistake led to the next",
+    "How the day ended and what you learned"
+  ],
+  "phrases": [
+    { "phrase": "get off to a bad start", "meaning": "begin badly" },
+    { "phrase": "one thing after another", "meaning": "a series of problems in a row" },
+    { "phrase": "the last straw", "meaning": "the final problem you can't accept" },
+    { "phrase": "run out of battery", "meaning": "have no power left" },
+    { "phrase": "pour with rain", "meaning": "rain very heavily" },
+    { "phrase": "be in a rush", "meaning": "be hurrying because of little time" },
+    { "phrase": "see the funny side", "meaning": "find humour in a bad situation" },
+    { "phrase": "call it a day", "meaning": "stop and go home" }
+  ],
+  "model": "I'd like to talk about a Monday last spring when, honestly, it was just one thing after another. The day got off to a bad start because my alarm didn't go off. I'd forgotten to charge my phone, so it had run out of battery overnight. When I finally woke up, it was already eight o'clock and I had a client presentation at nine. First, I skipped breakfast and jumped in the shower. Then, while I was getting dressed, I spilled coffee all over my only clean shirt, so I had to iron another one. After that, I rushed outside, and of course it was pouring with rain. I was in such a rush that I left my umbrella at home, so I arrived at the office completely soaked. But the last straw came when I plugged in my laptop. While my manager was introducing me to the client, the screen went black and my slides simply disappeared. I had to present the whole thing from memory, which was pretty stressful. In the end, the client actually liked the talk, and they said it felt more natural than a slideshow. That evening I decided to call it a day early, went home and slept for ten hours. Looking back, I can see the funny side now, and I always charge my phone before bed."
+}

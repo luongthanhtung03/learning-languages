@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Your job explained with a simple comparison",
+    "What a normal working day looks like",
+    "The best and hardest parts of it"
+  ],
+  "phrases": [
+    { "phrase": "put it simply", "meaning": "explain in an easy way" },
+    { "phrase": "work behind the scenes", "meaning": "work where people don't see you" },
+    { "phrase": "a bit like", "meaning": "similar to" },
+    { "phrase": "make sure everything runs smoothly", "meaning": "check things work without problems" },
+    { "phrase": "figure out", "meaning": "find the answer to something" },
+    { "phrase": "work closely with", "meaning": "cooperate a lot with someone" },
+    { "phrase": "fix bugs", "meaning": "correct errors in software" },
+    { "phrase": "the most rewarding part", "meaning": "the part that feels most worthwhile" }
+  ],
+  "model": "I work as a software tester for a company that makes a food-delivery app, and I've been doing this job for about three years now. If I had to explain it to a ten-year-old, I'd put it simply like this. You know when you order food on your mum's phone and it arrives at your door? Well, somebody has to check that the app works properly before anyone uses it. My job is a bit like being a detective. I try to break the app on purpose. I press buttons in strange orders, type silly things into boxes and pretend to be a customer with a very slow internet connection. When something goes wrong, I write a report, and then the developers fix the bugs. So I work behind the scenes, and most people have never heard of testers, but we make sure everything runs smoothly. I work closely with designers and programmers, and we have a short meeting every morning to figure out what needs testing that day. Recently, I've been working on a new payment feature, and I've found more than forty problems so far, which sounds bad but is actually good news. Honestly, the most rewarding part is when a new version comes out and nothing crashes. I've never had to deal with a really serious failure, and I'd like to keep it that way."
+}

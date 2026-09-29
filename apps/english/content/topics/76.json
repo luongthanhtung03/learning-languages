@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Algorithms pushing quantity and cheap, fast productions",
+    "Streaming also funding bold, niche shows",
+    "How viewers' own habits shape quality"
+  ],
+  "phrases": [
+    { "phrase": "the algorithm recommends", "meaning": "the system suggests content automatically" },
+    { "phrase": "quantity over quality", "meaning": "more content rather than better content" },
+    { "phrase": "background noise", "meaning": "something on while doing other things" },
+    { "phrase": "a hidden gem", "meaning": "something good that few people know" },
+    { "phrase": "niche audiences", "meaning": "small groups with special interests" },
+    { "phrase": "play it safe", "meaning": "avoid taking risks" },
+    { "phrase": "mindless viewing", "meaning": "watching without really paying attention" },
+    { "phrase": "spoilt for choice", "meaning": "having too many good options" }
+  ],
+  "model": "I'd say it's making some people watch worse content, but not everyone, and to some extent it's our own fault. Platforms tend to value quantity over quality, because they need a constant flow of new shows to keep subscribers. And since the algorithm recommends whatever is popular, studios often play it safe with sequels and copies of successful formats. A lot of people also treat shows as background noise while they scroll on their phones, which arguably encourages simple plots and mindless viewing. My flatmate, for instance, has a reality show on almost every evening, but she couldn't tell you what happened in it. On the other hand, streaming has also funded brilliant series that TV channels would never have taken a risk on, especially for niche audiences. Squid Game is a good example, since it was rejected for years before Netflix made it. So we're actually spoilt for choice. It seems to me that if you search a little, you can still find a hidden gem most weeks."
+}

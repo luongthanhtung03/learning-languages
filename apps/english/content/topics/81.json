@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "What time you get up and your first routine",
+    "How you get ready and travel to work",
+    "What you'd like to change about your mornings"
+  ],
+  "phrases": [
+    { "phrase": "hit the snooze button", "meaning": "delay the alarm to sleep more" },
+    { "phrase": "an early riser", "meaning": "someone who gets up early" },
+    { "phrase": "grab a quick breakfast", "meaning": "eat something fast" },
+    { "phrase": "beat the traffic", "meaning": "travel before roads get busy" },
+    { "phrase": "set the tone for the day", "meaning": "influence how the day goes" },
+    { "phrase": "run late", "meaning": "be behind schedule" },
+    { "phrase": "stick to a routine", "meaning": "keep doing the same regular things" },
+    { "phrase": "clear my head", "meaning": "stop feeling confused or stressed" }
+  ],
+  "model": "I wouldn't really call myself an early riser, but on weekdays I have to get up at around six fifteen. My alarm goes off at six, and to be honest I usually hit the snooze button at least once. My doctor once told me I shouldn't do that, because it makes you feel more tired, but it's a hard habit to break. Once I'm up, the first thing I do is drink a big glass of water and open the window. Then I do about ten minutes of stretching, which really helps me clear my head. After a shower, I grab a quick breakfast, usually a bánh mì from the stall on the corner or some yoghurt and fruit if I'm at home. I try to leave the house by seven, because if I want to beat the traffic, I'd better be on the road early. Otherwise, the twenty-minute ride to the office on my motorbike can easily take an hour. We're supposed to start work at eight, but I like arriving a bit early to plan my tasks with a coffee. I've found that a calm morning really sets the tone for the day. On days when I'm running late, I feel rushed and stressed until lunchtime. So I'm trying to stick to a routine, even at weekends. Ideally, I ought to go to bed earlier too, so that I can wake up without the alarm, but that's still a work in progress."
+}

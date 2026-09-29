@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "The transport problem you face every day",
+    "The one change you would make",
+    "How that change would affect people's lives"
+  ],
+  "phrases": [
+    { "phrase": "stuck in traffic", "meaning": "unable to move because of cars" },
+    { "phrase": "public transport network", "meaning": "system of buses, trains and metro" },
+    { "phrase": "a dedicated bus lane", "meaning": "road lane only for buses" },
+    { "phrase": "cut down on", "meaning": "reduce the amount of" },
+    { "phrase": "commute to work", "meaning": "travel regularly to your job" },
+    { "phrase": "reliable and frequent", "meaning": "on time and coming often" },
+    { "phrase": "ease congestion", "meaning": "make traffic jams less serious" },
+    { "phrase": "make a real difference", "meaning": "have an important positive effect" }
+  ],
+  "model": "If I could change one thing about transport in Ho Chi Minh City, where I live, I'd create a proper network of dedicated bus lanes on the main roads. At the moment, I commute to work by motorbike, and it usually takes me about forty minutes to travel just eight kilometres, because I'm stuck in traffic for most of the journey. The buses we have are cheap, but they get stuck in exactly the same jams, so they're not really reliable and frequent, and that's why most people don't bother with them. I remember one day last year I decided to take the bus to be more environmentally friendly, and I ended up being almost an hour late for a meeting. I haven't tried again since, to be honest. So my idea is fairly simple. If buses had their own lanes, they would move much faster than cars and motorbikes, and people would actually see a reason to use them. If the city builds those lanes and links them to the new metro line, I think the whole public transport network will start to make sense. It would definitely ease congestion and cut down on pollution too. Of course, drivers would complain at first, because they'd lose some road space. But I'm convinced it would make a real difference in the long run, and I'd be one of the first people to leave my motorbike at home."
+}

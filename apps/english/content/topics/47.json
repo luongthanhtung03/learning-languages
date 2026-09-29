@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Routine tasks already being automated",
+    "New roles appearing around AI tools",
+    "Whether workers can retrain fast enough"
+  ],
+  "phrases": [
+    { "phrase": "routine tasks", "meaning": "simple, repeated pieces of work" },
+    { "phrase": "be made redundant", "meaning": "lose a job because it's not needed" },
+    { "phrase": "in the long run", "meaning": "over a long period" },
+    { "phrase": "upskill", "meaning": "learn new skills for work" },
+    { "phrase": "keep up with", "meaning": "move at the same speed as" },
+    { "phrase": "a double-edged sword", "meaning": "something with good and bad sides" },
+    { "phrase": "the job market", "meaning": "available jobs and workers" },
+    { "phrase": "fall behind", "meaning": "fail to keep up with others" }
+  ],
+  "model": "I'd say AI probably won't replace more jobs than it creates in the long run, but the transition will be painful for many people. Throughout history, new technology has destroyed some jobs and created others. The internet, for example, has wiped out a lot of travel agents, but it's also created millions of roles in areas like digital marketing and software. With AI, routine tasks such as data entry or basic customer service have already been automated in many companies. At my office, we've been using an AI tool to write first drafts of reports, and nobody has been made redundant, but our jobs have definitely changed. We now spend more time checking and improving the output. The real problem is speed. AI is developing so fast that many workers can't keep up with it, and older employees may fall behind if they don't upskill. So it's a double-edged sword. I think the job market will grow overall, but governments and companies need to invest in retraining, or a lot of people will be left out."
+}

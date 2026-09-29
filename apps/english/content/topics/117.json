@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Higher turnout makes results more representative",
+    "Freedom includes the right not to vote",
+    "Forced voters may choose randomly or carelessly"
+  ],
+  "phrases": [
+    { "phrase": "voter turnout", "meaning": "percentage of people who vote" },
+    { "phrase": "civic duty", "meaning": "responsibility as a citizen" },
+    { "phrase": "have a say in", "meaning": "be able to influence decisions" },
+    { "phrase": "be fined", "meaning": "have to pay money as punishment" },
+    { "phrase": "freedom of choice", "meaning": "right to decide for yourself" },
+    { "phrase": "an informed decision", "meaning": "a choice based on knowledge" },
+    { "phrase": "represent the whole population", "meaning": "reflect everyone's views" },
+    { "phrase": "spoil their ballot", "meaning": "deliberately make a vote invalid" }
+  ],
+  "model": "I'm in favour of compulsory voting, although I understand why many people disagree. My main reason is that it makes results more representative. When voter turnout is low, elections are usually decided by older or wealthier people, whereas if everyone votes, the government has to represent the whole population. Australia is a good example. Voting has been compulsory there since the 1920s, people who don't vote can be fined, and turnout is usually around ninety percent. It also treats voting as a civic duty, like paying taxes, so young people get used to having a say in politics. Some colleagues of mine argue that it takes away freedom of choice, and I think that's a fair point. They also worry that people who are forced to vote won't make an informed decision. Despite these concerns, I think the benefits are bigger. And if someone really doesn't like any candidate, they can still spoil their ballot, so nobody is actually forced to support anyone."
+}

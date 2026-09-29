@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "What the air feels and looks like day to day",
+    "Main causes of pollution in your area",
+    "What would improve if things changed"
+  ],
+  "phrases": [
+    { "phrase": "air quality index", "meaning": "number showing how clean air is" },
+    { "phrase": "exhaust fumes", "meaning": "gases coming out of vehicles" },
+    { "phrase": "a thick layer of smog", "meaning": "heavy polluted haze over a city" },
+    { "phrase": "rush hour", "meaning": "busiest travel time of the day" },
+    { "phrase": "take its toll on", "meaning": "slowly cause damage to" },
+    { "phrase": "wear a face mask", "meaning": "cover nose and mouth for protection" },
+    { "phrase": "switch to electric", "meaning": "change to battery-powered vehicles" },
+    { "phrase": "breathe more easily", "meaning": "have cleaner air to breathe" }
+  ],
+  "model": "I live in Hanoi, and to be honest, the air quality there isn't great, especially in winter. Some mornings when I look out of my apartment window, I can see a thick layer of smog hanging over the buildings, and I can't even see the tower across the lake. I've got an app on my phone that shows the air quality index, and on bad days it goes into the red, which means it's unhealthy for everyone, not just people with breathing problems. The main cause, I'd say, is traffic. There are millions of motorbikes, and during rush hour the exhaust fumes are really strong. Construction dust and people burning rubbish on the edge of the city make it worse. I always wear a face mask when I ride to work, but I know it only helps a little. Last December I had a cough that lasted almost a month, and my doctor said the pollution was probably taking its toll on my lungs. That made me think about it much more seriously. If the city invested more in the metro, fewer people would ride motorbikes. And if more people switch to electric bikes over the next few years, I think we'll see a real difference. If we did both, I'm sure everyone would breathe more easily. I really hope that happens, because I love the city and I'd like to stay there."
+}

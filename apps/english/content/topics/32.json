@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "What the important event was and why it mattered",
+    "What delayed you and how you reacted",
+    "What happened when you finally arrived"
+  ],
+  "phrases": [
+    { "phrase": "be stuck in traffic", "meaning": "unable to move because of cars" },
+    { "phrase": "run late", "meaning": "be behind schedule" },
+    { "phrase": "a sinking feeling", "meaning": "sudden sense that something is wrong" },
+    { "phrase": "make it on time", "meaning": "arrive at the right time" },
+    { "phrase": "keep someone waiting", "meaning": "make someone wait for you" },
+    { "phrase": "out of breath", "meaning": "breathing hard after running" },
+    { "phrase": "apologise profusely", "meaning": "say sorry many times" },
+    { "phrase": "learn my lesson", "meaning": "understand not to repeat a mistake" }
+  ],
+  "model": "The time I'm going to describe happened about two years ago, when I had a final interview for the job I have now. It was a big deal for me because I'd wanted to work at that company for ages. The interview was at two in the afternoon, and I left home at one, which I thought was plenty of time. First, I booked a Grab bike, but the driver cancelled. Then I booked another one, and while we were crossing the city centre, we got stuck in traffic because of an accident on the main road. I was sitting there watching the minutes go by, and I had a sinking feeling that I wasn't going to make it on time. After that, I called the HR manager to say I was running late. She was really kind about it, but I still hated the idea of keeping the interview panel waiting. In the end, I jumped off the bike, ran the last few hundred metres and arrived fifteen minutes late, completely out of breath. I apologised profusely, and luckily they were quite relaxed, and the interview went well. I actually got the job a week later. Still, I definitely learned my lesson. These days I always leave at least an hour early for anything important, because I never want to feel that panic again."
+}

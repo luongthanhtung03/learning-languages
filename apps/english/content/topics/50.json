@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "No commuting means more time and energy",
+    "Hiring talented people from anywhere",
+    "Loneliness and weaker team connection"
+  ],
+  "phrases": [
+    { "phrase": "cut out the commute", "meaning": "no longer travel to work" },
+    { "phrase": "a flexible schedule", "meaning": "working hours you can change" },
+    { "phrase": "stay productive", "meaning": "keep getting a lot done" },
+    { "phrase": "face-to-face interaction", "meaning": "meeting people in person" },
+    { "phrase": "feel isolated", "meaning": "feel alone and cut off" },
+    { "phrase": "a talent pool", "meaning": "the group of skilled people available" },
+    { "phrase": "on a case-by-case basis", "meaning": "deciding separately for each situation" },
+    { "phrase": "strike a balance", "meaning": "find a good middle point" }
+  ],
+  "model": "I think employees should be allowed to work fully remotely, as long as they can do their jobs well. First, remote work cuts out the commute, which saves a huge amount of time and energy. For example, before the pandemic, I spent almost two hours a day in Hanoi traffic. Since my company introduced a flexible schedule, I've been using that time to exercise and cook proper meals, and I've actually stayed more productive. Another reason is that companies can hire from a much bigger talent pool. My team has recently hired a designer who lives in Da Lat, and she's been doing brilliant work without ever visiting the office. Of course, some people feel isolated without face-to-face interaction, so managers should decide on a case-by-case basis and perhaps organise regular meetups. But overall, if people can strike a balance that works for them, I believe fully remote work should be an option."
+}

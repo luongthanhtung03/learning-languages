@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "A recent big purchase you made",
+    "The steps you take before deciding",
+    "A past mistake that changed your approach"
+  ],
+  "phrases": [
+    { "phrase": "shop around", "meaning": "compare prices in different places" },
+    { "phrase": "read reviews", "meaning": "check other buyers' opinions" },
+    { "phrase": "value for money", "meaning": "good quality for the price" },
+    { "phrase": "an impulse buy", "meaning": "something bought without planning" },
+    { "phrase": "sleep on it", "meaning": "wait a night before deciding" },
+    { "phrase": "set a budget", "meaning": "decide the maximum you'll spend" },
+    { "phrase": "weigh up the pros and cons", "meaning": "compare advantages and disadvantages" },
+    { "phrase": "splash out on", "meaning": "spend a lot on something" }
+  ],
+  "model": "I'd like to talk about how I decided to buy a new laptop last spring, because it's a good example of how I handle big purchases now. I used to be quite careless with money. A few years ago I bought an expensive phone as an impulse buy, and it turned out the battery was terrible. Due to that experience, I've become much more careful, which means that I now follow a kind of routine. First, I set a budget. For the laptop, I decided I wouldn't spend more than twenty million dong, and that stopped me from being tempted by fancy models. Then I read reviews online and watched a few comparison videos, because I wanted real value for money rather than a famous brand name. After that, I shopped around. I checked three different shops and two websites, and the prices varied a lot, so it definitely paid off. Finally, I like to sleep on it. Waiting one night usually results in a calmer decision, and I weigh up the pros and cons properly instead of just feeling excited. In the end, I chose a mid-range laptop that's light enough to carry to work every day. As a consequence of this careful approach, I've been really happy with it, and I don't regret spending the money. I still splash out on things occasionally, but only when I've thought it through."
+}

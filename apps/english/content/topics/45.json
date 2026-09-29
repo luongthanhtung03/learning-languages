@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "What the mistake was and how you noticed",
+    "How you fixed it and who you told",
+    "The lesson and what you do differently now"
+  ],
+  "phrases": [
+    { "phrase": "slip through the cracks", "meaning": "be missed or forgotten" },
+    { "phrase": "own up to", "meaning": "admit you did something wrong" },
+    { "phrase": "double-check", "meaning": "check something again carefully" },
+    { "phrase": "damage control", "meaning": "actions to reduce harm" },
+    { "phrase": "a costly mistake", "meaning": "an error that loses money" },
+    { "phrase": "learn from my mistakes", "meaning": "improve after doing something wrong" },
+    { "phrase": "take responsibility for", "meaning": "accept that something is your duty" },
+    { "phrase": "a wake-up call", "meaning": "an event that warns you to change" }
+  ],
+  "model": "I'd like to talk about a mistake I made in my first year as an accountant at a logistics company. At the end of one month, I was preparing invoices for our biggest client, and because I was rushing, I typed an extra zero into one of the amounts. Nobody noticed, and it slipped through the cracks, so the client received a bill that was ten times higher than it should have been. The next morning their finance manager called my boss, and he was furious. My first instinct was to panic, but I decided to own up to it straight away and take responsibility for the error. Then we had to do some serious damage control. I sent a corrected invoice, wrote an apology email, and my manager called the client personally. Fortunately, they accepted it, and it didn't turn into a costly mistake, but it was definitely a wake-up call for me. Since then, I've always double-checked every figure before I send anything, and I've been using a simple checklist for all month-end tasks. I've also started asking a colleague to review important documents, which I used to think was embarrassing. I've never had to deal with a situation that stressful again, and I'd say I've really learned from my mistakes. The main lesson for me is that being honest quickly is much better than trying to hide a problem."
+}

@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Which kinds of advice AI is actually good at",
+    "Mistakes and made-up answers you've noticed",
+    "Why important decisions still need a human"
+  ],
+  "phrases": [
+    { "phrase": "take something with a pinch of salt", "meaning": "not completely believe something" },
+    { "phrase": "double-check", "meaning": "check again to be sure" },
+    { "phrase": "a starting point", "meaning": "a place to begin" },
+    { "phrase": "make things up", "meaning": "invent false information" },
+    { "phrase": "sound convincing", "meaning": "seem true and believable" },
+    { "phrase": "a second opinion", "meaning": "advice from another person to compare" },
+    { "phrase": "high-stakes decision", "meaning": "a choice with serious consequences" },
+    { "phrase": "rely on", "meaning": "depend on someone or something" }
+  ],
+  "model": "I trust AI for some kinds of advice, but not for anything really important. First, it's excellent as a starting point for everyday problems. For example, last month I asked an AI chatbot to help me plan a budget for a trip to Japan, and it gave me a really useful breakdown in seconds. For simple things like that, I'm happy to rely on it. Another reason, though, is that AI can make things up, and the worrying part is that its answers always sound convincing. A friend of mine asked it about a legal issue with her rental contract, and it quoted a law that didn't even exist. So I take its advice with a pinch of salt and always double-check the facts. For a high-stakes decision, like health or money, I'd definitely want a second opinion from a real expert. I think AI is going to become much more reliable in the next few years, and I might trust it more then. But for now, I'd say it's a helpful assistant, not an advisor."
+}

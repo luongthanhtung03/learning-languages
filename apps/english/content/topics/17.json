@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Transport, safety and affordable housing",
+    "Green spaces and clean air",
+    "A sense of community and things to do"
+  ],
+  "phrases": [
+    { "phrase": "affordable housing", "meaning": "homes that ordinary people can pay for" },
+    { "phrase": "a reliable transport system", "meaning": "buses and trains that work well" },
+    { "phrase": "air pollution", "meaning": "dirty, harmful air" },
+    { "phrase": "urban planning", "meaning": "designing how a city grows" },
+    { "phrase": "access to", "meaning": "the ability to use or reach" },
+    { "phrase": "a sense of community", "meaning": "feeling connected to local people" },
+    { "phrase": "traffic congestion", "meaning": "too many vehicles on roads" },
+    { "phrase": "the daily commute", "meaning": "the journey to and from work" }
+  ],
+  "model": "For me, the most important thing is how easy daily life is. A liveable city needs a reliable transport system, so that people don't waste hours on the daily commute. In Ho Chi Minh City, traffic congestion is probably the biggest complaint, and it's one reason why places like Singapore always rank higher in liveability surveys. The second factor is affordable housing. There's no point having a beautiful city if young workers can't live anywhere near their offices. I'm renting a room quite far out at the moment, and it's much cheaper than living in the centre, but I spend nearly an hour on my motorbike every morning. Good urban planning also means access to parks and cleaner air, because air pollution affects everyone's health. That said, some people would argue that jobs and entertainment matter more, and it's true that the busiest cities are often the most exciting. But I'd say a sense of community is what really makes people want to stay somewhere long term."
+}

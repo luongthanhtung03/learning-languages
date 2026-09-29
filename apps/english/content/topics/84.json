@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "What usually stresses you out",
+    "Practical things you do to calm down",
+    "Advice you'd give someone under pressure"
+  ],
+  "phrases": [
+    { "phrase": "under a lot of pressure", "meaning": "facing many demands or worries" },
+    { "phrase": "let off steam", "meaning": "release strong feelings or energy" },
+    { "phrase": "take a step back", "meaning": "pause to see things clearly" },
+    { "phrase": "bottle up my feelings", "meaning": "hide emotions instead of expressing them" },
+    { "phrase": "talk things through", "meaning": "discuss a problem in detail" },
+    { "phrase": "tight deadline", "meaning": "very little time to finish" },
+    { "phrase": "burn out", "meaning": "become exhausted from too much work" },
+    { "phrase": "switch off", "meaning": "stop thinking about work" }
+  ],
+  "model": "Like most people, I get stressed mainly because of work. In my job I often have a tight deadline, and sometimes I'm handling three projects at the same time, so I'm under a lot of pressure. I've learned over the years that I have to deal with stress actively, otherwise I'll burn out. The first thing I do is take a step back and write a list of everything I need to do. It sounds simple, but seeing it on paper makes the problem feel smaller, and I can decide what really has to be done today. The second thing is exercise. When I'm really tense, I go to a badminton club near my office after work, and hitting the shuttlecock as hard as I can is a great way to let off steam. I also try not to bottle up my feelings. I used to keep everything to myself, but that just made things worse. Now I call my older sister and we talk things through, and she usually gives me very practical advice. For example, last year, when I was thinking about quitting my job, she told me I shouldn't make big decisions when I'm exhausted, which was exactly right. Finally, I really try to switch off at weekends. If I had one piece of advice for anyone stressed, it'd be that you ought to protect your free time, because work will always find a way to fill it."
+}

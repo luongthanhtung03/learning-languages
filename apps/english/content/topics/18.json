@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Overcrowding damages sites and local life",
+    "Tourism brings jobs and income",
+    "Smarter controls like fees, quotas or bookings"
+  ],
+  "phrases": [
+    { "phrase": "mass tourism", "meaning": "very large numbers of tourists" },
+    { "phrase": "put a strain on", "meaning": "cause pressure or difficulty for" },
+    { "phrase": "local residents", "meaning": "people who live in the area" },
+    { "phrase": "a daily cap on visitors", "meaning": "a limit on visitors per day" },
+    { "phrase": "boost the local economy", "meaning": "help local businesses earn more" },
+    { "phrase": "irreversible damage", "meaning": "harm that cannot be undone" },
+    { "phrase": "spread visitors out", "meaning": "send tourists to different places" },
+    { "phrase": "strike a balance between", "meaning": "find a fair middle point" }
+  ],
+  "model": "I think governments should limit tourism in some places, but carefully. The main problem with mass tourism is that it puts a strain on both the environment and local residents. In Hoi An, for example, the old town is much more crowded than it was ten years ago, and in the evenings there are so many people on the narrow streets that it's hard to walk. Rents have gone up, and many families who lived there have moved out. In natural areas the risk is even greater, because too many visitors can cause irreversible damage to beaches or coral reefs. A daily cap on visitors, or online booking, seems like a sensible solution. On the other hand, tourism is one of the best ways to boost the local economy, and lots of small businesses depend on it, so a total ban would be unfair. I'd say the smartest approach is to spread visitors out to less famous places nearby. That way, governments can strike a balance between protecting a site and keeping jobs."
+}

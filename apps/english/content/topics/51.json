@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Which subject it was and how lessons worked",
+    "Why you found it boring or difficult",
+    "How you feel about it now"
+  ],
+  "phrases": [
+    { "phrase": "dread the lesson", "meaning": "feel very worried about the class" },
+    { "phrase": "learn by heart", "meaning": "memorise exactly" },
+    { "phrase": "make no sense to me", "meaning": "be impossible for me to understand" },
+    { "phrase": "switch off", "meaning": "stop paying attention" },
+    { "phrase": "struggle with", "meaning": "find something very difficult" },
+    { "phrase": "fall asleep in class", "meaning": "sleep during a lesson" },
+    { "phrase": "see the point of", "meaning": "understand why something is useful" },
+    { "phrase": "come to appreciate", "meaning": "slowly start to value" }
+  ],
+  "model": "The subject I disliked most at school was history, especially in secondary school. It wasn't that the topics were boring, but the way we studied it was pretty dull. Our teacher used to write long paragraphs on the board, and we would copy them into our notebooks for the whole lesson. Then before every test we'd have to learn pages of dates and names by heart. I really used to dread the lesson every Thursday afternoon, partly because it came right after lunch. Half the class would switch off after ten minutes, and a couple of my friends would literally fall asleep in class. I also struggled with remembering all the dates, and I couldn't see the point of knowing exactly which year a battle happened. A lot of it just made no sense to me because nobody explained why events happened or how they were connected. My grades in history were always my worst, which used to annoy my parents a lot. Funnily enough, I don't feel that way anymore. A few years ago I started listening to history podcasts on my commute, and I realised the subject is actually full of amazing stories. So I've come to appreciate history as an adult. I no longer think it's a boring subject, I just think it was taught in a boring way."
+}

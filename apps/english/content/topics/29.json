@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Online shopping saves time and offers lower prices",
+    "Shops let you check quality and size",
+    "Returns, delivery and trust issues"
+  ],
+  "phrases": [
+    { "phrase": "compare prices", "meaning": "check costs in different places" },
+    { "phrase": "customer reviews", "meaning": "opinions written by buyers" },
+    { "phrase": "door-to-door delivery", "meaning": "sent straight to your home" },
+    { "phrase": "try something on", "meaning": "wear clothes to check them" },
+    { "phrase": "a hassle", "meaning": "something annoying and difficult" },
+    { "phrase": "save a lot of time", "meaning": "not waste time" },
+    { "phrase": "a bargain", "meaning": "something bought cheaply" },
+    { "phrase": "at any time of day", "meaning": "whenever you want" }
+  ],
+  "model": "I prefer buying things online. First, it saves a lot of time. With my working hours, going to a shopping centre takes up a whole evening, but online I can shop at any time of day, even on the bus. Last month I needed a new printer for home, and I ordered it during my lunch break. It arrived the next afternoon with door-to-door delivery, so I didn't even have to leave the office. Another reason is that it's much easier to compare prices online. I can check three or four websites in a few minutes and read customer reviews before I decide. For example, I found a bargain on a pair of running shoes, which were about thirty percent cheaper than in the shop near my house. Of course, shops are better for clothes, because you can try things on, and returning items online can be a hassle. But for most things, especially electronics and household goods, I think shopping online is simply more convenient."
+}

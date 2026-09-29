@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "What it is and how much it cost",
+    "Why you decided to spend so much",
+    "Whether it was worth the money"
+  ],
+  "phrases": [
+    { "phrase": "cost a fortune", "meaning": "be very expensive" },
+    { "phrase": "save up for", "meaning": "keep money to buy something later" },
+    { "phrase": "splash out on", "meaning": "spend a lot on something enjoyable" },
+    { "phrase": "a long-term investment", "meaning": "something useful for many years" },
+    { "phrase": "pay in instalments", "meaning": "pay in several parts over time" },
+    { "phrase": "top of the range", "meaning": "the best and most expensive model" },
+    { "phrase": "pay off", "meaning": "bring good results later" },
+    { "phrase": "a big decision", "meaning": "an important choice" }
+  ],
+  "model": "The most expensive thing I own is a laptop, which I bought about two years ago when I started doing freelance design work in the evenings. It cost a fortune, roughly forty million dong, which was almost three months of my salary at the time. Before that, I had an old laptop that my brother gave me, but it was so slow that it took ten minutes just to open a large file. I knew I needed a better machine, so I saved up for it for nearly a year. Even then, I didn't have enough, so I paid in instalments for the last part. It was a big decision, and I remember standing in the shop for about an hour, comparing models. In the end I decided to splash out on a top of the range model with a lot of memory and a very sharp screen, because I didn't want to buy another one in two years. My parents thought I was crazy to spend so much on a computer. But honestly, it's been a long-term investment. It runs design software without any problems, and the battery lasts all day. Thanks to it, I finished more projects, and last year my freelance income was nearly double what I spent. So I'd say the laptop has already paid off, and I don't regret it at all."
+}

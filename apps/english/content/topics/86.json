@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Personal choices about diet, exercise and smoking",
+    "What governments can do that individuals can't",
+    "Why both sides need to work together"
+  ],
+  "phrases": [
+    { "phrase": "lifestyle choices", "meaning": "decisions about how you live" },
+    { "phrase": "take responsibility for", "meaning": "accept that something is your duty" },
+    { "phrase": "a sugar tax", "meaning": "extra tax on sugary drinks" },
+    { "phrase": "access to healthcare", "meaning": "ability to get medical care" },
+    { "phrase": "a shared responsibility", "meaning": "a duty that several groups have" },
+    { "phrase": "nanny state", "meaning": "a government that controls people too much" },
+    { "phrase": "preventable diseases", "meaning": "illnesses that could be avoided" },
+    { "phrase": "make the healthy choice the easy choice", "meaning": "make healthy options simple and cheap" }
+  ],
+  "model": "I'd say it's a shared responsibility, but the state probably has to do more than it does now. Of course, individuals should take responsibility for their own lifestyle choices, like smoking, drinking or never exercising. Nobody can go to the gym for you. But people can only make good choices if the environment supports them. The government has to make sure everyone has access to healthcare, and it ought to make the healthy choice the easy choice. For example, the UK introduced a sugar tax on soft drinks in 2018, and many companies reduced the sugar in their products as a result. In my city, on the other hand, there are hardly any safe places to walk or cycle, so even people who want to be active find it difficult. Some people argue that this kind of policy creates a nanny state, and adults are supposed to be free to decide for themselves. That's a fair point. But preventable diseases cost the health system a fortune, so it's in everyone's interest for the state to get involved."
+}

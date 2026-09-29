@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Changes in technology and daily life",
+    "How cities and infrastructure have developed",
+    "Something that has been lost or got worse"
+  ],
+  "phrases": [
+    { "phrase": "change beyond recognition", "meaning": "change so much it looks different" },
+    { "phrase": "rapid development", "meaning": "very fast growth and progress" },
+    { "phrase": "cashless payments", "meaning": "paying without notes or coins" },
+    { "phrase": "high-rise buildings", "meaning": "very tall apartment or office blocks" },
+    { "phrase": "standard of living", "meaning": "level of comfort and wealth" },
+    { "phrase": "come at a cost", "meaning": "bring disadvantages too" },
+    { "phrase": "the gap between rich and poor", "meaning": "difference in wealth between groups" },
+    { "phrase": "for the better", "meaning": "in a way that improves things" }
+  ],
+  "model": "I'd say Vietnam has changed enormously over the last ten years, mostly for the better. The first thing I notice is technology. Ten years ago, almost everything was paid for in cash, whereas now cashless payments are everywhere. Even street food sellers have QR codes, and I sometimes go a whole week without touching a banknote. Cities have also changed beyond recognition. In Hanoi, where I grew up, the first metro line was opened a few years ago, and dozens of high-rise buildings have been built on what used to be rice fields. When I visit my old neighbourhood, I sometimes can't even find the shops I used to go to as a teenager. In general, the standard of living has improved a lot, and people have more choice in terms of jobs, education and travel. However, although the economy has grown quickly, this rapid development has come at a cost. Traffic and air pollution have got much worse, and many old buildings have been knocked down. While it's true that most people are better off, the gap between rich and poor seems wider than before, especially between the cities and the countryside. My grandparents in the village still live quite simply. Despite these problems, I feel optimistic, because young people seem more aware of these issues, and I think the next ten years will be even more exciting."
+}

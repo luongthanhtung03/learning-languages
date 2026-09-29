@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "What your job involves right now",
+    "Which tasks AI or automation might take over",
+    "New skills you'll need to stay useful"
+  ],
+  "phrases": [
+    { "phrase": "take over routine tasks", "meaning": "do the repetitive work instead" },
+    { "phrase": "work remotely", "meaning": "work from home or elsewhere" },
+    { "phrase": "keep up with", "meaning": "stay at the same level or speed" },
+    { "phrase": "upskill", "meaning": "learn new skills for your job" },
+    { "phrase": "become obsolete", "meaning": "no longer be needed or used" },
+    { "phrase": "free up time", "meaning": "make time available for other things" },
+    { "phrase": "the human touch", "meaning": "personal care that machines can't give" },
+    { "phrase": "in the long run", "meaning": "over a long period of time" }
+  ],
+  "model": "I work as a marketing executive for a medium-sized company in Ho Chi Minh City, so I spend most of my day writing content, analysing data and meeting clients. I think my job will look quite different in ten years. First of all, I'm pretty sure AI tools will take over routine tasks like writing basic social media posts or making weekly reports. Actually, that's already starting to happen, because last month my manager asked me to test an AI tool that produced a whole campaign draft in about ten minutes. That was a bit scary, to be honest, but it also freed up time for me to focus on strategy. I think more people are going to work remotely too, and by 2035 we'll probably have virtual offices where colleagues meet as avatars. Some jobs in my field might become obsolete, so I'll have to keep up with new technology and upskill regularly. I'm planning to take a course in data analysis next year for exactly that reason. However, I don't think machines will ever fully replace people in marketing, because clients still want the human touch. They want someone who understands their culture and can build trust over coffee. So in the long run, I feel fairly optimistic. My work is likely to become more creative and less repetitive, which I'd actually welcome."
+}

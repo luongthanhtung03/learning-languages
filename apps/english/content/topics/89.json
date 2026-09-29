@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Short periods of pressure like launches or emergencies",
+    "Health risks and burnout from constant overtime",
+    "Why long hours rarely mean better results"
+  ],
+  "phrases": [
+    { "phrase": "work overtime", "meaning": "work more than normal hours" },
+    { "phrase": "meet a deadline", "meaning": "finish something by the agreed time" },
+    { "phrase": "a short-term push", "meaning": "extra effort for a short period" },
+    { "phrase": "take a toll on", "meaning": "cause damage over time" },
+    { "phrase": "diminishing returns", "meaning": "less benefit from more effort" },
+    { "phrase": "burn the midnight oil", "meaning": "work very late at night" },
+    { "phrase": "time off in lieu", "meaning": "free time instead of overtime pay" },
+    { "phrase": "the exception, not the rule", "meaning": "something unusual, not normal" }
+  ],
+  "model": "I think working long hours is sometimes justified, but only for short periods. First, some situations genuinely require a short-term push. If you have to meet a deadline for an important client or deal with an emergency, working overtime for a few days is reasonable. Last year my team had to burn the midnight oil for about a week before a product launch, and it was worth it because the launch went really well. Afterwards, our manager gave us time off in lieu, which I thought was fair. However, another reason I'm cautious is that constant long hours take a toll on your health and relationships. After a certain point, there are diminishing returns, because tired people make more mistakes. A former colleague of mine worked twelve-hour days for months and eventually had to take a long break because of exhaustion. So companies shouldn't expect it every week, and employees ought to be able to say no. In short, long hours should be the exception, not the rule."
+}

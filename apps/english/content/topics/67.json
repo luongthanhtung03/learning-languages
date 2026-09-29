@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "How work and daily services depend on being online",
+    "Small ways people still manage to switch off",
+    "Whether disconnecting will get harder in future"
+  ],
+  "phrases": [
+    { "phrase": "switch off", "meaning": "stop thinking about work and relax" },
+    { "phrase": "go off the grid", "meaning": "live without internet or phones" },
+    { "phrase": "be expected to be available", "meaning": "people assume you'll always reply" },
+    { "phrase": "digital detox", "meaning": "a break from using devices" },
+    { "phrase": "fear of missing out", "meaning": "worry that others enjoy things without you" },
+    { "phrase": "set boundaries", "meaning": "make clear limits for yourself" },
+    { "phrase": "deeply embedded in", "meaning": "firmly part of something" },
+    { "phrase": "easier said than done", "meaning": "sounds easy but is actually hard" }
+  ],
+  "model": "Honestly, I think it's still possible, but only partly, and it's going to get harder. Technology is so deeply embedded in daily life now that you need your phone to pay for things, book a taxi or even check in at the doctor's. On top of that, many employees are expected to be available on messaging apps late at night. So completely going off the grid is easier said than done for most people. That said, you can still switch off for short periods if you set boundaries. For example, last summer I did a three-day digital detox in Da Lat. I left my phone in the hotel safe, and at first I had a real fear of missing out, but by the second day I felt much calmer. Some people would argue that total disconnection isn't even necessary, since technology also helps us relax, with meditation apps and so on. That's true to some extent. But by 2035 we'll probably have smart glasses and even more connected devices, so I think taking regular breaks will become a skill we'll have to practise deliberately."
+}

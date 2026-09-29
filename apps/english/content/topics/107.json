@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Building a product nobody really wants",
+    "Running out of money too quickly",
+    "Weak teams and poor planning"
+  ],
+  "phrases": [
+    { "phrase": "run out of cash", "meaning": "have no money left" },
+    { "phrase": "market research", "meaning": "studying what customers want" },
+    { "phrase": "fierce competition", "meaning": "very strong rivals" },
+    { "phrase": "grow too fast", "meaning": "expand before being ready" },
+    { "phrase": "a solid business plan", "meaning": "clear, realistic plan for a company" },
+    { "phrase": "go out of business", "meaning": "close because of failure" },
+    { "phrase": "cash flow", "meaning": "money moving in and out" },
+    { "phrase": "learn from their mistakes", "meaning": "improve after doing things wrong" }
+  ],
+  "model": "I think the main reason most startups fail is that they build something people don't actually need. Many founders fall in love with their idea and skip proper market research, which means that when they launch, there just aren't enough customers. The second big reason is money. Startups often grow too fast, hiring lots of staff and renting fancy offices, and as a consequence, they run out of cash before they make a profit. A friend of mine started a food delivery app in Saigon a few years ago. Due to fierce competition from Grab and other big apps, he had to spend huge amounts on discounts, and poor cash flow led to the company going out of business within eighteen months. Of course, some people say failure is just bad luck, and timing does play a role. But I believe a solid business plan and careful spending would save a lot of them. The good news is that many founders learn from their mistakes and succeed the second time."
+}

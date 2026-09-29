@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Real harm caused by false health or safety claims",
+    "Risk of governments censoring criticism",
+    "Making platforms responsible instead of banning speech"
+  ],
+  "phrases": [
+    { "phrase": "spread like wildfire", "meaning": "spread very quickly" },
+    { "phrase": "freedom of speech", "meaning": "the right to say what you think" },
+    { "phrase": "fact-check", "meaning": "check whether information is true" },
+    { "phrase": "a slippery slope", "meaning": "a small step leading to worse things" },
+    { "phrase": "take down", "meaning": "remove from a website" },
+    { "phrase": "hold platforms accountable", "meaning": "make websites responsible for problems" },
+    { "phrase": "put lives at risk", "meaning": "make people's lives unsafe" },
+    { "phrase": "draw the line", "meaning": "decide where the limit is" }
+  ],
+  "model": "I'd say governments should regulate misinformation to some extent, but carefully. First, false information can really put lives at risk. During the pandemic, fake cures spread like wildfire on social media, and some people actually got sick from trying them. My aunt, for instance, stopped taking her normal medicine for a while because of a video she saw online. When something is that dangerous, it seems to me that the law should require platforms to take it down quickly. Another reason is that platforms tend not to act unless they're forced to, because shocking posts get more clicks. So governments should hold platforms accountable, for example by requiring them to fact-check viral posts. However, it's arguably a slippery slope, since governments could use these laws to silence criticism and limit freedom of speech. That's why it matters where we draw the line. So overall, I believe regulation is necessary, but it should focus on clearly harmful content and be checked by independent courts."
+}

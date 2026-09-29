@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "What exam it was and how you prepared",
+    "The moment you realised it was difficult",
+    "The result and how you study differently now"
+  ],
+  "phrases": [
+    { "phrase": "cram for", "meaning": "study a lot just before an exam" },
+    { "phrase": "go blank", "meaning": "suddenly forget everything" },
+    { "phrase": "catch someone off guard", "meaning": "surprise someone unprepared" },
+    { "phrase": "run out of time", "meaning": "have no time left" },
+    { "phrase": "a false sense of security", "meaning": "feeling safe when you aren't" },
+    { "phrase": "scrape a pass", "meaning": "only just pass" },
+    { "phrase": "do my best", "meaning": "try as hard as possible" },
+    { "phrase": "a reality check", "meaning": "a moment showing the true situation" }
+  ],
+  "model": "I'd like to talk about my first-year statistics exam at university. I was studying business, and statistics was a compulsory module. In high school I used to be quite good at maths, so I honestly thought it would be easy. During the semester I would often skip the Friday tutorials, and I only started to cram for the exam about three days before. The practice questions we'd done in class were fairly simple, so I think they gave me a false sense of security. When I opened the paper, the questions caught me completely off guard. They weren't about calculating things, they were about interpreting data and explaining which method to use, which I'd barely studied. For the first few minutes my mind went blank, and I just stared at the page. Then I tried to do my best with the questions I partly understood, but I ran out of time and left the last section empty. In the end, I only just scraped a pass, which was a real shock for someone who used to get top marks. It was definitely a reality check. After that, I stopped relying on last-minute studying. I no longer skip classes, and I try to review a little every week instead of leaving everything until the end. That habit has helped me a lot, even at work, where I prepare for big meetings well in advance."
+}

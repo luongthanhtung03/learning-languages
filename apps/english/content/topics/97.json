@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Rich countries polluted freely while they industrialised",
+    "Climate change affects everyone, whatever their income",
+    "Support and flexible deadlines instead of identical rules"
+  ],
+  "phrases": [
+    { "phrase": "lift people out of poverty", "meaning": "help people stop being poor" },
+    { "phrase": "historical emissions", "meaning": "pollution produced in the past" },
+    { "phrase": "on a level playing field", "meaning": "in a fair, equal situation" },
+    { "phrase": "clean energy", "meaning": "power that doesn't pollute" },
+    { "phrase": "financial support", "meaning": "money given to help" },
+    { "phrase": "at the expense of", "meaning": "causing harm or loss to" },
+    { "phrase": "set targets", "meaning": "decide goals to reach" },
+    { "phrase": "catch up with", "meaning": "reach the same level as" }
+  ],
+  "model": "I don't think developing countries should follow exactly the same rules, at least not straight away. Wealthy countries like Britain and the US industrialised by burning coal for over a century, so most historical emissions actually come from them. It seems unfair to ask poorer countries to stop growing now, when they're still trying to lift people out of poverty and catch up with the rest of the world. Having said that, climate change doesn't care who's rich. If developing countries copied the old model, global emissions would rise enormously, and places like Vietnam, which has a very long coastline, would suffer the most. So I think the fairest approach is to set targets for everyone but give poorer nations more time and financial support. If rich countries pay for clean energy projects, developing countries will be able to grow without damaging the planet. Some people say that's not a level playing field for businesses in wealthy countries, and I understand that. But growth shouldn't come at the expense of the people who polluted least."
+}

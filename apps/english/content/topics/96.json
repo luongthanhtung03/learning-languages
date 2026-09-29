@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Small actions add up across millions of people",
+    "Governments and big companies cause most emissions",
+    "Personal choices can push businesses and politicians"
+  ],
+  "phrases": [
+    { "phrase": "carbon footprint", "meaning": "amount of carbon a person produces" },
+    { "phrase": "a drop in the ocean", "meaning": "too small to matter much" },
+    { "phrase": "add up", "meaning": "become significant when combined" },
+    { "phrase": "large-scale change", "meaning": "change affecting a whole system" },
+    { "phrase": "put pressure on", "meaning": "push someone to do something" },
+    { "phrase": "consumer demand", "meaning": "what buyers want to purchase" },
+    { "phrase": "shift the blame", "meaning": "make others seem responsible" },
+    { "phrase": "go hand in hand", "meaning": "happen together and support each other" }
+  ],
+  "model": "I'd say individual action matters, but on its own it's not enough. If one person stops flying, it's honestly a drop in the ocean compared with a single coal power station. Most emissions come from energy, industry and transport, so we really need large-scale change from governments and big companies. That said, I don't think personal choices are pointless, because they add up. If millions of people cut their carbon footprint, consumer demand changes, and companies follow the money. For example, a few years ago hardly anyone in my office had an electric motorbike, but now about a third of my colleagues ride one, and the shops near us have started selling them. If people keep choosing greener products, businesses will keep making them. Some people argue that focusing on individuals just lets big polluters shift the blame, and I think that's a fair point. But I think both approaches go hand in hand. When ordinary people care, they put pressure on politicians, and that's how real policy changes."
+}

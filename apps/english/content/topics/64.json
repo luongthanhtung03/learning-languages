@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "What the technology promises and what it actually delivers",
+    "Your own disappointing experience with it",
+    "Whether it's likely to improve in future"
+  ],
+  "phrases": [
+    { "phrase": "overrated", "meaning": "thought to be better than it is" },
+    { "phrase": "live up to the hype", "meaning": "be as good as people say" },
+    { "phrase": "a gimmick", "meaning": "a trick to attract attention" },
+    { "phrase": "gather dust", "meaning": "not be used for a long time" },
+    { "phrase": "on paper", "meaning": "in theory, but not in reality" },
+    { "phrase": "more trouble than it's worth", "meaning": "causes more problems than benefits" },
+    { "phrase": "fall for the marketing", "meaning": "believe the advertising too easily" },
+    { "phrase": "catch on", "meaning": "become popular" }
+  ],
+  "model": "One technology which I think is really overrated is the smartwatch. A few years ago everyone seemed to be buying one, and the adverts made it look like it would completely transform your health and productivity. On paper it sounds brilliant, because it counts your steps, tracks your sleep and shows your messages on your wrist. But for me, it didn't live up to the hype at all. I bought one in 2022, mainly because I fell for the marketing, and for the first couple of weeks I checked it constantly. Then the problems started. The battery only lasted about a day, so I had to charge it every night, and the sleep tracking was so inaccurate that it once said I'd slept deeply while I was actually watching a film. Honestly, the notifications were the worst part, because my wrist kept buzzing in meetings. It ended up being more trouble than it's worth, and now it's just gathering dust in a drawer. To be fair, some features are useful, especially for runners, so I wouldn't call the whole thing a gimmick. And I think it's likely to get better. In the next few years the batteries will probably last much longer, and they might be able to detect health problems early. If that happens, I'm sure they'll really catch on, but I'm not going to buy another one yet."
+}

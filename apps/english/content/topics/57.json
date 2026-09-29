@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Equal opportunities for students from poor families",
+    "The benefits to society and the economy",
+    "Who pays, and the risk of lower quality"
+  ],
+  "phrases": [
+    { "phrase": "tuition fees", "meaning": "money paid for teaching at university" },
+    { "phrase": "a level playing field", "meaning": "a fair situation for everyone" },
+    { "phrase": "from a low-income background", "meaning": "from a poor family" },
+    { "phrase": "be funded by taxpayers", "meaning": "be paid for by public money" },
+    { "phrase": "get into debt", "meaning": "start owing money" },
+    { "phrase": "a skilled workforce", "meaning": "workers with good training" },
+    { "phrase": "an investment in the future", "meaning": "spending that brings later benefits" },
+    { "phrase": "come at a cost", "meaning": "have disadvantages or a price" }
+  ],
+  "model": "I'd say university should be free, or at least much cheaper, for students who can't afford it. The main reason is fairness. Tuition fees create a barrier, so bright students from a low-income background often give up on university. Free education would create a more level playing field. In my parents' generation, for example, many talented people used to leave school early to support their families, and my uncle would always say he'd missed his chance. It's also an investment in the future, because a country with a skilled workforce attracts more business and collects more tax later. Some European countries, like Germany, no longer charge tuition fees at public universities, and they still have strong economies. On the other hand, free education comes at a cost. It has to be funded by taxpayers, including people who never went to university, and universities might get overcrowded. So maybe the best solution is free tuition for poorer students and affordable loans for others, so nobody has to get into huge debt."
+}

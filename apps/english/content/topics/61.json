@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Which app it is and when you started using it",
+    "How it fits into your daily routine",
+    "How you'll probably use it in the future"
+  ],
+  "phrases": [
+    { "phrase": "couldn't live without", "meaning": "need it very much every day" },
+    { "phrase": "keep track of", "meaning": "follow and record something carefully" },
+    { "phrase": "user-friendly", "meaning": "easy for people to use" },
+    { "phrase": "second nature", "meaning": "something you do without thinking" },
+    { "phrase": "save a lot of hassle", "meaning": "avoid a lot of trouble" },
+    { "phrase": "on the go", "meaning": "while moving around or busy" },
+    { "phrase": "sync across devices", "meaning": "stay the same on every device" },
+    { "phrase": "game-changer", "meaning": "something that changes things completely" }
+  ],
+  "model": "The app I honestly couldn't live without is Google Calendar. I started using it about four years ago, when I got my first full-time job and suddenly had meetings, deadlines and family events all competing for my attention. Before that I used to write things on sticky notes, which, as you can imagine, didn't work very well. What I love about it is that it helps me keep track of everything in one place. It's really user-friendly, so setting up a reminder takes about five seconds, and checking it every morning has become second nature for me. Because it can sync across devices, I can add something on my laptop at work and then see it on my phone when I'm on the go. It's saved me a lot of hassle, to be honest. Last year I almost forgot my best friend's wedding rehearsal, but a notification popped up an hour before, and I made it just in time. So for me it's been a real game-changer. Looking ahead, I think it's going to become even smarter. I'm pretty sure it'll suggest the best times for meetings automatically, and it might even plan my week for me using AI. By 2030, I imagine we'll have assistants that just talk to us instead, but I'll probably still be using it in some form."
+}

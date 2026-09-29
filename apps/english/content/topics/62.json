@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "What went wrong and at what worst possible moment",
+    "How you managed to deal with it",
+    "What you'll do differently next time"
+  ],
+  "phrases": [
+    { "phrase": "at the worst possible moment", "meaning": "at the most inconvenient time" },
+    { "phrase": "crash on someone", "meaning": "stop working suddenly while being used" },
+    { "phrase": "back up my files", "meaning": "make extra copies of data" },
+    { "phrase": "in a panic", "meaning": "very worried and acting quickly" },
+    { "phrase": "lose all my work", "meaning": "have everything I did disappear" },
+    { "phrase": "last-minute fix", "meaning": "a quick solution just in time" },
+    { "phrase": "learn the hard way", "meaning": "learn from a bad experience" },
+    { "phrase": "not take any chances", "meaning": "avoid any risk at all" }
+  ],
+  "model": "I'd like to talk about the time my laptop let me down at the worst possible moment. It was about two years ago, when I was preparing a big presentation for a potential client. I'd spent the whole weekend on the slides, and the night before the meeting my laptop just crashed on me. The screen went black and it wouldn't turn back on, no matter what I tried. I was in a panic, because I hadn't bothered to back up my files for weeks, so I thought I was going to lose all my work. At around midnight I called a friend who's good with computers, and he came over with some tools. He took the hard drive out and connected it to his own machine, and luckily most of the files were still there. It was a real last-minute fix, and I only got about three hours of sleep, but the presentation went fine in the end, and we actually won the contract. I definitely learned the hard way, though. These days I'm not going to take any chances, so everything is saved to the cloud automatically. I think in the future this kind of problem will be much rarer, because by 2030 we'll probably have almost everything stored online. Still, I'm going to keep a copy on a hard drive too, just in case."
+}

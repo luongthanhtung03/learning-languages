@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Who needed help and what the problem was",
+    "What you did, step by step",
+    "How you both felt afterwards"
+  ],
+  "phrases": [
+    { "phrase": "lend a hand", "meaning": "help someone" },
+    { "phrase": "at a loss", "meaning": "not knowing what to do" },
+    { "phrase": "talk someone through it", "meaning": "explain each step to someone" },
+    { "phrase": "take the time to", "meaning": "spend time doing something carefully" },
+    { "phrase": "sort it out", "meaning": "solve the problem" },
+    { "phrase": "a weight off their shoulders", "meaning": "relief from a worry" },
+    { "phrase": "it was the least I could do", "meaning": "helping was only natural" },
+    { "phrase": "make someone's day", "meaning": "make someone very happy" }
+  ],
+  "model": "I'd like to describe a time I helped an elderly neighbour of mine, Mrs Lan, who lives alone on the floor below me. It was during the rainy season last year. One evening I was coming home from work when I saw her standing outside the building, looking completely at a loss. She was holding her phone and a letter from the bank. First, I asked if she needed me to lend a hand, and she explained that her bank card had been blocked and she needed to verify her account through a mobile app, but she'd never used one before. So we went up to her flat, and then I sat down with her and talked her through it step by step. It took almost an hour, because while we were doing it, the app kept asking for codes that were being sent to her old email address. After that, we had to call the bank's hotline, and I helped her answer the security questions. In the end, we managed to sort it out, and her card started working again. She said it was a real weight off her shoulders, because she'd been worrying about it for days. She tried to give me some money, but I told her it was the least I could do. The next morning she left a bag of fresh mangoes at my door, which honestly made my day."
+}

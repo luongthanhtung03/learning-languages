@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Reducing online abuse, trolls and fake accounts",
+    "Protecting privacy and people who need anonymity",
+    "Verifying identity without showing names publicly"
+  ],
+  "phrases": [
+    { "phrase": "hide behind a fake name", "meaning": "use a false name to avoid blame" },
+    { "phrase": "online abuse", "meaning": "cruel or threatening behaviour on the internet" },
+    { "phrase": "fake accounts", "meaning": "profiles not belonging to real people" },
+    { "phrase": "take responsibility for", "meaning": "accept that you caused something" },
+    { "phrase": "a privacy risk", "meaning": "a danger to personal information" },
+    { "phrase": "speak out", "meaning": "say publicly what you think" },
+    { "phrase": "verify their identity", "meaning": "prove who they really are" },
+    { "phrase": "data breach", "meaning": "when private data is stolen" }
+  ],
+  "model": "I don't think social media should require real names publicly, but I do think platforms should verify people's identity privately. First, forcing real names would create a privacy risk. If a platform stores millions of names and addresses, one data breach could expose everyone. Also, some people need anonymity to speak out, for example whistleblowers or someone escaping an abusive relationship. A colleague of mine writes an anonymous blog about mental health, and she says she'd never share her story under her real name. Another reason is that verification can solve the main problem anyway. Online abuse and fake accounts are serious issues, because trolls can hide behind a fake name and never take responsibility for what they say. But if users had to verify their identity privately with the platform, they could still be traced if they broke the law. I think this kind of system is likely to become standard over the next decade, and I'm sure governments will push for it. So, in short, private verification, yes, but public real names, no."
+}

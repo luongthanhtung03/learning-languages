@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Short-term pleasure versus long-term benefits",
+    "Busy lives, cost and convenience",
+    "Practical ways to close the gap"
+  ],
+  "phrases": [
+    { "phrase": "instant gratification", "meaning": "wanting pleasure right now" },
+    { "phrase": "long-term benefits", "meaning": "good results that come later" },
+    { "phrase": "convenience food", "meaning": "quick, ready-made meals" },
+    { "phrase": "old habits die hard", "meaning": "habits are difficult to change" },
+    { "phrase": "lack the motivation", "meaning": "not have enough desire to act" },
+    { "phrase": "set realistic goals", "meaning": "plan targets you can actually achieve" },
+    { "phrase": "be pressed for time", "meaning": "have very little time" },
+    { "phrase": "the path of least resistance", "meaning": "the easiest option available" }
+  ],
+  "model": "I think the main reason is that our brains prefer instant gratification. Everyone knows they should eat more vegetables and exercise, but the long-term benefits feel very far away, while a bubble tea makes you happy right now. On top of that, most people are pressed for time. After a ten-hour working day, cooking a healthy meal feels like hard work, so people take the path of least resistance and order convenience food on an app. I'm guilty of this myself. I know I ought to go to the gym after work, but on busy weeks I often lack the motivation and just go home. And old habits die hard, especially if your family and friends have the same habits. Of course, some people would argue that it's simply laziness, and to some extent individuals do have to take control. But I'd say the answer is to set realistic goals. You're supposed to start small, like walking for fifteen minutes a day, rather than trying to change everything at once."
+}

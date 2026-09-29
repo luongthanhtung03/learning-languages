@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Where the place is and what it looks like",
+    "When you go and what you do there",
+    "Why it helps you think clearly"
+  ],
+  "phrases": [
+    { "phrase": "tucked away", "meaning": "hidden in a quiet place" },
+    { "phrase": "peace and quiet", "meaning": "calm without noise" },
+    { "phrase": "clear my head", "meaning": "stop feeling confused or stressed" },
+    { "phrase": "get away from it all", "meaning": "escape everyday stress" },
+    { "phrase": "lose track of time", "meaning": "forget how much time has passed" },
+    { "phrase": "a hidden gem", "meaning": "a great place few people know" },
+    { "phrase": "gather my thoughts", "meaning": "organise my ideas calmly" },
+    { "phrase": "a world away from", "meaning": "completely different from" }
+  ],
+  "model": "Whenever I need to think, I go to a small rooftop cafe that's tucked away at the top of an old apartment building near my office. From the street you'd never know it's there. You have to walk through a narrow alley, past a tailor's shop, and then climb five floors of stairs, because there's no lift. At the top there are only about six tables, some potted plants and a wooden bench in the corner, and you can see the rooftops of the whole neighbourhood. It's definitely a hidden gem. The funny thing is that it's only a few hundred metres from one of the busiest roads in the district, but it feels a world away from the traffic. It's much quieter than the chain coffee shops, and the owner plays soft music at a very low volume. I usually go on Sunday mornings when I want to get away from it all, or after a stressful week when I need to clear my head. I just order a coffee, put my phone in my bag and write in a notebook. Last month I was trying to decide whether to accept a new job offer, and I spent a whole afternoon there to gather my thoughts. I completely lost track of time. For me, that kind of peace and quiet is rare in the city, so I really value it."
+}

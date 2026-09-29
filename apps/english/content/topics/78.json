@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "Reading gives more detail and control over pace",
+    "Video is quicker and more emotional",
+    "Which format suits your daily routine"
+  ],
+  "phrases": [
+    { "phrase": "at my own pace", "meaning": "as fast or slow as I want" },
+    { "phrase": "skim through", "meaning": "read quickly to get the main ideas" },
+    { "phrase": "in more depth", "meaning": "with more detail" },
+    { "phrase": "catch up on the news", "meaning": "learn about recent events" },
+    { "phrase": "sensational headlines", "meaning": "exciting titles that exaggerate" },
+    { "phrase": "get the gist", "meaning": "understand the main point" },
+    { "phrase": "go back over", "meaning": "read or check again" },
+    { "phrase": "a reliable source", "meaning": "a place with trustworthy information" }
+  ],
+  "model": "I'd say I prefer reading the news to watching it. First, reading lets me go at my own pace. In the morning I usually skim through a few headlines on a news app while I have breakfast, and if a story looks interesting, I can read about it in more depth. I can also go back over a paragraph if I don't understand something, which is harder to do with a video. For example, when there was news about new tax rules last year, I read two articles carefully and actually understood how they'd affect my salary. Another reason is that written news tends to be calmer. TV news and video clips often use dramatic music and sensational headlines to keep people watching, which can arguably make stories seem scarier than they are. Of course, videos are useful when I just want to get the gist quickly, or to see what's happening during a big event. But on the whole, if I want to catch up on the news properly from a reliable source, I'd rather read it."
+}

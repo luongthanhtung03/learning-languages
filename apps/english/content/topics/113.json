@@ -1,0 +1,18 @@
+{
+  "ideas": [
+    "What the rule is and where it applies",
+    "Why it was introduced in the first place",
+    "What you'd change and why"
+  ],
+  "phrases": [
+    { "phrase": "strict dress code", "meaning": "firm rules about what to wear" },
+    { "phrase": "be enforced", "meaning": "be made to be obeyed" },
+    { "phrase": "make sense", "meaning": "be logical or reasonable" },
+    { "phrase": "out of date", "meaning": "old-fashioned, not modern" },
+    { "phrase": "look professional", "meaning": "appear suitable for business" },
+    { "phrase": "bend the rules", "meaning": "not follow rules exactly" },
+    { "phrase": "raise the issue", "meaning": "start discussing a problem" },
+    { "phrase": "a more flexible approach", "meaning": "a less strict way of doing things" }
+  ],
+  "model": "A rule I disagree with is the strict dress code at my company. All employees are required to wear formal shirts and dark trousers every day, and ties are expected on Mondays. The rule was introduced about ten years ago, when most of our work was done face to face with clients, so I understand why it made sense back then. Although I accept that we should look professional, I think the rule is out of date now. These days most of our client meetings are held online, and many of us spend the whole day at our desks writing code or reports. Despite this, the rule is still enforced quite strictly, and people are occasionally sent home to change. The worst part is the summer. In Saigon it's often thirty-five degrees, and wearing a long-sleeved shirt on a motorbike is really uncomfortable. Last June I wore a smart polo shirt one day, and my manager politely reminded me about the rules in front of my team, which was a bit embarrassing. Some colleagues bend the rules a little, but I'd rather change them properly. A few of us raised the issue in our last staff survey. While it's true that some clients still prefer formal dress, I'd suggest a more flexible approach, where people dress formally only on days when they meet clients. I think staff would be happier and more productive."
+}
