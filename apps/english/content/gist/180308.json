@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "A phone app that offers mental health therapy",
+        "How robots are built in Star Wars films",
+        "Why therapists are too expensive",
+        "How to protect your privacy online when using health apps"
+      ],
+      "answer": 0,
+      "why": "They discuss Woebot, an app in your smartphone that talks to you as a kind of therapist."
+    },
+    {
+      "q": "Why is the app called 'Woebot'?",
+      "options": [
+        "It was named after its inventor",
+        "It is a joke, because 'woe' means sadness",
+        "It means 'robot' in another language",
+        "It was the name of a film character"
+      ],
+      "answer": 1,
+      "why": "Rob says 'Woe means sadness; so this is a woe bot, not a robot', showing its sense of humour."
+    },
+    {
+      "q": "According to Dr Alison Darcy, what does Woebot do every day?",
+      "options": [
+        "Sends you articles to read",
+        "Books appointments with doctors and therapists near your home",
+        "Asks how you are and offers to talk things through",
+        "Records your sleep"
+      ],
+      "answer": 2,
+      "why": "She says he'll check in with you every day and ask 'How do you feel?'"
+    },
+    {
+      "q": "What have trials of Woebot shown?",
+      "options": [
+        "It is better than a real therapist for most kinds of problems",
+        "It doesn't work at all",
+        "It works only for young people",
+        "It can work better than just reading about mental health"
+      ],
+      "answer": 3,
+      "why": "Catherine says trials show it can be more effective than simply reading information about mental health."
+    },
+    {
+      "q": "Why haven't researchers compared Woebot with a real therapist?",
+      "options": [
+        "It would be wrong to deny patients a human therapist",
+        "It would cost too much",
+        "The therapists they asked all refused to take part in the trial",
+        "There weren't enough patients"
+      ],
+      "answer": 0,
+      "why": "Rob says it could be unethical to deny a real patient access to a human therapist for a trial."
+    },
+    {
+      "q": "What other worry about apps like this is mentioned?",
+      "options": [
+        "They use too much battery",
+        "They are too difficult to use",
+        "Users aren't protected by strong privacy laws",
+        "They sometimes give dangerous advice to people who are ill"
+      ],
+      "answer": 2,
+      "why": "Catherine says people using such apps 'are not protected by strong privacy laws'."
+    },
+    {
+      "q": "Why does Dr Darcy say people have little time for self-reflection today?",
+      "options": [
+        "They work too many hours",
+        "Their phones always fill quiet moments",
+        "They sleep too little",
+        "They travel too much"
+      ],
+      "answer": 1,
+      "why": "She says even a commute can now be filled with content 'by looking at your phone'."
+    },
+    {
+      "q": "What does Catherine say about trying a therapy app herself?",
+      "options": [
+        "She would never try it",
+        "She would only try it with a doctor",
+        "She has already tried it and didn't like it",
+        "She would try it and thinks it could help"
+      ],
+      "answer": 3,
+      "why": "She says 'Yes I would, actually – I think it might be quite helpful.'"
+    }
+  ]
+}

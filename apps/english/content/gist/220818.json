@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How women can become successful politicians in the UK",
+        "Women doing office tasks that don't help their careers",
+        "Why men are naturally better leaders than women",
+        "How to organise a good birthday party at work"
+      ],
+      "answer": 1,
+      "why": "They discuss 'non-promotable tasks', which women do more often and which hold back their careers."
+    },
+    {
+      "q": "How does Sam react to Neil's story about the boss and the birthday card?",
+      "options": [
+        "She thinks it's a kind thing for the boss to say",
+        "She says it never happens in modern offices",
+        "She thinks the employee should say no to the cake",
+        "She says she has seen this kind of thing happen"
+      ],
+      "answer": 3,
+      "why": "When Neil asks if it sounds familiar, Sam says, 'Yes, I have seen that.'"
+    },
+    {
+      "q": "Which of these is given as an example of a 'non-promotable' task?",
+      "options": [
+        "Taking notes in meetings",
+        "Winning new customers",
+        "Negotiating a pay rise",
+        "Managing a large team"
+      ],
+      "answer": 0,
+      "why": "Sam lists taking notes, organising social events and chairing meetings as non-promotable tasks."
+    },
+    {
+      "q": "According to Professor Lise Vesterlund, what is greater for women than for men?",
+      "options": [
+        "Their pay and their chances of promotion",
+        "Their skill at negotiating with managers",
+        "Their tiredness and unhappiness with work",
+        "The number of hours they spend at meetings"
+      ],
+      "answer": 2,
+      "why": "She says burn-out and dissatisfaction with work are much greater for women than for men."
+    },
+    {
+      "q": "What does Lise Vesterlund say is interesting about non-promotable work?",
+      "options": [
+        "It is only a problem in small companies",
+        "It helps women earn more money in the end",
+        "It is done equally by men and by women",
+        "It adds to all of the gender differences"
+      ],
+      "answer": 3,
+      "why": "She says non-promotable work 'contributes to all of those differences'."
+    },
+    {
+      "q": "What role was Natalie Quail given as a trainee solicitor?",
+      "options": [
+        "Leader of the team's most important cases",
+        "The team's party organiser",
+        "The person who spoke first at meetings",
+        "Manager of the company's TV business"
+      ],
+      "answer": 1,
+      "why": "Natalie says, 'I was tasked with being the team party organiser.'"
+    },
+    {
+      "q": "What does Natalie think about women in her team?",
+      "options": [
+        "They often do much more multitasking than men",
+        "They prefer to do the non-promotable tasks",
+        "They should stop working once they have children",
+        "They are given more chances to speak in meetings"
+      ],
+      "answer": 0,
+      "why": "She says the women's multitasking 'far outstrips the men', and many also juggle being a working mum."
+    },
+    {
+      "q": "What good news does Neil mention at the end?",
+      "options": [
+        "The glass ceiling has now completely disappeared",
+        "Men now do most of the non-promotable tasks",
+        "There are many more female managers now",
+        "All companies now promote people on ability"
+      ],
+      "answer": 2,
+      "why": "He says the number of female managers and women in traditionally male jobs has increased dramatically."
+    }
+  ]
+}

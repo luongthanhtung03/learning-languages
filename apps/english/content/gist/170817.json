@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make money from online videos",
+        "Why people share some things online so quickly",
+        "The dangers of spending too long on the internet",
+        "How cats became popular online"
+      ],
+      "answer": 1,
+      "why": "Neil says they're talking about why some online content goes viral and some doesn't."
+    },
+    {
+      "q": "What does Neil think of silly online videos?",
+      "options": [
+        "He watches them every day",
+        "He only likes videos of animals",
+        "He shares them with his friends",
+        "He doesn't find them cute or funny"
+      ],
+      "answer": 3,
+      "why": "Neil says, 'I just don't find silly videos particularly cute – or funny.'"
+    },
+    {
+      "q": "According to Dr Jonah Berger, why do we share things?",
+      "options": [
+        "It makes us feel connected and strengthens friendships",
+        "It makes us look clever and well informed to others",
+        "We want to become famous and get lots of followers",
+        "We are bored at work and need something to do"
+      ],
+      "answer": 0,
+      "why": "He says sharing lets us feel connected and deepen the bonds with our peers and friends."
+    },
+    {
+      "q": "What kind of emotions make us more likely to share, according to Dr Berger?",
+      "options": [
+        "Calm, peaceful emotions that help us relax",
+        "Sad emotions, such as feeling lonely or upset",
+        "Strong emotions that excite us and make us act",
+        "Any emotion at all, as long as it is honest"
+      ],
+      "answer": 2,
+      "why": "He says high-arousal emotions that 'fire us up and cause us to take action' drive us to share."
+    },
+    {
+      "q": "Which of these does Dr Berger describe as a low-arousal emotion?",
+      "options": [
+        "Anger",
+        "Anxiety",
+        "Sadness",
+        "Humour"
+      ],
+      "answer": 2,
+      "why": "He lists anger, anxiety, excitement and humour as high arousal; sadness and contentment as low."
+    },
+    {
+      "q": "What surprises Rob about the research?",
+      "options": [
+        "Sad things aren't shared as much as funny things",
+        "People share angry content",
+        "Older people share more than young people",
+        "Cat videos aren't very popular"
+      ],
+      "answer": 0,
+      "why": "Rob says he's surprised that sad things aren't passed on as much as funny things."
+    },
+    {
+      "q": "Why does Neil ask Rob how often he shares sad videos?",
+      "options": [
+        "Because Neil wants Rob to send him one",
+        "To find out if Rob is unhappy",
+        "To change the subject",
+        "To show that Rob's own habits fit the theory"
+      ],
+      "answer": 3,
+      "why": "Rob admits 'Good point' and says he tends to share things that make him laugh."
+    },
+    {
+      "q": "What kind of content does Rob mostly share?",
+      "options": [
+        "News that makes him angry",
+        "Things that make him laugh",
+        "Sad stories",
+        "Educational videos"
+      ],
+      "answer": 1,
+      "why": "Rob says he tends to share content that makes him laugh, like the Grumpy Cat meme."
+    }
+  ]
+}

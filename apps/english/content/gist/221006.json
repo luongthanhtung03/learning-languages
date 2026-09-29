@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How Mozart became famous as a very young composer",
+        "Why so many great artists behave in strange ways",
+        "Whether artists' brains work differently from ours",
+        "How to teach children to play the piano at home"
+      ],
+      "answer": 2,
+      "why": "Sam says the programme asks: are artists' brains different? They hear two expert opinions."
+    },
+    {
+      "q": "What do Sam and Neil say about their own artistic abilities?",
+      "options": [
+        "Both of them are good at painting and drawing",
+        "Neither of them plays any kind of music at all",
+        "Neil plays the piano well, but Sam can't draw",
+        "Sam plays the piano a bit; Neil can't paint"
+      ],
+      "answer": 3,
+      "why": "Sam plays the piano a bit and feels quite artistic; Neil says 'basically no – I can't paint'."
+    },
+    {
+      "q": "Which example does Neil give of an artist's strange behaviour?",
+      "options": [
+        "Michelangelo worked so hard he never bathed",
+        "Mozart refused to play in front of the Emperor",
+        "Jimi Hendrix painted pictures on his guitar",
+        "Michelangelo slept in his studio for many years"
+      ],
+      "answer": 0,
+      "why": "Neil says Michelangelo worked so hard he never took a bath, and Hendrix set fire to his guitar."
+    },
+    {
+      "q": "What does Dr Rebecca Chamberlain measure in her research?",
+      "options": [
+        "How long artists spend finishing each drawing",
+        "The quick jumps our eyes make between things",
+        "Which colours artists prefer to use in paintings",
+        "How much brain activity music creates in people"
+      ],
+      "answer": 1,
+      "why": "She measures saccades – the rapid movements our eyes make as they jump from one thing to another."
+    },
+    {
+      "q": "What did Rebecca find about how artists look at things when drawing?",
+      "options": [
+        "They focus for a long time on the small details",
+        "They hardly move their eyes at all while drawing",
+        "They take in the whole picture with big eye jumps",
+        "They look at the image far less than non-artists do"
+      ],
+      "answer": 2,
+      "why": "She says artists make bigger saccades and shorter fixations, taking a more global approach."
+    },
+    {
+      "q": "What happened to one of Mike's students?",
+      "options": [
+        "He couldn't draw, but was good within a month",
+        "He was already talented and became a famous painter",
+        "He gave up painting completely after a few lessons",
+        "He taught Mike a useful way to draw human faces"
+      ],
+      "answer": 0,
+      "why": "Mike says the student 'could not draw – at all', but after some tips he was really good in a month."
+    },
+    {
+      "q": "Why does Mike compare painting to riding a bike?",
+      "options": [
+        "To show that painting can sometimes be dangerous",
+        "To explain that he likes to paint outdoors",
+        "To say that once you learn it you never forget it",
+        "To show it's a skill that people can learn"
+      ],
+      "answer": 3,
+      "why": "He says some things are trainable, 'it's like a bike', meaning artistic ability can be learned."
+    },
+    {
+      "q": "What third possibility do some scientists suggest?",
+      "options": [
+        "Only child prodigies have truly artistic brains from birth",
+        "Every brain fills in the missing pieces its own way",
+        "Artistic ability comes only from many years of hard work",
+        "Artists' eyes are physically different from other people's"
+      ],
+      "answer": 1,
+      "why": "Neil says every brain focuses on some areas and ignores others, and we fill in the missing pieces our own way."
+    }
+  ]
+}

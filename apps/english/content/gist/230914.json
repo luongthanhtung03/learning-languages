@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How women keep friendships going at work",
+        "Why older people feel lonely in big cities",
+        "Why many men find close friendships hard",
+        "How to organise a wedding with few friends"
+      ],
+      "answer": 2,
+      "why": "They ask if it is true that men find it difficult to make friends, and hear from Max Dickins, who wrote a book on male friendship."
+    },
+    {
+      "q": "How does Neil feel about his own friendships?",
+      "options": [
+        "He has some close friends but wants more",
+        "He has more friends than he really needs",
+        "He has no close friends at all these days",
+        "He prefers to spend his free time alone"
+      ],
+      "answer": 0,
+      "why": "Neil says he has some close friends, 'but maybe not as many as I'd like'."
+    },
+    {
+      "q": "According to one survey, what share of British men say they have at least six close friends?",
+      "options": [
+        "About half",
+        "Almost all of them",
+        "Around 72%",
+        "Only 27%"
+      ],
+      "answer": 3,
+      "why": "Beth says only 27% of British men say they have at least six close friends."
+    },
+    {
+      "q": "What idea does Claudia Hammond want to check?",
+      "options": [
+        "That men make new friends faster than women do",
+        "That men hang out with anyone; women nurture friends",
+        "That friends are only really useful when life is easy",
+        "That people make most of their friends at school"
+      ],
+      "answer": 1,
+      "why": "She mentions the idea that men hang out with whoever is around rather than nurture relationships, and asks if it's just a stereotype."
+    },
+    {
+      "q": "What made Max Dickins realise he had a problem?",
+      "options": [
+        "He had no close male friend to be his best man",
+        "His wife told him he seemed lonely and bored",
+        "He moved to a new city and knew nobody there",
+        "He read a survey about male friendship online"
+      ],
+      "answer": 0,
+      "why": "When he was getting married, he realised he had no close male friends to ask to be his 'best man'."
+    },
+    {
+      "q": "Why does Max say that loneliness 'shouldn't look like me'?",
+      "options": [
+        "Because he is famous and has many fans",
+        "Because he is married now",
+        "Because he lives with his family",
+        "Because he is young, sociable and generous"
+      ],
+      "answer": 3,
+      "why": "He says he's in his early to mid-30s, pretty outgoing and quick to buy his round."
+    },
+    {
+      "q": "Why does Neil mention social media?",
+      "options": [
+        "To say it is the best way for men to find new friends",
+        "To explain why older men feel so lonely nowadays",
+        "To say it makes others seem to have more fun",
+        "To show that men use it much less than women do"
+      ],
+      "answer": 2,
+      "why": "He says social media can make it seem that everyone is having a great time with their mates, except you."
+    },
+    {
+      "q": "What does Max suggest men do to make friends?",
+      "options": [
+        "Spend more time with colleagues after work",
+        "Meet people at sports clubs or reading groups",
+        "Use online apps to find friends nearby",
+        "Stay in touch with their old school friends"
+      ],
+      "answer": 1,
+      "why": "Max thinks the answer is meeting people in 'third spaces', such as sports clubs or reading groups."
+    }
+  ]
+}

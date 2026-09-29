@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best diets to follow after the Christmas holidays",
+        "Where the attitudes behind fat-shaming come from",
+        "How doctors measure body fat in their patients",
+        "Why most New Year's resolutions usually fail"
+      ],
+      "answer": 1,
+      "why": "Neil says they will be asking where the attitudes behind fat-shaming come from."
+    },
+    {
+      "q": "Why do Neil and Georgina both want to lose weight?",
+      "options": [
+        "Their doctors told them to lose weight for their health",
+        "They are training together for a charity run",
+        "They put on weight in lockdown and at Christmas",
+        "They want to look good for a New Year's party"
+      ],
+      "answer": 2,
+      "why": "Georgina ate a lot of chocolate at Christmas, and Neil gained weight in lockdown and then over Christmas."
+    },
+    {
+      "q": "According to Professor Saguy, why did doctors start using the term 'obesity'?",
+      "options": [
+        "To show it was a medical issue they were experts in",
+        "To make overweight people feel ashamed of their size",
+        "To replace an older word that sounded rude to patients",
+        "To help drug companies sell new weight-loss medicines"
+      ],
+      "answer": 0,
+      "why": "She says doctors wanted to say it was a medical issue over which they had authority and expertise."
+    },
+    {
+      "q": "How has the meaning of 'obese' changed over time, according to Neil?",
+      "options": [
+        "It now only describes children who are overweight",
+        "It has become a more polite and neutral word",
+        "It is no longer used by doctors or scientists",
+        "It has become a term of discrimination and abuse"
+      ],
+      "answer": 3,
+      "why": "Neil says it began as an individual medical problem but has become a term of discrimination and abuse."
+    },
+    {
+      "q": "What are Harvard's implicit bias tests most famous for revealing?",
+      "options": [
+        "Prejudice about age",
+        "Racial prejudice",
+        "Prejudice about weight",
+        "Prejudice about wealth"
+      ],
+      "answer": 1,
+      "why": "Georgina says the tests are most famous for revealing racial prejudice, though they also measure weight bias."
+    },
+    {
+      "q": "According to Professor Crandall, what do many westerners believe about fat people?",
+      "options": [
+        "They are usually happier and more relaxed than others",
+        "Their weight is mostly caused by a medical illness",
+        "They cannot find or afford healthy food nearby",
+        "They are lazy and to blame for their condition"
+      ],
+      "answer": 3,
+      "why": "He says people see fatness as a sign of laziness and 'a thing that you do to yourself'."
+    },
+    {
+      "q": "What does Neil say about what really determines a person's weight?",
+      "options": [
+        "Environment and genetics matter, up to 80%",
+        "It depends only on how much exercise you do",
+        "It depends only on what and how much you eat",
+        "Genetics have almost no effect on body size"
+      ],
+      "answer": 0,
+      "why": "Neil says weight is also determined by environment and genetics, up to 80% in some cases."
+    },
+    {
+      "q": "What is Georgina's view of fat-shaming?",
+      "options": [
+        "It works well as long as it is done kindly",
+        "It is only really a problem on social media",
+        "It is not a good way to help people lose weight",
+        "It is much less common than most people think"
+      ],
+      "answer": 2,
+      "why": "She says that even if weight were under personal control, fat-shaming doesn't seem the right way to help."
+    }
+  ]
+}

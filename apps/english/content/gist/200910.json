@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "English idioms and expressions that use the word 'bee'",
+        "How to keep bees in your own back garden",
+        "Falling bee numbers and new ways to pollinate crops",
+        "Why honey is becoming more expensive in the shops"
+      ],
+      "answer": 2,
+      "why": "They discuss bees declining, the risk to food, and solutions like pollinating with drones."
+    },
+    {
+      "q": "How much of the food we eat depends on insects to pollinate crops?",
+      "options": [
+        "One third",
+        "One half",
+        "One quarter",
+        "Almost all of it"
+      ],
+      "answer": 0,
+      "why": "Neil says one third of the food we eat depends on insects to pollinate crops."
+    },
+    {
+      "q": "What is happening to bees in some European countries?",
+      "options": [
+        "Their numbers are rising quickly",
+        "They are moving to warmer countries",
+        "They are being replaced by other insects",
+        "Up to half of bee species face extinction"
+      ],
+      "answer": 3,
+      "why": "Sam says in some European countries up to half of all bee species are facing extinction."
+    },
+    {
+      "q": "According to Claire Bates, how are crops like wheat, rice and corn pollinated?",
+      "options": [
+        "By bees",
+        "By the wind",
+        "By farmers by hand",
+        "By birds"
+      ],
+      "answer": 1,
+      "why": "She says some staple crops such as wheat, rice and corn are pollinated by the wind."
+    },
+    {
+      "q": "How do bees carry pollen from flower to flower?",
+      "options": [
+        "They store it in their hive",
+        "They eat it and release it later",
+        "It sticks to them as they collect nectar",
+        "They carry it in their mouths"
+      ],
+      "answer": 2,
+      "why": "Claire Bates says as they collect nectar to eat, pollen sticks to them."
+    },
+    {
+      "q": "What problem with bees does Keren Mimran describe?",
+      "options": [
+        "They often sting the farm workers in the fields",
+        "You can't control them, e.g. they stay in when it rains",
+        "They are too expensive for most farmers to buy",
+        "They only visit certain flowers and ignore crops"
+      ],
+      "answer": 1,
+      "why": "She says we can't control their behaviour: they don't leave the hive in rain or heavy wind."
+    },
+    {
+      "q": "What has Keren Mimran's company developed?",
+      "options": [
+        "A new type of bee",
+        "A chemical to protect bees",
+        "Hives that work in bad weather",
+        "Drones that drop pollen on orchards"
+      ],
+      "answer": 3,
+      "why": "Sam says her company has developed drones to drop pollen on her orchard."
+    },
+    {
+      "q": "What does the need for high-tech solutions show, according to Neil?",
+      "options": [
+        "How serious the pollination problem is for food",
+        "That bees are no longer needed on modern farms",
+        "That technology is always better than nature",
+        "That most farmers dislike working with bees"
+      ],
+      "answer": 0,
+      "why": "Neil says the need for them reflects the seriousness of the pollination problem for food security."
+    }
+  ]
+}

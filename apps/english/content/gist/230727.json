@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to be polite to colleagues at work",
+        "Ways of apologising, especially in public",
+        "Why British people are often rude to tourists",
+        "How politicians win elections by saying sorry"
+      ],
+      "answer": 1,
+      "why": "Beth says they'll discuss ways of saying sorry, and they look at research on public apologies."
+    },
+    {
+      "q": "What does Neil mean if he says “Oh, I'm sorry” after you tell him you're ill?",
+      "options": [
+        "That it was his fault",
+        "That he doesn't believe you",
+        "That he feels sympathy for you",
+        "That he isn't really sorry"
+      ],
+      "answer": 2,
+      "why": "He says it means: I sympathise, and I hope you get better soon."
+    },
+    {
+      "q": "What does Beth say about the British?",
+      "options": [
+        "They are world champions at apologising",
+        "They rarely say sorry",
+        "They only apologise at work",
+        "They find apologising embarrassing"
+      ],
+      "answer": 0,
+      "why": "Beth says 'the British are world champions at apologising'."
+    },
+    {
+      "q": "Where did Professor Louise Mullany do much of her research?",
+      "options": [
+        "In schools, colleges and universities",
+        "In shops, cafés and restaurants",
+        "In families at home with children",
+        "At work, in the media and politics"
+      ],
+      "answer": 3,
+      "why": "She did research in the workplace, in the media and on politicians in particular."
+    },
+    {
+      "q": "According to Professor Mullany, what happens if public figures don't apologise?",
+      "options": [
+        "It is seen as a big social mistake",
+        "Nobody notices",
+        "They have to pay a fine",
+        "They become more popular"
+      ],
+      "answer": 0,
+      "why": "She says if they don't apologise, 'that's a big faux pas'."
+    },
+    {
+      "q": "Why does Neil think politicians hate apologising?",
+      "options": [
+        "They are always far too busy to do it",
+        "It means taking responsibility sincerely",
+        "Their advisers always tell them not to",
+        "It could cost them a lot of money in court"
+      ],
+      "answer": 1,
+      "why": "He says saying sorry means taking responsibility, and the apology needs to be sincere."
+    },
+    {
+      "q": "What was unusual about Boris Johnson's apology, according to Professor Mullany?",
+      "options": [
+        "He refused to apologise at all, even when asked",
+        "He apologised only once, in a written letter",
+        "He blamed other politicians completely for it",
+        "He took responsibility but said he didn't know"
+      ],
+      "answer": 3,
+      "why": "She says he said 'I am responsible', but with the caveat he wasn't certain he was breaking the rules."
+    },
+    {
+      "q": "Did Boris Johnson manage to move on from the 'Partygate' scandal?",
+      "options": [
+        "Yes, as soon as he paid the fine",
+        "Yes, because people accepted his humility",
+        "No, because many people didn't trust him",
+        "No, because he never apologised"
+      ],
+      "answer": 2,
+      "why": "Beth says many people didn't trust him and he couldn't draw a line under the scandal."
+    }
+  ]
+}

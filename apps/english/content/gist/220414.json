@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The life and plays of William Shakespeare",
+        "How to write short messages on Twitter",
+        "Persuasive language, in the past and today",
+        "Why Roman politicians often lost arguments"
+      ],
+      "answer": 2,
+      "why": "Sam says they'll be hearing all about rhetoric – using words to persuade people."
+    },
+    {
+      "q": "How does Neil react when Sam knows where the famous quote comes from?",
+      "options": [
+        "He is impressed",
+        "He says she is wrong",
+        "He is not surprised",
+        "He is a bit annoyed"
+      ],
+      "answer": 0,
+      "why": "When Sam names Marc Antony's speech in Julius Caesar, Neil says, 'Wow, I'm impressed!'"
+    },
+    {
+      "q": "Where did the art of rhetoric begin, according to Neil?",
+      "options": [
+        "With Shakespeare's plays in London",
+        "With Roman soldiers in battle",
+        "With modern advertising companies",
+        "With the ancient Greek philosophers"
+      ],
+      "answer": 3,
+      "why": "Neil says rhetoric started with the ancient Greek philosophers, and later Roman politicians used it."
+    },
+    {
+      "q": "How do modern politicians still use rhetoric, according to Sam?",
+      "options": [
+        "By giving long speeches in the public square",
+        "With short, easy-to-remember phrases",
+        "By writing long books about their ideas",
+        "By copying speeches from Shakespeare"
+      ],
+      "answer": 1,
+      "why": "She says they may prefer Twitter, but they still use soundbites – short phrases easy to remember."
+    },
+    {
+      "q": "What example is given of rhetoric used to bring people together?",
+      "options": [
+        "Politicians calling coronavirus our 'enemy'",
+        "Adverts that tell people to buy more products",
+        "Twitter users arguing about climate change",
+        "Marc Antony asking the crowd to find killers"
+      ],
+      "answer": 0,
+      "why": "Sam says a recent example of rallying people was politicians calling the coronavirus our 'enemy'."
+    },
+    {
+      "q": "What does Sam Tatum think we should do about political language?",
+      "options": [
+        "Stop listening to politicians altogether",
+        "Believe it, because it simplifies things",
+        "Only listen to politicians we agree with",
+        "Question whether it's trying to trick us"
+      ],
+      "answer": 3,
+      "why": "He asks whether it's trying to 'pull the wool over our eyes' on something more complex."
+    },
+    {
+      "q": "What is Professor Kendal Phillips's view of tweets?",
+      "options": [
+        "They are the best way to explain complex ideas",
+        "They help people find common ground easily",
+        "They're too short for a proper logical argument",
+        "They are more logical than political speeches"
+      ],
+      "answer": 2,
+      "why": "He says 280 characters is not a way to lay out a logical argument, and hashtags add to division."
+    },
+    {
+      "q": "According to Sam, what did rhetoric also mean in ancient times?",
+      "options": [
+        "Winning every argument by being the loudest",
+        "Finding common ground between people",
+        "Attacking your opponent's moral character",
+        "Using logic to prove other people wrong"
+      ],
+      "answer": 1,
+      "why": "Sam says in ancient times rhetoric also meant building bridges between people and finding common ground."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How crisps are made in large factories",
+        "Why crisps are so bad for your teeth",
+        "Why people in many countries love crisps",
+        "How to make guacamole to eat with crisps"
+      ],
+      "answer": 2,
+      "why": "They ask why we love crisps and visit two countries in love with crispy snacks."
+    },
+    {
+      "q": "What are Neil's and Beth's favourite crisp flavours?",
+      "options": [
+        "They both like salt and vinegar",
+        "Beth likes prawn cocktail and Neil likes salt and vinegar",
+        "Neil likes prawn cocktail and Beth likes cheese",
+        "Beth doesn't like crisps at all"
+      ],
+      "answer": 1,
+      "why": "Beth's favourite is prawn cocktail, and Neil's is salt and vinegar."
+    },
+    {
+      "q": "Why does Neil say crisps are not the healthiest food?",
+      "options": [
+        "They contain a lot of sugar",
+        "They are made from corn",
+        "They are eaten too late at night",
+        "They have lots of oil and salt"
+      ],
+      "answer": 3,
+      "why": "Neil says with lots of oil and salt, they're not the healthiest food."
+    },
+    {
+      "q": "According to Mitchell Dingwall, what is the best thing about crisps?",
+      "options": [
+        "The crunch and the salty taste",
+        "The many different shapes",
+        "The low price",
+        "The colourful packets"
+      ],
+      "answer": 0,
+      "why": "He says 'You can't beat the crunch' and the delicious, salty feeling."
+    },
+    {
+      "q": "What does Mitchell mean when he talks about a 'snowball effect'?",
+      "options": [
+        "Crisps taste best when eaten in winter",
+        "Crisp sales keep growing every single year",
+        "Crisps go soft quickly once you open them",
+        "Once you start eating crisps, you can't stop"
+      ],
+      "answer": 3,
+      "why": "He says you just want more; Neil explains you eat one and soon the whole packet's gone."
+    },
+    {
+      "q": "What does Jolene Ng say about crisps in the UK?",
+      "options": [
+        "They are only eaten at parties and celebrations",
+        "They are much less popular than in Singapore",
+        "They're a normal part of life, even in sandwiches",
+        "They are mainly eaten by young children"
+      ],
+      "answer": 2,
+      "why": "She says they're part and parcel of life in the UK; her husband even puts them in his sandwich."
+    },
+    {
+      "q": "What do people in Mexico usually eat instead of potato chips?",
+      "options": [
+        "Tortilla corn chips",
+        "Fried bananas",
+        "Rice crackers",
+        "Popcorn"
+      ],
+      "answer": 0,
+      "why": "Beth says in Mexico tortilla corn chips are eaten instead of potato chips."
+    },
+    {
+      "q": "Why does Jenny Martinez prefer tortilla chips?",
+      "options": [
+        "They are healthier",
+        "You can dip them in almost anything",
+        "They are cheaper than potato chips",
+        "They stay fresh for longer"
+      ],
+      "answer": 1,
+      "why": "She says you could dip it in almost everything, like guacamole or salsa."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How electric cars are designed and made",
+        "The UN climate change summit and its promises",
+        "Why factories cause so much air pollution",
+        "Low emission zones and how much they help the air"
+      ],
+      "answer": 3,
+      "why": "Sam says they're discussing low emission zones, which aim to make the air we breathe cleaner."
+    },
+    {
+      "q": "What happens to vehicles that don't meet emissions standards in London's zone?",
+      "options": [
+        "They are taken away by the police and destroyed",
+        "Drivers must pay a daily charge or may be banned",
+        "They are only allowed to drive at night",
+        "Drivers receive a warning letter the first time"
+      ],
+      "answer": 1,
+      "why": "Neil says drivers must pay a daily charge to drive in the zone, or might be banned altogether."
+    },
+    {
+      "q": "What do these zones mainly target?",
+      "options": [
+        "Smoke from factories on the edge of cities",
+        "Noise from heavy traffic in city centres",
+        "Poisonous exhaust gases from vehicles",
+        "Dust from building sites near schools"
+      ],
+      "answer": 2,
+      "why": "Neil says they predominantly target exhaust fumes from vehicles, called nitrogen dioxide."
+    },
+    {
+      "q": "According to Professor Alastair Lewis, what happens when pollution goes below the target level?",
+      "options": [
+        "Health benefits continue to build up",
+        "There are no more health benefits",
+        "The air becomes too clean",
+        "Cities can stop measuring pollution"
+      ],
+      "answer": 0,
+      "why": "He says we continue to see health benefits by reducing pollution, even below the target value."
+    },
+    {
+      "q": "What is Professor Lewis's view of targets?",
+      "options": [
+        "They are useless and a waste of government money",
+        "They should be set much higher than they are now",
+        "They are the only thing that matters in the end",
+        "They focus the mind but aren't the only thing to consider"
+      ],
+      "answer": 3,
+      "why": "He says targets are very good at focusing the mind, but shouldn't be the only thing we consider."
+    },
+    {
+      "q": "Why does Neil say there is more incentive to switch to electric cars in the UK?",
+      "options": [
+        "Electric cars are now cheaper than petrol cars",
+        "Electric cars don't have to pay the daily charge",
+        "New diesel and petrol cars will be banned from 2040",
+        "Fuel prices have gone up a lot in the last year"
+      ],
+      "answer": 2,
+      "why": "He says the government has said new diesel and petrol cars and vans will be banned from 2040."
+    },
+    {
+      "q": "Why is air pollution a complex problem, according to Professor Lewis?",
+      "options": [
+        "It has a very large number of different sources",
+        "Scientists still cannot measure it accurately",
+        "It only affects a few big cities like London",
+        "Most people don't believe it is really harmful"
+      ],
+      "answer": 0,
+      "why": "He says it has a very large number of contributing sources, so no single action will cure it."
+    },
+    {
+      "q": "What does Professor Lewis say about low emission zones on their own?",
+      "options": [
+        "They will solve the problem completely",
+        "They are not the whole solution to air pollution",
+        "They make pollution worse",
+        "They should be removed"
+      ],
+      "answer": 1,
+      "why": "He says they are one way to reduce concentrations but not, in isolation, the solution."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Cycling around the world",
+        "Short, cheap adventures close to home",
+        "The most dangerous expeditions ever made",
+        "How to plan a long holiday abroad"
+      ],
+      "answer": 1,
+      "why": "Rob says the topic is 'a new trend for small adventures', shorter breaks closer to home."
+    },
+    {
+      "q": "What was Alastair Humphreys's hunch?",
+      "options": [
+        "You don't need to travel far to have an adventure",
+        "Big adventures are too expensive",
+        "Nobody enjoys walking in the snow",
+        "Patagonia is the most beautiful place on Earth"
+      ],
+      "answer": 0,
+      "why": "He had a hunch 'that you didn't need to go to the ends of the world to have some sort of adventure'."
+    },
+    {
+      "q": "What did Humphreys do to test his idea?",
+      "options": [
+        "He cycled around the world",
+        "He camped in Patagonia for a whole month in the winter",
+        "He walked around the M25 motorway in the snow",
+        "He swam across a river"
+      ],
+      "answer": 2,
+      "why": "He came up with 'walking a lap of the M25 in the snow in January'."
+    },
+    {
+      "q": "Why did Humphreys choose such a boring, ugly adventure?",
+      "options": [
+        "It was the cheapest option",
+        "He had no time for a longer trip because of his work and books",
+        "A friend challenged him to do it",
+        "To prove even an ugly trip could feel like an adventure"
+      ],
+      "answer": 3,
+      "why": "He says he decided to try to prove his theory by doing the most boring, ugly adventure he could think of."
+    },
+    {
+      "q": "How did the walk compare with his four years cycling around the world?",
+      "options": [
+        "It felt like the same experience, only smaller",
+        "It was much harder and colder than cycling round the world",
+        "It was completely boring",
+        "It was more beautiful"
+      ],
+      "answer": 0,
+      "why": "He kept thinking 'this experience is exactly the same', though 'smaller, of course, a bit silly'."
+    },
+    {
+      "q": "What is Neil's opinion of walking beside a motorway?",
+      "options": [
+        "He would love to try it",
+        "He thinks it's dangerous",
+        "It isn't his idea of adventure",
+        "He has already done it"
+      ],
+      "answer": 2,
+      "why": "Neil says 'walking alongside a motorway isn't my idea of adventure'."
+    },
+    {
+      "q": "What does Humphreys say about spending a night outside?",
+      "options": [
+        "He never feels nervous",
+        "It is too cold to enjoy",
+        "Feeling a bit nervous is part of the fun",
+        "It is only for experienced campers"
+      ],
+      "answer": 3,
+      "why": "He still imagines ghosts, but says 'that's part of the charm'."
+    },
+    {
+      "q": "What does Rob say would be his biggest fear?",
+      "options": [
+        "Seeing ghosts in the dark at night",
+        "Getting back to his desk by 9.00",
+        "Jumping in a cold river",
+        "Missing the bus home"
+      ],
+      "answer": 1,
+      "why": "Rob says 'My biggest fear would be returning to my desk for 9.00!'"
+    }
+  ]
+}

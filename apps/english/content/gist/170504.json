@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to invest your money wisely in property",
+        "Why poor countries are getting richer every year",
+        "The history of sailing and famous boat races",
+        "The super rich and why they love expensive yachts"
+      ],
+      "answer": 3,
+      "why": "Catherine says they're looking into the lives of the super rich and one of their favourite pastimes: yachts."
+    },
+    {
+      "q": "How much is the number of super rich people expected to grow over the next ten years?",
+      "options": [
+        "By 30%",
+        "By 43%",
+        "By 62%",
+        "By 170%"
+      ],
+      "answer": 1,
+      "why": "Neil says the number of super rich is expected to increase by 43% over the next decade."
+    },
+    {
+      "q": "What did a report last year say about the world's richest 62 people?",
+      "options": [
+        "They owned as much as the poorest half of the world",
+        "They all owned superyachts that were over 100 metres",
+        "Their wealth was falling for the first time in years",
+        "Most of them lived in Vietnam or other parts of Asia"
+      ],
+      "answer": 0,
+      "why": "Catherine says the 62 richest individuals owned as much as the poorest 50% of people in the world."
+    },
+    {
+      "q": "What did the academic's research find the super rich spend money on?",
+      "options": [
+        "Art and wine",
+        "Private islands",
+        "Yachts",
+        "Football clubs"
+      ],
+      "answer": 2,
+      "why": "Neil answers 'Yachts!', calling them the ultimate status symbol."
+    },
+    {
+      "q": "Why does Emma Spence mention private jets, wine and art?",
+      "options": [
+        "They keep or grow their value, unlike yachts",
+        "They are more expensive than yachts",
+        "They are the most popular status symbols",
+        "The super rich no longer buy them"
+      ],
+      "answer": 0,
+      "why": "She says these are investable assets that make good business sense, 'whereas a superyacht is essentially a black hole'."
+    },
+    {
+      "q": "What does Emma Spence mean by calling a superyacht a 'black hole'?",
+      "options": [
+        "It is painted black",
+        "It is very hard to find",
+        "It is dangerous to sail",
+        "It swallows money and loses value"
+      ],
+      "answer": 3,
+      "why": "Neil says superyachts actually lose money, and in business terms a black hole eats all your money."
+    },
+    {
+      "q": "How did Emma Spence start studying superyachts?",
+      "options": [
+        "She owned one herself",
+        "She used to work on them",
+        "Her family built them",
+        "She wrote about them for a newspaper"
+      ],
+      "answer": 1,
+      "why": "Catherine says that's how Emma began her study: she used to work on the yachts."
+    },
+    {
+      "q": "What does the size of your yacht show, according to Emma's research?",
+      "options": [
+        "How fast you can travel between different countries",
+        "How many crew members you can afford to pay each year",
+        "Your social position, which decides your place in the harbour",
+        "How many years you and your family have been wealthy"
+      ],
+      "answer": 2,
+      "why": "Neil says yacht size shows your place in the pecking order, and higher up gets the best place in the harbour."
+    }
+  ]
+}

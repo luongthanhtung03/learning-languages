@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How engineers build a chatbot at Google",
+        "Hollywood films about robots taking over",
+        "Whether AI can really think or be conscious",
+        "Why software engineers lose their jobs"
+      ],
+      "answer": 2,
+      "why": "Neil says they'll discuss whether artificial intelligence is capable of consciousness."
+    },
+    {
+      "q": "What did Blake Lemoine conclude after months of talking to LaMDA?",
+      "options": [
+        "It was just a simple machine with no mind",
+        "It was a person with wishes and rights",
+        "It was dangerous and should be switched off",
+        "It could not understand films or books"
+      ],
+      "answer": 1,
+      "why": "He concluded the chatbot was an intelligent person with wishes and rights that should be respected."
+    },
+    {
+      "q": "How did Google react to Blake's ideas?",
+      "options": [
+        "It moved him, saying evidence didn't support him",
+        "It promoted him to lead a new AI team",
+        "It agreed publicly that LaMDA was a person",
+        "It made LaMDA an official employee"
+      ],
+      "answer": 0,
+      "why": "Google reassigned Blake, announcing his ideas were not supported by the evidence."
+    },
+    {
+      "q": "Why does Professor Emily Bender dislike the phrase 'speech recognition'?",
+      "options": [
+        "It is too long",
+        "It is too technical for most people",
+        "It is an old-fashioned term",
+        "It suggests the computer is thinking"
+      ],
+      "answer": 3,
+      "why": "She says 'recognition' suggests something cognitive is going on."
+    },
+    {
+      "q": "What term does Professor Bender suggest instead?",
+      "options": [
+        "Machine learning",
+        "Automatic transcription",
+        "Speech understanding",
+        "Computer listening"
+      ],
+      "answer": 1,
+      "why": "She says a better term would be automatic transcription."
+    },
+    {
+      "q": "What happens when people meet natural-sounding language from a computer?",
+      "options": [
+        "They immediately know it's a machine",
+        "They stop trusting it",
+        "They can't help imagining a mind behind it",
+        "They find it boring"
+      ],
+      "answer": 2,
+      "why": "Sam says humans can't help but imagine a mind behind the language, even when there isn't one."
+    },
+    {
+      "q": "Why does Professor Bender mention dolls and companies?",
+      "options": [
+        "To show we see human qualities in things",
+        "To explain how AI is advertised and sold",
+        "To compare children's toys with computers",
+        "To show that companies build dolls with AI"
+      ],
+      "answer": 0,
+      "why": "She says we anthropomorphise action figures, dolls and companies, seeing ourselves in the world around us."
+    },
+    {
+      "q": "According to Professor Bender, when are people more likely to be tricked?",
+      "options": [
+        "When the text is short and simple",
+        "When the computer makes mistakes",
+        "When they are using AI for the first time",
+        "When the text is fluent and covers many topics"
+      ],
+      "answer": 3,
+      "why": "She says the more fluent the text and the more topics, the more chances to get taken in."
+    }
+  ]
+}

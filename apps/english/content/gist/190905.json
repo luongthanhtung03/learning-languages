@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook tasty meals with insects at home",
+        "Where different vegetables come from and how they're grown",
+        "What we might eat in future and how food trends are predicted",
+        "Why people in Britain are eating less red meat these days"
+      ],
+      "answer": 2,
+      "why": "They discuss the future of food with a food futurologist."
+    },
+    {
+      "q": "How does Sam first answer Neil's question about the future of food?",
+      "options": [
+        "She talks about growing meat in labs",
+        "She jokes that she'll have a sandwich soon",
+        "She says she's never thought about it",
+        "She describes insect-based foods"
+      ],
+      "answer": 1,
+      "why": "She says she might have a sandwich 'in about 30 minutes in the future'."
+    },
+    {
+      "q": "Why might we need to change our diets, according to Neil?",
+      "options": [
+        "Food is getting more expensive every single year",
+        "People are getting less healthy and more overweight",
+        "Farmers are growing less food because of low prices",
+        "The population is growing and the climate is changing"
+      ],
+      "answer": 3,
+      "why": "He mentions the increasing world population and the negative effects of climate change."
+    },
+    {
+      "q": "What two things does Dr Morgaine Gaye think about?",
+      "options": [
+        "What we will eat in the future and why",
+        "How to cook food and how to sell it",
+        "Food prices and food safety",
+        "Which foods are healthy and which are not"
+      ],
+      "answer": 0,
+      "why": "She says she thinks about not just what we'll be eating but why."
+    },
+    {
+      "q": "Who is especially interested in Dr Gaye's predictions?",
+      "options": [
+        "Restaurant owners",
+        "Large companies",
+        "Governments",
+        "Farmers"
+      ],
+      "answer": 1,
+      "why": "She says 'when I work for large companies, that's what they want to know.'"
+    },
+    {
+      "q": "How does Dr Gaye start predicting a trend?",
+      "options": [
+        "With a hunch she then tries to prove or disprove",
+        "By doing large surveys of shoppers in supermarkets",
+        "By copying food trends from other countries",
+        "By asking top chefs what they plan to cook next"
+      ],
+      "answer": 0,
+      "why": "She says there's an element of a hunch, then proving or disproving it."
+    },
+    {
+      "q": "Why is the food business more restricted, according to Dr Gaye?",
+      "options": [
+        "Food is very expensive to transport around the world",
+        "Companies don't trust each other to share their ideas",
+        "It's about safety, because we put food into our bodies",
+        "There is far too much competition between supermarkets"
+      ],
+      "answer": 2,
+      "why": "She says it's about safety because 'we're ingesting that'."
+    },
+    {
+      "q": "What effect do strict laws in the UK have?",
+      "options": [
+        "New foods become cheaper for shoppers to buy",
+        "Companies stop creating new products altogether",
+        "Foods from abroad are banned from supermarkets",
+        "It takes longer to get a new food onto the shelves"
+      ],
+      "answer": 3,
+      "why": "She says it takes longer to get from an idea to a product on the shelves."
+    }
+  ]
+}

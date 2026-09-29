@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to find out the age of a very old tree",
+        "Why forests are dying because of coronavirus",
+        "How insects and caterpillars choose what to eat",
+        "Whether trees can remember stress"
+      ],
+      "answer": 3,
+      "why": "Sam says they'll ask whether trees can remember, and if so, whether it helps them fight disease."
+    },
+    {
+      "q": "According to Neil, what does the human body do with stressful past experiences?",
+      "options": [
+        "It forgets them completely after a few years",
+        "It stores them in our genes and passes them on",
+        "It keeps them only in the blood",
+        "It removes them while we sleep"
+      ],
+      "answer": 1,
+      "why": "He says our body stores stressful situations in our genes and passes the information to our children."
+    },
+    {
+      "q": "How does Sam first react to the idea of trees having memories?",
+      "options": [
+        "She doubts it",
+        "She's excited by it",
+        "She already knew it",
+        "She finds it scary"
+      ],
+      "answer": 0,
+      "why": "Sam says, 'But surely trees don't have memories, Neil!'"
+    },
+    {
+      "q": "What does Neil suggest could be a kind of memory in trees?",
+      "options": [
+        "The colour of their leaves",
+        "The height of their branches",
+        "The rings they grow each year",
+        "The smell of their flowers"
+      ],
+      "answer": 2,
+      "why": "He says trees grow a ring for each year of growth, and 'that could be a kind of memory'."
+    },
+    {
+      "q": "According to Jurriaan Ton, why do plants need a very good immune system?",
+      "options": [
+        "They grow much more slowly than animals",
+        "They have no leaves in the winter months",
+        "They need a lot of water to survive",
+        "Many things eat them, and they can't escape"
+      ],
+      "answer": 3,
+      "why": "He says plants sit at the bottom of the food chain and are rooted to the ground, so can't escape."
+    },
+    {
+      "q": "What example of stress for a tree does Neil give?",
+      "options": [
+        "Not getting enough water",
+        "Being moved to a new place",
+        "Having too many birds on it",
+        "Growing too close to a house"
+      ],
+      "answer": 0,
+      "why": "Neil says for trees stress is more basic, 'something like not getting enough water'."
+    },
+    {
+      "q": "According to Dr Estrella Luna-Diez, what does a small tree ring show?",
+      "options": [
+        "The tree was very healthy that year",
+        "The tree had some kind of stress that year",
+        "The tree was cut by people that year",
+        "The tree produced a lot of fruit that year"
+      ],
+      "answer": 1,
+      "why": "Sam says a small ring shows the tree didn't grow much that year, which indicates some outside stress."
+    },
+    {
+      "q": "What is Dr Luna-Diez's idea about how long trees remember stress?",
+      "options": [
+        "They remember every dry month for their whole life",
+        "They never remember any stress at all",
+        "Long droughts may stay; a dry month fades",
+        "They only remember stress when they are young"
+      ],
+      "answer": 2,
+      "why": "She suggests a long drought may be remembered for a long time, but a dry July may be forgotten within a year."
+    }
+  ]
+}

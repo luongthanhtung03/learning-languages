@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The career of a powerful Hollywood film producer",
+        "The MeToo movement and the deeper causes of abuse",
+        "How hashtags spread so quickly on social media",
+        "Famous actresses who became political activists"
+      ],
+      "answer": 1,
+      "why": "They discuss the MeToo movement against sexual violence and Tarana Burke's view of its wider causes."
+    },
+    {
+      "q": "What caused the MeToo hashtag to become a global movement in 2017?",
+      "options": [
+        "A new law passed by the American government",
+        "A TV documentary about abuse in the workplace",
+        "Serious allegations against a Hollywood producer",
+        "A famous speech given by Tarana Burke on TV"
+      ],
+      "answer": 2,
+      "why": "Georgina says it happened when allegations against a Hollywood movie producer made headlines in 2017."
+    },
+    {
+      "q": "What kind of women did Tarana Burke work with?",
+      "options": [
+        "Marginalised women in neglected communities",
+        "Famous actresses working in Hollywood films",
+        "Women working in big companies and banks",
+        "Female politicians and government officials"
+      ],
+      "answer": 0,
+      "why": "Georgina says she worked with marginalised women in neglected American communities."
+    },
+    {
+      "q": "What word does Tarana Burke prefer to 'victims'?",
+      "options": [
+        "Activists",
+        "Witnesses",
+        "Heroes",
+        "Survivors"
+      ],
+      "answer": 3,
+      "why": "Sam says she doesn't call them victims but prefers the term survivors."
+    },
+    {
+      "q": "What point does Tarana make about the women who came forward?",
+      "options": [
+        "They were much braver than ordinary women",
+        "They were no different from the girls she'd helped",
+        "They were mostly from rich and powerful families",
+        "They should not have gone to the media at all"
+      ],
+      "answer": 1,
+      "why": "She says they were 'really no different than those girls' she served ten years before."
+    },
+    {
+      "q": "Why does Tarana call MeToo a 'unifier'?",
+      "options": [
+        "It brings together actresses and producers",
+        "It unites different political parties",
+        "It brings together women of different backgrounds",
+        "It joins different social media sites"
+      ],
+      "answer": 2,
+      "why": "Sam says it unites women of different race and social background, and survivors find community."
+    },
+    {
+      "q": "According to Tarana, what allowed abusers like Weinstein to thrive?",
+      "options": [
+        "Structures of power, privilege and love of money",
+        "The weakness and silence of individual women",
+        "Bad luck and poor timing in the film industry",
+        "The lack of social media before 2006"
+      ],
+      "answer": 0,
+      "why": "She says it's about capitalism, the love of money, power and privilege."
+    },
+    {
+      "q": "What does Tarana believe the MeToo movement has done?",
+      "options": [
+        "Solved the problem of sexual violence",
+        "Ended male-dominated social structures",
+        "Focused only on Hollywood",
+        "Opened a new way to talk about sexual violence"
+      ],
+      "answer": 3,
+      "why": "Georgina says Tarana believes it opened up a space to talk about sexual violence in a new way."
+    }
+  ]
+}

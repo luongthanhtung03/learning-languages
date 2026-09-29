@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to build a self-driving car",
+        "The belief that technology is always the best solution",
+        "Why computers will soon be smarter than people in every way",
+        "The history of artificial intelligence"
+      ],
+      "answer": 1,
+      "why": "The topic is technochauvinism, 'the idea that technology is always the highest and best solution'."
+    },
+    {
+      "q": "What does Rob think about self-driving cars?",
+      "options": [
+        "They will be more dangerous than human drivers",
+        "They will never be allowed on roads",
+        "They will be safer but take away the fun of driving",
+        "They are only useful for long journeys"
+      ],
+      "answer": 2,
+      "why": "Rob says they'll be safer than humans but will take away some of the pleasure of driving."
+    },
+    {
+      "q": "What does Rob say 'better' depends on?",
+      "options": [
+        "What you mean by 'better'",
+        "How much the technology costs",
+        "Who made the technology",
+        "How fast it works"
+      ],
+      "answer": 0,
+      "why": "Rob says 'I guess it depends on what you mean by better.'"
+    },
+    {
+      "q": "According to Meredith Broussard, what have we got into the habit of thinking?",
+      "options": [
+        "Computers are too expensive",
+        "People are better than machines",
+        "Technology is making us lazy and less able to think for ourselves",
+        "Using a computer is always the best and fairest way"
+      ],
+      "answer": 3,
+      "why": "She says we think doing something with a computer is 'the best and most objective way', which isn't true."
+    },
+    {
+      "q": "Why does Broussard say computers are not objective?",
+      "options": [
+        "They make lots of mistakes",
+        "They reflect the people who make them",
+        "They can be hacked easily",
+        "They don't have enough data"
+      ],
+      "answer": 1,
+      "why": "She says computers 'are proxies for the people who make them'."
+    },
+    {
+      "q": "Why does Broussard say there is no such thing as perfect data?",
+      "options": [
+        "The world has problems like racism and sexism",
+        "Because computers are too slow",
+        "Because data is always out of date by the time it is used",
+        "Because people lie in surveys"
+      ],
+      "answer": 0,
+      "why": "She says we have data on the world as it is, with serious problems of racism, sexism and more."
+    },
+    {
+      "q": "What problem does Broussard see inside the tech world?",
+      "options": [
+        "There are too few programmers to build all the technology we need",
+        "Tech companies earn too much",
+        "Algorithm creators don't understand social issues well",
+        "Algorithms are too simple"
+      ],
+      "answer": 2,
+      "why": "She says creators of algorithms 'do not have sufficient awareness of social issues'."
+    },
+    {
+      "q": "What does Catherine suggest listeners think about next time they use an app?",
+      "options": [
+        "Whether it is free",
+        "How fast it works",
+        "Whether it has good reviews from lots of other users",
+        "Whether it reflects its developers' views"
+      ],
+      "answer": 3,
+      "why": "She says you might wonder if it contains nuances 'that reflect the views of the developer'."
+    }
+  ]
+}

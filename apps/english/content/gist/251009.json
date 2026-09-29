@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a politician at a young age",
+        "The history of democracy in Ancient Greece",
+        "Good citizenship and a project for young people",
+        "Why paying taxes is important for everyone"
+      ],
+      "answer": 2,
+      "why": "They discuss good citizenship and MyPolis, a project helping young people in Portugal re-engage."
+    },
+    {
+      "q": "What does Georgie think makes a good citizen?",
+      "options": [
+        "Someone who obeys the law and is kind",
+        "Someone who always votes in every election",
+        "Someone who works for the government",
+        "Someone who pays a lot of tax every year"
+      ],
+      "answer": 0,
+      "why": "She says a good citizen doesn't break the law and is generally kind to other people."
+    },
+    {
+      "q": "What does Neil add to Georgie's idea?",
+      "options": [
+        "Good citizens should become local politicians",
+        "Good citizens should travel abroad more often",
+        "Good citizens should study their country's history",
+        "Volunteers, like people running kids' clubs"
+      ],
+      "answer": 3,
+      "why": "Neil agrees and adds people who volunteer, like running clubs for children."
+    },
+    {
+      "q": "What does Neil say about young people and politics today?",
+      "options": [
+        "They vote more often than older people do",
+        "They vote less and often feel ignored",
+        "They trust politicians completely",
+        "They are all members of political parties"
+      ],
+      "answer": 1,
+      "why": "He says young people are less likely to vote, and many aged 18 to 30 feel ignored by politicians."
+    },
+    {
+      "q": "What happens at MyPolis assemblies?",
+      "options": [
+        "Children vote in real national elections",
+        "Teachers decide how to spend school money",
+        "Children suggest changes; politicians respond",
+        "Politicians give long lessons about the law"
+      ],
+      "answer": 2,
+      "why": "Children propose improvements and politicians listen, giving support or explaining why not."
+    },
+    {
+      "q": "Why did Bernardo Goncalves start MyPolis?",
+      "options": [
+        "He was worried trust in democracy was falling",
+        "He wanted to become a politician himself",
+        "His old school asked him to start it",
+        "He wanted to change the national curriculum"
+      ],
+      "answer": 0,
+      "why": "He says there's been a quick erosion of trust, and a growing gap is 'very dangerous for democracy'."
+    },
+    {
+      "q": "What benefit of MyPolis does reporter Alison Roberts mention?",
+      "options": [
+        "It's completely free for all families",
+        "It only takes one day each school year",
+        "It is run entirely by older students",
+        "It can be part of the curriculum, not extra"
+      ],
+      "answer": 3,
+      "why": "She says it's designed to be part of the national curriculum, rather than an add-on."
+    },
+    {
+      "q": "Why is Myra Anubi especially impressed by the project?",
+      "options": [
+        "Because children are paid to take part in it",
+        "Politicians, often hard to question, answer",
+        "Because it has spread to every country in Europe",
+        "Because the children fix everything themselves"
+      ],
+      "answer": 1,
+      "why": "She's struck that politicians take the kids seriously, since politicians 'can be hard to pin down'."
+    }
+  ]
+}

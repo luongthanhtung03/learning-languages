@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why Norway has the best health system",
+        "How to stop feeling unhappy at work",
+        "How ideas about happiness differ between cultures",
+        "Why older people are happier than young people"
+      ],
+      "answer": 2,
+      "why": "Neil says they are talking about concepts of happiness, which vary from culture to culture."
+    },
+    {
+      "q": "Which of these does Rob say makes him happy?",
+      "options": [
+        "Being healthy and having good friends",
+        "Travelling to New Zealand and spending time outdoors",
+        "Earning a lot of money",
+        "Spending time alone"
+      ],
+      "answer": 0,
+      "why": "Rob mentions being healthy, having good friends and presenting the programme with Neil."
+    },
+    {
+      "q": "According to research, how do East Asian cultures tend to see happiness?",
+      "options": [
+        "As personal feelings of pleasure",
+        "As shared experiences and family",
+        "As having a successful career",
+        "As social harmony"
+      ],
+      "answer": 3,
+      "why": "The research says East Asian cultures tend to see happiness as social harmony."
+    },
+    {
+      "q": "Which country did Helen Russell find to be one of the happiest?",
+      "options": [
+        "New Zealand",
+        "Japan",
+        "England",
+        "India"
+      ],
+      "answer": 1,
+      "why": "Neil says 'Actually no. It was Japan.' after Rob guesses New Zealand."
+    },
+    {
+      "q": "What is the idea behind the Japanese concept of wabi-sabi?",
+      "options": [
+        "Hiding signs of age for as long as you possibly can",
+        "Throwing away things that are broken",
+        "Seeing beauty in things that are not perfect",
+        "Working hard to make everything perfect"
+      ],
+      "answer": 2,
+      "why": "Helen Russell describes it as 'celebrating imperfection' and seeing beauty in ageing."
+    },
+    {
+      "q": "Why does Helen Russell mention kintsugi, mending broken pots with gold?",
+      "options": [
+        "To show damage can be highlighted, not hidden",
+        "To explain why traditional Japanese pottery is so expensive",
+        "To suggest a new hobby for unhappy people",
+        "To compare Japanese and British art"
+      ],
+      "answer": 0,
+      "why": "She says the scars, rather than being hidden, are 'highlighted in pure gold', like celebrating our laughter lines."
+    },
+    {
+      "q": "What does Helen Russell say about English people?",
+      "options": [
+        "They are the happiest people in Europe",
+        "They complain more than any other nation",
+        "They have no way of dealing with problems",
+        "They are 'jolly' and just get on with things"
+      ],
+      "answer": 3,
+      "why": "She says the English have 'jolly', a coping mechanism where you just get on with things."
+    },
+    {
+      "q": "What does Helen Russell think about this English 'jolly' attitude?",
+      "options": [
+        "It is only found in upper-class people",
+        "It isn't perfect, but it has worked for many Brits",
+        "It is the main reason why English people are so happy",
+        "It is disappearing because of modern comedy"
+      ],
+      "answer": 1,
+      "why": "She says 'it's not perfect but it's worked for many Brits for a while'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to create a good dating profile with the right photos",
+        "Why many dating app users don't actually go on dates",
+        "The history of marriage and dating in Britain",
+        "How much money dating apps make from their users"
+      ],
+      "answer": 1,
+      "why": "Neil says few app users actually go on a date, and they find out the reasons."
+    },
+    {
+      "q": "What experience do Neil and Dan have of dating apps?",
+      "options": [
+        "Both use them regularly to meet new people",
+        "Only Dan has used them, and he met his partner",
+        "Neither has, but Neil has friends who did",
+        "Neil met his wife on one ten years ago"
+      ],
+      "answer": 2,
+      "why": "Neither has used them, but Neil has friends who have, 'very successfully'."
+    },
+    {
+      "q": "According to Elizabeth Tinnemans, what were the most common reasons for using the app?",
+      "options": [
+        "Curiosity, passing time and entertainment",
+        "Finding a husband or wife",
+        "Making business contacts",
+        "Meeting people while travelling"
+      ],
+      "answer": 0,
+      "why": "She says the most common motives were curiosity and passing time or entertainment."
+    },
+    {
+      "q": "What does Elizabeth Tinnemans say happens fairly often, especially among millennials?",
+      "options": [
+        "Deleting the app after one day",
+        "Paying for extra features",
+        "Meeting many people in one week",
+        "Swiping through the app with friends"
+      ],
+      "answer": 3,
+      "why": "She says 'swiping with friends is something that happens fairly often'."
+    },
+    {
+      "q": "Why does Dan mention watching people bungee jumping?",
+      "options": [
+        "It is his favourite hobby at weekends",
+        "It shows doing something just out of curiosity",
+        "He met his girlfriend there last summer",
+        "To show that online dating can be dangerous"
+      ],
+      "answer": 1,
+      "why": "He went to watch out of curiosity but was never going to do it himself."
+    },
+    {
+      "q": "Was Elizabeth Tinnemans surprised that few users met up?",
+      "options": [
+        "Yes, very surprised",
+        "Yes, because the app is popular",
+        "She didn't comment",
+        "No, it made sense given their reasons"
+      ],
+      "answer": 3,
+      "why": "She says 'it makes sense because we also looked at why they were using' it."
+    },
+    {
+      "q": "According to Zoe Strimpel, what is making dating unpleasant?",
+      "options": [
+        "Having so much choice",
+        "Apps being too expensive",
+        "Not enough people using apps",
+        "Bad technology"
+      ],
+      "answer": 0,
+      "why": "She links it to 'the sort of incredible sense of choice'."
+    },
+    {
+      "q": "How does Zoe Strimpel say many app users feel?",
+      "options": [
+        "Excited and hopeful about meeting someone special",
+        "Confident and happy with the people they meet",
+        "Disappointed, tired of it and aware it can be cold",
+        "Worried about their privacy and personal data"
+      ],
+      "answer": 2,
+      "why": "She says people are disillusioned, jaded and aware relationships are often callous."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best romantic films of the 1950s",
+        "How actors learn to dance in musicals",
+        "Why black-and-white films are still popular",
+        "How intimate scenes are planned and filmed safely"
+      ],
+      "answer": 3,
+      "why": "They discuss filming intimate scenes and the job of the intimacy coordinator."
+    },
+    {
+      "q": "Why does Georgina tease Neil early in the programme?",
+      "options": [
+        "Because he doesn't like romantic films",
+        "Because he forgot the name of a film",
+        "Because the old films he mentions show his age",
+        "Because he has never seen Titanic"
+      ],
+      "answer": 2,
+      "why": "After he mentions classic films from 1942 and 1951, she says 'You're really showing your age, Neil!'"
+    },
+    {
+      "q": "According to Neil, why can romantic scenes in films cause problems?",
+      "options": [
+        "Because audiences usually find them boring and too slow",
+        "Because the actors are only pretending to be intimate",
+        "Because they are too expensive and take days to film",
+        "Because they make films too long for cinemas to show"
+      ],
+      "answer": 1,
+      "why": "Neil says actors are just pretending to be intimate, and this can lead to problems."
+    },
+    {
+      "q": "What does Ita O'Brien do?",
+      "options": [
+        "She helps plan and film intimate scenes",
+        "She writes romantic dramas for BBC television",
+        "She is the director of 'Normal People'",
+        "She teaches actors to kiss"
+      ],
+      "answer": 0,
+      "why": "She is an 'intimacy coordinator' who helps actors and directors plan and film intimate scenes."
+    },
+    {
+      "q": "How does Ita O'Brien define intimacy?",
+      "options": [
+        "Only as sex scenes shown on screen",
+        "Only as kissing between two actors",
+        "As any scene with two actors in it",
+        "From holding hands to simulated sex"
+      ],
+      "answer": 3,
+      "why": "Her definition goes from a hand hold and a hug right through to simulated sexual content."
+    },
+    {
+      "q": "Why are intimate scenes planned and choreographed beforehand?",
+      "options": [
+        "So that everyone, especially the actors, is comfortable",
+        "So that filming finishes more quickly and costs less money",
+        "So that the scenes look more like dances in musicals",
+        "So that the film has a better chance of winning an Oscar"
+      ],
+      "answer": 0,
+      "why": "Neil says they are planned so the director, crew and above all the actors are comfortable."
+    },
+    {
+      "q": "How is the UK system different from the US system, according to Ita O'Brien?",
+      "options": [
+        "UK actors sign nothing at all before filming",
+        "US actors sign one document for the whole film",
+        "UK: one clause for all; US: one per scene",
+        "In the US only the director signs a document"
+      ],
+      "answer": 2,
+      "why": "She says in the US there's a waiver for each intimate scene, but in the UK one clause covers the production."
+    },
+    {
+      "q": "Which way of working does Ita O'Brien prefer?",
+      "options": [
+        "The British way, with one document for the whole film",
+        "The US way, agreeing to every single scene",
+        "Having no written documents or contracts at all",
+        "Letting the director decide everything on the day"
+      ],
+      "answer": 1,
+      "why": "About the US scene-by-scene waiver, she says 'I actually really like that way of working'."
+    }
+  ]
+}

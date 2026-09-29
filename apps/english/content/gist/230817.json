@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to get a better-paid job",
+        "Why work makes people unhappy and how it could improve",
+        "The worst jobs the presenters have had",
+        "Why British workers are the happiest in Europe"
+      ],
+      "answer": 1,
+      "why": "Beth asks how we can make sure our job doesn't make us unhappy, and that's what they discuss."
+    },
+    {
+      "q": "What was difficult about Beth's job as a waitress?",
+      "options": [
+        "Her boss was very unkind to the staff",
+        "The pay was very low for the long hours",
+        "She was on her feet ten hours a day",
+        "She had to work at night every weekend"
+      ],
+      "answer": 2,
+      "why": "She says she was on her feet ten hours a day, and it was exhausting."
+    },
+    {
+      "q": "According to Professor Damian Grimshaw, how does Britain compare with other European countries?",
+      "options": [
+        "It scores badly on work intensity",
+        "British workers get many more holidays",
+        "British bosses give workers more freedom",
+        "British workers are paid much more money"
+      ],
+      "answer": 0,
+      "why": "He says on surveys of 'work intensity', Britain scores really badly compared to European countries."
+    },
+    {
+      "q": "What does Beth say makes a good job, apart from pay?",
+      "options": [
+        "Having a friendly boss who listens to you",
+        "Working close to home so you can walk there",
+        "Having lots of targets to meet each week",
+        "Using your talents and some choice in how you work"
+      ],
+      "answer": 3,
+      "why": "She says a good job uses your talents and gives you some choice over how and when you work."
+    },
+    {
+      "q": "Why did many NHS nurses leave their jobs in 2022?",
+      "options": [
+        "Because of low pay",
+        "Because of long, inflexible working hours",
+        "Because of injuries at work",
+        "Because they moved to other countries"
+      ],
+      "answer": 1,
+      "why": "More than 15,000 nurses left, many because of the long and inflexible working hours."
+    },
+    {
+      "q": "In Emma Stewart's trial, when could builders go home?",
+      "options": [
+        "When the last person left the site",
+        "At seven in the evening",
+        "After they had worked eight hours",
+        "When they had finished their tasks well"
+      ],
+      "answer": 3,
+      "why": "She says when you've done your tasks, and done them well, you can go home, with the same pay."
+    },
+    {
+      "q": "What was a result of the task-based trial?",
+      "options": [
+        "Projects were finished late and over budget",
+        "Workers were paid less for the same work",
+        "Work-life balance scores doubled",
+        "Workers did a lot more overtime each week"
+      ],
+      "answer": 2,
+      "why": "Emma says work-life balance scores doubled and overtime went down."
+    },
+    {
+      "q": "Why does Emma call the new way of working 'a win-win'?",
+      "options": [
+        "It helps both the company and the workers",
+        "It helps workers but costs companies more",
+        "It is only good for the managers",
+        "It means builders can win prizes"
+      ],
+      "answer": 0,
+      "why": "Projects were on time and on budget, and workers had better work-life balance."
+    }
+  ]
+}

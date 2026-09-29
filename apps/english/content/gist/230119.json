@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Whether too many people cause climate change",
+        "How to reduce your electricity bill at home",
+        "Why people in India shop so much these days",
+        "How the world's population is counted"
+      ],
+      "answer": 0,
+      "why": "Neil says they'll discuss the controversial link between overpopulation and climate change."
+    },
+    {
+      "q": "What does Sam give as the obvious cause of climate change?",
+      "options": [
+        "Natural changes in the weather",
+        "Carbon emissions from human activities",
+        "Too many animals",
+        "Cutting down forests only"
+      ],
+      "answer": 1,
+      "why": "She says climate change is the result of carbon emissions caused by humans."
+    },
+    {
+      "q": "Why is the link between population and emissions 'not so simple'?",
+      "options": [
+        "Because the population is falling",
+        "Because nobody knows the real population",
+        "Because people don't all produce the same amount of carbon",
+        "Because emissions have nothing to do with people"
+      ],
+      "answer": 2,
+      "why": "Sam says not everyone emits carbon equally; westerners produce far more."
+    },
+    {
+      "q": "According to Professor Arvind Ravikumar, how much would two billion extra low-income people raise emissions?",
+      "options": [
+        "By more than 60%",
+        "By about 15%",
+        "They would double them",
+        "By just 1.5%"
+      ],
+      "answer": 3,
+      "why": "Neal Razzell says they would see global emissions rise by just 1.5%."
+    },
+    {
+      "q": "What point do the presenters make with Professor Ravikumar's figures?",
+      "options": [
+        "Where you are born makes a big difference to your emissions",
+        "Poor countries are the main cause of climate change",
+        "Population growth has no effect at all",
+        "Everyone should stop using cars"
+      ],
+      "answer": 0,
+      "why": "Neal Razzell concludes: 'where you were born matters'."
+    },
+    {
+      "q": "According to this view, what is the real problem?",
+      "options": [
+        "Overpopulation",
+        "Lack of electricity",
+        "Consuming too much",
+        "Poor education"
+      ],
+      "answer": 2,
+      "why": "Neil says the real problem is not overpopulation but overconsumption."
+    },
+    {
+      "q": "How does Priti Dhagan feel about her shopping?",
+      "options": [
+        "She feels guilty and wants to stop",
+        "She is not sorry, because it makes her happy",
+        "She shops only for her family",
+        "She thinks she buys too little"
+      ],
+      "answer": 1,
+      "why": "She says she loves it and is 'not apologetic about it'."
+    },
+    {
+      "q": "What does Priti mean when she talks about her brain and heart?",
+      "options": [
+        "Her brain tells her to buy more things",
+        "Her heart tells her to help the poor",
+        "Both agree that she should shop much less",
+        "She knows she should feel sorry but doesn't"
+      ],
+      "answer": 3,
+      "why": "She says the brain says yes, we should be apologetic, but the heart does not agree."
+    }
+  ]
+}

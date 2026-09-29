@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why school rules make children behave better",
+        "A school in Thailand where the pupils run almost everything",
+        "How bamboo is used to build cheap houses and schools in Thailand",
+        "The problems of private schools in Asia"
+      ],
+      "answer": 1,
+      "why": "They talk about the Bamboo School, “a school run by students, for students”."
+    },
+    {
+      "q": "What did Georgie not like about her own school days?",
+      "options": [
+        "The teachers",
+        "The school food",
+        "The homework",
+        "The rules"
+      ],
+      "answer": 3,
+      "why": "She enjoyed school most of the time, but didn't like “the school rules!”"
+    },
+    {
+      "q": "Which of these jobs do the Bamboo School children do?",
+      "options": [
+        "Hiring new staff",
+        "Building new classrooms",
+        "Teaching all the lessons",
+        "Selling vegetables at the market"
+      ],
+      "answer": 0,
+      "why": "Phil says the children do everything from buying food to disciplining students and hiring new staff."
+    },
+    {
+      "q": "How often do children go to the market to buy food?",
+      "options": [
+        "Every day",
+        "Once a month",
+        "Twice a week",
+        "Only at weekends"
+      ],
+      "answer": 2,
+      "why": "Georgie says twice a week they go with a school officer and buy food for all 150 students."
+    },
+    {
+      "q": "Why does Nooneem enjoy managing the food accounts?",
+      "options": [
+        "Because she gets paid for it",
+        "Because she likes accounting and it's a real job",
+        "Because it means she can miss lessons",
+        "Because her teachers help her with it all the time"
+      ],
+      "answer": 1,
+      "why": "She was already interested in accounting and enjoys doing “the actual job”."
+    },
+    {
+      "q": "How was Nooneem's old school different?",
+      "options": [
+        "It had far more rules about food",
+        "It was also run by the pupils",
+        "It only had lessons, then pupils went home",
+        "It was more expensive, but it was also more fun"
+      ],
+      "answer": 2,
+      "why": "She says her old school was “just classes and then home”."
+    },
+    {
+      "q": "What does reporter William Kramer say about the school?",
+      "options": [
+        "It has no adults at all",
+        "It is exactly like other schools",
+        "The children are in charge of the classrooms as well",
+        "It is traditional in some ways and very new in others"
+      ],
+      "answer": 3,
+      "why": "He says it's quite conventional in some ways and really innovative, even radical, in others."
+    },
+    {
+      "q": "How much community service do the children do?",
+      "options": [
+        "Two hours every week",
+        "Two hours every day",
+        "One day every month",
+        "Only during the holidays"
+      ],
+      "answer": 0,
+      "why": "Phil says children do two hours of community service every week."
+    }
+  ]
+}

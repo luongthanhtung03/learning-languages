@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How grandparents in Africa look after young children",
+        "The history of mental hospitals in Zimbabwe",
+        "Why traditional healers are popular in villages",
+        "Grandmothers giving talking therapy on park benches"
+      ],
+      "answer": 3,
+      "why": "They hear how community grandmothers in Zimbabwe provide therapy on 'grandma benches'."
+    },
+    {
+      "q": "Why did Dr Dixon Chibanda start using park benches?",
+      "options": [
+        "Patients preferred to be outside",
+        "He couldn't find free space in hospitals",
+        "The government told him to",
+        "It was cheaper than renting offices"
+      ],
+      "answer": 1,
+      "why": "Neil says it proved impossible to find free space in hospitals, so he turned benches into therapy spaces."
+    },
+    {
+      "q": "Why did he choose grandmothers to do the therapy?",
+      "options": [
+        "They have free time and lots of life experience",
+        "They had all worked as trained nurses before",
+        "They came to the hospital and asked him for work",
+        "They all lived close to the hospital in Harare"
+      ],
+      "answer": 0,
+      "why": "Sam says he recruited grandmothers, who have both free time and plenty of life experience."
+    },
+    {
+      "q": "What did many villagers prefer before the project?",
+      "options": [
+        "Medicine from pharmacies",
+        "Talking to their doctors",
+        "Traditional faith healers",
+        "Keeping their problems secret"
+      ],
+      "answer": 2,
+      "why": "Sam says many villagers were suspicious of talking therapy and relied on traditional faith healers."
+    },
+    {
+      "q": "How did Dr Chibanda feel at the start of the project?",
+      "options": [
+        "Completely confident",
+        "Angry with his colleagues",
+        "Excited but not worried",
+        "Honestly a bit worried"
+      ],
+      "answer": 3,
+      "why": "Asked if he was apprehensive, he says, “I was, to be quite honest.”"
+    },
+    {
+      "q": "Why did his colleagues resist the idea?",
+      "options": [
+        "There was no evidence and it had never been tried",
+        "It would be far too expensive for the health service",
+        "They secretly wanted to do the job themselves",
+        "The grandmothers refused to take part at first"
+      ],
+      "answer": 0,
+      "why": "He says colleagues thought it wasn't evidence-based and it had never been done anywhere in the world."
+    },
+    {
+      "q": "How many people have the grandma benches helped?",
+      "options": [
+        "Around 14 million",
+        "More than 50,000",
+        "About 5,000",
+        "Fewer than 20"
+      ],
+      "answer": 1,
+      "why": "Sam says the benches have empowered over 50,000 people to deal with their problems."
+    },
+    {
+      "q": "According to Dr Chibanda, why does the project work?",
+      "options": [
+        "It uses the latest western methods from Europe",
+        "It is run by highly trained professional psychiatrists",
+        "It is simple, cheap and run by respected locals",
+        "It takes place in modern hospitals in the capital"
+      ],
+      "answer": 2,
+      "why": "He says it works because it's simple, cheap and run by communities, especially grandmothers."
+    }
+  ]
+}

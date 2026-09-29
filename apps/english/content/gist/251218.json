@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Finding wild food to eat, and doing it safely",
+        "How to grow mushrooms at home in the dark",
+        "Why supermarkets sell less fresh fruit now",
+        "Traditional cooking in South Africa"
+      ],
+      "answer": 0,
+      "why": "They meet two young women who forage for wild food and stress eating only what they can identify."
+    },
+    {
+      "q": "How do Pippa and Beth feel about foraging?",
+      "options": [
+        "They both forage for wild mushrooms often",
+        "Pippa loves wild mushrooms, but Beth doesn't",
+        "They have never eaten any wild food at all",
+        "Both would eat blackberries, but fear mushrooms"
+      ],
+      "answer": 3,
+      "why": "Pippa picked blackberries but would be nervous about mushrooms; Beth says she's 'exactly the same'."
+    },
+    {
+      "q": "What important rule do both foragers follow?",
+      "options": [
+        "Only pick food early in the morning",
+        "Only eat what you can identify for certain",
+        "Never eat anything raw, even berries",
+        "Always forage in a group of three or more"
+      ],
+      "answer": 1,
+      "why": "Pippa says they only eat what they can identify with 100% certainty: 'If in doubt leave it out!'"
+    },
+    {
+      "q": "How did Roushanna Gray learn to forage?",
+      "options": [
+        "At university, on a plant science course",
+        "From books and videos she found online",
+        "From her mother-in-law, a plant expert",
+        "From local farmers near her home"
+      ],
+      "answer": 2,
+      "why": "She learned from her mother-in-law, a horticulturalist with a deep knowledge of plants."
+    },
+    {
+      "q": "According to Roushanna, what is incredibly important in foraging?",
+      "options": [
+        "Being completely sure you can eat a plant",
+        "Finding the rarest plants in the area",
+        "Picking as much as possible each time",
+        "Cooking all plants for a long time"
+      ],
+      "answer": 0,
+      "why": "She says it's incredibly important to know 'a hundred and ten percent' if you can eat it."
+    },
+    {
+      "q": "Why did Emily Smith move to rural Japan?",
+      "options": [
+        "To open a small restaurant in the mountains",
+        "To study traditional Japanese cooking",
+        "To teach English at a local school",
+        "To work on a wild mushroom project"
+      ],
+      "answer": 3,
+      "why": "Beth says she moved there to work on a project cataloguing and collecting wild mushrooms."
+    },
+    {
+      "q": "How many kinds of mushroom are there in Japan, and how many are edible?",
+      "options": [
+        "About 300, and almost all are edible",
+        "About 500, and 30 are edible",
+        "About 5,000, and 300 are edible",
+        "About 5,000, and none are edible"
+      ],
+      "answer": 2,
+      "why": "Beth says there are around 5,000 varieties, 300 of which are edible."
+    },
+    {
+      "q": "What does Emily think about people's fear of mushrooms?",
+      "options": [
+        "It is completely right, as mushrooms are the most dangerous food",
+        "It is unfair, because plants can be just as dangerous",
+        "It is silly, because all mushrooms are safe",
+        "It only exists in Japan"
+      ],
+      "answer": 1,
+      "why": "She says the stigma is misplaced, because plants can be just as dangerous, if not more."
+    }
+  ]
+}

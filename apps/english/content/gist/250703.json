@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How people say sorry in different cultures",
+        "Why people find it hard to forgive",
+        "The history of the Ashanti kings",
+        "How to be polite on public transport"
+      ],
+      "answer": 0,
+      "why": "They find out how apologies change from culture to culture."
+    },
+    {
+      "q": "Why did Beth have to apologise that morning?",
+      "options": [
+        "She was late for work",
+        "She criticised someone on TV",
+        "She stepped on someone's toes on the tube",
+        "She forgot her best friend's birthday party"
+      ],
+      "answer": 2,
+      "why": "Beth says she stepped on someone's toes on the tube."
+    },
+    {
+      "q": "Why does Neil compare Beth's apology with the story of Afia Pokua?",
+      "options": [
+        "To show that both women were treated unfairly",
+        "To show that people in Ghana apologise much more than British people do",
+        "To explain that the word 'sorry' is always enough",
+        "To show that how you apologise depends on how serious the action was"
+      ],
+      "answer": 3,
+      "why": "He says 'sorry' is fine for stepping on toes, but not for something really serious."
+    },
+    {
+      "q": "What did the journalist Afia Pokua do?",
+      "options": [
+        "She refused to meet the King",
+        "She criticised the King of the Ashanti tribe on television",
+        "She wrote a book about how people apologise in Ghana and Britain",
+        "She moved to the King's palace"
+      ],
+      "answer": 1,
+      "why": "She made comments on television criticising the King of the Ashanti tribe."
+    },
+    {
+      "q": "How did Afia apologise to the King?",
+      "options": [
+        "She sent him a letter and a gift",
+        "She apologised on the same TV programme where she spoke",
+        "She followed tradition, wearing black and kneeling",
+        "She bowed and shook his hand"
+      ],
+      "answer": 2,
+      "why": "She followed strict rules: to dress in black and apologise kneeling down."
+    },
+    {
+      "q": "According to journalist Ahsan Mahmood, how do many Pakistanis apologise?",
+      "options": [
+        "They slip it into a conversation and quickly change the subject",
+        "They apologise loudly and clearly in front of everyone who is there",
+        "They write a formal letter",
+        "They never apologise at all"
+      ],
+      "answer": 0,
+      "why": "He says they slide an apology into a conversation and quickly move on to a new topic."
+    },
+    {
+      "q": "What happens on Forgiveness Sunday in Russia, according to Liza Fokht?",
+      "options": [
+        "People go to church and apologise to a priest for their bad actions",
+        "People call family and friends to say sorry for any sadness caused",
+        "Children apologise to their teachers",
+        "People give presents to their neighbours"
+      ],
+      "answer": 1,
+      "why": "She says you call family and friends and apologise for any sorrows you've caused."
+    },
+    {
+      "q": "What does Son Hun We say about saying sorry in Korea?",
+      "options": [
+        "There is only one way to say it",
+        "People only apologise to their family",
+        "People avoid saying sorry to strangers because it's seen as a weakness",
+        "It depends on the relationship, and people often bow in formal cases"
+      ],
+      "answer": 3,
+      "why": "He says it varies with the relationship, and people often bow when saying the formal phrase."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Wine experts and how price affects how wine tastes",
+        "How to make your own red and white wine at home",
+        "The long history of wine-making in France and Italy",
+        "Why people should stop drinking alcohol completely"
+      ],
+      "answer": 0,
+      "why": "They discuss sommeliers and research showing price changes how much we like wine."
+    },
+    {
+      "q": "How does Rob describe his relationship with wine?",
+      "options": [
+        "He is an expert who knows a lot about it",
+        "He never drinks it",
+        "He only drinks expensive wine",
+        "He enjoys it but isn't an expert"
+      ],
+      "answer": 3,
+      "why": "Rob says he isn't a connoisseur, 'although the enjoy part is true'."
+    },
+    {
+      "q": "According to Rob, how can wine be useful even for people who don't drink alcohol?",
+      "options": [
+        "It can be used for cooking special meals",
+        "It can be used as medicine",
+        "It can be an investment sold at auction",
+        "It can be given as a present"
+      ],
+      "answer": 2,
+      "why": "Rob says wine can be a commodity you invest in and sell at an auction."
+    },
+    {
+      "q": "What surprised Bianca Bosker about sommeliers?",
+      "options": [
+        "They didn't really like the taste of wine",
+        "They made a pleasure into something painful",
+        "They earned very little money",
+        "They only drank cheap wine"
+      ],
+      "answer": 1,
+      "why": "She says they turned wine into 'something approaching sheer God-awful pain'."
+    },
+    {
+      "q": "Which of these did Bianca Bosker NOT say sommeliers did?",
+      "options": [
+        "Licked rocks",
+        "Took dance classes",
+        "Hired memory coaches",
+        "Worked on farms growing grapes"
+      ],
+      "answer": 3,
+      "why": "She mentions licking rocks, voice and memory coaches and dance classes, but not farm work."
+    },
+    {
+      "q": "What is Rob's reaction to sommeliers divorcing their spouses?",
+      "options": [
+        "He thinks it is a bit extreme",
+        "He thinks it shows real dedication",
+        "He wants to try the same training",
+        "He doesn't believe it is true"
+      ],
+      "answer": 0,
+      "why": "Rob says divorcing their spouses 'does sound a bit extreme'."
+    },
+    {
+      "q": "According to Hilke Plassmann, what does a higher price do?",
+      "options": [
+        "It makes people drink less wine at dinner",
+        "It makes our brain really like the taste more",
+        "It has no effect on the taste",
+        "It makes people suspicious of the wine"
+      ],
+      "answer": 1,
+      "why": "She says the price tag affects the brain region that encodes how much you like the taste."
+    },
+    {
+      "q": "What advice does Sam give based on this research?",
+      "options": [
+        "Always buy the most expensive wine",
+        "Only drink wine in restaurants",
+        "Tell yourself the cheaper option is fine",
+        "Ask a sommelier before buying"
+      ],
+      "answer": 2,
+      "why": "Sam says it may be better telling yourself that the cheaper option is OK."
+    }
+  ]
+}

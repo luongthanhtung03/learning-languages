@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Research showing death metal gives fans joy, not violence",
+        "How to play the electric guitar in a heavy metal band",
+        "The history of heavy metal bands from Britain and the US",
+        "Why violent music should be banned from the radio and TV"
+      ],
+      "answer": 0,
+      "why": "They discuss a study that found fans' main response to death metal was joy."
+    },
+    {
+      "q": "How does Rob first understand Neil's question 'do you like metal?'",
+      "options": [
+        "As a question about gold and silver jewellery",
+        "As a question about a band he listens to",
+        "As a question about metal objects he uses",
+        "As a joke about his old bike being rusty"
+      ],
+      "answer": 2,
+      "why": "He talks about metal things he uses every day, like his toaster and bike."
+    },
+    {
+      "q": "Does Rob like death metal?",
+      "options": [
+        "Yes, it's his favourite music",
+        "He has never heard it",
+        "He likes it only live",
+        "No, it's not his kind of music"
+      ],
+      "answer": 3,
+      "why": "He says, 'Nope. Not my cup of tea at all.'"
+    },
+    {
+      "q": "What was the fear about death metal's violent lyrics?",
+      "options": [
+        "They would make fans stop caring about real violence",
+        "They would make fans feel sad and lonely for weeks",
+        "They would damage people's hearing at loud concerts",
+        "They would make young fans leave school early"
+      ],
+      "answer": 0,
+      "why": "There was a fear it would make people desensitised to violence."
+    },
+    {
+      "q": "According to the BBC News report, what are most death metal fans like?",
+      "options": [
+        "Angry and aggressive, especially at concerts",
+        "Very nice people who wouldn't hurt anyone",
+        "Lonely and sad, with very few close friends",
+        "Mostly teenagers who want to annoy their parents"
+      ],
+      "answer": 1,
+      "why": "It says most are very nice people who wouldn't dream of hurting anyone."
+    },
+    {
+      "q": "What does Professor Bill Thompson say about many death metal fans?",
+      "options": [
+        "They don't know much about music",
+        "They also like classical music",
+        "Most are musically trained",
+        "Most play in bands"
+      ],
+      "answer": 2,
+      "why": "He says most are actually musically trained people."
+    },
+    {
+      "q": "Which feeling does Professor Thompson say fans do NOT get from the music?",
+      "options": [
+        "Empowerment",
+        "Joy",
+        "Aesthetic interest",
+        "Anger"
+      ],
+      "answer": 3,
+      "why": "He says, 'But what they don't feel is angry.'"
+    },
+    {
+      "q": "What does Neil suggest early in the programme about people who like death metal?",
+      "options": [
+        "They are exactly who you'd expect them to be",
+        "They may not be the kind of person you imagine",
+        "They are usually musicians who play in bands",
+        "They are dangerous and often get into fights"
+      ],
+      "answer": 1,
+      "why": "He says the type of person who likes it 'may not be the kind of person you think'."
+    }
+  ]
+}

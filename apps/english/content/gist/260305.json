@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How zoos look after pandas",
+        "Why some animals have black-and-white colouring",
+        "How animals see colours",
+        "Why peacocks and frogs are so colourful"
+      ],
+      "answer": 1,
+      "why": "Becca says hundreds of species are black and white, and they try to find out why."
+    },
+    {
+      "q": "What is Neil's first guess about why animals are black and white?",
+      "options": [
+        "To attract a partner",
+        "To keep cool in the sun",
+        "To look like other animals",
+        "It has something to do with survival"
+      ],
+      "answer": 3,
+      "why": "Neil says he's not sure, but 'probably something about survival'."
+    },
+    {
+      "q": "What do some scientists think zebras' stripes do?",
+      "options": [
+        "Stop flies and other insects from biting",
+        "Help zebras find each other in long grass",
+        "Keep zebras warm during cold nights",
+        "Make zebras look bigger to lions"
+      ],
+      "answer": 0,
+      "why": "Neil says some scientists think the stripes prevent bites from flies and other insects."
+    },
+    {
+      "q": "How did zoologist Dr Martin How test this idea?",
+      "options": [
+        "He painted stripes on insects",
+        "He watched zebras in the wild for a year",
+        "He covered horses in rugs with different patterns",
+        "He compared zebras with pandas"
+      ],
+      "answer": 2,
+      "why": "He tested it by covering horses in stripes, trying different patterns of rugs."
+    },
+    {
+      "q": "What did Martin's tests show?",
+      "options": [
+        "Only very thin stripes worked against flies",
+        "Flies preferred black-and-white patterns",
+        "Brightly coloured patterns worked best",
+        "Almost any black-and-white pattern stopped flies"
+      ],
+      "answer": 3,
+      "why": "He says practically every high-contrast black and white pattern was really effective at stopping flies."
+    },
+    {
+      "q": "According to Becca, why is black and white useful for giant pandas?",
+      "options": [
+        "It helps them stand out clearly on green grass",
+        "It hides them from far away in snowy forests",
+        "It warns other animals to stay away from them",
+        "It protects their skin from the strong sun"
+      ],
+      "answer": 1,
+      "why": "She says seen from a distance in snowy mountain forests, black and white is the perfect disguise."
+    },
+    {
+      "q": "Why does Professor Tim Caro talk about his 15 photos of pandas?",
+      "options": [
+        "To show that pandas are hard to photograph in zoos",
+        "To show that pandas are shy and hide from people",
+        "Missing a panda in them showed him they're hidden",
+        "Because the photos won an important prize"
+      ],
+      "answer": 2,
+      "why": "In two photos he saw only rocks and snow, then realised a panda was there, and it clicked."
+    },
+    {
+      "q": "What is Hannah Rowland's view about why penguins are black and white?",
+      "options": [
+        "There's usually a mix of reasons, not just one",
+        "It is only for camouflage when in the water",
+        "Scientists have now found one clear reason",
+        "It mainly helps them keep warm on the ice"
+      ],
+      "answer": 0,
+      "why": "She says science never has a black-and-white answer; it's often 'a very complex mixture of reasons'."
+    }
+  ]
+}

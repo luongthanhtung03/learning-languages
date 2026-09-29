@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook the perfect British sausages at home",
+        "Why fast food is becoming popular in Canada",
+        "How spices are grown and sold in west Africa",
+        "A woman saving Ghana's traditional recipes"
+      ],
+      "answer": 3,
+      "why": "Rob says they'll hear about one woman's quest to preserve her country's traditional recipes."
+    },
+    {
+      "q": "What is Rob's favourite recipe?",
+      "options": [
+        "Fufu made with yam and plantain",
+        "Sausages with mashed potato",
+        "Burgers and fries",
+        "A spicy Ghanaian soup"
+      ],
+      "answer": 1,
+      "why": "Rob says his favourite is bangers and mash – sausage and mashed potato."
+    },
+    {
+      "q": "What was Abena Offeh-Gyimah's childhood in Canada like?",
+      "options": [
+        "She never ate Ghanaian food until she was an adult",
+        "She worked in her family's restaurant after school",
+        "Burgers with friends, Ghanaian food at home",
+        "She learned to cook from Canadian cookery books"
+      ],
+      "answer": 2,
+      "why": "After school she'd go for burgers and fries with friends, then eat traditional Ghanaian food with her family."
+    },
+    {
+      "q": "What surprised Abena when she moved back to Ghana?",
+      "options": [
+        "Many traditional ingredients were no longer used",
+        "Everyone still cooked in exactly the old way",
+        "Ghanaian food was much spicier than she remembered",
+        "Nobody in the cities ate fufu any more"
+      ],
+      "answer": 0,
+      "why": "Many traditional spices and ingredients were no longer used, and tomato ketchup was more common."
+    },
+    {
+      "q": "How is fufu often made in Ghana today?",
+      "options": [
+        "By pounding yam and plantain by hand",
+        "By buying it ready to eat in restaurants",
+        "By cooking it slowly over an open fire",
+        "From potato flour, cooked on a stove"
+      ],
+      "answer": 3,
+      "why": "Abena says now you can just buy potato flour and make fufu on the stove."
+    },
+    {
+      "q": "What does Abena feel is being lost with the modern way of cooking?",
+      "options": [
+        "The healthy vitamins in fresh vegetables",
+        "The shared experience of cooking together",
+        "The chance to sell food at local markets",
+        "The skill of growing yams and plantains"
+      ],
+      "answer": 1,
+      "why": "She says 'we're losing that… communal experience of cutting the yam and cutting the plantain and cooking it'."
+    },
+    {
+      "q": "What did Abena do to help?",
+      "options": [
+        "She travelled to rural areas to record dishes",
+        "She opened a cooking school in the capital city",
+        "She wrote to the government asking for new laws",
+        "She started selling traditional spices online"
+      ],
+      "answer": 0,
+      "why": "She travelled across the Accra East region to document indigenous dishes."
+    },
+    {
+      "q": "Why were young Ghanaians losing cooking skills?",
+      "options": [
+        "Their schools stopped teaching cookery",
+        "Traditional ingredients became too expensive",
+        "Recipes were spoken, not written down",
+        "Most families moved away to Canada"
+      ],
+      "answer": 2,
+      "why": "Sam says recipes were passed down orally from mother to daughter instead of being written down."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make your home smell nicer",
+        "Why some people can't smell anything",
+        "Why smell is so important to the feeling of being at home",
+        "How perfume is made"
+      ],
+      "answer": 2,
+      "why": "They find out why our sense of smell is so important to feeling at home."
+    },
+    {
+      "q": "What makes Phil feel at home?",
+      "options": [
+        "Sleeping in his own comfortable bed at night",
+        "Relaxing on the sofa in his living room",
+        "The view from his window",
+        "Playing with his pet"
+      ],
+      "answer": 1,
+      "why": "Phil says it's 'just relaxing on my sofa, in my living room'."
+    },
+    {
+      "q": "Which smells remind presenter Tristan Ahtone of home?",
+      "options": [
+        "His mother's perfume and his father's soap",
+        "Pine trees, damp and his grandad's old books",
+        "Fresh bread and coffee",
+        "Burning toast and smoke"
+      ],
+      "answer": 0,
+      "why": "Tristan says, 'I know my mom's perfume, my dad's preferred soap.'"
+    },
+    {
+      "q": "According to Tristan, why might your house smell strange after a long trip?",
+      "options": [
+        "Because the neighbours have been cooking",
+        "Because your nose gets tired and confused after travelling a long way",
+        "Because the air outside is cleaner",
+        "Because you notice its normal smell, which you usually ignore"
+      ],
+      "answer": 3,
+      "why": "He says you might be smelling your home as it usually smells, but you just don't notice it there."
+    },
+    {
+      "q": "Why can't we usually smell our own home?",
+      "options": [
+        "Our homes have no smell",
+        "We clean them too often",
+        "Our noses stop working properly when we are indoors",
+        "The brain ignores it because it isn't a danger"
+      ],
+      "answer": 3,
+      "why": "The brain analyses smells for danger, and your home's smell isn't a threat to you."
+    },
+    {
+      "q": "Why does Tristan mention burning toast?",
+      "options": [
+        "To show the brain quickly notices unusual smells that may mean danger",
+        "To explain why kitchens smell bad",
+        "To give advice about making breakfast",
+        "To show that we can't smell any food that is cooking in our own kitchen"
+      ],
+      "answer": 0,
+      "why": "Filtering out common smells makes it easier to detect unusual ones, like toast starting to burn."
+    },
+    {
+      "q": "Why does the smell of home still matter, even if we don't notice it?",
+      "options": [
+        "It helps us sleep longer",
+        "It keeps insects away",
+        "It is connected with our feelings of comfort and safety",
+        "It helps us remember directions and find our way home again"
+      ],
+      "answer": 2,
+      "why": "Tristan says it's 'entangled with our recognition of comfort and security'."
+    },
+    {
+      "q": "According to Phil, which part of the brain is affected by the smell of home?",
+      "options": [
+        "The part of the brain that controls how our body moves",
+        "The limbic system, which handles memory and emotion",
+        "The part that controls hearing",
+        "The part that helps us speak"
+      ],
+      "answer": 1,
+      "why": "Phil says the scent affects the limbic system, which handles memory and emotion."
+    }
+  ]
+}

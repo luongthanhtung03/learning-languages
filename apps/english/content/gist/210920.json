@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to find and sell valuable old Pokémon cards",
+        "The history of the World Wide Web and its inventor",
+        "Why famous paintings are so valuable at auctions",
+        "What NFTs are and why people disagree about them"
+      ],
+      "answer": 3,
+      "why": "They explain non-fungible tokens and discuss the strong opinions on both sides of the NFT debate."
+    },
+    {
+      "q": "What did Sam collect in the past?",
+      "options": [
+        "Stamps",
+        "Football stickers",
+        "Pokémon cards",
+        "Comics"
+      ],
+      "answer": 2,
+      "why": "Sam says he used to have a big collection of Pokémon cards."
+    },
+    {
+      "q": "Why does Neil talk about swapping a £10 note for two £5 notes?",
+      "options": [
+        "To explain what 'fungible' means",
+        "To show how cheap NFTs are",
+        "To explain how to pay for NFTs",
+        "To compare pounds with dollars"
+      ],
+      "answer": 0,
+      "why": "Neil uses money as an example of something fungible, which can be interchanged with the same value."
+    },
+    {
+      "q": "According to Neil, why do collectors want NFTs?",
+      "options": [
+        "Because they can hang them on the wall",
+        "Because they want something nobody else has",
+        "Because they are always cheap",
+        "Because they can swap them for money"
+      ],
+      "answer": 1,
+      "why": "He says collectors want something no-one else has, even though they own nothing physical."
+    },
+    {
+      "q": "What example does Neil give of the rising value of NFTs?",
+      "options": [
+        "A copy of the Mona Lisa sold for millions",
+        "A Pokémon card sold for £2,500",
+        "A signed football shirt sold online",
+        "A digital sticker of Kylian Mbappé sold for £25,000"
+      ],
+      "answer": 3,
+      "why": "Neil says a digital sticker of Kylian Mbappé recently sold for £25,000."
+    },
+    {
+      "q": "What does Sam say about Sir Tim Berners-Lee and the World Wide Web?",
+      "options": [
+        "He became a billionaire by selling advertising on it",
+        "He never made money from it and wanted it free for all",
+        "He sold it to a large American technology company",
+        "He charged every user a small fee to go online"
+      ],
+      "answer": 1,
+      "why": "Sam says he never made money from the web, insisting it should be free for everyone."
+    },
+    {
+      "q": "What is Shona Ghosh's view of NFTs?",
+      "options": [
+        "They are the safest way for ordinary people to invest",
+        "They should be banned immediately by all governments",
+        "They are a new area with no rules and very high prices",
+        "They are only popular with young people who play games"
+      ],
+      "answer": 2,
+      "why": "She calls NFTs 'a wild west' where digital collectables go for lots of money."
+    },
+    {
+      "q": "According to Rory Cellan-Jones, why do some people criticise NFTs?",
+      "options": [
+        "They may be a dishonest scheme and harm the environment",
+        "They are too difficult and expensive for most people to buy",
+        "They are only bought and sold by celebrities and the rich",
+        "They lose most of their value within a few weeks of sale"
+      ],
+      "answer": 0,
+      "why": "He says to others they're a dubious pyramid scheme with a damaging impact on the environment."
+    }
+  ]
+}

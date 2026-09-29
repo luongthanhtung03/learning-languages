@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of music videos and how they changed pop music",
+        "How to write a sad song that makes listeners cry",
+        "A possible biological reason some people enjoy sad music",
+        "Why people cry at films more often than at concerts"
+      ],
+      "answer": 2,
+      "why": "Sam says there might be a biological reason why some of us like sad songs."
+    },
+    {
+      "q": "When did Neil use to listen to sad songs?",
+      "options": [
+        "After breaking up with a girlfriend",
+        "When he was studying for exams",
+        "When he felt ill",
+        "On long car journeys"
+      ],
+      "answer": 0,
+      "why": "He says he'd listen to sad songs after a break-up, songs which reflected his mood."
+    },
+    {
+      "q": "What was Professor Huron's research trying to find out?",
+      "options": [
+        "Which sad songs are the most popular",
+        "Why people love or can't stand sad music",
+        "Whether music can make people cry",
+        "How music affects babies"
+      ],
+      "answer": 1,
+      "why": "He wanted to know the difference between people who love sad music and those who can't stand it."
+    },
+    {
+      "q": "Which hormone did the research point towards?",
+      "options": [
+        "Adrenaline",
+        "Melatonin",
+        "Dopamine",
+        "Prolactin"
+      ],
+      "answer": 3,
+      "why": "He says the research started pointing towards a hormone called prolactin."
+    },
+    {
+      "q": "When, according to Professor Huron, is prolactin also released?",
+      "options": [
+        "When people cry",
+        "When people laugh",
+        "When people sleep",
+        "When people exercise"
+      ],
+      "answer": 0,
+      "why": "He says, 'When people cry, they also release prolactin.'"
+    },
+    {
+      "q": "What effect can prolactin have?",
+      "options": [
+        "It makes people more energetic",
+        "It makes people angry",
+        "It can make people feel comforted",
+        "It helps people remember songs"
+      ],
+      "answer": 2,
+      "why": "He says in some circumstances prolactin seems to have a comforting effect."
+    },
+    {
+      "q": "What does Professor Huron suggest about people who don't like sad music?",
+      "options": [
+        "They produce too much prolactin",
+        "They don't listen carefully enough",
+        "They prefer happy music for cultural reasons",
+        "They may not get enough prolactin when they listen"
+      ],
+      "answer": 3,
+      "why": "He says maybe they're not getting enough prolactin when they listen to the music."
+    },
+    {
+      "q": "What does Neil find strange about the idea?",
+      "options": [
+        "That sad music is becoming more popular with young people",
+        "That feelings are caused by chemicals in the body",
+        "That scientists spend money studying music at all",
+        "That men and women react so differently to songs"
+      ],
+      "answer": 1,
+      "why": "He says it's weird to think our feelings are caused by natural chemicals in the body."
+    }
+  ]
+}

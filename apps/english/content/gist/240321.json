@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why concert tickets are so expensive",
+        "How blind and deaf people enjoy art galleries and concerts",
+        "The history of the harp in Britain",
+        "How new instruments help disabled musicians make music"
+      ],
+      "answer": 3,
+      "why": "They hear from a composer whose work with “new instruments” allows disabled musicians to express themselves."
+    },
+    {
+      "q": "What did the UK's Equality Act of 2010 do?",
+      "options": [
+        "Gave disabled people equal access to education, work and arts",
+        "Gave free concert tickets to disabled people",
+        "Required every theatre to be rebuilt",
+        "Created lots of new music schools just for disabled children in the UK"
+      ],
+      "answer": 0,
+      "why": "Neil says it guaranteed disabled people's rights to equal access to education, employment and services."
+    },
+    {
+      "q": "What did the study by Attitude is Everything find?",
+      "options": [
+        "Most venues were fully accessible",
+        "Disabled musicians now earn much more money than other musicians",
+        "A third of music venues gave no disabled access information",
+        "Half of all concerts were cancelled"
+      ],
+      "answer": 2,
+      "why": "It found one third of music venues provided no disabled access information at all."
+    },
+    {
+      "q": "Who is Megan Steinberg?",
+      "options": [
+        "A harpist who is dyslexic",
+        "A composer who writes music for new instruments",
+        "The manager of the Royal Albert Hall concert venue in London",
+        "A campaigner for the Equality Act"
+      ],
+      "answer": 1,
+      "why": "She's a music composer who composes music to be played by “new instruments”."
+    },
+    {
+      "q": "According to Megan, how can a new instrument be made?",
+      "options": [
+        "Only by large factories",
+        "By a factory, or by the musician themselves",
+        "Only by music colleges",
+        "Only from traditional materials like wood and metal"
+      ],
+      "answer": 1,
+      "why": "She says they may be mass-produced or designed and built by the musician themselves."
+    },
+    {
+      "q": "What is special about the Rainbow Harp?",
+      "options": [
+        "It has no strings at all",
+        "It is played with the feet instead of the hands and fingers",
+        "It can only play one note",
+        "Its strings are coloured, and each colour is a different note"
+      ],
+      "answer": 3,
+      "why": "Megan says it has colour-coded strings, and each colour corresponds to a different pitch."
+    },
+    {
+      "q": "Why did Morwenna and her husband create the Rainbow Harp?",
+      "options": [
+        "Dyslexia made black and white music notation hard for her",
+        "She wanted to sell harps to schools",
+        "Traditional harps were far too big and heavy for her to carry",
+        "Her teacher asked her to invent an instrument"
+      ],
+      "answer": 0,
+      "why": "Morwenna is dyslexic and found traditional black and white notation an obstacle."
+    },
+    {
+      "q": "Why does Georgie mention Morwenna's harp teacher?",
+      "options": [
+        "To show that the teacher designed the harp",
+        "To explain why Morwenna stopped playing music for many years",
+        "To explain what led to the Rainbow Harp being invented",
+        "To praise traditional teaching methods"
+      ],
+      "answer": 2,
+      "why": "When the teacher wanted her to read sheet music her brain froze, “and that's how the Rainbow Harp was invented”."
+    }
+  ]
+}

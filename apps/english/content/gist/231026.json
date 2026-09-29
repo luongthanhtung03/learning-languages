@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why it is rude to ask someone's age",
+        "The oldest people in Japan",
+        "How to look after elderly relatives",
+        "How people can live to 100"
+      ],
+      "answer": 3,
+      "why": "Beth asks, “So how do you live to a hundred?” – that's what they discuss."
+    },
+    {
+      "q": "How does Beth react to Neil's questions about her age?",
+      "options": [
+        "She laughs and tells him",
+        "She feels he is being rude",
+        "She says she is a centenarian",
+        "She asks him the same question"
+      ],
+      "answer": 1,
+      "why": "She calls it a very personal question, and then says, “That's even ruder!”"
+    },
+    {
+      "q": "What did the United Nations estimate in 2021?",
+      "options": [
+        "There were over half a million people aged 100 or more",
+        "Most people now live to 100",
+        "The number of centenarians is falling",
+        "There were only a few thousand centenarians in the whole world"
+      ],
+      "answer": 0,
+      "why": "Neil says it estimated there were over half a million centenarians worldwide."
+    },
+    {
+      "q": "Which factor for a long life does Neil say is among the most important?",
+      "options": [
+        "Taking vitamins",
+        "Living in a warm country",
+        "Warm human relationships",
+        "Sleeping a lot"
+      ],
+      "answer": 2,
+      "why": "He says human relationships are among the most important factors for long life."
+    },
+    {
+      "q": "What does Dr Robert Waldinger say about introverts?",
+      "options": [
+        "They live shorter lives",
+        "They need to make lots of new friends to stay healthy",
+        "They may only need one or two close people",
+        "They should avoid pets"
+      ],
+      "answer": 2,
+      "why": "He says introverts might only need one or two close people, and that's fine for them."
+    },
+    {
+      "q": "According to Dr Waldinger, can healthy relationships be with animals?",
+      "options": [
+        "Yes, pets can give comfort and calm us down",
+        "No, they must be with other humans",
+        "Only for people who live alone",
+        "Only with dogs, and not with cats or any other pets"
+      ],
+      "answer": 0,
+      "why": "He says it doesn't have to be with another human – pets provide comfort and joy."
+    },
+    {
+      "q": "Which of Dr Nir Barzilai's scenarios does he say is the hardest?",
+      "options": [
+        "Delaying the ageing process",
+        "The Peter Pan scenario",
+        "Giving young people treatments every year",
+        "Making old people young again"
+      ],
+      "answer": 3,
+      "why": "He says “The Wolverine” or Fountain of Youth, making old people young, is very, very hard."
+    },
+    {
+      "q": "What does the Peter Pan scenario involve?",
+      "options": [
+        "Stopping children from growing up",
+        "Regular treatment from your 20s to slow ageing",
+        "Giving old people special water",
+        "Changing people's diets when they reach the age of 60"
+      ],
+      "answer": 1,
+      "why": "He describes giving people aged 20 or 30 regular treatments so they age very, very slowly."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Office life and how people make spaces their own",
+        "How to find a job with better working hours",
+        "Why hairdressers are happier than office workers",
+        "How to stop colleagues from stealing your things"
+      ],
+      "answer": 0,
+      "why": "They look at life in the modern office, including research into objects people use to mark their workspace."
+    },
+    {
+      "q": "Why is Neil annoyed at the start of the programme?",
+      "options": [
+        "Sam has taken his favourite pen from his desk",
+        "He has to work longer hours than before",
+        "His pen and mug have gone missing",
+        "The office printer has stopped working again"
+      ],
+      "answer": 2,
+      "why": "His pen and coffee mug are missing, and he blames people's behaviour since they started hot-desking."
+    },
+    {
+      "q": "What did Neil like about working from home during the pandemic?",
+      "options": [
+        "He could spend more time with his colleagues",
+        "He earned more money for fewer hours",
+        "He had a bigger desk than in the office",
+        "No early mornings and no crowded trains"
+      ],
+      "answer": 3,
+      "why": "Neil says he loved it – 'no early mornings, no crowded trains… and no-one using my pens!'"
+    },
+    {
+      "q": "Why might a worker put home-made biscuits at the end of their desk?",
+      "options": [
+        "To sell them to colleagues for money",
+        "To help start conversations",
+        "To stop people sitting at their desk",
+        "Because the office has no kitchen"
+      ],
+      "answer": 1,
+      "why": "Neil says cakes and biscuits allow people to grab a biscuit and start a conversation."
+    },
+    {
+      "q": "What did one young woman in Harriet Shortt's research do?",
+      "options": [
+        "She carried a roll of photos to each desk",
+        "Painted her own desk in bright colours",
+        "She refused to work at any desk but her own",
+        "Asked her manager for a private office"
+      ],
+      "answer": 0,
+      "why": "She made a montage on a strip of cardboard, rolled it up daily and pinned it up at whatever desk she used."
+    },
+    {
+      "q": "What does Harriet think this woman's behaviour shows?",
+      "options": [
+        "Young workers don't like working in offices",
+        "Hot-desking makes people work much harder",
+        "Most people prefer working from home",
+        "People want comfort and familiarity at work"
+      ],
+      "answer": 3,
+      "why": "She says there's evidence people want to feel comfort, settled and 'have some sense of familiarity'."
+    },
+    {
+      "q": "What did a hairdresser show Harriet?",
+      "options": [
+        "A photo of her very favourite customer",
+        "A new chair she had bought for the salon",
+        "A curved mark worn into the floor",
+        "A stain on the wall from hair colour"
+      ],
+      "answer": 2,
+      "why": "It was a half-moon scuff mark round the back of the chair where she had worn out the floor."
+    },
+    {
+      "q": "What did the mark on the floor mean to the hairdresser?",
+      "options": [
+        "That the salon needed to be repaired",
+        "That she had worked hard for many years",
+        "That she should buy more comfortable shoes",
+        "That the salon had too many customers"
+      ],
+      "answer": 1,
+      "why": "She said, 'This is me… It represents hard graft' – meaning hard work."
+    }
+  ]
+}

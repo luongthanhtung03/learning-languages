@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make good coffee at home without an expensive machine",
+        "Why coffee is bad for our health if we drink too much",
+        "How cafés changed from places of debate to places to work alone",
+        "The best cafés in Oxford and London and what makes them special"
+      ],
+      "answer": 2,
+      "why": "They compare early coffee houses, full of lively debate, with modern cafés where people sit on laptops."
+    },
+    {
+      "q": "Why did Catherine take so long to bring Rob's coffee?",
+      "options": [
+        "She met someone she knew and stopped to talk",
+        "The café was very busy",
+        "She had to wait for the wifi",
+        "She forgot how Rob likes his coffee"
+      ],
+      "answer": 0,
+      "why": "She says she bumped into somebody she knew in the café and stopped for a chat."
+    },
+    {
+      "q": "Where and when was the first coffee house opened?",
+      "options": [
+        "In London in 1560",
+        "In Edinburgh in 1650",
+        "In London in 1750",
+        "In Oxford in 1650"
+      ],
+      "answer": 3,
+      "why": "Rob says the first coffee house was set up in Oxford in 1650."
+    },
+    {
+      "q": "What did a penny buy you in the early coffee houses?",
+      "options": [
+        "A cup of coffee and a cake",
+        "Entry, newspapers and interesting conversation",
+        "A comfortable chair for the whole day",
+        "A place in a debating competition"
+      ],
+      "answer": 1,
+      "why": "You paid a penny to get in, which included access to newspapers and stimulating conversation."
+    },
+    {
+      "q": "What did Catherine notice in the café that morning?",
+      "options": [
+        "It was full of people debating",
+        "The coffee had become more expensive",
+        "Many people were reading newspapers",
+        "Only she and her friend were talking"
+      ],
+      "answer": 3,
+      "why": "She says nobody else was talking; everybody sat alone tapping on their laptops."
+    },
+    {
+      "q": "How does Douglas Fraser describe a typical modern café?",
+      "options": [
+        "People sit alone, looking at screens, doing different things",
+        "People share large tables and work together on projects",
+        "It is empty until lunchtime, when office workers arrive",
+        "People chat loudly about the news and politics of the day"
+      ],
+      "answer": 0,
+      "why": "He describes five people staring into screens, 'plugged in, ears plugged', each doing something different."
+    },
+    {
+      "q": "What does Rob think café owners should do?",
+      "options": [
+        "Add more comfortable sofas",
+        "Switch off the free wifi so people move on",
+        "Offer free coffee to people who talk",
+        "Bring back the penny entry fee"
+      ],
+      "answer": 1,
+      "why": "Rob says owners should turn off the free wifi and force the 'café squatters' to move on."
+    },
+    {
+      "q": "How does Catherine respond to Rob's idea?",
+      "options": [
+        "She agrees completely and says she would do the same",
+        "She says most people do buy coffee, so it isn't needed",
+        "She thinks it's too extreme, as cafés want people to stay",
+        "She says wifi is too expensive for most small cafés"
+      ],
+      "answer": 2,
+      "why": "She calls it 'a bit extreme' because café owners need customers and encourage them to stay."
+    }
+  ]
+}

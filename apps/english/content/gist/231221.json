@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "What the Moon can teach us about early Earth",
+        "The life and famous words of astronaut Neil Armstrong",
+        "How rockets are built and tested",
+        "Why Russia's space programme is failing"
+      ],
+      "answer": 0,
+      "why": "They discuss the new interest in the Moon, which is really about the origins of Earth."
+    },
+    {
+      "q": "What happened to interest in the Moon after 1969?",
+      "options": [
+        "It grew every year",
+        "Many countries sent astronauts there",
+        "It stayed the same until 2023",
+        "It faded away for decades"
+      ],
+      "answer": 3,
+      "why": "Georgie says in the decades after that event, interest in returning to the Moon faded away."
+    },
+    {
+      "q": "What happened in the 2023 race to the Moon?",
+      "options": [
+        "Both spacecraft landed safely",
+        "Russia's spacecraft landed first, and India's crashed on landing",
+        "Russia's craft crashed and India's landed successfully",
+        "Neither spacecraft reached the Moon"
+      ],
+      "answer": 2,
+      "why": "Neil says Russia's rocket crashed, but Chandrayaan-3 successfully touched down."
+    },
+    {
+      "q": "According to one theory, how did the Moon form?",
+      "options": [
+        "It was pulled in from another solar system long ago",
+        "Another planet hit Earth and broke off a piece",
+        "It grew from comets joining together",
+        "It formed at the same time as the Sun"
+      ],
+      "answer": 1,
+      "why": "Another planet crashed into Earth, breaking off a part which then formed the Moon."
+    },
+    {
+      "q": "Why is the Moon such a good record of the early solar system?",
+      "options": [
+        "It is covered with ice",
+        "It is very close to the Sun",
+        "Its surface doesn't change and it has no atmosphere",
+        "Its surface is always moving and changing, just like Earth's"
+      ],
+      "answer": 2,
+      "why": "Dr Smethurst says it's inert rock with no atmosphere, so everything is still recorded."
+    },
+    {
+      "q": "What is the far side of the Moon like, according to Dr Becky Smethurst?",
+      "options": [
+        "Smooth and flat",
+        "Covered in craters",
+        "Full of water",
+        "Hidden by thick clouds"
+      ],
+      "answer": 1,
+      "why": "She says it's incredibly pockmarked, with craters all over it."
+    },
+    {
+      "q": "Where do scientists think Earth's water came from?",
+      "options": [
+        "From the Moon itself",
+        "From underground volcanoes",
+        "From the other planet that crashed into Earth",
+        "From comets and asteroids hitting Earth"
+      ],
+      "answer": 3,
+      "why": "Dr Smethurst says Earth's water is thought to have come from impacts with comets and asteroids."
+    },
+    {
+      "q": "What does Dr Smethurst suggest finding heavy minerals from comets on the Moon would do?",
+      "options": [
+        "Prove where the Moon's water, and probably Earth's, came from",
+        "Show that the Moon is getting smaller",
+        "Allow people to live on the Moon",
+        "Prove that there was once life on the Moon, billions of years ago"
+      ],
+      "answer": 0,
+      "why": "She calls it a “smoking gun”: that's where the water came from, and likely Earth's too."
+    }
+  ]
+}

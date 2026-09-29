@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to grow your own vegetables at home",
+        "Why food prices change so much every season",
+        "Threats to the UK's food supply and fixing them",
+        "Why British people eat too much red meat"
+      ],
+      "answer": 2,
+      "why": "They investigate issues affecting UK food production and food security."
+    },
+    {
+      "q": "How does Pippa keep track of where and when food is grown?",
+      "options": [
+        "She reads every food label carefully in shops",
+        "She has a kitchen calendar of seasonal food",
+        "She only shops at small local farmers' markets",
+        "She grows most of her own food in the garden"
+      ],
+      "answer": 1,
+      "why": "Pippa has a calendar on her kitchen wall showing which fruit and vegetables grow when."
+    },
+    {
+      "q": "How much of its food does the UK import?",
+      "options": [
+        "Around 40%",
+        "Around 10%",
+        "Around a third",
+        "More than 70%"
+      ],
+      "answer": 0,
+      "why": "Neil says the UK imports around 40% of its food."
+    },
+    {
+      "q": "Which of these is NOT mentioned as a problem affecting Britain's food supply?",
+      "options": [
+        "Wars and conflicts",
+        "Droughts and water shortages",
+        "Loss of biodiversity",
+        "A lack of supermarkets"
+      ],
+      "answer": 3,
+      "why": "The report lists conflicts, droughts and biodiversity loss, but not a lack of supermarkets."
+    },
+    {
+      "q": "What does climate reporter Mark Poynting say about the government report's conclusions?",
+      "options": [
+        "They are very serious and clear",
+        "They are not based on science",
+        "They are mostly positive",
+        "They only concern farmers"
+      ],
+      "answer": 0,
+      "why": "He says the conclusions are 'quite stark': ecosystem collapse threatens UK national security."
+    },
+    {
+      "q": "Roughly how much of all greenhouse gases come from food production?",
+      "options": [
+        "About a tenth",
+        "About half",
+        "About a third",
+        "Almost all"
+      ],
+      "answer": 2,
+      "why": "Pippa says emissions from food production make up around a third of all greenhouse gases."
+    },
+    {
+      "q": "According to Emma Pinchbeck, what produces the most emissions in farming?",
+      "options": [
+        "Diesel for tractors",
+        "Transporting food abroad",
+        "Growing rice",
+        "Having farm animals on the land"
+      ],
+      "answer": 3,
+      "why": "She says the biggest chunk of emissions comes from simply having livestock on the land."
+    },
+    {
+      "q": "Why does Emma suggest putting something else on the land for every animal removed?",
+      "options": [
+        "To stop people eating so many vegetables",
+        "So farmers help fight climate change",
+        "To make meat much cheaper for families",
+        "To give the remaining animals more space"
+      ],
+      "answer": 1,
+      "why": "She says this makes farmers 'part of the solution to climate change, not the problem'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How journalists stay safe in dangerous countries",
+        "How war affects children, through a reporter's experience",
+        "Why children have nightmares after watching the news",
+        "How schools teach children about history"
+      ],
+      "answer": 1,
+      "why": "They talk about how war affects children, hearing from war reporter Fergal Keane."
+    },
+    {
+      "q": "According to the 2024 figure, how many children live in conflict zones?",
+      "options": [
+        "About one in ten children worldwide",
+        "About half of all children",
+        "About one in every five children worldwide",
+        "About 52 million children"
+      ],
+      "answer": 2,
+      "why": "Becca says 520 million children live in conflict zones, about one in every five."
+    },
+    {
+      "q": "What happened to Fergal Keane as a result of reporting from war zones?",
+      "options": [
+        "He developed a stress disorder",
+        "He decided to stop working as a journalist",
+        "He started a charity for children",
+        "He was badly injured"
+      ],
+      "answer": 0,
+      "why": "Neil says Fergal developed PTSD, a type of stress disorder, as a result of his reporting."
+    },
+    {
+      "q": "Why was Fergal very watchful for danger from an early age?",
+      "options": [
+        "He grew up in a war zone in another country",
+        "His parents were both soldiers in the army",
+        "He often got lost in big cities as a child",
+        "He grew up at home with an alcoholic father"
+      ],
+      "answer": 3,
+      "why": "He grew up with an alcoholic father and was always checking whether he was under threat."
+    },
+    {
+      "q": "What do researchers all agree on, according to Fergal?",
+      "options": [
+        "Children in war zones are doing better than before",
+        "Children can't recover while the trauma continues",
+        "Children recover faster than adults in every case",
+        "Children should never talk about the war at all"
+      ],
+      "answer": 1,
+      "why": "He says they're 'of one mind' that you can't recover from war trauma with continuing trauma."
+    },
+    {
+      "q": "What does the new theory encourage traumatised children to do?",
+      "options": [
+        "Slowly face simple challenges, like sleeping alone",
+        "Talk about the war in detail every single day",
+        "Move to another, safer country immediately",
+        "Try hard to forget everything that happened"
+      ],
+      "answer": 0,
+      "why": "Fergal says it encourages children to slowly confront things like sleeping alone, without a parent."
+    },
+    {
+      "q": "Why does Fergal mention putting to bed a child who has had a nightmare?",
+      "options": [
+        "To show that nightmares are the main cause of trauma",
+        "To explain why children in war zones sleep well",
+        "To give advice to parents about bedtime",
+        "To show that learning to sleep alone is harder than it sounds"
+      ],
+      "answer": 3,
+      "why": "He says it sounds simple, but anyone who's settled a child after a nightmare knows it's very difficult."
+    },
+    {
+      "q": "What is the 'big lesson' Fergal has learned from his reporting?",
+      "options": [
+        "Children usually forget difficult experiences quickly",
+        "Most children never recover from war",
+        "Given a chance, children are extremely good at recovering",
+        "Adults are stronger than children"
+      ],
+      "answer": 2,
+      "why": "He says given a chance, the human spirit, especially children, is 'phenomenally resilient'."
+    }
+  ]
+}

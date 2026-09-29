@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to find mushrooms in the forest",
+        "Whether medicinal mushrooms really work",
+        "Which mushrooms are poisonous",
+        "Animals with strange names that live in zoos"
+      ],
+      "answer": 1,
+      "why": "Beth asks how real the supposed health benefits of mushrooms are."
+    },
+    {
+      "q": "What does Neil first think “Lion's Mane” and “Turkey Tail” are?",
+      "options": [
+        "Things you might find in a zoo",
+        "Types of medicine",
+        "Names of new restaurants in London",
+        "Kinds of flowers"
+      ],
+      "answer": 0,
+      "why": "He says they sound like things you might find in the zoo."
+    },
+    {
+      "q": "How much was the global medicinal mushroom market worth in 2021?",
+      "options": [
+        "2.6 million dollars",
+        "260 billion dollars",
+        "26 billion dollars",
+        "6 billion dollars"
+      ],
+      "answer": 2,
+      "why": "Neil says it was valued at 26 billion dollars and growing."
+    },
+    {
+      "q": "According to Dr Emily Leeming, what kind of benefits are mushroom labels mostly claiming?",
+      "options": [
+        "Better skin and shinier, stronger hair",
+        "Stronger bones",
+        "Weight loss",
+        "Mental benefits, like less anxiety"
+      ],
+      "answer": 3,
+      "why": "She says they're labelled “super brain drugs” for lessening anxiety and depression."
+    },
+    {
+      "q": "What does Dr Leeming think about these claims?",
+      "options": [
+        "They are proven by many studies",
+        "They are true, but only for young people who try them",
+        "They are dangerous lies",
+        "They seem exaggerated, with little evidence in humans"
+      ],
+      "answer": 3,
+      "why": "She says they seem quite overblown and the evidence on humans is very limited."
+    },
+    {
+      "q": "Why does Beth mention chamomile tea?",
+      "options": [
+        "To recommend it instead of mushrooms",
+        "To show it is made from mushrooms",
+        "To show that helpful things aren't always legal medicines",
+        "To say that chamomile tea has now been banned in some countries"
+      ],
+      "answer": 2,
+      "why": "It may help you relax, but without scientific proof you can't legally call it a medicine."
+    },
+    {
+      "q": "What does Emma Clifford say about consumers?",
+      "options": [
+        "They only trust modern science",
+        "Many want proof, but ancient wisdom also persuades them",
+        "They have stopped buying mushrooms",
+        "They don't really care about health claims on food at all"
+      ],
+      "answer": 1,
+      "why": "She says ancient wisdom may be just as compelling, if not more so, than modern science."
+    },
+    {
+      "q": "How do young people feel about medicinal mushrooms, according to Emma Clifford?",
+      "options": [
+        "Curious and keen to try them",
+        "Afraid of them",
+        "Bored by them",
+        "Angry about their high prices in shops"
+      ],
+      "answer": 0,
+      "why": "She says young people in particular are really intrigued to give these ingredients a go."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people are reading fewer books",
+        "How to teach children to read faster",
+        "How learning to read changes the brain",
+        "The history of the world's longest novels"
+      ],
+      "answer": 2,
+      "why": "They hear experts explain how reading changes our brains, and how different languages shape them."
+    },
+    {
+      "q": "Why does Georgie usually read before bed?",
+      "options": [
+        "It's the only time her house is quiet",
+        "She reads books for work",
+        "Her doctor told her to",
+        "It helps her relax and fall asleep"
+      ],
+      "answer": 3,
+      "why": "She says she reads before bed because it helps her relax and go to sleep."
+    },
+    {
+      "q": "What is Maryanne Wolf's view of reading?",
+      "options": [
+        "It is just as natural for humans as speaking",
+        "It is not natural at all, unlike spoken language",
+        "Children learn it easily without any help",
+        "It is much easier than learning to speak"
+      ],
+      "answer": 1,
+      "why": "She says we think reading must be natural because language is, 'But it isn't.'"
+    },
+    {
+      "q": "According to scientific studies, what networks are we born with?",
+      "options": [
+        "Ones for seeing and making sounds, not for reading",
+        "Ones for reading and writing from the very start",
+        "Ones for all the skills we will ever need in life",
+        "Only ones for hearing and understanding voices"
+      ],
+      "answer": 0,
+      "why": "Becca says our brains have networks for seeing and producing sounds, but not the pathways to read."
+    },
+    {
+      "q": "According to Rebecca Gotlieb, how does the brain manage to read?",
+      "options": [
+        "It uses one small part of the brain that grows",
+        "It stops using the parts that are used for vision",
+        "It relies only on memory of words we have seen",
+        "It borrows parts used for vision, sound and attention"
+      ],
+      "answer": 3,
+      "why": "She says we co-opt parts of the brain involved in vision, auditory processing, language, attention and affect."
+    },
+    {
+      "q": "What does Rebecca say happens when we develop a reading brain?",
+      "options": [
+        "Only our eyesight improves as we read more",
+        "The brain's activity, structure and links change",
+        "The brain slowly becomes smaller with age",
+        "Nothing in the brain changes after childhood"
+      ],
+      "answer": 1,
+      "why": "She says it alters everything, from brain activity to brain structure and connectivity."
+    },
+    {
+      "q": "What does research suggest about reading Chinese characters?",
+      "options": [
+        "It uses exactly the same brain areas as reading English",
+        "It is impossible for English speakers",
+        "It activates different brain areas from reading an alphabet",
+        "It only uses the parts of the brain for sound"
+      ],
+      "answer": 2,
+      "why": "Becca says learning these symbols activates different areas of the brain from alphabet-based systems."
+    },
+    {
+      "q": "Why do the presenters mention the bilingual man who had a stroke?",
+      "options": [
+        "To show Chinese and English use different circuits",
+        "To show that strokes can sometimes improve reading",
+        "To explain why English is easier than Chinese",
+        "To warn about the dangers of reading too much"
+      ],
+      "answer": 0,
+      "why": "After the stroke he couldn't read Chinese but could still read English, showing different circuits."
+    }
+  ]
+}

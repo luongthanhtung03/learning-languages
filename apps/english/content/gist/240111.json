@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make tea without sugar",
+        "Why oil is causing a climate emergency",
+        "The eating habits of English kings and queens in the past",
+        "How our addiction to sugar developed through history"
+      ],
+      "answer": 3,
+      "why": "Georgie asks how our addiction to the sweet stuff began – that's what they discuss."
+    },
+    {
+      "q": "What does Georgie do when she makes Neil's tea?",
+      "options": [
+        "She puts in only one sugar instead of three",
+        "She puts in three sugars, exactly as he asked her",
+        "She forgets the milk",
+        "She makes it with no sugar at all"
+      ],
+      "answer": 0,
+      "why": "She says, “here's your tea, Neil… I just put one sugar.”"
+    },
+    {
+      "q": "What does Neil compare our addiction to sugar with?",
+      "options": [
+        "Our addiction to coffee",
+        "Our addiction to oil",
+        "Our addiction to phones",
+        "Our addiction to tobacco"
+      ],
+      "answer": 1,
+      "why": "He says just as our addiction to oil causes a climate emergency, sugar causes a health emergency."
+    },
+    {
+      "q": "What was sugar like when it first came to England?",
+      "options": [
+        "Cheap, and eaten by almost everyone in the country",
+        "Only used as medicine",
+        "An expensive luxury only the rich could afford",
+        "Banned by the king"
+      ],
+      "answer": 2,
+      "why": "Neil says it was an expensive luxury affordable only to kings, queens and the very rich."
+    },
+    {
+      "q": "How was sugar produced for four hundred years?",
+      "options": [
+        "In small farms across England",
+        "In big factories in the United States and across Europe",
+        "By trading companies in Asia only",
+        "On plantations using slaves, then shipped to Europe"
+      ],
+      "answer": 3,
+      "why": "Georgie says it was grown in slavery plantations and shipped across the Atlantic to Europe."
+    },
+    {
+      "q": "What comparison does Professor Ulbe Bosma make?",
+      "options": [
+        "Sugar was more valuable than gold",
+        "It fuelled bodies, as oil later fuelled vehicles",
+        "Sugar and coffee were equally popular",
+        "Sugar was used to power the very first steam engines"
+      ],
+      "answer": 1,
+      "why": "He says sugar became the fuel for human bodies, whereas oil became the fuel for vehicles."
+    },
+    {
+      "q": "What did sugar companies do when people learned about sugar's health problems?",
+      "options": [
+        "They added sugar to foods like bread and yogurt",
+        "They stopped selling sugar",
+        "They made sugar more expensive",
+        "They paid for health campaigns about eating less sugar"
+      ],
+      "answer": 0,
+      "why": "Georgie says they began using sugar in food which had previously contained none."
+    },
+    {
+      "q": "Why does Professor Bosma compare a few spoons a week with a kilo today?",
+      "options": [
+        "To show that sugar is cheaper today",
+        "To show how much people's eating habits have changed",
+        "To explain how sugar is measured",
+        "To suggest that eating a kilo a week is perfectly healthy"
+      ],
+      "answer": 1,
+      "why": "He says eating habits had to change: from a few spoons a week to a kilo today."
+    }
+  ]
+}

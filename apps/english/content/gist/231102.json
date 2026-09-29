@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook octopus at home",
+        "How clever octopuses manage to escape from aquariums",
+        "Whether it is right to farm octopus for food",
+        "Why octopus populations are falling"
+      ],
+      "answer": 2,
+      "why": "Beth says they'll discuss whether farming octopus can ever be ethical."
+    },
+    {
+      "q": "What does Beth admit she thinks about when she hears the word “octopus”?",
+      "options": [
+        "How good they taste",
+        "How dangerous they are",
+        "How ugly they look",
+        "How rare they are"
+      ],
+      "answer": 0,
+      "why": "She mentions their intelligence, but admits she also thinks about how they taste – delicious."
+    },
+    {
+      "q": "Where is octopus most commonly eaten?",
+      "options": [
+        "Britain, France, Germany and the Netherlands",
+        "New Zealand and Australia",
+        "Mexico and the USA",
+        "South Korea, Spain, Portugal and Japan"
+      ],
+      "answer": 3,
+      "why": "Neil lists South Korea, Spain, Portugal and Japan."
+    },
+    {
+      "q": "Why do campaigners object to farming octopus?",
+      "options": [
+        "Farmed octopus doesn't taste good",
+        "Octopuses can feel things like pleasure and pain",
+        "Octopus farms would be far too expensive to run",
+        "Octopuses carry diseases"
+      ],
+      "answer": 1,
+      "why": "Beth explains the objection: octopuses are sentient – they experience feelings."
+    },
+    {
+      "q": "According to Claire Marshall, why haven't octopuses been farmed before?",
+      "options": [
+        "It was against the law everywhere",
+        "They have a complex life cycle and are hard to keep",
+        "Nobody wanted to eat them",
+        "They grow much too slowly to be sold at a profit in shops"
+      ],
+      "answer": 1,
+      "why": "She says they have an incredibly complex life cycle, need live food and are solitary."
+    },
+    {
+      "q": "Why is it a problem that octopuses are solitary?",
+      "options": [
+        "They attack farmers",
+        "They stop eating",
+        "They are able to escape from their tanks much more easily",
+        "It is hard to keep many of them together in captivity"
+      ],
+      "answer": 3,
+      "why": "Unlike chickens and pigs, they like to live alone, making captivity difficult because of space."
+    },
+    {
+      "q": "What did Dr Heather Browning's research find?",
+      "options": [
+        "Octopuses have no brain",
+        "Octopuses feel much less pain than fish or birds do",
+        "Octopuses met many of the signs of sentience",
+        "Octopuses can't learn anything"
+      ],
+      "answer": 2,
+      "why": "She says octopuses seemed to meet many of the criteria they laid out."
+    },
+    {
+      "q": "What does Beth suggest at the end of the discussion?",
+      "options": [
+        "The argument about farming octopus will go on",
+        "Octopus farming has been banned",
+        "Everyone now agrees octopus farming is fine",
+        "Scientists have stopped studying octopuses completely"
+      ],
+      "answer": 0,
+      "why": "She says the debate about whether it's OK to farm and eat octopuses will continue."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to organise a children's birthday party",
+        "Birthday cakes, from simple ones to works of art",
+        "Why people celebrate birthdays in different countries",
+        "The health problems of eating too much cake"
+      ],
+      "answer": 1,
+      "why": "They hear from two bakers: one who makes simple cakes and one who makes personalised creations."
+    },
+    {
+      "q": "Why does Beth sing “Happy Birthday” at the start?",
+      "options": [
+        "Because it is Neil's birthday that day",
+        "Because she wants to practise for a party",
+        "To introduce the topic of the programme",
+        "Because it is her own birthday"
+      ],
+      "answer": 2,
+      "why": "She knows it's not his birthday, but “this programme is all about birthdays”."
+    },
+    {
+      "q": "How have birthday cakes changed, according to Beth?",
+      "options": [
+        "They have become much smaller",
+        "People have stopped putting candles on them because of safety",
+        "They are now usually made with less sugar",
+        "Many are now designed and decorated to represent the person"
+      ],
+      "answer": 3,
+      "why": "She says many are now works of art designed to represent the person celebrating."
+    },
+    {
+      "q": "What flavours does Dame Mary Berry want in her perfect cake?",
+      "options": [
+        "Lemon or orange",
+        "Chocolate or coffee",
+        "Strawberry or vanilla",
+        "Banana or carrot"
+      ],
+      "answer": 0,
+      "why": "She says lemon or orange are her favourite flavours."
+    },
+    {
+      "q": "What matters most to Mary Berry in a birthday cake?",
+      "options": [
+        "Fresh, good flavour rather than perfect decoration",
+        "A design that shows the person's hobbies and interests",
+        "Many layers and bright colours",
+        "Being bought from a famous shop"
+      ],
+      "answer": 0,
+      "why": "She doesn't mind if it's “higgledy-piggledy” as long as it's fresh and well flavoured."
+    },
+    {
+      "q": "Why do Adam Cox's customers leave the design to him?",
+      "options": [
+        "They don't have enough time to think about it themselves",
+        "He refuses to follow instructions",
+        "His cakes are cheaper that way",
+        "They've seen his earlier designs and trust him"
+      ],
+      "answer": 3,
+      "why": "He says clients give him leeway based on the past designs of his that they've seen."
+    },
+    {
+      "q": "How does Adam come up with decoration ideas?",
+      "options": [
+        "He copies cakes from TV programmes",
+        "He learns about the person's interests and hobbies",
+        "He asks Mary Berry for advice",
+        "He uses exactly the same design for every single customer"
+      ],
+      "answer": 1,
+      "why": "Neil says Adam finds out about the person's interests and hobbies and uses them."
+    },
+    {
+      "q": "How does Adam feel about his job?",
+      "options": [
+        "Tired, because clients ask for too much",
+        "Worried, because cakes don't last long",
+        "Happy, because it lets him be creative",
+        "Bored, because the work is repetitive"
+      ],
+      "answer": 2,
+      "why": "He says it's a real pleasure because it gives him freedom to express himself creatively."
+    }
+  ]
+}

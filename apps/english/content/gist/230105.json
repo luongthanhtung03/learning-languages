@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of a famous BBC music programme",
+        "How to become a famous singer quickly",
+        "How words and music make hit songs",
+        "Why hip-hop is more popular than rock music"
+      ],
+      "answer": 2,
+      "why": "Neil says they'll be discussing the art of songwriting – combining lyrics and music to make a hit."
+    },
+    {
+      "q": "Why is Neil singing at the start?",
+      "options": [
+        "A song has been stuck in his head all day",
+        "He is practising for a concert tonight",
+        "He wrote a new song for the programme",
+        "Sam asked him to sing her favourite song"
+      ],
+      "answer": 0,
+      "why": "He says he's had this song stuck in his head all day."
+    },
+    {
+      "q": "According to Sam, what makes writing a memorable song difficult?",
+      "options": [
+        "Finding a good band to play with",
+        "Recording it cheaply at home",
+        "Getting it played on the radio",
+        "A good tune that matches the words"
+      ],
+      "answer": 3,
+      "why": "She says you have to write a good tune and match it to the lyrics."
+    },
+    {
+      "q": "What kind of music is Professor Adam Bradley listening to now?",
+      "options": [
+        "Only new hip-hop songs from this year",
+        "Music from his youth, like his mother's",
+        "Classical music, mostly Mozart",
+        "Songs by The Rolling Stones only"
+      ],
+      "answer": 1,
+      "why": "He says he goes back to the earliest music that mattered to him, like music his mother played."
+    },
+    {
+      "q": "What did Keith Richards often wake up with after a night of partying?",
+      "options": [
+        "A finished set of lyrics in a notebook",
+        "A letter from Mick Jagger about the band",
+        "A recording of a melody and chords",
+        "A new guitar from a fan"
+      ],
+      "answer": 2,
+      "why": "Adam says he'd wake up with a recording device where he'd put down a melody and chord structure."
+    },
+    {
+      "q": "What was Mick Jagger's role in writing songs?",
+      "options": [
+        "He played most of the guitar parts",
+        "He listened to Keith's music and wrote lyrics",
+        "He recorded the songs alone in his studio",
+        "He chose which songs the band would release"
+      ],
+      "answer": 1,
+      "why": "Adam says Mick would listen through and write lyrics."
+    },
+    {
+      "q": "How does Adam describe Mick and Keith's way of working together?",
+      "options": [
+        "Give and take, with some tension",
+        "Keith made all of the big decisions",
+        "They never disagreed about anything",
+        "They wrote their songs separately"
+      ],
+      "answer": 0,
+      "why": "He says there was 'this give and take, this tension'."
+    },
+    {
+      "q": "What does Sam say about Mick and Keith's friendship?",
+      "options": [
+        "It ended many years ago",
+        "It has always been perfect",
+        "It started after they became famous",
+        "It has had good and bad times"
+      ],
+      "answer": 3,
+      "why": "She says their legendary friendship has certainly been up and down over the years."
+    }
+  ]
+}

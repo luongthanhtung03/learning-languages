@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The life and prison years of Nelson Mandela",
+        "How South Africa's government works today",
+        "Important moments in Desmond Tutu's life",
+        "The history of the church in South Africa"
+      ],
+      "answer": 2,
+      "why": "Sam says they're celebrating Tutu's life and will hear about some important moments from it."
+    },
+    {
+      "q": "How was Tutu's role different from some other anti-apartheid leaders?",
+      "options": [
+        "He stayed free and spoke out",
+        "He lived abroad for the whole struggle",
+        "He was in prison with Nelson Mandela",
+        "He believed violence was the only answer"
+      ],
+      "answer": 0,
+      "why": "Neil says while others were imprisoned or killed, Tutu was there at every step, speaking out."
+    },
+    {
+      "q": "How does Tutu describe his childhood?",
+      "options": [
+        "Lonely, because he had no brothers or sisters",
+        "Difficult, because his mother was very strict",
+        "Sad, because his family moved very often",
+        "Very happy, and his mother treated him specially"
+      ],
+      "answer": 3,
+      "why": "He says he had a very happy childhood, and his sisters thought their mother spoiled and pampered him."
+    },
+    {
+      "q": "What made the young Desmond Tutu unhappy?",
+      "options": [
+        "His sisters were always angry with him",
+        "People took advantage of his kind mother",
+        "His mother could not afford to send him to school",
+        "His father was often away from home"
+      ],
+      "answer": 1,
+      "why": "He says part of his unhappiness was that anyone could take advantage of such a gentle, generous person."
+    },
+    {
+      "q": "Why did the Tutu family return to South Africa from London?",
+      "options": [
+        "Because Leah wanted to be near her family",
+        "Because they couldn't find work in London",
+        "He was made Dean of Johannesburg",
+        "Because apartheid had just ended"
+      ],
+      "answer": 2,
+      "why": "Sam says they returned when Desmond was made Dean of Johannesburg."
+    },
+    {
+      "q": "What happened when Leah went to renew a car licence?",
+      "options": [
+        "She was handcuffed and paraded in the street",
+        "She was sent to prison for several years",
+        "She was told she could never drive again",
+        "She was asked to pay a very large fine at once"
+      ],
+      "answer": 0,
+      "why": "Tutu says they handcuffed her and paraded her in the streets, though she was later acquitted."
+    },
+    {
+      "q": "Why does Tutu believe the police treated Leah this way?",
+      "options": [
+        "She had broken a serious traffic law",
+        "They thought she was someone else",
+        "She had refused to answer their questions",
+        "To shame her and hurt him too"
+      ],
+      "answer": 3,
+      "why": "He says they wanted to humiliate her, 'and in the process hit at me'."
+    },
+    {
+      "q": "What did Tutu do at the end of apartheid?",
+      "options": [
+        "He left South Africa to live in London",
+        "He started a commission to heal divisions",
+        "He took the police officers to court",
+        "He became President of South Africa"
+      ],
+      "answer": 1,
+      "why": "Sam says he forgave the officers and started the Truth and Reconciliation Commission to heal divisions."
+    }
+  ]
+}

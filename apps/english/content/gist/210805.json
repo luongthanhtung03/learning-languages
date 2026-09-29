@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of swimming and attitudes to it",
+        "How to teach young children to swim safely",
+        "The best beaches in the Maldives",
+        "Lord Byron's life as a poet"
+      ],
+      "answer": 0,
+      "why": "Neil says this programme is on the history of swimming, which is more than just exercise."
+    },
+    {
+      "q": "Why does Georgina swim?",
+      "options": [
+        "To win competitions",
+        "Because her doctor told her to",
+        "For exercise and to relax",
+        "To get to work"
+      ],
+      "answer": 2,
+      "why": "She says she enjoys swimming for exercise and to relax."
+    },
+    {
+      "q": "What did Lord Byron do in 1810?",
+      "options": [
+        "He built a large public swimming pool in Istanbul",
+        "He banned people from swimming in the sea near his home",
+        "He wrote a long book about the history of Roman baths",
+        "He swam across the water between Europe and Asia"
+      ],
+      "answer": 3,
+      "why": "Neil says in 1810 he swam the Hellespont, which separates Europe from Asia."
+    },
+    {
+      "q": "What happened to swimming in Europe after the Roman Empire declined?",
+      "options": [
+        "It became a popular sport",
+        "It lost its appeal",
+        "It was only allowed in temples",
+        "It was taught in schools"
+      ],
+      "answer": 1,
+      "why": "Neil says swimming seems to have lost its appeal in Europe after the decline of the Roman Empire."
+    },
+    {
+      "q": "According to Professor Kevin Dawson, why did the Church discourage swimming?",
+      "options": [
+        "Water seemed unsafe and nude swimming immodest",
+        "Swimming took people away from church on Sundays",
+        "There were not enough lakes",
+        "It was too expensive for ordinary people"
+      ],
+      "answer": 0,
+      "why": "He says water was seen as unsafe and unnatural, and swimming nude was felt to be immodest."
+    },
+    {
+      "q": "Why could people in the Maldives be world leaders in swimming, according to Mikael Rosen?",
+      "options": [
+        "They have the best swimming coaches",
+        "They swim to school every day",
+        "The government pays them to swim",
+        "Most live close to a warm lagoon"
+      ],
+      "answer": 3,
+      "why": "He says most citizens have half a mile to a lukewarm lagoon."
+    },
+    {
+      "q": "Why did swimming become disapproved of in the Maldives in the 1960s?",
+      "options": [
+        "The lagoons became polluted by boats and hotels",
+        "Teachers from abroad saw students missing school to swim",
+        "Too many children drowned in the sea every year",
+        "The government built too many public swimming pools"
+      ],
+      "answer": 1,
+      "why": "He says teachers from India and Sri Lanka noticed students playing hooky in the lagoons."
+    },
+    {
+      "q": "What does Neil think about what happened in the Maldives?",
+      "options": [
+        "It was the right decision for the students",
+        "The students should have been punished more",
+        "It was unfair, given the local swimming culture",
+        "The teachers understood the water culture well"
+      ],
+      "answer": 2,
+      "why": "Neil says it seems a bit unfair since there was already a strong swimming culture there."
+    }
+  ]
+}

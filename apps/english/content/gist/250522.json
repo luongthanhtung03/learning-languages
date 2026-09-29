@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to grow apples at home",
+        "Why we enjoy crunchy food and what the crunch tells us",
+        "Why insects are dangerous to eat",
+        "How astronauts cook in space"
+      ],
+      "answer": 1,
+      "why": "They investigate why we are so attracted to crunchy food."
+    },
+    {
+      "q": "Why does scientist Danielle Reed know so much about apples?",
+      "options": [
+        "She works for an apple company",
+        "She has written a book about fruit",
+        "She studied apples at university",
+        "She grew up in an apple orchard"
+      ],
+      "answer": 3,
+      "why": "She says she grew up as a small child in an apple orchard."
+    },
+    {
+      "q": "What does the texture of crunchy food tell our bodies, according to Beth?",
+      "options": [
+        "To prepare for tough fibre that builds our teeth and chewing muscles",
+        "To eat more slowly",
+        "That the food contains lots of sugar and will give us plenty of energy",
+        "That we are no longer hungry"
+      ],
+      "answer": 0,
+      "why": "Beth says it tells our bodies to get ready for the rough fibre needed to develop chewing muscles and teeth."
+    },
+    {
+      "q": "Why is the first bite so important, according to Danielle?",
+      "options": [
+        "It decides how much of the food we will eat during the rest of the meal",
+        "It makes the food taste sweeter",
+        "It helps us decide if the food is good enough to swallow",
+        "It cleans our teeth"
+      ],
+      "answer": 2,
+      "why": "She says we have to decide whether to swallow, and the first bite 'gives us a ton of information'."
+    },
+    {
+      "q": "Why does Danielle mention finding an eggshell in scrambled eggs?",
+      "options": [
+        "To show that eggs should be crunchy",
+        "To give a quick recipe for making scrambled eggs with a crunchy topping",
+        "To show that a crunch can also warn us something is wrong",
+        "To explain why she doesn't eat eggs"
+      ],
+      "answer": 2,
+      "why": "She says crunch can show quality 'or not', like an eggshell in eggs – 'That's no good!'"
+    },
+    {
+      "q": "What did astronauts on the International Space Station say they missed most?",
+      "options": [
+        "Crunchy food",
+        "Fresh water",
+        "Hot drinks",
+        "Their families' cooking"
+      ],
+      "answer": 0,
+      "why": "Georgie says crunchy food topped the list of what they missed most."
+    },
+    {
+      "q": "What does celebrity chef Dulsie Mudekwa say about eating insects?",
+      "options": [
+        "She has always loved eating insects ever since she was a small child in Zimbabwe",
+        "She only eats them when meat is too expensive",
+        "She thinks they taste better raw",
+        "She changed her mind and now uses them in snacks, cakes and sausages"
+      ],
+      "answer": 3,
+      "why": "She says she's now a convert and eats them roasted or makes them into flours, cakes and sausages."
+    },
+    {
+      "q": "How does Beth feel about eating insects?",
+      "options": [
+        "She wants to try them soon",
+        "She would rather keep eating apples",
+        "She eats them every week",
+        "She thinks they're healthier than apples"
+      ],
+      "answer": 1,
+      "why": "Beth says, 'I think I'll stick to apples thanks.'"
+    }
+  ]
+}

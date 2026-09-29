@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Christmas food and dishes around the world",
+        "Why Christmas is becoming more expensive",
+        "How to buy the perfect Christmas present",
+        "Christmas memories, traditions and nostalgia"
+      ],
+      "answer": 3,
+      "why": "Neil says they'll talk about nostalgia as well as Christmas memories and traditions."
+    },
+    {
+      "q": "What happy Christmas memory does Beth share?",
+      "options": [
+        "Putting on a Christmas show with her cousins",
+        "Living in Canada where it always snowed",
+        "Cooking Christmas dinner with her dad",
+        "Waiting on the stairs for Santa Claus"
+      ],
+      "answer": 0,
+      "why": "Beth says she and her cousins used to put on a Christmas performance for the family."
+    },
+    {
+      "q": "Why were Neil's childhood Christmases so special?",
+      "options": [
+        "He got lots of presents",
+        "He spent them with his cousins",
+        "He lived in Canada, where it always snowed",
+        "His family went abroad every year"
+      ],
+      "answer": 2,
+      "why": "Neil lived in Canada as a kid and it was always snowing, so it felt perfect."
+    },
+    {
+      "q": "How does Neil describe nostalgia?",
+      "options": [
+        "A feeling of being bored with the present",
+        "Feeling happy and sad at once about the past",
+        "A fear of the future and what it might bring",
+        "Only feeling sad about the past, never happy"
+      ],
+      "answer": 1,
+      "why": "He says thinking about the past can make us feel happy and sad at the same time."
+    },
+    {
+      "q": "What tradition did Daryl O'Connor's father have on Christmas morning?",
+      "options": [
+        "The children opened all their presents in bed",
+        "The family went for a long walk in the snow",
+        "The children put out snacks for Santa and his deer",
+        "They queued on the stairs while he checked for Santa"
+      ],
+      "answer": 3,
+      "why": "He says they queued on the stairs while his father checked the front room in case Santa was still there."
+    },
+    {
+      "q": "What does Daryl's story show about nostalgia?",
+      "options": [
+        "It can make people repeat childhood traditions",
+        "It makes people forget their old traditions",
+        "It only really affects older people",
+        "It makes Christmas less fun for children"
+      ],
+      "answer": 0,
+      "why": "Asked if nostalgia influences his plans, he says 'indeed it does' and he repeats the same tradition."
+    },
+    {
+      "q": "What does Professor Catherine Loveday say about nostalgic memories?",
+      "options": [
+        "They are usually completely accurate and clear",
+        "They're often more positive than reality was",
+        "They are mostly sad and painful for people",
+        "They slowly disappear as we get older"
+      ],
+      "answer": 1,
+      "why": "She says they're often going to be rose-tinted and made more positive."
+    },
+    {
+      "q": "Why does Catherine think it doesn't matter if our memories aren't accurate?",
+      "options": [
+        "Because nobody else can check them anyway",
+        "Because we forget most of them anyway",
+        "Memory isn't for accuracy; it suits who we are now",
+        "Because only facts and dates are important"
+      ],
+      "answer": 2,
+      "why": "She says the function of memory is not accuracy, and it's better to adjust memories to suit who we are."
+    }
+  ]
+}

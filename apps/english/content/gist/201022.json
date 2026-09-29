@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Famous stories about mermaids and sea monsters",
+        "Plans for underwater homes and their problems",
+        "How to train to become a professional deep-sea diver",
+        "Why fish are disappearing from the world's oceans"
+      ],
+      "answer": 1,
+      "why": "Neil says they'll hear about projects to create liveable underwater habitats and their challenges."
+    },
+    {
+      "q": "What is Ocean Spiral?",
+      "options": [
+        "A small submarine that takes tourists to the seabed",
+        "An underwater amusement park for families only",
+        "A research station where divers train for jobs",
+        "A huge see-through globe attached to the seabed"
+      ],
+      "answer": 3,
+      "why": "Neil describes it as a huge transparent globe attached to the seabed."
+    },
+    {
+      "q": "How many people could live in Ocean Spiral?",
+      "options": [
+        "Five thousand",
+        "Five hundred",
+        "Fifty thousand",
+        "Seventy-three"
+      ],
+      "answer": 0,
+      "why": "Rob says it would have space for five thousand underwater residents."
+    },
+    {
+      "q": "According to engineer Masaki Takeuchi, why was Ocean Spiral designed?",
+      "options": [
+        "To give rich people a luxury place to go on holiday",
+        "To protect rare sea animals from fishing boats",
+        "To use the deep sea to help with food and energy",
+        "To give people a way to escape rising sea levels"
+      ],
+      "answer": 2,
+      "why": "He says the world faces problems with food, energy and water, and they want to use the deep sea."
+    },
+    {
+      "q": "How much of the Ocean Spiral project has been built so far?",
+      "options": [
+        "Only the central tower",
+        "None of it",
+        "About half",
+        "All of it except the park"
+      ],
+      "answer": 1,
+      "why": "Rob says it is still in the planning stages and no part has yet been built."
+    },
+    {
+      "q": "Who is Roger Garcia?",
+      "options": [
+        "The Japanese engineer who designed Ocean Spiral",
+        "A science-fiction writer who writes about the sea",
+        "A doctor who treats divers with health problems",
+        "An ex-military diver with the underwater record"
+      ],
+      "answer": 3,
+      "why": "He is an ex-military diver who set the 73-day record and heads The Aquarius."
+    },
+    {
+      "q": "According to Roger Garcia, what happens to the body after a long time in The Aquarius?",
+      "options": [
+        "People lose a lot of weight",
+        "People's eyesight gets worse",
+        "The body takes in more nitrogen",
+        "People cannot sleep"
+      ],
+      "answer": 2,
+      "why": "He says at higher pressure you take on more nitrogen, and your voice may change a little."
+    },
+    {
+      "q": "What causes the bends, according to Neil?",
+      "options": [
+        "Returning to the surface too quickly",
+        "Breathing normal air underwater",
+        "Staying near the surface too long",
+        "Eating the wrong food before diving"
+      ],
+      "answer": 0,
+      "why": "He says the bends is caused by nitrogen bubbles when returning to the surface too quickly."
+    }
+  ]
+}

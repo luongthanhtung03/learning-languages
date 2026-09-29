@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook sausages at a barbecue",
+        "Why vegetarians live longer than meat eaters",
+        "Whether plant-based meat substitutes are healthier than meat",
+        "The history of British sausages"
+      ],
+      "answer": 2,
+      "why": "They find out whether plant-based foods really are a healthier alternative to meat."
+    },
+    {
+      "q": "What does Georgie think of plant-based sausages and burgers?",
+      "options": [
+        "She has never tried them",
+        "She likes them as long as they have plenty of sauce",
+        "She prefers them to real meat and eats them almost every day",
+        "She thinks they taste terrible"
+      ],
+      "answer": 1,
+      "why": "Georgie says she quite likes them 'as long as they're covered in sauce'."
+    },
+    {
+      "q": "What is Neil's opinion of plant-based meat alternatives?",
+      "options": [
+        "They are much better than real meat and he now eats them every week",
+        "They are too expensive to buy",
+        "He refuses to eat them",
+        "They're fine, but maybe not as good as the real thing"
+      ],
+      "answer": 3,
+      "why": "Neil says they're fine but he's 'not sure they're as good as the real thing'."
+    },
+    {
+      "q": "What worries listener Graham Glover about vegetable sausages?",
+      "options": [
+        "They are highly processed with lots of added ingredients",
+        "They contain hidden meat",
+        "They have too little protein",
+        "They are worse for the environment than pork sausages are"
+      ],
+      "answer": 0,
+      "why": "He asks about how they're processed, 'full of additives and flavourings and colourings'."
+    },
+    {
+      "q": "What is the protein in Quorn products made from?",
+      "options": [
+        "A type of fungus",
+        "Soy beans and nuts",
+        "Milk and yoghurt",
+        "Wheat from bread"
+      ],
+      "answer": 0,
+      "why": "Neil says Quorn uses mycoprotein, a fungi-based protein."
+    },
+    {
+      "q": "How does Graham react when he hears that Quorn comes from a fungus?",
+      "options": [
+        "He is disgusted and won't eat it",
+        "He is surprised and wants to learn much more about how it is made",
+        "He thinks it must be unhealthy",
+        "He doesn't mind – he only cares whether it's healthy"
+      ],
+      "answer": 3,
+      "why": "He says he has no problem with that; it's just another form of protein and what matters is health."
+    },
+    {
+      "q": "Why does presenter Greg Foot mention his mum?",
+      "options": [
+        "To show that she agrees with Graham",
+        "To show a different view – she doesn't want it to resemble meat",
+        "To explain that she makes her own vegetable sausages at home every week",
+        "To say she has started eating meat again"
+      ],
+      "answer": 1,
+      "why": "His mum, a long-time veggie, says she doesn't want her alternative proteins to resemble meat."
+    },
+    {
+      "q": "What does Graham need from a plant-based sausage?",
+      "options": [
+        "It must be cheaper than a pork sausage from the supermarket",
+        "It must be made at home",
+        "It must taste, feel and look like a meat sausage",
+        "It must contain no fungus"
+      ],
+      "answer": 2,
+      "why": "He says it needs to be similar 'in terms of flavour, texture, and appearance'."
+    }
+  ]
+}

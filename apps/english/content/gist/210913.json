@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why bats appear in so many superhero films",
+        "How to protect your home from bats",
+        "The complicated relationship between humans and bats",
+        "How farmers grow crops without insects"
+      ],
+      "answer": 2,
+      "why": "Neil says the relationship is complex and asks whether we should think of bats as friend or enemy."
+    },
+    {
+      "q": "What interesting bat fact does Sam give?",
+      "options": [
+        "All bats eat fruit",
+        "About one in five mammal species is a bat",
+        "Bats only live in dark places",
+        "Most bats have two-metre wingspans"
+      ],
+      "answer": 1,
+      "why": "Sam says bats account for 1 in 5 of all mammal species."
+    },
+    {
+      "q": "Why are medical scientists interested in bats?",
+      "options": [
+        "To make new vaccines from their blood",
+        "To learn how they fly in the dark",
+        "To stop them spreading insects",
+        "To learn the secrets of their long lives"
+      ],
+      "answer": 3,
+      "why": "Sam says scientists study them hoping to discover the secrets of their anti-ageing and long life."
+    },
+    {
+      "q": "According to Dr Winifred Frick, how do bats help US farming?",
+      "options": [
+        "They eat huge numbers of insect pests",
+        "They scare away larger animals",
+        "They improve the soil",
+        "They carry seeds to new fields"
+      ],
+      "answer": 0,
+      "why": "She says bats provide billions of dollars to US agriculture by eating agricultural pest insects."
+    },
+    {
+      "q": "What do almost all scientists agree about Covid-19?",
+      "options": [
+        "It started in a laboratory",
+        "Its progenitor virus has already been found",
+        "Its ancestral virus came from bats",
+        "Bats caught it from humans"
+      ],
+      "answer": 2,
+      "why": "Sam says 99% of scientists would agree the 'ancestral virus' of Covid-19 came from bats."
+    },
+    {
+      "q": "What is Professor Linfa Wang trying to find?",
+      "options": [
+        "The missing 'go-between' virus",
+        "A cure for Covid-19 that works on bats",
+        "A new species of bat in Singapore",
+        "A way to stop bats getting sick"
+      ],
+      "answer": 0,
+      "why": "He calls finding the progenitor virus the 'holy grail' for Covid-19."
+    },
+    {
+      "q": "According to Professor Wang, how similar must the progenitor virus be to the outbreak virus?",
+      "options": [
+        "About 50% identical",
+        "99.9% identical",
+        "Exactly 100% identical",
+        "About 90% identical"
+      ],
+      "answer": 1,
+      "why": "He says the progenitor virus usually has to be 99.9% identical to the outbreak virus."
+    },
+    {
+      "q": "What is Sam's final view about bats?",
+      "options": [
+        "They are dangerous and people should avoid them",
+        "They are only useful to farmers",
+        "They clearly caused the pandemic",
+        "They're unfairly blamed but helpful"
+      ],
+      "answer": 3,
+      "why": "Sam says bats are sometimes wrongly blamed for Covid but are good friends to farmers and scientists."
+    }
+  ]
+}

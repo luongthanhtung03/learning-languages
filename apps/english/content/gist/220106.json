@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Different views on a future in virtual worlds",
+        "How to watch football matches on your phone",
+        "Why Facebook is losing so many of its users",
+        "How computer games are designed and made"
+      ],
+      "answer": 0,
+      "why": "Neil says they'll hear two different opinions on the 'metaverse' and how it might shape the future."
+    },
+    {
+      "q": "What is Sam's problem on Saturday mornings?",
+      "options": [
+        "She can't find a football match to watch",
+        "Her friends never want to go to the park",
+        "When the weather's bad, she goes back to bed",
+        "She has to work instead of watching football"
+      ],
+      "answer": 2,
+      "why": "She says when it's cold and rainy she looks out the window and goes straight back to bed."
+    },
+    {
+      "q": "Why did the presenters decide to look at VR again?",
+      "options": [
+        "Many listeners asked for another programme on it",
+        "Facebook said it would hire 10,000 VR workers",
+        "A new VR headset had just been sold in shops",
+        "Mark Zuckerberg had visited the BBC"
+      ],
+      "answer": 1,
+      "why": "Sam says when Facebook announced it was hiring ten thousand workers for the metaverse, it was time for another look."
+    },
+    {
+      "q": "What does Emma Ridderstad predict for ten years from now?",
+      "options": [
+        "Most people will stop using mobile phones",
+        "Nobody will work in offices any more",
+        "VR will only be used for playing games",
+        "We'll do what we now do on phones in 3-D"
+      ],
+      "answer": 3,
+      "why": "She says 'everything that you do on your phone today, you will do in 3-D' – shopping, meeting friends, working."
+    },
+    {
+      "q": "What else does Emma say will be possible in the future?",
+      "options": [
+        "Mixing digital objects into the real world",
+        "Travelling to other countries without flying",
+        "Replacing all shops with digital ones",
+        "Living without any physical objects"
+      ],
+      "answer": 0,
+      "why": "She says you'll be able to integrate digital objects in your physical world, making it more 'phygital'."
+    },
+    {
+      "q": "Why does Dr Nicola Millard call VR 'vomity reality'?",
+      "options": [
+        "Because most VR games are about food",
+        "Because the pictures look very ugly",
+        "Wearing a headset makes her feel sick",
+        "Because VR is very expensive to buy"
+      ],
+      "answer": 2,
+      "why": "She says she usually needs a bucket close by if she's got a headset on."
+    },
+    {
+      "q": "What else worries Nicola Millard about VR?",
+      "options": [
+        "It will make people forget their friends",
+        "It uses far too much electricity",
+        "It is not realistic enough to enjoy",
+        "Spending hours in big, heavy headsets"
+      ],
+      "answer": 3,
+      "why": "She asks, 'do I want to spend vast amounts of time in those rather unwieldy headsets?'"
+    },
+    {
+      "q": "What is the difference between VR and AR, according to Sam?",
+      "options": [
+        "VR uses phones, while AR always needs a helmet",
+        "VR replaces what you see; AR adds to it",
+        "AR is older and much cheaper than VR",
+        "AR only works indoors, and VR only outside"
+      ],
+      "answer": 1,
+      "why": "Sam says virtual reality replaces what you hear and see, while augmented reality adds to it."
+    }
+  ]
+}

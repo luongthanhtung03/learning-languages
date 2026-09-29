@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Whether screens affect us differently from books",
+        "How to write successful children's books",
+        "Why young people have stopped reading",
+        "How eye doctors treat problems caused by screens"
+      ],
+      "answer": 0,
+      "why": "Georgie asks whether reading from screens is harmless or could be damaging us."
+    },
+    {
+      "q": "What do Phil and Georgie have in common?",
+      "options": [
+        "They both read only on paper",
+        "They both work as teachers",
+        "They both love books but read from screens a lot",
+        "They both think screens are better for reading than books"
+      ],
+      "answer": 2,
+      "why": "Both say they love books, and Phil admits he ends up reading from screens most days."
+    },
+    {
+      "q": "According to Cressida Cowell, what three things does reading bring?",
+      "options": [
+        "Money, fame and friends",
+        "Creativity, intelligence and empathy",
+        "Speed, memory and focus",
+        "Confidence, patience and a sense of humour"
+      ],
+      "answer": 1,
+      "why": "She says reading brings “three magical powers – creativity, intelligence, and empathy”."
+    },
+    {
+      "q": "What does Cressida say reading for pleasure is linked to?",
+      "options": [
+        "Spending less time with family",
+        "Becoming a famous writer",
+        "Having better eyesight",
+        "Economic success later in life"
+      ],
+      "answer": 3,
+      "why": "She says it's one of the two key factors in a kid's later economic success."
+    },
+    {
+      "q": "What have researchers found about “deep reading” skills?",
+      "options": [
+        "They can't be taught to children",
+        "They develop just as well on screens",
+        "They only matter for older students at university",
+        "They develop better when children read books"
+      ],
+      "answer": 3,
+      "why": "Phil says tests show deep reading skills develop better when kids read from books."
+    },
+    {
+      "q": "Why does Professor Wolf mention the cerebral cortex?",
+      "options": [
+        "To explain why screens hurt our eyes",
+        "To show that deep reading uses more of the brain",
+        "To prove that children read faster than adults do",
+        "To describe a brain illness caused by phones"
+      ],
+      "answer": 1,
+      "why": "She says when we read deeply, we use much more of our cerebral cortex."
+    },
+    {
+      "q": "According to Professor Wolf, what matters most about reading?",
+      "options": [
+        "How we read, rather than what or how much",
+        "Reading as many words as possible each day",
+        "Choosing only classic books",
+        "Reading out loud to others"
+      ],
+      "answer": 0,
+      "why": "She says it's not what or how much we read, but how we read, that's really important."
+    },
+    {
+      "q": "Why do screens encourage skimming, according to Phil?",
+      "options": [
+        "Because the text on most screens is far too small",
+        "Because people read screens only at night",
+        "Because we get so many words and notifications",
+        "Because screen texts are always short"
+      ],
+      "answer": 2,
+      "why": "He says it's the volume of words, pings and notifications screens bombard us with."
+    }
+  ]
+}

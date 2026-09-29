@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to teach punctuation and grammar to young children",
+        "The history of the apostrophe in the Greek language",
+        "Why apostrophes are misused, and a group that defended them",
+        "How texting and social media have made people better writers"
+      ],
+      "answer": 2,
+      "why": "They discuss the misuse of apostrophes and The Apostrophe Protection Society closing."
+    },
+    {
+      "q": "What annoys Rob about some taxi signs?",
+      "options": [
+        "They use an apostrophe to show a plural",
+        "They are too small to read",
+        "They spell 'taxi' without the letter i",
+        "They have no punctuation at all"
+      ],
+      "answer": 0,
+      "why": "Rob gets angry at 'taxi's' because the apostrophe isn't used to show there is more than one."
+    },
+    {
+      "q": "Is Rob really 'chilled out' about punctuation?",
+      "options": [
+        "Yes, he never notices mistakes",
+        "No, he admits it bothers him, though he wishes it didn't",
+        "Yes, because he thinks punctuation doesn't matter",
+        "No, and he corrects everyone he meets"
+      ],
+      "answer": 1,
+      "why": "He says, 'OK, I'm not chilled at all. But maybe I wish I were.'"
+    },
+    {
+      "q": "Why does Rob say correct punctuation matters in CVs and job applications?",
+      "options": [
+        "Employers use computers to check it before reading",
+        "It makes the application shorter and easier to read",
+        "It is required by law for all official documents",
+        "Mistakes could cost you a good job opportunity"
+      ],
+      "answer": 3,
+      "why": "He says a good standard is expected and if you get it wrong you could miss out."
+    },
+    {
+      "q": "What has The Apostrophe Protection Society done for nearly 20 years?",
+      "options": [
+        "Written punctuation textbooks for schools",
+        "Pointed out mistakes on public signs and in communications",
+        "Campaigned to remove the apostrophe from English",
+        "Given prizes to good writers"
+      ],
+      "answer": 1,
+      "why": "Georgina says they publicly pointed out incorrect use in public signs and communications."
+    },
+    {
+      "q": "Why is John Edwards giving up the society?",
+      "options": [
+        "He has run out of money to keep the society going",
+        "Younger members have taken over and changed its aims",
+        "His age, and a belief that texting and social media won",
+        "He now thinks apostrophes are no longer necessary"
+      ],
+      "answer": 2,
+      "why": "It is partly his age and partly because he thinks he lost the battle due to texting and social media."
+    },
+    {
+      "q": "According to John Edwards, why do people misuse apostrophes?",
+      "options": [
+        "They don't know the rules and won't learn them",
+        "Schools no longer teach punctuation",
+        "Phones correct the words automatically",
+        "The rules keep changing"
+      ],
+      "answer": 0,
+      "why": "He blames 'a mixture of ignorance and laziness'."
+    },
+    {
+      "q": "What does Rob suggest by saying, “and you thought I was a pedant!”?",
+      "options": [
+        "He agrees John Edwards is completely right",
+        "He thinks John Edwards is not strict enough",
+        "He is annoyed that Georgina called him rude",
+        "John Edwards holds even stronger views than he does"
+      ],
+      "answer": 3,
+      "why": "He says it after hearing Edwards' 'quite strong views' about barbarians winning."
+    }
+  ]
+}

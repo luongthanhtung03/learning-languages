@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How farmers are changing the countryside",
+        "The best places for a country walk",
+        "Why fewer people go out into the countryside",
+        "How to take good photos in the countryside when the weather is bad"
+      ],
+      "answer": 2,
+      "why": "Neil says the programme is about how fewer and fewer people are venturing out into the country."
+    },
+    {
+      "q": "How does Catherine react when Neil asks about her last country walk?",
+      "options": [
+        "She jokes that she didn't know people did that",
+        "She says she goes walking in the country every weekend",
+        "She says she much prefers walking around the city",
+        "She says she went yesterday"
+      ],
+      "answer": 0,
+      "why": "She says 'People do that?' and 'people are strange.'"
+    },
+    {
+      "q": "Why does Catherine think the phrase 'venture out' might be part of the problem?",
+      "options": [
+        "It is an old-fashioned phrase that nobody uses now",
+        "It makes going out sound risky",
+        "It is only used about the city",
+        "It sounds too relaxing"
+      ],
+      "answer": 1,
+      "why": "She says 'venture out' suggests it's a big challenge, or even a risky activity."
+    },
+    {
+      "q": "What did the survey find about millennials, according to Annabel Shackleton?",
+      "options": [
+        "Most of them go to the countryside every week",
+        "They don't care about the countryside",
+        "They find the countryside boring",
+        "Many know it's good to go but still don't"
+      ],
+      "answer": 3,
+      "why": "She says 4 in 10 think they should spend more time there, 'but they're just not going out'."
+    },
+    {
+      "q": "How does Annabel Shackleton feel about the survey results?",
+      "options": [
+        "Shocked and surprised",
+        "Pleased and proud",
+        "Bored",
+        "Not surprised at all"
+      ],
+      "answer": 0,
+      "why": "Neil says she uses 'phenomenal' to show how shocked and surprised she is."
+    },
+    {
+      "q": "Which excuse does Annabel Shackleton say people give for staying indoors?",
+      "options": [
+        "The countryside is too far away",
+        "They are too busy at work",
+        "They don't have the right clothing",
+        "Walking is dangerous"
+      ],
+      "answer": 2,
+      "why": "She says they use excuses like 'they haven't got the right clothing'."
+    },
+    {
+      "q": "Why does Neil quote the saying about the wrong weather and the wrong clothing?",
+      "options": [
+        "To agree that bad weather is a good excuse",
+        "To say weather shouldn't stop you if you dress well",
+        "To complain about the cold, wet British weather in the countryside",
+        "To advertise walking clothes"
+      ],
+      "answer": 1,
+      "why": "He says 'there is no such thing as the wrong weather, just the wrong clothing!'"
+    },
+    {
+      "q": "According to Catherine, what could be a problem with going out in terrible weather?",
+      "options": [
+        "You might get lost",
+        "The paths might be closed",
+        "You might catch a cold if you stay out in the rain for too long",
+        "Your photos might not be good enough for Instagram"
+      ],
+      "answer": 3,
+      "why": "She says if the weather is terrible, you might not get good pictures for your Instagram account."
+    }
+  ]
+}

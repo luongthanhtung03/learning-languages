@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Which university subjects lead to the best-paid jobs",
+        "How to pay for a university degree without getting into debt",
+        "Taking a year off before university, and why it matters now",
+        "The best countries to travel to after finishing school"
+      ],
+      "answer": 2,
+      "why": "Neil says they're talking about taking a gap year and why it has become more important."
+    },
+    {
+      "q": "Did Georgina take a gap year?",
+      "options": [
+        "Yes, she did",
+        "No, she went straight to university",
+        "No, she didn't go to university",
+        "She started one but didn't finish it"
+      ],
+      "answer": 0,
+      "why": "When Neil asks if she took a year off, she says, 'I did.'"
+    },
+    {
+      "q": "Why did Meg take a gap year?",
+      "options": [
+        "She wasn't sure she wanted to go to university at all",
+        "Her parents told her she should travel around Asia first",
+        "She failed her exams and needed time to take them again",
+        "She wanted to apply with real results, not predicted ones"
+      ],
+      "answer": 3,
+      "why": "She wanted to wait for her official results rather than use predicted grades."
+    },
+    {
+      "q": "What did Meg want her gap year to be like?",
+      "options": [
+        "Relaxing, with no work at all",
+        "Both useful and fun",
+        "Spent entirely studying",
+        "As cheap as possible"
+      ],
+      "answer": 1,
+      "why": "She wanted to do 'something productive and something that would just be good fun'."
+    },
+    {
+      "q": "How did Tom feel about gap years?",
+      "options": [
+        "He hadn't really heard of them, and they cost too much",
+        "He deeply regretted not taking one after leaving school",
+        "He thought they were a waste of time and of good money",
+        "His parents offered to pay for one, but he refused"
+      ],
+      "answer": 0,
+      "why": "He calls it 'an alien concept' and says it would have been far too expensive."
+    },
+    {
+      "q": "Why does Neil mention Chris Rea after Tom's comments?",
+      "options": [
+        "To agree that gap years are too expensive",
+        "To give advice about choosing a university",
+        "To show a gap year doesn't have to cost a lot",
+        "To explain how to get better exam results"
+      ],
+      "answer": 2,
+      "why": "Neil says Tom thought it'd be too expensive, but according to Chris Rea it needn't cost a lot."
+    },
+    {
+      "q": "According to Chris Rea, how have gap years changed?",
+      "options": [
+        "They are now mostly spent travelling around the world",
+        "They are now much shorter, often only a few months long",
+        "Fewer students take them now because of the high cost",
+        "They have become more practical and focused on skills"
+      ],
+      "answer": 3,
+      "why": "He says the gap year has become 'much more practical', with a focus on employability skills."
+    },
+    {
+      "q": "What does Chris Rea say about employers?",
+      "options": [
+        "They only care about degree results",
+        "They value any experience and skills you gained",
+        "They prefer students who didn't take a gap year",
+        "They want to see travel experience"
+      ],
+      "answer": 1,
+      "why": "He says from an employer's point of view, any experience and skills acquisition is valuable."
+    }
+  ]
+}

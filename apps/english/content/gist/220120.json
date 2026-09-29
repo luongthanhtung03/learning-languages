@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why vegan diets are the healthiest choice",
+        "How to count calories to lose weight",
+        "Gut microbes and diets that suit each person",
+        "Why identical twins always weigh the same"
+      ],
+      "answer": 2,
+      "why": "They explain that everyone's gut microbes are unique, so some doctors recommend a personalised diet."
+    },
+    {
+      "q": "What does Neil say about his own diet?",
+      "options": [
+        "Lots of fruit and veg, and some meat",
+        "He's a vegan and never eats any meat",
+        "He follows the popular keto diet strictly",
+        "He eats a lot of meat every day"
+      ],
+      "answer": 0,
+      "why": "Neil says he eats lots of fresh fruit and vegetables and only a little meat from time to time."
+    },
+    {
+      "q": "According to recent research, where does our body's reaction to food mainly happen?",
+      "options": [
+        "In the brain",
+        "On the tongue",
+        "In the stomach",
+        "In the gut"
+      ],
+      "answer": 3,
+      "why": "Neil says it happens 'not in the brain, or tongue, or even the stomach, but in the gut'."
+    },
+    {
+      "q": "What is true about the mix of microbes in our gut?",
+      "options": [
+        "It is exactly the same in identical twins",
+        "It is different for everyone, even twins",
+        "It is the same in people from one family",
+        "It only changes when we get older"
+      ],
+      "answer": 1,
+      "why": "Sam says the mix is unique and different for everyone, even identical twins."
+    },
+    {
+      "q": "What did Dr Tim Spector discover about common food advice?",
+      "options": [
+        "Much of it was based on weak or no evidence",
+        "It was all based on strong, modern research",
+        "It was only true for people who were overweight",
+        "It had been tested carefully on twins"
+      ],
+      "answer": 0,
+      "why": "He says these 'myths' were based on 'flimsy or no evidence' and repeated so much nobody questioned them."
+    },
+    {
+      "q": "What made Dr Spector realise that no two people have the same gut?",
+      "options": [
+        "Doctors told him about new microscopes",
+        "Twins in his study ate completely different food",
+        "Identical twins could have very different weights",
+        "His own gut changed when he started a new diet"
+      ],
+      "answer": 2,
+      "why": "It was the surprising differences in weight between identical twins that made him realise this."
+    },
+    {
+      "q": "What did Dr Spector find in the guts of the skinnier twins?",
+      "options": [
+        "Fewer types of microbes than their twins",
+        "No microbes at all in their samples",
+        "Exactly the same microbes as their twins",
+        "A wider variety of microbes"
+      ],
+      "answer": 3,
+      "why": "He says in every case the skinnier twin had a more diverse microbiome, with more different species."
+    },
+    {
+      "q": "Why does the programme suggest a personalised diet is best?",
+      "options": [
+        "Because it lets you eat whatever you like",
+        "Everyone's gut microbes are different",
+        "Because it is cheaper than other diets",
+        "Because doctors say calories don't matter"
+      ],
+      "answer": 1,
+      "why": "Neil says since everyone's microbes are different, a diet selecting the friendliest food for your gut is best."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Shopping online late at night and the problems it causes",
+        "How shopping malls are closing in towns across Britain",
+        "Why vampires and night creatures are popular in films",
+        "How to get a refund from a shop when something breaks"
+      ],
+      "answer": 0,
+      "why": "They discuss 'vampire shopping', which means shopping late at night."
+    },
+    {
+      "q": "How does Rob feel about shopping?",
+      "options": [
+        "He loves spending weekends in big shopping malls",
+        "He hates going round shops but finds online easier",
+        "He never buys anything unless it is on sale",
+        "He only shops at night when the shops are quiet"
+      ],
+      "answer": 1,
+      "why": "He calls malls 'my idea of hell' but says browsing online is much easier."
+    },
+    {
+      "q": "Which group is NOT mentioned as likely to be awake late at night?",
+      "options": [
+        "Shift workers",
+        "Gamers",
+        "Students",
+        "Parents who lack sleep"
+      ],
+      "answer": 2,
+      "why": "Rob mentions sleep-deprived parents, shift-workers and gamers."
+    },
+    {
+      "q": "According to Helen Undy, what happens to us when we're sleep deprived?",
+      "options": [
+        "We buy cheaper things that we don't really need",
+        "We stop paying attention to online advertising",
+        "We make better and faster decisions about money",
+        "We find it harder to control the urge to spend"
+      ],
+      "answer": 3,
+      "why": "She says our ability to control our impulse to spend is reduced."
+    },
+    {
+      "q": "Why is late-night shopping a bigger problem for people with mental health issues?",
+      "options": [
+        "Their problems make it harder to resist and disturb sleep",
+        "They have more money to spend because they stay at home",
+        "They are more interested in technology and new gadgets",
+        "They don't know how to return things they don't want"
+      ],
+      "answer": 0,
+      "why": "She says mental health problems make it harder to resist and also cause sleep deprivation."
+    },
+    {
+      "q": "What has Rob bought that he regretted?",
+      "options": [
+        "Clothes online that didn't fit him",
+        "A new car he couldn't really afford",
+        "Tech and cheap flights he didn't want",
+        "Expensive food from a delivery app"
+      ],
+      "answer": 2,
+      "why": "He mentions bits of tech and flight tickets to somewhere he didn't want to go."
+    },
+    {
+      "q": "What did Helen Undy's research find about returning regretted purchases?",
+      "options": [
+        "Most people returned them within a week",
+        "Three-quarters didn't return the last thing they regretted",
+        "Only people with mental health problems kept them",
+        "Shops usually refused to give people their money back"
+      ],
+      "answer": 1,
+      "why": "She says 75% of people didn't send back the last thing they regretted."
+    },
+    {
+      "q": "Why did 4 in 10 people with mental health problems not return items?",
+      "options": [
+        "Sending it back by post was too expensive",
+        "They forgot about it until it was too late",
+        "The shops were closed or wouldn't answer",
+        "They were ashamed and wanted to forget it"
+      ],
+      "answer": 3,
+      "why": "They were so ashamed they just wanted to pretend it never happened."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to boost your immune system",
+        "Where Covid-19 came from and how serious it may be",
+        "How vaccines against SARS were developed",
+        "Why bats are dangerous to humans"
+      ],
+      "answer": 1,
+      "why": "Neil says they'll look at the origins of Covid-19 and new evidence about the scale of the threat."
+    },
+    {
+      "q": "What do we learn about the SARS outbreak of 2002–2004?",
+      "options": [
+        "It only affected people in Europe and North America",
+        "It spread widely but caused no deaths at all",
+        "It was caused by bacteria, not by a virus",
+        "It killed hundreds in southern China and then spread"
+      ],
+      "answer": 3,
+      "why": "Georgina says it caused hundreds of deaths in southern China before spreading elsewhere."
+    },
+    {
+      "q": "How did the SARS virus survive and create new strains?",
+      "options": [
+        "By changing as it reproduced in infected people",
+        "By hiding for a long time in water supplies",
+        "By staying frozen in ice for many years",
+        "By infecting only wild animals, never humans"
+      ],
+      "answer": 0,
+      "why": "Neil says it survived by mutating as it reproduced in infected people, creating strains."
+    },
+    {
+      "q": "How many types of coronavirus carried by bats did a Chinese research project find?",
+      "options": [
+        "About 70",
+        "About 7",
+        "Over 700",
+        "Over 7,000"
+      ],
+      "answer": 2,
+      "why": "Georgina says a project in China identified over 700 types of coronavirus carried by bats."
+    },
+    {
+      "q": "What does Dr Peter Daszak say would have been even better than finding the precursor to SARS 2?",
+      "options": [
+        "Finding a cure for SARS 1 at the same time",
+        "Finding it early enough to warn people and stop it",
+        "Proving that bats were not involved in any way",
+        "Finding a completely new type of bat in the caves"
+      ],
+      "answer": 1,
+      "why": "He says it would have been better to find it before SARS 2 emerged and raise the red flag."
+    },
+    {
+      "q": "What was Dr Daszak's team looking for in bats?",
+      "options": [
+        "A cure for coronavirus hidden in their blood",
+        "A completely new disease that nobody knew about",
+        "Bats that were naturally immune to all viruses",
+        "The original SARS virus, thought to have gone"
+      ],
+      "answer": 3,
+      "why": "He says their hypothesis was that SARS 1, thought to have disappeared, was still out there in bats."
+    },
+    {
+      "q": "What did Professor Mary Fowkes notice about Covid-19?",
+      "options": [
+        "It only attacks the lungs and nothing else",
+        "It is much less dangerous than SARS 1 was",
+        "It also damages the brain, blood and other organs",
+        "It affects only older patients with health problems"
+      ],
+      "answer": 2,
+      "why": "Georgina says she noticed Covid-19 was damaging the brain, blood and other organs too."
+    },
+    {
+      "q": "Why does Professor Fowkes mention the loss of sense of smell?",
+      "options": [
+        "As a sign that the virus affects the brain",
+        "As proof the patient will recover quickly",
+        "As a sign of a lung infection",
+        "As a side effect of medicine"
+      ],
+      "answer": 0,
+      "why": "She says loss of smell 'is a direct connection to the brain as well'."
+    }
+  ]
+}

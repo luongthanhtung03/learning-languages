@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How the Japanese language has changed since 1999",
+        "Whether emojis help or harm the way we communicate",
+        "How to write emails that are clear and polite at work",
+        "Why online dating sites are becoming more popular"
+      ],
+      "answer": 1,
+      "why": "They discuss emojis, the critics who dislike them, and an expert who says they make us better communicators."
+    },
+    {
+      "q": "Why does Sam say hello to Neil in an unusual way at the start?",
+      "options": [
+        "Because she has lost her voice and can't speak",
+        "Because Neil asked her to try something new",
+        "To show Neil how to use a new mobile phone",
+        "To introduce the topic by using emojis"
+      ],
+      "answer": 3,
+      "why": "Sam greets Neil with a smiley face, high five and fist bump, then says they're entering the world of emojis."
+    },
+    {
+      "q": "What are Sam's and Neil's favourite emojis?",
+      "options": [
+        "Sam: tears of laughter; Neil: hearts",
+        "Sam: thumbs up; Neil: crying with laughter",
+        "Sam: smiling with hearts; Neil: high five",
+        "They both like the sad face emoji the most"
+      ],
+      "answer": 0,
+      "why": "Sam's favourite is 'crying tears of laughter' and Neil likes 'smiling face with hearts'."
+    },
+    {
+      "q": "According to Neil, why have emojis become so popular?",
+      "options": [
+        "They are quicker to type than whole words",
+        "They were free on the first mobile phones",
+        "They add missing emotion to writing",
+        "They help people who can't read or write"
+      ],
+      "answer": 2,
+      "why": "He says they let people put back some of the human emotion missing in written texts and emails."
+    },
+    {
+      "q": "What do people who are not emoji fans believe?",
+      "options": [
+        "Emojis are too difficult for older people to understand",
+        "Emojis make it harder to put feelings into words",
+        "Emojis should only be used by teenagers",
+        "Emojis are more useful in emails than in texts"
+      ],
+      "answer": 1,
+      "why": "Neil says some believe carefully chosen words are best and emojis affect our ability to put feelings into words."
+    },
+    {
+      "q": "What is Professor Vyv Evans's opinion of the critics of emojis?",
+      "options": [
+        "They are right that we should return to Shakespeare",
+        "They are right, but emojis are too popular to stop",
+        "They understand communication better than most people",
+        "They misunderstand how communication really works"
+      ],
+      "answer": 3,
+      "why": "He says their view 'fundamentally misunderstands the nature of communication'."
+    },
+    {
+      "q": "What figures are given about emoji use?",
+      "options": [
+        "Over 6 billion a day, most showing emotion",
+        "About 70 emoji messages a day sent by the average person",
+        "Over 3,000 new emojis are invented every single year",
+        "Only 6 percent of messages contain an emoji at all"
+      ],
+      "answer": 0,
+      "why": "Sam says over 6 billion emoji messages are sent daily, about 70 percent with emotion-based characters."
+    },
+    {
+      "q": "What did research by the dating site Match.com find?",
+      "options": [
+        "People dislike partners who send too many emojis",
+        "Emojis often cause arguments between couples",
+        "People using more emojis get more dates",
+        "Most people stop using emojis once they are dating"
+      ],
+      "answer": 2,
+      "why": "Vyv Evans says people who use more emojis 'tend to be lucky in love'."
+    }
+  ]
+}

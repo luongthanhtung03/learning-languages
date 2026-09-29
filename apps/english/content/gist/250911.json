@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How loud music damages young people's ears",
+        "How the ear works and why hearing gets worse with age",
+        "The best hearing aids available in the UK",
+        "Why some people hear better than others at birth"
+      ],
+      "answer": 1,
+      "why": "They explain how the ear works and discover why we lose hearing as we get older."
+    },
+    {
+      "q": "What does Neil say about his own hearing?",
+      "options": [
+        "He has used a hearing aid for years",
+        "He often asks people to speak more loudly",
+        "He lost some of his hearing after years of working with loud machines",
+        "He worried about it once, but a check-up showed it was fine"
+      ],
+      "answer": 3,
+      "why": "Neil thought his ears might be getting worse, but a check-up showed everything was fine."
+    },
+    {
+      "q": "What does Georgie say about hearing loss in the UK?",
+      "options": [
+        "It affects 18 million people and is increasing",
+        "It affects about 18 million people, but the number is falling",
+        "It mostly affects people over 80",
+        "It affects about one person in eight"
+      ],
+      "answer": 0,
+      "why": "She says hearing loss affects 18 million people in the UK and that number is increasing."
+    },
+    {
+      "q": "Why does surgeon Nish Mehta compare the outer ear to a satellite dish?",
+      "options": [
+        "Because it makes sounds much louder",
+        "Because it sends signals to the brain",
+        "Because it collects sounds and directs them inwards",
+        "Because it is the most delicate and easily damaged part of the ear"
+      ],
+      "answer": 2,
+      "why": "He says the pinna 'collects the sounds' and funnels them towards the sense organ."
+    },
+    {
+      "q": "According to Nish Mehta, when does wear and tear of our hearing begin?",
+      "options": [
+        "At birth",
+        "In our forties",
+        "At around eight years old",
+        "When we reach retirement age"
+      ],
+      "answer": 2,
+      "why": "He says wear and tear of hearing starts from around the age of eight."
+    },
+    {
+      "q": "Why does Nish Mehta mention someone who uses a pneumatic drill?",
+      "options": [
+        "To show that noise can speed up hearing loss, even with good genes",
+        "To explain why builders need regular ear operations",
+        "To show that the genes you are born with matter far more than noise",
+        "To give an example of a sound that can't be heard"
+      ],
+      "answer": 0,
+      "why": "He says someone with strong genetics who spends life on a drill may decline faster."
+    },
+    {
+      "q": "Why do people often take a long time to notice their hearing is getting worse?",
+      "options": [
+        "Because hearing loss has no effect on speech",
+        "Because the outer ears grow bigger with age to catch more sound",
+        "Because doctors rarely test adults' hearing",
+        "Because the brain works harder to make up for it"
+      ],
+      "answer": 3,
+      "why": "Nish says the brain increases its listening effort, so it's slow to realise you're struggling."
+    },
+    {
+      "q": "Which way of helping hearing loss is NOT mentioned?",
+      "options": [
+        "Hearing aids",
+        "Taking special vitamins",
+        "Surgery",
+        "Removing extra ear wax from the ears"
+      ],
+      "answer": 1,
+      "why": "Georgie mentions hearing aids, surgery and removing ear wax, but nothing about vitamins."
+    }
+  ]
+}

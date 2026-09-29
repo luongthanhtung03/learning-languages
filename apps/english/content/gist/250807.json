@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people in rich countries are happier",
+        "The idea of flourishing and what a big study found about it",
+        "How to grow flowers and plants at home",
+        "Why people feel less happy after the age of 50"
+      ],
+      "answer": 1,
+      "why": "They discuss the idea of 'flourishing' and the findings of the Global Flourishing Study."
+    },
+    {
+      "q": "How does Claudia Hammond explain 'flourishing'?",
+      "options": [
+        "It is another word for being rich",
+        "It means feeling physically healthy, even if you are not always happy",
+        "It is about your whole life being good, not just wellbeing",
+        "It is an old idea that nobody uses now"
+      ],
+      "answer": 2,
+      "why": "She says it's not just about wellbeing – 'it's about your whole life being good'."
+    },
+    {
+      "q": "Do Phil and Georgie feel they are flourishing?",
+      "options": [
+        "Yes, they both feel happy with their lives",
+        "Georgie does, but Phil doesn't",
+        "Phil does, but Georgie isn't sure about her own life",
+        "Neither of them feels they are"
+      ],
+      "answer": 0,
+      "why": "Georgie says everything's going well, and Phil says he thinks the same."
+    },
+    {
+      "q": "How big was the Global Flourishing Study?",
+      "options": [
+        "About 2,000 people in 12 countries",
+        "About 20,000 people in 200 countries",
+        "About 22,000 people in 20 countries",
+        "Over 200,000 people in 22 countries"
+      ],
+      "answer": 3,
+      "why": "Phil says it's a survey of over 200,000 people in 22 countries."
+    },
+    {
+      "q": "According to psychologist Dr Peter Olusoga, what did middle-income countries like Mexico score highly on?",
+      "options": [
+        "Money, income and financial security for families",
+        "Relationships, kindness and social connection",
+        "Health and physical fitness",
+        "Education and careers"
+      ],
+      "answer": 1,
+      "why": "He says middle-income countries scored highly on relationships, kindness and social cohesion."
+    },
+    {
+      "q": "What did the study find about age?",
+      "options": [
+        "Young people flourished the most",
+        "Age made no difference at all",
+        "Flourishing dropped for most people after they retired",
+        "Flourishing increased after the age of 50"
+      ],
+      "answer": 3,
+      "why": "Georgie says that across all countries, flourishing increased after the age of 50."
+    },
+    {
+      "q": "Which of these does Peter Olusoga NOT suggest to help us flourish?",
+      "options": [
+        "Working longer hours to earn more",
+        "Being thankful for the things that we already have",
+        "Showing kindness to others",
+        "Enjoying our small successes"
+      ],
+      "answer": 0,
+      "why": "He suggests gratitude, kindness and celebrating small wins, but not working more."
+    },
+    {
+      "q": "Why does Phil mention the saying about a journey of a thousand miles?",
+      "options": [
+        "To suggest that travel makes people flourish",
+        "To say that flourishing takes a very long time to measure properly",
+        "To show that small steps and successes really matter",
+        "To explain why some countries scored badly"
+      ],
+      "answer": 2,
+      "why": "He uses it to say savouring each small win along the way is vital to flourishing."
+    }
+  ]
+}

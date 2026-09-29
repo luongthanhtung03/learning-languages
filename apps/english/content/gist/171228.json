@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cure a cold quickly with simple home remedies",
+        "Why flu is more dangerous in winter than in summer",
+        "How hormones control our moods and our energy",
+        "Whether men really suffer more from colds and flu"
+      ],
+      "answer": 3,
+      "why": "Dan says it's about 'man flu' and whether it's real or just something men complain about."
+    },
+    {
+      "q": "How does Dan react when Neil says he's getting something serious?",
+      "options": [
+        "He sends Neil home to rest for the rest of the day",
+        "He says it's only a cold and Neil should keep going",
+        "He agrees that Neil looks very ill and should see a doctor",
+        "He offers to do the whole programme alone today"
+      ],
+      "answer": 1,
+      "why": "Dan calls it 'just a case of the sniffles' and says Neil will have to soldier on."
+    },
+    {
+      "q": "What do the British couple think about 'man flu'?",
+      "options": [
+        "They both think it is real and men suffer more",
+        "They both think men just complain more than women",
+        "He thinks men suffer more; she thinks they complain more",
+        "She thinks women suffer more; he isn't sure either way"
+      ],
+      "answer": 2,
+      "why": "The man says men 'definitely do suffer a lot more'; the woman feels 'they just complain more'."
+    },
+    {
+      "q": "What example does the British woman give?",
+      "options": [
+        "She still went to work when ill, but Chris stayed on the sofa",
+        "Chris went to work when he was ill, but she stayed in bed",
+        "They were both ill at the same time and both stayed at home",
+        "Chris never gets ill, even when everyone else in the house does"
+      ],
+      "answer": 0,
+      "why": "She says she carried on and went to work, while Chris was on the sofa and couldn't do anything."
+    },
+    {
+      "q": "What has the Dutch woman accused her boyfriend of?",
+      "options": [
+        "Pretending to be ill to miss work",
+        "Complaining again and again",
+        "Refusing to see a doctor",
+        "Giving her his cold"
+      ],
+      "answer": 1,
+      "why": "She says she accused him of 'whining'."
+    },
+    {
+      "q": "What does Dr Kyle Sue suggest about hormones and infections?",
+      "options": [
+        "Oestrogen makes infections last longer",
+        "Hormones have no effect on illness",
+        "Men and women have exactly the same hormones",
+        "More testosterone means a weaker immune response"
+      ],
+      "answer": 3,
+      "why": "He says the higher the testosterone, the lower the immune response; oestrogen does the opposite."
+    },
+    {
+      "q": "What does the Royal College of GPs in the UK say?",
+      "options": [
+        "There is no such thing as 'man flu'",
+        "'Man flu' is a serious illness",
+        "Women complain more than men",
+        "Dr Sue's study has proved 'man flu' is real"
+      ],
+      "answer": 0,
+      "why": "Dan says the Royal College of GPs says there is no such thing as 'man flu'."
+    },
+    {
+      "q": "Why does Dan tell Neil to 'hold his horses'?",
+      "options": [
+        "Neil is speaking too fast for the listeners",
+        "Neil wants to go home early to rest in bed",
+        "The evidence doesn't prove 'man flu' is real yet",
+        "Neil has forgotten to answer the quiz question"
+      ],
+      "answer": 2,
+      "why": "Dan says even Dr Sue admits the results are only 'suggestive', not 'definitive', and more studies are needed."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to stop your hair going grey as you get older",
+        "Human hair: why it matters and what it says about ageing",
+        "The best ways to cut and style hair for different faces",
+        "Why cats and gorillas have so much more hair than us"
+      ],
+      "answer": 1,
+      "why": "Neil and Tim talk about hair, why it's important to us, and research into how hair follicles age."
+    },
+    {
+      "q": "When do our hairs rise, according to Neil?",
+      "options": [
+        "Only when we are angry",
+        "When we are hot and tired",
+        "When we see someone we don't like",
+        "When we are cold, scared or excited"
+      ],
+      "answer": 3,
+      "why": "Neil says we get goose bumps when we're cold, scared or excited."
+    },
+    {
+      "q": "What is Tim's theory about why humans lost most of their body hair?",
+      "options": [
+        "It helped us sweat, so we could run and hunt longer",
+        "It helped us stay warm in the cold winter months",
+        "It made us look different from gorillas and other apes",
+        "It stopped insects and parasites living on our skin"
+      ],
+      "answer": 0,
+      "why": "Tim says it let us sweat more easily, so we could run faster and longer and catch more animals."
+    },
+    {
+      "q": "What does Neil say about men's and women's hair follicles?",
+      "options": [
+        "Women have more than men",
+        "They have exactly the same number",
+        "Men have more than women",
+        "Men lose them all after 40"
+      ],
+      "answer": 2,
+      "why": "Neil asks 'Did you know that men have more than women?'"
+    },
+    {
+      "q": "Why is a good head of hair important to people, according to Neil?",
+      "options": [
+        "It shows health and youth",
+        "It keeps the head warm",
+        "It shows you are rich",
+        "It protects you from the sun"
+      ],
+      "answer": 0,
+      "why": "Neil says 'a good head of hair indicates health and youth'."
+    },
+    {
+      "q": "According to Ralf Paus, which hairs often get stronger as men get older?",
+      "options": [
+        "The hair on the tops of their heads",
+        "Beards and moustaches on their faces",
+        "Eyebrows and hair in the nose and ears",
+        "Hair on their arms, legs and chest"
+      ],
+      "answer": 2,
+      "why": "He says eyebrows and the hairs in your nose and ears get stronger in ageing men."
+    },
+    {
+      "q": "Why does Ralf Paus think hair follicles are so interesting for science?",
+      "options": [
+        "They could help cure baldness quickly and cheaply",
+        "They show scientists exactly how old a person is",
+        "They are the smallest organs in the human body",
+        "They might teach us how to stop other organs ageing"
+      ],
+      "answer": 3,
+      "why": "He says 'we may even be able to learn from hair follicles how not to age'."
+    },
+    {
+      "q": "How does Tim feel about hair follicles regenerating?",
+      "options": [
+        "Very excited, because he thinks it will cure ageing",
+        "Unimpressed, unless it works for the hair on his head",
+        "Worried that it could be dangerous for older people",
+        "Surprised that scientists still know so little about it"
+      ],
+      "answer": 1,
+      "why": "Tim says if it's only eyebrows, nose and ear hair, 'I am not that impressed!'"
+    }
+  ]
+}

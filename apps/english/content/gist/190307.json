@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to run a small business smoothly and make a profit",
+        "Everyday 'life admin' tasks and how to make them less dull",
+        "How to get a job as a secretary in a big company",
+        "Why millennials travel so much more than older people"
+      ],
+      "answer": 1,
+      "why": "Neil and Rob discuss life admin and what could make these tasks more interesting."
+    },
+    {
+      "q": "What does Rob suggest is the best way to get organised?",
+      "options": [
+        "Hire a secretary",
+        "Do everything at the weekend",
+        "Use a mobile app",
+        "Use a to-do list"
+      ],
+      "answer": 3,
+      "why": "He says, 'You need a to-do list.'"
+    },
+    {
+      "q": "How does Elizabeth Emens describe life admin?",
+      "options": [
+        "Well-paid work that people do from home",
+        "Tasks that only managers in offices have to do",
+        "Unseen office-type work everyone does for free",
+        "A relaxing hobby that some people enjoy"
+      ],
+      "answer": 2,
+      "why": "She calls it 'the invisible layer of work' that everyone does in their own lives for free."
+    },
+    {
+      "q": "Which example of frustrating life admin does Rob mention?",
+      "options": [
+        "Questioning a bill with a utility company",
+        "Cooking dinner for the family every night",
+        "Booking a holiday online for the summer",
+        "Walking the dog twice a day in the rain"
+      ],
+      "answer": 0,
+      "why": "He mentions renewing house insurance or querying a bill with a utility company."
+    },
+    {
+      "q": "What is Neil's problem with life admin?",
+      "options": [
+        "He does too much of it",
+        "He loses his to-do lists",
+        "He doesn't know what to do",
+        "He keeps putting it off until later"
+      ],
+      "answer": 3,
+      "why": "He says he never gets round to it and procrastinates."
+    },
+    {
+      "q": "What pleasure does Elizabeth Emens describe some people getting from lists?",
+      "options": [
+        "Showing lists to friends",
+        "Adding tasks already done, just to cross them off",
+        "Writing lists in different colours",
+        "Losing lists so they don't have to do the tasks"
+      ],
+      "answer": 1,
+      "why": "She talks about putting things you've already done on a list just to cross them out."
+    },
+    {
+      "q": "What is special about the 'super-doers' Elizabeth Emens interviewed?",
+      "options": [
+        "They pay others to do their admin",
+        "They never make lists",
+        "They find real pleasure in doing the tasks",
+        "They work as secretaries"
+      ],
+      "answer": 2,
+      "why": "She says super-doers 'can find real pleasure in the actual doing of it'."
+    },
+    {
+      "q": "Why does Neil mention being charged extra on his credit card?",
+      "options": [
+        "To show the cost of being an 'admin avoider'",
+        "To complain about his bank's poor service",
+        "To give listeners advice on choosing credit cards",
+        "To show that he is a super-doer with his money"
+      ],
+      "answer": 0,
+      "why": "He says being an 'admin avoider' might explain why he was charged for paying late."
+    }
+  ]
+}

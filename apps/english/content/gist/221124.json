@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How social media helps people talk",
+        "World records for long phone calls",
+        "What makes a good conversation",
+        "How to become a radio presenter"
+      ],
+      "answer": 2,
+      "why": "Neil says 'we're talking about talking' and they discuss Nihal Arthanayake's book on better conversations."
+    },
+    {
+      "q": "Why do some people think the art of conversation is being lost?",
+      "options": [
+        "Social media makes us talk without listening",
+        "People are too busy to meet their friends",
+        "Phone calls have become too expensive",
+        "Schools no longer teach it to children"
+      ],
+      "answer": 0,
+      "why": "Sam says Twitter and social media encourage us to give opinions without always listening in return."
+    },
+    {
+      "q": "What did Nihal learn from his mother, a nurse?",
+      "options": [
+        "That talking a lot makes you popular",
+        "That you should avoid strangers",
+        "That work is more important than talking",
+        "That listening to others enriches you"
+      ],
+      "answer": 3,
+      "why": "He says it gave him the sense that you are enriched by listening."
+    },
+    {
+      "q": "Why was conversation also a 'survival instinct' for Nihal?",
+      "options": [
+        "He was often in danger at home with his family",
+        "He was a brown boy in a mostly white school",
+        "He had to work in a shop from a young age",
+        "He was very shy and had few friends"
+      ],
+      "answer": 1,
+      "why": "He says he was a little brown boy in a predominantly white state school in the 1980s."
+    },
+    {
+      "q": "What happens when we 'listen to reply', according to Nihal?",
+      "options": [
+        "We understand the other person better",
+        "We ask more questions",
+        "We think more about what we'll say next",
+        "We stop talking completely"
+      ],
+      "answer": 2,
+      "why": "Neil says we think about the next thing we want to say more than understanding the other person."
+    },
+    {
+      "q": "Which of these does Nihal say conversation is NOT?",
+      "options": [
+        "A way to build bridges",
+        "An art form",
+        "Something that has changed history",
+        "Two politicians talking over each other"
+      ],
+      "answer": 3,
+      "why": "He says it's not tittle-tattle, shouting on social media, or two politicians talking over each other."
+    },
+    {
+      "q": "What does good conversation involve, according to Sam?",
+      "options": [
+        "Taking turns rather than talking over people",
+        "Speaking louder than the other person",
+        "Talking mainly about yourself",
+        "Keeping it very short"
+      ],
+      "answer": 0,
+      "why": "She says it involves taking turns, not talking over someone."
+    },
+    {
+      "q": "How does Sam describe her meeting with her old school friend?",
+      "options": [
+        "They argued a lot about politics",
+        "They listened, and hours flew by",
+        "They talked only about other people",
+        "It was short and rather awkward"
+      ],
+      "answer": 1,
+      "why": "She says they both listened, and before they knew it a couple of hours had passed."
+    }
+  ]
+}

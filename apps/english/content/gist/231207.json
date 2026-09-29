@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to protect your garden from animals like squirrels",
+        "Eating invasive species as a way to control them",
+        "Why lionfish are becoming endangered",
+        "The best seafood restaurants in Belize"
+      ],
+      "answer": 1,
+      "why": "Phil says one of the simplest ways to deal with invasive species is just to eat them."
+    },
+    {
+      "q": "What problem does Beth have in her garden?",
+      "options": [
+        "Japanese knotweed is damaging the walls of her house",
+        "Her plants don't get enough light",
+        "Squirrels keep digging up what she plants",
+        "Insects are eating her vegetables"
+      ],
+      "answer": 2,
+      "why": "She says every time she plants something, squirrels dig it up."
+    },
+    {
+      "q": "How does Beth react when Phil suggests eating the squirrels?",
+      "options": [
+        "She is surprised and can't quite believe it",
+        "She says she already does",
+        "She asks for a recipe",
+        "She gets angry with Phil and leaves the room"
+      ],
+      "answer": 0,
+      "why": "She replies, “Sorry, what? Eat the squirrels?”"
+    },
+    {
+      "q": "What does the London restaurant Phil mentions offer?",
+      "options": [
+        "Lionfish curry and other dishes from Belize",
+        "Only vegetarian food",
+        "Food from Japan",
+        "Squirrel kebabs and Japanese knotweed beer"
+      ],
+      "answer": 3,
+      "why": "It offers squirrel kebabs, or you could try Japanese knotweed beer."
+    },
+    {
+      "q": "According to Myra Anubi, why is Japanese knotweed so damaging?",
+      "options": [
+        "It is poisonous to animals",
+        "It only grows near volcanoes, where it can survive the lava",
+        "It attracts invasive insects",
+        "Its strong roots kill other plants and damage buildings"
+      ],
+      "answer": 3,
+      "why": "She says its roots can choke out surrounding plants and cause damage to buildings."
+    },
+    {
+      "q": "What problem have lionfish caused in Belize?",
+      "options": [
+        "They have attacked swimmers",
+        "They have harmed coral reefs and native wildlife",
+        "They have eaten all the squirrels",
+        "They have stopped local fishing boats from going out to sea"
+      ],
+      "answer": 1,
+      "why": "Beth says they've had a massive impact on coral reefs and native wildlife."
+    },
+    {
+      "q": "Why did the Belizean government ask famous chefs to cook lionfish?",
+      "options": [
+        "To open new restaurants abroad",
+        "To win a cooking competition",
+        "To show lionfish is tasty and good for nature",
+        "To sell lionfish to other countries around the world"
+      ],
+      "answer": 2,
+      "why": "It was to raise awareness that eating lionfish was both tasty and helping the environment."
+    },
+    {
+      "q": "What did Celso Sho's organisation show fisheries and the public?",
+      "options": [
+        "How to remove the spine so they can eat the fish",
+        "How to breed lionfish",
+        "How to cook squirrel",
+        "How to catch lionfish using special nets and traps"
+      ],
+      "answer": 0,
+      "why": "He says they showed people how to remove the spine so they can eat the meat."
+    }
+  ]
+}

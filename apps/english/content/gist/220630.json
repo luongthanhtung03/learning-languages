@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of astronomy from Copernicus to today",
+        "How to become a TV presenter of science shows",
+        "A famous scientist's views on thinking scientifically",
+        "Why American schools are the best at teaching science"
+      ],
+      "answer": 2,
+      "why": "They discuss Neil deGrasse Tyson, whose mission is to encourage scientific thinking among the American public."
+    },
+    {
+      "q": "What is Neil deGrasse Tyson's day job?",
+      "options": [
+        "He runs a planetarium in New York",
+        "He teaches science at a primary school",
+        "He works as a TV news reporter",
+        "He advises the US president on science"
+      ],
+      "answer": 0,
+      "why": "Sam says he runs the Hayden Planetarium in New York's American Museum of Natural History."
+    },
+    {
+      "q": "According to Rob, why have scientists come under pressure recently?",
+      "options": [
+        "They have made too many mistakes in experiments",
+        "They are not paid enough by the government",
+        "Fewer young people want to study science",
+        "Critics with political views have attacked them"
+      ],
+      "answer": 3,
+      "why": "Rob says Covid and the climate crisis put scientists under pressure from critics motivated by political views."
+    },
+    {
+      "q": "What does Tyson say if nobody can repeat your experiment's results?",
+      "options": [
+        "You should publish your idea anyway",
+        "Then it doesn't count as a result",
+        "Other scientists are probably jealous",
+        "You need a more powerful machine"
+      ],
+      "answer": 1,
+      "why": "He says, 'if no-one can duplicate your results, it's not a result'."
+    },
+    {
+      "q": "What does Tyson believe is the most important thing for a scientific approach?",
+      "options": [
+        "Having a brilliant new idea",
+        "Remembering lots of scientific facts",
+        "Agreeing with other scientists",
+        "Knowing fact from opinion"
+      ],
+      "answer": 3,
+      "why": "Rob says Neil believes the most important thing is to know the difference between fact and opinion."
+    },
+    {
+      "q": "What does Tyson blame for many Americans being suspicious of science?",
+      "options": [
+        "The way science is taught in schools",
+        "Scientists who appear too often on TV",
+        "The high cost of going to university",
+        "Newspapers that print too much science"
+      ],
+      "answer": 0,
+      "why": "He says 'it has to do with how science is taught in schools'."
+    },
+    {
+      "q": "According to Tyson, what is the most important part of science?",
+      "options": [
+        "Memorising facts for exams",
+        "Doing experiments in a laboratory",
+        "Knowing how to question things",
+        "Reading books about the universe"
+      ],
+      "answer": 2,
+      "why": "He says the most important part of science 'is knowing how to question things'."
+    },
+    {
+      "q": "Why does Rob mention believing the Moon is made of cheese?",
+      "options": [
+        "To tell a joke about his favourite food",
+        "To show belief alone doesn't make something true",
+        "To explain what Copernicus first believed",
+        "To show that some old ideas were actually right"
+      ],
+      "answer": 1,
+      "why": "He says no matter how hard he believes it, 'believing it doesn't make it true'."
+    }
+  ]
+}

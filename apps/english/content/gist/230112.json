@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook Indian food at home",
+        "Why French food is so popular abroad",
+        "How to lose weight after a big meal",
+        "All-you-can-eat buffets and how we act"
+      ],
+      "answer": 3,
+      "why": "Neil says they'll be discussing buffets, where diners eat as much as they want."
+    },
+    {
+      "q": "What happened when Sam went to an Indian buffet?",
+      "options": [
+        "She didn't eat all day, then ate several plates",
+        "She didn't like the food",
+        "She ate only one small plate",
+        "She was too late and the food was gone"
+      ],
+      "answer": 0,
+      "why": "She didn't eat all day before, and managed three or four plates, maybe five."
+    },
+    {
+      "q": "What criticism of buffets does Sam mention?",
+      "options": [
+        "They are too expensive for families",
+        "The food is often cold and tasteless",
+        "Too much food is cooked and wasted",
+        "They are too small for big groups"
+      ],
+      "answer": 2,
+      "why": "She says usually too much is cooked, and buffets have been criticised for waste."
+    },
+    {
+      "q": "According to John Wood, why do some people pile their plates high?",
+      "options": [
+        "They are very hungry after a long day",
+        "Value for money, or not getting up again",
+        "The staff tell them to take a lot at once",
+        "They want to share the food with friends"
+      ],
+      "answer": 1,
+      "why": "He says some don't like getting up and down, and people want value for money."
+    },
+    {
+      "q": "What else does John Wood say expensive-buffet diners do?",
+      "options": [
+        "They take the most expensive items",
+        "They eat only salad to stay healthy",
+        "They leave early without paying",
+        "They try only one or two dishes"
+      ],
+      "answer": 0,
+      "why": "He says they take the most expensive things they can to get their money's worth."
+    },
+    {
+      "q": "Why does Neil mention Indian weddings?",
+      "options": [
+        "To show that Indians don't like buffets",
+        "To explain Indian cooking methods",
+        "To show buffets are also used to show off",
+        "To say weddings in India are small"
+      ],
+      "answer": 2,
+      "why": "He says buffets are also a way to show off, and richer couples have bigger buffets."
+    },
+    {
+      "q": "What does caterer Sandeep Sreedharan want guests to say after a wedding?",
+      "options": [
+        "That the food was cheap but tasty",
+        "That the wedding was short and fun",
+        "That they want the recipe for the curry",
+        "That they couldn't eat even half of it"
+      ],
+      "answer": 3,
+      "why": "He says they should go back saying, 'I couldn't eat even half of it!'"
+    },
+    {
+      "q": "Why does Sandeep call it 'a vicious circle'?",
+      "options": [
+        "Because guests always get sick afterwards",
+        "Each buffet must beat the last one",
+        "Because caterers always lose money on them",
+        "Because nobody really enjoys big weddings"
+      ],
+      "answer": 1,
+      "why": "Neil explains the next buffet always has to be even more impressive."
+    }
+  ]
+}

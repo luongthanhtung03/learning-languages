@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best places in the world to go whale watching",
+        "How whales communicate with songs",
+        "How humans' relationship with whales has changed over time",
+        "Why whales swim so fast"
+      ],
+      "answer": 2,
+      "why": "Phil says they'll discuss our past and present relationship with these giants of the ocean."
+    },
+    {
+      "q": "What wild animals have Georgie and Phil seen?",
+      "options": [
+        "Georgie saw a baby badger; Phil saw whales",
+        "They both saw whales on holiday together",
+        "Phil saw a badger, and Georgie saw a whale",
+        "Neither of them has seen a wild animal"
+      ],
+      "answer": 0,
+      "why": "Georgie saw a baby badger on a walk; Phil saw whales from the coast in Patagonia."
+    },
+    {
+      "q": "What does Phil say about the International Whaling Commission's ban?",
+      "options": [
+        "It ended last year after many arguments",
+        "It was ignored by almost every country",
+        "It only protects blue whales, not others",
+        "It saved many species, but some still hunt"
+      ],
+      "answer": 3,
+      "why": "He says Japan, Iceland and Norway still hunt, but the ban has saved many species from extinction."
+    },
+    {
+      "q": "Why was early whaling often unsuccessful?",
+      "options": [
+        "Slow wooden boats couldn't catch fast whales",
+        "There were very few whales in the oceans",
+        "Whaling was illegal in most countries",
+        "Hunters didn't know where whales lived"
+      ],
+      "answer": 0,
+      "why": "Hunters used slow-moving wooden boats, and big whales can swim up to 30km/hr."
+    },
+    {
+      "q": "What changed whaling in the late 1800s, according to Jayne Pierce?",
+      "options": [
+        "A new law in Norway",
+        "The invention of the exploding harpoon",
+        "The discovery of new whale species",
+        "Better maps of the ocean"
+      ],
+      "answer": 1,
+      "why": "She says Svend Foyn invented the exploding harpoon, a turning point for the whale."
+    },
+    {
+      "q": "Why does Georgie say the harpoon was a turning point 'sadly not in this case'?",
+      "options": [
+        "Because the new invention didn't really work",
+        "Because it made whales much harder to find",
+        "Because the change was bad for whales",
+        "Because Svend Foyn was not a real whaler"
+      ],
+      "answer": 2,
+      "why": "A turning point usually means change for the better, but it led to far more whales being killed."
+    },
+    {
+      "q": "How many whales had been killed by the time many species faced extinction?",
+      "options": [
+        "About 30,000",
+        "About 300,000",
+        "Exactly one million",
+        "Over three million"
+      ],
+      "answer": 3,
+      "why": "Phil says over three million whales had been killed and many species faced extinction."
+    },
+    {
+      "q": "Why does marine biologist Joe Roman praise Greenpeace?",
+      "options": [
+        "They made the first recordings of whale song",
+        "They blocked hunters with boats and used media",
+        "They paid several countries to stop whaling",
+        "They invented a new way to count whales"
+      ],
+      "answer": 1,
+      "why": "He says they put their boats between Soviet hunting vessels and whales, and were 'very good at media'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "What AI can do today and what it still finds hard",
+        "How to become a chess champion with computer help",
+        "Why science fiction films about robots are popular",
+        "How computers are designed and built in factories"
+      ],
+      "answer": 0,
+      "why": "Neil and Tim discuss where AI is used now and the limitations it still has."
+    },
+    {
+      "q": "What does Tim think about AI at the start?",
+      "options": [
+        "It is dangerous and should be stopped",
+        "It is already better than humans",
+        "It is still just science fiction",
+        "It is only used in hospitals"
+      ],
+      "answer": 2,
+      "why": "Tim says there's a lot of talk about AI, 'but it's still just science fiction, isn't it?'"
+    },
+    {
+      "q": "Which of these is NOT an example Neil gives of AI in use today?",
+      "options": [
+        "Helping us drive cars",
+        "Marking student essays",
+        "Finding out what's wrong with patients",
+        "Cooking meals at home"
+      ],
+      "answer": 3,
+      "why": "Neil mentions driving, diagnosing in hospitals, marking essays and suggesting what to read, but not cooking."
+    },
+    {
+      "q": "Why does Tim doubt that computers can solve real-life problems?",
+      "options": [
+        "They are too slow",
+        "They think only in zeros and ones",
+        "They break down too often",
+        "They can't learn from mistakes"
+      ],
+      "answer": 1,
+      "why": "Tim says computers think in zeros and ones, which sounds 'pretty limited' for life experience."
+    },
+    {
+      "q": "According to the Cambridge professor, what is very difficult to get computers to do?",
+      "options": [
+        "Play games like chess against the best human players",
+        "Do difficult maths problems very quickly",
+        "Remember large amounts of information for a long time",
+        "Simple things like walking or recognising a person"
+      ],
+      "answer": 3,
+      "why": "He says things we take for granted, like walking, reaching or recognising our mother, are incredibly hard for computers."
+    },
+    {
+      "q": "What does the professor say about these everyday tasks?",
+      "options": [
+        "They are where the newest research is happening",
+        "They will never be possible for computers",
+        "They were solved many years ago",
+        "They are not important for AI"
+      ],
+      "answer": 0,
+      "why": "He says 'that's where the current cutting edge of research is'."
+    },
+    {
+      "q": "Why does Neil mention that a computer beat a chess grandmaster?",
+      "options": [
+        "To prove computers are smarter than people in every way",
+        "To show a computer can win at chess but not pick up a piece",
+        "To explain how chess computers learn and plan their moves",
+        "To show that Tim is good at chess and often beats Neil"
+      ],
+      "answer": 1,
+      "why": "Neil says the same computer would find it incredibly difficult to pick up a chess piece."
+    },
+    {
+      "q": "How does Neil react when Tim says his quiz answer was an educated guess?",
+      "options": [
+        "He agrees Tim knows a lot about chess",
+        "He says Tim must have cheated",
+        "He suggests Tim was maybe just lucky",
+        "He says the answer was wrong"
+      ],
+      "answer": 2,
+      "why": "Neil replies, 'Or maybe you were just lucky'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to tell jokes that make everyone laugh",
+        "Why some people never laugh at jokes",
+        "How laughter works and why it's good for us",
+        "Why rats are more intelligent than we think"
+      ],
+      "answer": 2,
+      "why": "Sam says they'll find out that laughter is good for you, and they hear how a laugh is produced."
+    },
+    {
+      "q": "How does Neil react to Sam's joke about rats?",
+      "options": [
+        "He laughs and says it's funny",
+        "He says he has heard it before",
+        "He doesn't understand it",
+        "He says it isn't funny at all"
+      ],
+      "answer": 0,
+      "why": "Neil laughs, 'Ha-ha-ha! Very funny!'"
+    },
+    {
+      "q": "What medical evidence about laughing does Neil mention?",
+      "options": [
+        "It makes people sleep for longer at night",
+        "It stops people from catching Covid",
+        "It helps people lose weight quickly",
+        "People who laugh recover faster from illness"
+      ],
+      "answer": 3,
+      "why": "Neil says laughing releases anti-stress endorphins and people who laugh recover more quickly from illness."
+    },
+    {
+      "q": "What does Sam say about babies and laughter?",
+      "options": [
+        "Babies laugh before they learn to cry",
+        "After crying, laughing is often their next sound",
+        "Babies don't laugh until they are about a year old",
+        "Babies only laugh when other people laugh first"
+      ],
+      "answer": 1,
+      "why": "She says babies cry from birth, and the next sound they make, often at two or three months, is laughter."
+    },
+    {
+      "q": "According to Professor Sophie Scott, how is a laugh produced?",
+      "options": [
+        "By moving the tongue and lips very quickly",
+        "By breathing in air slowly through the nose",
+        "By the rib cage squeezing air out quickly",
+        "By using the voice in the same way as singing"
+      ],
+      "answer": 2,
+      "why": "She says you get very large, fast contractions of the rib cage, squeezing air out in big bouts."
+    },
+    {
+      "q": "Why does Sam mention words like 'chuckle', 'giggle' and 'guffaw'?",
+      "options": [
+        "To show that English is hard to learn",
+        "To explain which laugh is the healthiest",
+        "To teach listeners some new jokes",
+        "To show laughter is shared by all humans"
+      ],
+      "answer": 3,
+      "why": "She says crying and laughing link to a universal human experience, seen in the many words we use for them."
+    },
+    {
+      "q": "According to Sophie Scott, what does laughter mean for young mammals?",
+      "options": [
+        "It's an invitation to play",
+        "It's a sign that they are hungry",
+        "It's a warning to stay away",
+        "It's a way to call their mother"
+      ],
+      "answer": 0,
+      "why": "She says laughter is 'a sort of an invitation to play, it's a sign that you're playing'."
+    },
+    {
+      "q": "What happens to young rats that don't laugh back?",
+      "options": [
+        "They are left alone by the other rats",
+        "They're more likely to get bitten",
+        "They are tickled until they laugh",
+        "They leave the group and live alone"
+      ],
+      "answer": 1,
+      "why": "Neil says young rats who don't laugh back are more likely to get a bite than a giggle."
+    }
+  ]
+}

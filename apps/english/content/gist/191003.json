@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How people complain and which businesses handle it badly",
+        "The oldest objects and complaint letters in the British Museum",
+        "How to get a job in customer service with no experience",
+        "Why British people are too polite to complain in restaurants"
+      ],
+      "answer": 0,
+      "why": "Sam and Rob discuss complaining and customer service with ideas from Giles Hawke."
+    },
+    {
+      "q": "Why does Rob say he never complains?",
+      "options": [
+        "He always gets good service",
+        "He finds it too embarrassing",
+        "It never works",
+        "He doesn't have time"
+      ],
+      "answer": 1,
+      "why": "He says, 'I'm British! I never complain... It's just too embarrassing.'"
+    },
+    {
+      "q": "What does Sam say about British people today?",
+      "options": [
+        "They have stopped complaining completely",
+        "They only complain online",
+        "They are complaining more than before",
+        "They complain less than other countries"
+      ],
+      "answer": 2,
+      "why": "Sam says it seems the British are complaining more than they used to."
+    },
+    {
+      "q": "According to Giles Hawke, which sectors have more problems than average?",
+      "options": [
+        "Travel, retail, leisure and the hotel industry",
+        "Banking, food, fashion and online shopping",
+        "Education, health and the charity sector",
+        "Public services, telecoms, transport and services"
+      ],
+      "answer": 3,
+      "why": "He lists public services, telecommunications, transport and service sector."
+    },
+    {
+      "q": "What does Rob mean by 'inherent challenges' in these sectors?",
+      "options": [
+        "Problems that come from the nature of the business",
+        "Problems caused by lazy or badly trained staff",
+        "Problems that are quick and cheap for companies to fix",
+        "Problems that only happen in bad weather or at holidays"
+      ],
+      "answer": 0,
+      "why": "He explains an inherent problem is part of the nature of the thing itself."
+    },
+    {
+      "q": "Which sectors does Giles Hawke say are performing well?",
+      "options": [
+        "Transport and public services",
+        "Travel, retail and leisure",
+        "Telecoms and transport",
+        "Only the service sector"
+      ],
+      "answer": 1,
+      "why": "He says travel, retail and leisure appear to be performing well."
+    },
+    {
+      "q": "How are most complaints still made?",
+      "options": [
+        "On social media",
+        "By email",
+        "In person at a shop",
+        "By phone or by letter"
+      ],
+      "answer": 3,
+      "why": "He says over 58% of complaints are made by phone or letter."
+    },
+    {
+      "q": "When do people tend to use social media to complain?",
+      "options": [
+        "Always as their very first step, before phoning",
+        "Only for small problems that aren't worth a letter",
+        "When their complaint wasn't dealt with the first time",
+        "When they want to praise a company for good service"
+      ],
+      "answer": 2,
+      "why": "It is used as an escalation point if people aren't getting what they want dealt with first."
+    }
+  ]
+}

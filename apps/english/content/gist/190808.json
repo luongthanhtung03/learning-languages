@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a good waiter and earn big tips",
+        "How to open a successful restaurant in New York",
+        "Why tipping is complicated and differs by place",
+        "The biggest tips ever given by famous customers"
+      ],
+      "answer": 2,
+      "why": "Catherine calls tipping 'a really complicated issue', and they discuss how it differs by city."
+    },
+    {
+      "q": "How does Sam feel about tipping?",
+      "options": [
+        "She finds it very confusing",
+        "She always tips 20%",
+        "She never tips anyone",
+        "She thinks it should be banned"
+      ],
+      "answer": 0,
+      "why": "She calls it 'a nightmare' and never knows who, how or how much to tip."
+    },
+    {
+      "q": "In how many cities does William Beckett currently have restaurants?",
+      "options": [
+        "One",
+        "Three",
+        "Four",
+        "Two"
+      ],
+      "answer": 3,
+      "why": "Sam says two, London and Manchester; the New York one isn't open yet."
+    },
+    {
+      "q": "What is the norm in London, according to William Beckett?",
+      "options": [
+        "Nobody tips at all in restaurants",
+        "A service charge is usually on the bill",
+        "People always leave a tip in cash",
+        "Customers usually tip about 20%"
+      ],
+      "answer": 1,
+      "why": "He says in London 'it's there, it's on your bill'."
+    },
+    {
+      "q": "Why do some people prefer an automatic service charge?",
+      "options": [
+        "It is always cheaper than leaving a tip",
+        "Waiters get more money at the end of the week",
+        "They don't have to think about or work out a tip",
+        "It is required by law in most British restaurants"
+      ],
+      "answer": 2,
+      "why": "Catherine says they don't have to think about or try to calculate a tip."
+    },
+    {
+      "q": "What does William Beckett say about tipping in New York?",
+      "options": [
+        "Tipping is always included in the bill at the end",
+        "People only tip in expensive restaurants in Manhattan",
+        "Nobody expects a tip, as waiters get a good wage",
+        "Nobody says you must tip, but everyone feels they should"
+      ],
+      "answer": 3,
+      "why": "He says there's 'a tacit pressure to tip'."
+    },
+    {
+      "q": "What does William Beckett mean by saying you could 'theoretically' walk out without tipping?",
+      "options": [
+        "It is possible, but people almost never do it",
+        "It is illegal and you could be fined for it",
+        "Most people do it and nobody really minds",
+        "Only tourists do it, because they don't know"
+      ],
+      "answer": 0,
+      "why": "Catherine explains it's possible but very unlikely because of the tacit pressure."
+    },
+    {
+      "q": "What do people like about not having a service charge, according to William Beckett?",
+      "options": [
+        "Their final bill is always smaller at the end",
+        "They're free not to tip, even if they don't use it",
+        "The food is better because the chefs try harder",
+        "The waiters are friendlier and serve them faster"
+      ],
+      "answer": 1,
+      "why": "Sam says people like that freedom not to tip, even if they don't actually use it."
+    }
+  ]
+}

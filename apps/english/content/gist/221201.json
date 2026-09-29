@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The story of Romeo and Juliet",
+        "How to write a hit song",
+        "Why teenagers shouldn't fall in love",
+        "Love, heartbreak and how music can help"
+      ],
+      "answer": 3,
+      "why": "They meet a singer-songwriter who used music to express love and mend her broken heart."
+    },
+    {
+      "q": "How did Sam feel when she first fell in love at fourteen?",
+      "options": [
+        "As if every love song was written for her",
+        "Confused and worried about her feelings",
+        "Too embarrassed to tell anyone at school",
+        "She stopped liking love songs completely"
+      ],
+      "answer": 0,
+      "why": "She says it seemed every word of every love song had been written just for her."
+    },
+    {
+      "q": "Why did Julia Jacklin move to London?",
+      "options": [
+        "To study music",
+        "To join a new band",
+        "To be with her boyfriend",
+        "To find a better job"
+      ],
+      "answer": 2,
+      "why": "She bought a one-way ticket to London to be with her boyfriend."
+    },
+    {
+      "q": "What happened after things went wrong in London?",
+      "options": [
+        "She went straight back home to Australia",
+        "Her feelings became songs on her first album",
+        "She stopped making music for several years",
+        "She rejoined her old band from school"
+      ],
+      "answer": 1,
+      "why": "She poured her feelings of lost love into songs that became her first album."
+    },
+    {
+      "q": "What did Julia find heartbreaking when she was young?",
+      "options": [
+        "Adults not believing young love was real",
+        "Her parents' divorce when she was twelve",
+        "Losing her best friends after moving away",
+        "Her first band's failure to get a deal"
+      ],
+      "answer": 0,
+      "why": "She says 'adult cynicism about love' was very heartbreaking for her at that age."
+    },
+    {
+      "q": "What would Julia tell her younger self now?",
+      "options": [
+        "Be careful and don't trust love",
+        "Listen to the adults",
+        "Wait until you are older",
+        "Go for it!"
+      ],
+      "answer": 3,
+      "why": "She says she'd probably just say, 'yeah – go for it!'"
+    },
+    {
+      "q": "What does Dr Lucy Brown wish someone had told her?",
+      "options": [
+        "That true love always lasts forever",
+        "That heartbreak happens, but you recover",
+        "That young people should avoid love",
+        "That music cures heartbreak quickly"
+      ],
+      "answer": 1,
+      "why": "She says go for it, but heartbreak happens, and 'you're gonna get over it'."
+    },
+    {
+      "q": "How is Dr Brown's view different from Julia's?",
+      "options": [
+        "She thinks young love is silly and pointless",
+        "She is completely against falling in love",
+        "She says go for it, but be more realistic",
+        "She thinks adults should decide for teenagers"
+      ],
+      "answer": 2,
+      "why": "She thinks we need to be more realistic about falling in love, while still saying 'go for it'."
+    }
+  ]
+}

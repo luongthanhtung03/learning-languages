@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to stay safe at big football matches",
+        "Why crowds affect us and how we behave in them",
+        "The biggest religious festivals in India",
+        "How trains can carry more passengers safely"
+      ],
+      "answer": 1,
+      "why": "Sam says they'll discuss the role of crowds and why they evoke different reactions in people."
+    },
+    {
+      "q": "Why does Sam feel differently about the football crowd?",
+      "options": [
+        "It is smaller than the station crowd",
+        "She always has a seat there",
+        "It is quieter",
+        "It feels more like a big group of friends"
+      ],
+      "answer": 3,
+      "why": "She says that's different – 'more like a big group of friends'."
+    },
+    {
+      "q": "Which older idea about crowds does Professor John Drury describe?",
+      "options": [
+        "People in crowds become calmer and wiser",
+        "Crowds always make people feel happy and safe",
+        "Crowds make people gullible and violent",
+        "Crowds help people make better decisions"
+      ],
+      "answer": 2,
+      "why": "He says in crowds people supposedly regress, become more gullible and tend towards violence."
+    },
+    {
+      "q": "What does research say about the idea of 'mob mentality', according to Anand Jagatia?",
+      "options": [
+        "It is not supported by research",
+        "It explains most crowd behaviour",
+        "It is true only at football matches",
+        "It has never been studied"
+      ],
+      "answer": 0,
+      "why": "He says the idea of mob mentality 'just isn't backed up by research'."
+    },
+    {
+      "q": "According to Dr Anne Templeton, what makes a crowd more enjoyable?",
+      "options": [
+        "Being with very few people around you",
+        "Having a lot of police officers around",
+        "Standing near the exit so you can leave",
+        "Feeling part of a group with the others"
+      ],
+      "answer": 3,
+      "why": "She says the more people feel part of a group with others in the crowd, the more they enjoy it."
+    },
+    {
+      "q": "What do people expect when they feel part of a group, according to Dr Templeton?",
+      "options": [
+        "That others will look after them",
+        "That others will push them",
+        "That they must lead the group",
+        "That the event will end early"
+      ],
+      "answer": 0,
+      "why": "She says if we feel in a group with others, we expect them to look after us."
+    },
+    {
+      "q": "Why does Neil mention football fans wearing the same colours and singing?",
+      "options": [
+        "To show how noisy big football matches can be",
+        "To explain why rival fans often start fights",
+        "To show how shared identity bonds a crowd",
+        "To say that fans spend too much money on shirts"
+      ],
+      "answer": 2,
+      "why": "He says it works as a kind of glue, bonding the crowd and making them feel safe."
+    },
+    {
+      "q": "According to Neil, why are crowds important today?",
+      "options": [
+        "They help people find jobs and new friends",
+        "Together, people feel they have power",
+        "They are always safer than being alone",
+        "They are good places to watch sport on TV"
+      ],
+      "answer": 1,
+      "why": "He says crowds give us power, like marching together feeling you could change the world."
+    }
+  ]
+}

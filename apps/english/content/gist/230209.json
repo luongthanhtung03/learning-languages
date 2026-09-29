@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why we are drawn to reading bad news",
+        "How to find good news online",
+        "The best news websites",
+        "How phones damage our eyes"
+      ],
+      "answer": 0,
+      "why": "Neil says they'll investigate why we feel compelled to look at, and even seek out, bad news."
+    },
+    {
+      "q": "How does Neil feel about doomscrolling?",
+      "options": [
+        "He never does it and doesn't understand it",
+        "He enjoys it very much in the evenings",
+        "He hates to admit he sometimes does it",
+        "He does it all day, even at work"
+      ],
+      "answer": 2,
+      "why": "He says, 'I hate to admit it, but I do sometimes doomscroll.'"
+    },
+    {
+      "q": "What did research from the University of California find?",
+      "options": [
+        "Only young people in rich countries doomscroll",
+        "People everywhere doomscroll, whatever culture",
+        "Doomscrolling is most common in the USA",
+        "Doomscrolling makes most people happier"
+      ],
+      "answer": 1,
+      "why": "It found people all over the world doomscroll, regardless of culture."
+    },
+    {
+      "q": "What two possible causes does Ella al-Shamahi ask about?",
+      "options": [
+        "Boredom and loneliness in modern life",
+        "Work stress and a lack of good sleep",
+        "Social media and too much advertising",
+        "24/7 news on phones, or an old instinct"
+      ],
+      "answer": 3,
+      "why": "She asks if it's '24/7 doom on tap on our phones' or a compulsion from 'way, way back'."
+    },
+    {
+      "q": "According to the theory of 'negativity bias', why do humans pay attention to bad news?",
+      "options": [
+        "Knowing about danger helped us survive",
+        "Bad news is far more common than good news",
+        "Journalists prefer to write bad news stories",
+        "It makes us feel better about our own lives"
+      ],
+      "answer": 0,
+      "why": "Neil says knowing the dangers was vital to survival, so we naturally pay attention to negative things."
+    },
+    {
+      "q": "What difference between cave people and us does Ella describe?",
+      "options": [
+        "Cave people had much more bad news to deal with",
+        "Cave people only heard local bad news",
+        "Cave people never shared news with others",
+        "Cave people only ever heard good news"
+      ],
+      "answer": 1,
+      "why": "She says a neighbour's cave would only know the bad news from that particular mountain."
+    },
+    {
+      "q": "What does Clara Amfo think about how society sees negative experiences?",
+      "options": [
+        "It ignores them",
+        "It fears them too much",
+        "It makes them sound better than they are",
+        "It talks about them too little"
+      ],
+      "answer": 2,
+      "why": "She says trauma is romanticised and we believe negative experiences shape us more than joyful ones."
+    },
+    {
+      "q": "What does Neil conclude about stopping doomscrolling?",
+      "options": [
+        "It is very easy to do",
+        "It is not necessary",
+        "It is only possible for older people",
+        "It might be best, but it's not easy"
+      ],
+      "answer": 3,
+      "why": "He says maybe it's best to stop, but with so much bad news pouring in, it's not easy."
+    }
+  ]
+}

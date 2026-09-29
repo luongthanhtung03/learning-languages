@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How spending time in nature can help mental health",
+        "How to grow plants in a city garden",
+        "The tallest trees in the world",
+        "Why medicine is the best treatment for depression"
+      ],
+      "answer": 0,
+      "why": "Neil and Georgina discuss ecotherapy, which uses contact with nature to help people."
+    },
+    {
+      "q": "What does Georgina usually do to cheer herself up?",
+      "options": [
+        "Have a drink with friends at the local pub",
+        "Do some gardening in her back garden",
+        "Go for a walk, especially in the countryside",
+        "Hug a tree in the park near her office"
+      ],
+      "answer": 2,
+      "why": "She says having a walk usually helps, especially in the countryside."
+    },
+    {
+      "q": "According to the charity Mind, what is ecotherapy?",
+      "options": [
+        "A type of medication made from plants and herbs",
+        "A formal treatment with outdoor activities in nature",
+        "A relaxing holiday in the countryside with friends",
+        "A way to study wild animals in their natural habitat"
+      ],
+      "answer": 1,
+      "why": "Mind describes it as a formal treatment which involves doing outdoor activities in nature."
+    },
+    {
+      "q": "What does Patricia Hasbach think about ecotherapy?",
+      "options": [
+        "It can cure any kind of pain",
+        "It should replace traditional therapy",
+        "It only works for people who live in cities",
+        "It is a useful tool but won't solve everything"
+      ],
+      "answer": 3,
+      "why": "She calls it 'another tool in the therapist's toolbox' but 'not a panacea'."
+    },
+    {
+      "q": "What does Patricia Hasbach mean when she says therapy 'stopped at the urban boundary'?",
+      "options": [
+        "Therapists refused to travel and work in the countryside",
+        "Therapy was traditionally done indoors in towns and cities",
+        "Therapy was far too expensive for people outside cities",
+        "City people didn't think they needed therapy at all"
+      ],
+      "answer": 1,
+      "why": "Georgina explains that going beyond the 'urban boundary' into nature gives another method."
+    },
+    {
+      "q": "According to research, why does nature help us relax?",
+      "options": [
+        "Our brains get a break from always being on guard",
+        "The air in the countryside contains more oxygen",
+        "We sleep better at night after exercising outdoors",
+        "There are fewer people around that we have to talk to"
+      ],
+      "answer": 0,
+      "why": "Neil says our busy brains are always on guard, but in nature they get a break."
+    },
+    {
+      "q": "According to Birgitta Gatersleben, what happens when we are exposed to nature?",
+      "options": [
+        "We become more tired and want to go home and sleep",
+        "We quickly start to miss the noise and energy of city life",
+        "We feel more energetic, but also more stressed and alert",
+        "Negative feelings are quickly replaced by positive ones"
+      ],
+      "answer": 3,
+      "why": "She says our negative feelings get almost immediately replaced with positive emotions."
+    },
+    {
+      "q": "What does 'biophilia' suggest about most people?",
+      "options": [
+        "They must slowly learn to enjoy nature as children",
+        "They prefer the company of animals to other people",
+        "They are born with a natural connection to nature",
+        "They are naturally afraid of wild and empty places"
+      ],
+      "answer": 2,
+      "why": "Georgina says most of us were born to connect with nature."
+    }
+  ]
+}

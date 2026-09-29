@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Whether food allergies are more common now, and why",
+        "How to cook tasty meals without using any peanuts",
+        "The difference between nuts and legumes in cooking",
+        "How to treat eczema in babies with special creams"
+      ],
+      "answer": 0,
+      "why": "Neil says the topic is whether there are more food allergies these days."
+    },
+    {
+      "q": "Which foods does Rob mention that can cause allergies?",
+      "options": [
+        "Bread, rice and pasta",
+        "Peanuts, shellfish and milk",
+        "Fruit and vegetables",
+        "Chocolate and sugar"
+      ],
+      "answer": 1,
+      "why": "He mentions peanuts, shellfish, milk and so on."
+    },
+    {
+      "q": "Who in Neil's family has a food allergy?",
+      "options": [
+        "Neil himself",
+        "His wife",
+        "His daughter",
+        "His son"
+      ],
+      "answer": 2,
+      "why": "He says his daughter is allergic to tree nuts."
+    },
+    {
+      "q": "How sure is Dr Adam Fox that allergies have increased?",
+      "options": [
+        "Not at all sure",
+        "He thinks it's only in the news more",
+        "He says there is no clear evidence",
+        "Very confident, based on strong studies"
+      ],
+      "answer": 3,
+      "why": "He says 'we can be very confident', and robust studies show significant increases."
+    },
+    {
+      "q": "Over what period does Dr Fox say the studies show increases?",
+      "options": [
+        "The last 2 or 3 years",
+        "Around 20 or 30 years",
+        "Over 100 years",
+        "Since the Second World War"
+      ],
+      "answer": 1,
+      "why": "He says studies show significant increases 'over 20, 30 years'."
+    },
+    {
+      "q": "What does Dr Fox say about genetics?",
+      "options": [
+        "It is the main cause of the rise in allergies",
+        "It explains about half of the increase",
+        "The increase can't be explained by genetics",
+        "It causes eczema but not food allergies"
+      ],
+      "answer": 2,
+      "why": "He says, 'We certainly can't put it down to genetics.'"
+    },
+    {
+      "q": "What link does Dr Fox describe?",
+      "options": [
+        "Babies with eczema are more likely to get a food allergy",
+        "Eating peanuts too early in life causes eczema in babies",
+        "Adults with food allergies often get eczema later in life",
+        "Eczema actually protects young children from allergies"
+      ],
+      "answer": 0,
+      "why": "He says there's a direct relationship between eczema in infancy and getting a food allergy."
+    },
+    {
+      "q": "What does Rob mean by saying Neil is 'allergic to hard work'?",
+      "options": [
+        "Neil often gets ill at work when he's busy",
+        "Neil works too much and never takes a break",
+        "Neil has a real allergy to office dust",
+        "He's joking Neil avoids explaining legumes"
+      ],
+      "answer": 3,
+      "why": "He says it after Neil refuses to explain why a peanut isn't a nut."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people catch more colds in the UK",
+        "Whether popular methods really boost the immune system",
+        "How Covid-19 spreads in winter",
+        "Why cold water swimming is dangerous"
+      ],
+      "answer": 1,
+      "why": "They find out how useful techniques like foods, vitamins and cold water swimming are for the immune system."
+    },
+    {
+      "q": "What does Georgie do to try to boost her immune system?",
+      "options": [
+        "She eats lots of oranges",
+        "She swims in cold water every week",
+        "She drinks ginger shots",
+        "She takes turmeric"
+      ],
+      "answer": 0,
+      "why": "Georgie says she tries to eat lots of oranges for vitamin C."
+    },
+    {
+      "q": "How has presenter James Gallagher's winter been?",
+      "options": [
+        "He hasn't been ill at all",
+        "He was quite ill in September but has been fine since then",
+        "He has felt ill almost all the time since November",
+        "He had one cold at Christmas"
+      ],
+      "answer": 2,
+      "why": "He says he's 'felt constantly ill since about November'."
+    },
+    {
+      "q": "Why does James ask Professor Eleanor Riley to 'back him up'?",
+      "options": [
+        "Because she is a doctor who can treat him",
+        "Because she disagrees with everything the other guests have said so far",
+        "Because she has written a book about colds",
+        "Because the other guests haven't been very ill, unlike him"
+      ],
+      "answer": 3,
+      "why": "John and Margaret have been mostly well, so James hopes someone will support his experience."
+    },
+    {
+      "q": "What does Dr Margaret McCartney say about echinacea, turmeric and ginger shots?",
+      "options": [
+        "They work only for children",
+        "They work if taken every day",
+        "They are useful for some people, but not for everyone",
+        "They don't help the immune system"
+      ],
+      "answer": 3,
+      "why": "She answers 'No' to each one in the quick-fire round."
+    },
+    {
+      "q": "What does Margaret say about nose sprays used at the start of an infection?",
+      "options": [
+        "They are the best treatment available, much better than salt water",
+        "They are no better than a simple salt water spray",
+        "They can be harmful",
+        "They work better than vitamins"
+      ],
+      "answer": 1,
+      "why": "She says they're 'not any better than normal saline spray – just salt water'."
+    },
+    {
+      "q": "According to Professor John Tregoning, why might cold water swimming help people?",
+      "options": [
+        "Being with friends reduces stress, which helps the immune system",
+        "The cold water kills viruses",
+        "It makes the body produce more cortisol, which makes it much stronger",
+        "Swimmers eat healthier food"
+      ],
+      "answer": 0,
+      "why": "He says the social element reduces stress, and the stress chemical cortisol weakens the immune system."
+    },
+    {
+      "q": "What does John suggest about other activities like dancing or singing?",
+      "options": [
+        "They are less useful than swimming",
+        "They increase stress levels",
+        "They could give similar benefits",
+        "They should be done in cold places"
+      ],
+      "answer": 2,
+      "why": "He says the benefit isn't unique to cold water swimming – you could get it from dancing, singing or running."
+    }
+  ]
+}

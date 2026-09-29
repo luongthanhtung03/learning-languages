@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best Pacific islands to visit on holiday",
+        "How islands are formed by earthquakes",
+        "The real problems of Pacific islanders",
+        "Why young people prefer living on islands"
+      ],
+      "answer": 2,
+      "why": "Rob says in reality life is far from paradise for these island communities, and they hear islander voices."
+    },
+    {
+      "q": "What point does Sam make about Britain, Greenland, Australia, Hawaii and Cuba?",
+      "options": [
+        "Apart from being islands, they differ a lot",
+        "They are all popular with tourists in summer",
+        "They all have white sandy beaches and blue sea",
+        "They all face the same problem of rising seas"
+      ],
+      "answer": 0,
+      "why": "Sam says they are all islands, 'but that's about all they have in common'."
+    },
+    {
+      "q": "What happened in Tonga in 2022?",
+      "options": [
+        "Thousands of tourists moved to the island",
+        "A new airport opened on the main island",
+        "A long drought destroyed most of the crops",
+        "A huge wave killed people and did damage"
+      ],
+      "answer": 3,
+      "why": "Rob says Tonga suffered a tsunami that flowed inland, killing people and causing largescale damage."
+    },
+    {
+      "q": "What is predicted for many low-lying islands in the South Pacific?",
+      "options": [
+        "They will become more popular with tourists",
+        "They will disappear as sea levels rise",
+        "They will join together to form larger islands",
+        "They will have more fresh water in future"
+      ],
+      "answer": 1,
+      "why": "Sam says, with rising sea levels, many of these islands are predicted to simply disappear."
+    },
+    {
+      "q": "What worries Ofa Ma'asi Kaisamy about climate change?",
+      "options": [
+        "It will harm the farming and fishing they need",
+        "It will make the islands too hot for tourists",
+        "It will stop people making jewellery and pottery",
+        "It will make the Pacific Ocean too cold for fish"
+      ],
+      "answer": 0,
+      "why": "She says its impacts on agriculture and fisheries will undermine food production in the Pacific."
+    },
+    {
+      "q": "Why do local jobs become vulnerable after a tsunami?",
+      "options": [
+        "Because the government closes all the shops",
+        "Because workers have to help clean the beaches",
+        "Tourists stay away, so fewer crafts are sold",
+        "Because the price of handicrafts goes up a lot"
+      ],
+      "answer": 2,
+      "why": "Handicrafts are usually sold to tourists, but tsunamis keep tourists away, so jobs become vulnerable."
+    },
+    {
+      "q": "How does Lusia Latu-Jones feel about the situation in Tonga?",
+      "options": [
+        "Angry with the young people who leave the island",
+        "Confident that the problems will end very soon",
+        "Surprised that nobody has asked for any help",
+        "Very sad, as young people struggle"
+      ],
+      "answer": 3,
+      "why": "She says it's heartbreaking, and 'even harder when you see young people' looking for a chance to help their families."
+    },
+    {
+      "q": "What does Rob suggest is the biggest problem of all for Tongans?",
+      "options": [
+        "Young people no longer want to learn old traditions",
+        "Other countries' emissions cause their problems",
+        "There aren't enough businesses on the island",
+        "The islands are too far from other countries"
+      ],
+      "answer": 1,
+      "why": "He says their poverty and hunger are being caused by the carbon emissions of larger countries far away."
+    }
+  ]
+}

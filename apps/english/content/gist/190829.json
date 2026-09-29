@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to clean your teeth properly",
+        "Small everyday changes that help the environment",
+        "The history of plastic",
+        "How businesses make money from recycling"
+      ],
+      "answer": 1,
+      "why": "Neil and Sam discuss practical changes people can make, like buying in bulk and passing things on."
+    },
+    {
+      "q": "Why is Neil worried about Sam's toothbrush?",
+      "options": [
+        "She doesn't change it often enough, only once a year",
+        "It is too expensive for what it actually does",
+        "It is plastic and will last for hundreds of years",
+        "It is too hard and damages her teeth and gums"
+      ],
+      "answer": 2,
+      "why": "He says all her old brushes probably still exist, lasting hundreds of years."
+    },
+    {
+      "q": "How does Sam react to Neil's point about toothbrushes?",
+      "options": [
+        "She strongly disagrees with him and argues back",
+        "She says she already uses a wooden brush at home",
+        "She thinks it isn't important compared with cars",
+        "She's shocked, as she thought she was eco-aware"
+      ],
+      "answer": 3,
+      "why": "She says she thought she was quite environmentally aware, and 'that's quite shocking'."
+    },
+    {
+      "q": "What does Madeleine Murray find particularly annoying?",
+      "options": [
+        "Multipacks and small packs of products",
+        "Big plastic shampoo bottles in hotels",
+        "Shops that don't sell rice or pasta loose",
+        "People who don't bother to recycle at all"
+      ],
+      "answer": 0,
+      "why": "She says her pet peeve is multipacks and minipacks."
+    },
+    {
+      "q": "What does Madeleine Murray do instead?",
+      "options": [
+        "She makes her own yoghurt and bread at home",
+        "She buys large sizes and fills smaller containers",
+        "She only shops at local farmers' markets now",
+        "She has stopped buying cereal and snacks entirely"
+      ],
+      "answer": 1,
+      "why": "She buys in bulk and says we can decant things into lunch boxes."
+    },
+    {
+      "q": "What does Dr Tara Shine suggest new parents do?",
+      "options": [
+        "Buy fewer toys and give them only books instead",
+        "Buy only new things for babies, for safety reasons",
+        "Pass on things like toys and high chairs to others",
+        "Sell their old baby equipment online for cash"
+      ],
+      "answer": 2,
+      "why": "She says toys, equipment and high chairs can all be passed on."
+    },
+    {
+      "q": "Why are children's things often still in good condition, according to the presenters?",
+      "options": [
+        "Children grow up quickly",
+        "Parents rarely use them",
+        "They are very expensive",
+        "They are made of plastic"
+      ],
+      "answer": 0,
+      "why": "Neil says children grow up quickly so often everything is in good condition."
+    },
+    {
+      "q": "What does Sam say about hand-me-downs in her own childhood?",
+      "options": [
+        "She never had any, as she was the eldest child",
+        "She didn't like wearing them and often complained",
+        "Her parents bought everything new from the shops",
+        "She got lots from older cousins, which saved money"
+      ],
+      "answer": 3,
+      "why": "She had lots of toys and clothes from older cousins, which saved a lot of money."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to learn Latin and ancient Greek at school",
+        "How much of modern English still comes from Old English",
+        "The history of the Vikings and their battles in Britain",
+        "Why English spelling is so difficult for foreign learners"
+      ],
+      "answer": 1,
+      "why": "They discuss Old English and how much of the English we use today comes from it."
+    },
+    {
+      "q": "What was Neil saying at the start of the programme?",
+      "options": [
+        "'Good morning' in Old English",
+        "A line from an old poem he had learned",
+        "A greeting in modern French",
+        "'Goodbye' in Latin"
+      ],
+      "answer": 0,
+      "why": "He says he was saying 'Good morning, pleased to meet you' in Anglo-Saxon, or Old English."
+    },
+    {
+      "q": "What kind of words have survived from Old English, according to Neil's list?",
+      "options": [
+        "Mostly scientific and medical words",
+        "Words about law and government",
+        "Words for technology",
+        "Basic everyday words"
+      ],
+      "answer": 3,
+      "why": "He lists words like beer, bread, eye, hand, mother and brother – all Anglo-Saxon."
+    },
+    {
+      "q": "According to Neil, what is the history of English closely linked to?",
+      "options": [
+        "Trade with China",
+        "The work of famous poets",
+        "Invasions by other peoples",
+        "The spread of printing"
+      ],
+      "answer": 2,
+      "why": "Neil says 'the history of English is the history of invasions'."
+    },
+    {
+      "q": "What point does Professor Andy Orchard make with the example 'I texted'?",
+      "options": [
+        "Young people are changing English with new technology",
+        "Even new verbs use the Old English '-ed' ending",
+        "'Text' is actually a very old Old English word",
+        "Modern English no longer has any real grammar rules"
+      ],
+      "answer": 1,
+      "why": "He says 'text' comes from Latin, but with 'texted' and 'tweeted' 'we still lapse to the Anglo-Saxon'."
+    },
+    {
+      "q": "About how much of everyday spoken English comes from Old English, according to the discussion?",
+      "options": [
+        "About 20%",
+        "About half",
+        "Almost none",
+        "Around 80%"
+      ],
+      "answer": 3,
+      "why": "Rosen suggests about 80% in common parlance, and Orchard says in speech it would be something like that."
+    },
+    {
+      "q": "What joke does Professor Orchard make about Old English poetry?",
+      "options": [
+        "It is always about food, feasts and drinking",
+        "Nobody today can read or understand it at all",
+        "It is always raining, just like today",
+        "It was all written by Vikings in the north"
+      ],
+      "answer": 2,
+      "why": "He says 'in Old English poetry it's always raining and I suppose it's always raining today'."
+    },
+    {
+      "q": "What is Professor Orchard's final conclusion about modern English?",
+      "options": [
+        "Despite invasions and empire, it is still Old English",
+        "It is now mostly French because of the Norman invasion",
+        "It has completely lost its connection with the past",
+        "It is now closer to Latin than it is to Old English"
+      ],
+      "answer": 0,
+      "why": "He says despite the invasions and empire, today's English is still 'at its heart' Old English."
+    }
+  ]
+}

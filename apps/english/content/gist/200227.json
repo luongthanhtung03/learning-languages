@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Strange foods eaten in countries like Thailand and Colombia",
+        "How to make healthy green smoothies at home",
+        "Why many ponds and lakes are becoming polluted",
+        "Whether microalgae could be good for us and the planet"
+      ],
+      "answer": 3,
+      "why": "Neil says they'll ask whether eating algae might be better for our health and the planet's health."
+    },
+    {
+      "q": "What is the strangest food Neil has eaten?",
+      "options": [
+        "Pond scum from a lake in Wales",
+        "Fried stick insect and ants",
+        "Raw fish at a sushi restaurant",
+        "Spirulina pasta with green sauce"
+      ],
+      "answer": 1,
+      "why": "He says he tried fried stick insect in Thailand and ants from Colombia."
+    },
+    {
+      "q": "Why are microalgae like spirulina and chlorella good for us?",
+      "options": [
+        "They are full of proteins, vitamins and antioxidants",
+        "They contain lots of natural sugar to give you energy",
+        "They help you sleep better and feel less stressed",
+        "They have no calories at all, so they help you diet"
+      ],
+      "answer": 0,
+      "why": "Sam says they are packed full of proteins, vitamins and antioxidants."
+    },
+    {
+      "q": "What helped make microalgae popular recently, according to Sam?",
+      "options": [
+        "Doctors prescribing it to patients as a medicine",
+        "A big government health campaign on television",
+        "Drinks companies selling colourful smoothies",
+        "Famous chefs using it in recipes on TV shows"
+      ],
+      "answer": 2,
+      "why": "She says the trend has been promoted partly by big drinks companies selling brightly coloured smoothies."
+    },
+    {
+      "q": "How is spirulina now being used in cooking?",
+      "options": [
+        "Only as a healthy drink, mixed with fruit juice",
+        "As a natural sweetener in cakes and biscuits",
+        "As a green colour for bread and pizza bases",
+        "In hot dogs and meatballs, and instead of eggs"
+      ],
+      "answer": 3,
+      "why": "Neil says it's used in hot dogs and meatballs and as a substitute for eggs in pasta and mayonnaise."
+    },
+    {
+      "q": "What problem does Professor Alison Smith describe?",
+      "options": [
+        "More people, while farmland is becoming stretched",
+        "People refusing to eat enough fresh vegetables",
+        "Too much food being wasted by shops and families",
+        "Farmers using too many chemicals on their crops"
+      ],
+      "answer": 0,
+      "why": "She says the world's population is increasing and land available for agriculture is becoming stretched."
+    },
+    {
+      "q": "What does 'sustainable intensification' of agriculture aim to do?",
+      "options": [
+        "Use a lot more land for farming around the world",
+        "Replace most farmers with machines and robots",
+        "Grow more food without harming nature or using new land",
+        "Make food more expensive so people waste less"
+      ],
+      "answer": 2,
+      "why": "Sam says it means increasing food production without damaging the environment or using new land."
+    },
+    {
+      "q": "Why does Professor Smith suggest microalgae could be produced in cities and towns?",
+      "options": [
+        "City people eat more of it",
+        "They don't need open land to grow",
+        "It is cheaper to transport",
+        "Cities have cleaner water"
+      ],
+      "answer": 1,
+      "why": "She says they could be produced in cities because they don't need the open landscape to be grown."
+    }
+  ]
+}

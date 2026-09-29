@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How oil companies make money in Nigeria",
+        "Why rivers are becoming more polluted",
+        "A scientist who won a prize for inventing a new machine",
+        "Using plants to clean up polluted land and water"
+      ],
+      "answer": 3,
+      "why": "Neil says they'll be hearing about plants that fight pollution."
+    },
+    {
+      "q": "What is said about cleaning up chemical pollution in the usual way?",
+      "options": [
+        "It is dangerous, costly and uses high-tech equipment",
+        "It is cheap but very slow",
+        "It is done only by local people",
+        "It has already cleaned most polluted places"
+      ],
+      "answer": 0,
+      "why": "Beth says it is dangerous and expensive, and mostly involves highly technological equipment."
+    },
+    {
+      "q": "Which example of natural cleaning is mentioned?",
+      "options": [
+        "Trees that clean the air in cities",
+        "Water hyacinths that take up oil from rivers",
+        "Flowers that remove plastic from the sea",
+        "Grass that stops oil spills"
+      ],
+      "answer": 1,
+      "why": "Neil says water hyacinths have been used to clean rivers by sucking up spilled oil."
+    },
+    {
+      "q": "What has happened in the Niger Delta since oil was discovered?",
+      "options": [
+        "Local people have become rich from the oil money",
+        "The land has been carefully protected by oil companies",
+        "Oil spills have ruined the land and caused mistrust",
+        "Most of the oil has now run out, so companies left"
+      ],
+      "answer": 2,
+      "why": "Beth says oil spills have devastated the region and there is mistrust of the oil companies."
+    },
+    {
+      "q": "Why did Eucharia Nwaichi win the Maddox Prize?",
+      "options": [
+        "For showing courage in a dangerous place",
+        "For inventing a new way of drilling for oil",
+        "For writing a famous book about the Delta",
+        "For working closely with the oil companies"
+      ],
+      "answer": 0,
+      "why": "The prize is for scientists showing courage in the face of hostility, and she worked despite personal risk."
+    },
+    {
+      "q": "Why do local communities often distrust outsiders?",
+      "options": [
+        "Outsiders don't speak their local language",
+        "Companies broke promises to clean up spills",
+        "Scientists took their land for experiments",
+        "They don't believe that plants can help"
+      ],
+      "answer": 1,
+      "why": "Georgina says they have deep mistrust of outsiders after broken promises from companies."
+    },
+    {
+      "q": "What does Eucharia do first when she starts working with a community?",
+      "options": [
+        "She pays the young people to plant",
+        "She works only with the oil companies",
+        "She brings in scientists from London",
+        "She informs the community leaders of her plans"
+      ],
+      "answer": 3,
+      "why": "She finds the chief, the women leader and the youth leader and informs them what she wants to do."
+    },
+    {
+      "q": "According to Georgina Rannard, what is Eucharia's 'magic formula' based on?",
+      "options": [
+        "Expensive technology and big budgets",
+        "Government support and new laws",
+        "Diplomacy, trust and charisma",
+        "Speed and hard work"
+      ],
+      "answer": 2,
+      "why": "She says it relies on diplomacy, trust and charisma."
+    }
+  ]
+}

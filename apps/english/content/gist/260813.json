@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best ways to clean your home quickly and cheaply",
+        "Why women do more housework, and ways to share it",
+        "How washing machines changed family life",
+        "Why fathers want to work fewer hours each week"
+      ],
+      "answer": 1,
+      "why": "Pippa says women often do most chores, and they'll hear about two projects helping couples share housework."
+    },
+    {
+      "q": "How does Neil say chores are shared in his home?",
+      "options": [
+        "His wife does almost everything",
+        "They pay someone to do the cleaning",
+        "He does all the cooking and she does the cleaning",
+        "Whoever isn't working at the time does the jobs"
+      ],
+      "answer": 3,
+      "why": "His wife works part time and he works full time, so each does things when they're not working."
+    },
+    {
+      "q": "What do figures from UN Women suggest?",
+      "options": [
+        "Women do three more hours of unpaid work a day",
+        "Men now do more of the housework than women do",
+        "Women spend about three hours a week cleaning",
+        "Most families now share the housework equally"
+      ],
+      "answer": 0,
+      "why": "The figures say women spend three hours more than men every day on unpaid care and domestic work."
+    },
+    {
+      "q": "Why do household chores take a long time on the island of Rote?",
+      "options": [
+        "Families there are very large, with many children",
+        "Women also have to work long hours in offices",
+        "There are few washing machines and no running water",
+        "The houses there are very big and hard to clean"
+      ],
+      "answer": 2,
+      "why": "Neil says with few washing machines and no running water, domestic chores take a long time."
+    },
+    {
+      "q": "Why does the reporter Ade Mardiyati mention that women on Rote also help in the fields?",
+      "options": [
+        "To show that farming there is really quite easy work",
+        "To show the division of work isn't really fair",
+        "To explain why the men stay at home all day",
+        "To show that women prefer farming to housework"
+      ],
+      "answer": 1,
+      "why": "She says you might think it's a fair division of labour, but women also help out in the fields."
+    },
+    {
+      "q": "What does research suggest about women in wealthy countries?",
+      "options": [
+        "They do less housework than women in traditional societies",
+        "They share housework equally with men",
+        "They mostly pay others to do chores",
+        "They also spend much more time than men on unpaid care work"
+      ],
+      "answer": 3,
+      "why": "Neil says research suggests women in wealthy countries also spend much more time on unpaid care work."
+    },
+    {
+      "q": "What does the Superdads project in Croatia do?",
+      "options": [
+        "Pays fathers a monthly wage to stay at home",
+        "Teaches mothers how to relax after work",
+        "Runs workshops getting dads and sons to help",
+        "Trains men to become professional cleaners"
+      ],
+      "answer": 2,
+      "why": "Anamarija Sočo leads workshops encouraging dads and sons to take some pressure off mums."
+    },
+    {
+      "q": "According to Anamarija Sočo, how do mothers benefit when men do more chores?",
+      "options": [
+        "They get more time for work, hobbies or rest",
+        "They earn more money in better-paid jobs",
+        "They no longer need to cook for the family",
+        "They can afford to move to a bigger house"
+      ],
+      "answer": 0,
+      "why": "She says mothers have more space for their careers, hobbies or 'just simply to rest'."
+    }
+  ]
+}

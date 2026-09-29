@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to learn a second language quickly",
+        "The world's newest languages",
+        "The connection between language and gender",
+        "Why mothers are better language teachers"
+      ],
+      "answer": 2,
+      "why": "Sam says they'll talk about the complicated relationship between language and gender."
+    },
+    {
+      "q": "Which languages does Georgina speak?",
+      "options": [
+        "English, and some Spanish and French",
+        "English and German",
+        "Only English",
+        "English, Spanish and Esperanto"
+      ],
+      "answer": 0,
+      "why": "She says her mother tongue is English and she speaks Spanish and French badly."
+    },
+    {
+      "q": "Who is Lera Boroditsky?",
+      "options": [
+        "A language teacher",
+        "A BBC presenter",
+        "An actress",
+        "A cognitive scientist"
+      ],
+      "answer": 3,
+      "why": "Sam introduces her as a cognitive scientist and a guest on The Conversation."
+    },
+    {
+      "q": "How does Professor Boroditsky explain the phrase 'mother tongue'?",
+      "options": [
+        "Women have always spoken more than men in families",
+        "Mothers usually looked after us and taught us things",
+        "It was first used in an old poem about childhood",
+        "It only exists in English and a few related languages"
+      ],
+      "answer": 1,
+      "why": "She links it to mothers as primary caregivers and people who teach us things."
+    },
+    {
+      "q": "What does Professor Boroditsky say about other languages?",
+      "options": [
+        "They all use exactly the same phrase as English does",
+        "None of them have any gendered words for language",
+        "They differ, but many use a similar metaphor",
+        "They use 'father tongue' instead of 'mother tongue'"
+      ],
+      "answer": 2,
+      "why": "She says different languages do it differently, but the metaphor applies in a lot of languages."
+    },
+    {
+      "q": "Which pairs of words does Professor Boroditsky give as examples of gendered words?",
+      "options": [
+        "Actor and actress, waiter and waitress",
+        "King and queen, prince and princess",
+        "Father and mother, son and daughter",
+        "Host and hostess, hero and heroine"
+      ],
+      "answer": 0,
+      "why": "She mentions 'actor' and 'actress' and 'waiter' and 'waitress'."
+    },
+    {
+      "q": "According to Professor Boroditsky, how do people often see the masculine form of a job?",
+      "options": [
+        "As less skilled",
+        "As more old-fashioned",
+        "As exactly the same",
+        "As more important and skilled"
+      ],
+      "answer": 3,
+      "why": "People perceive the masculine form as a more prestigious or more skilled job."
+    },
+    {
+      "q": "What problem can these different attitudes lead to?",
+      "options": [
+        "Fewer people learning languages",
+        "Differences in pay",
+        "People changing their names",
+        "Confusion about spelling"
+      ],
+      "answer": 1,
+      "why": "She says they 'could then come with pay disparities'."
+    }
+  ]
+}

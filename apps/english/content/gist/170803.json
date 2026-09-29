@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How talking to a therapist can help mental health",
+        "The history of horror films and why they scare us",
+        "Why depression is increasing among young people",
+        "How to choose the right medicine for anxiety"
+      ],
+      "answer": 0,
+      "why": "Neil and Rob discuss talk therapy and research on its benefits."
+    },
+    {
+      "q": "What made Neil think about talk therapy?",
+      "options": [
+        "A book about Sigmund Freud",
+        "A conversation with his doctor",
+        "An old Woody Allen film",
+        "The horror film Psycho"
+      ],
+      "answer": 2,
+      "why": "Neil was watching an old Woody Allen movie where the character paid for psychoanalysis."
+    },
+    {
+      "q": "According to Neil, what is the most common psychological problem in the world?",
+      "options": [
+        "Anxiety",
+        "Depression",
+        "Sleep problems",
+        "Stress at work"
+      ],
+      "answer": 1,
+      "why": "Neil says depression is the most common psychological problem affecting people throughout the world."
+    },
+    {
+      "q": "What does Professor Brent Roberts say seeing a therapist leads to?",
+      "options": [
+        "Small changes that people rarely notice in daily life",
+        "Better sleep but no real change in mood or anxiety",
+        "Changes only after many years of weekly sessions",
+        "Clear improvements: people are less depressed and anxious"
+      ],
+      "answer": 3,
+      "why": "He says it results in 'marked changes' and people get less depressed and less anxious."
+    },
+    {
+      "q": "What does Professor Roberts say about the different types of therapy?",
+      "options": [
+        "Only psychoanalysis really works",
+        "Group therapy works best",
+        "The newest types are the most effective",
+        "The benefits seem to happen whatever type is used"
+      ],
+      "answer": 3,
+      "why": "He says the improvement seems to be 'regardless of what type of intervention is engaged in'."
+    },
+    {
+      "q": "Why does Neil think talking about problems helps?",
+      "options": [
+        "It makes problems clearer, which helps you manage them",
+        "It helps you forget your problems completely",
+        "It lets someone else solve them for you",
+        "It is cheaper than taking medicine"
+      ],
+      "answer": 0,
+      "why": "Neil says it gives a shape to our problems and makes them clearer, the first step to managing them."
+    },
+    {
+      "q": "What scientific evidence does Rob mention?",
+      "options": [
+        "Talk therapy works better than all medicine for every patient",
+        "Therapy sessions must last 50 minutes or they don't work",
+        "It can replace negative thought patterns with positive ones",
+        "Most people stop therapy too early to get any real benefit"
+      ],
+      "answer": 2,
+      "why": "Rob says there's evidence talk therapy can replace negative thought patterns with positive ones."
+    },
+    {
+      "q": "What problem with medication does Rob point out?",
+      "options": [
+        "It is too expensive for most people to buy",
+        "It can have side effects, like making you sleepy",
+        "It doesn't work for depression at all, only anxiety",
+        "It takes years to have any effect on your mood"
+      ],
+      "answer": 1,
+      "why": "Rob says medication can have negative effects, such as making you feel sleepy in the daytime."
+    }
+  ]
+}

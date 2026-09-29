@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The most boring hobbies people have in Britain",
+        "How smartphones can make us more creative",
+        "Why being bored can actually be good for us",
+        "How to plan a more exciting week at work"
+      ],
+      "answer": 2,
+      "why": "Neil says 'there is some good news – boredom can be good for you', and experts explain why."
+    },
+    {
+      "q": "How was Sam's week?",
+      "options": [
+        "Quiet and a bit boring",
+        "Busy and very stressful",
+        "Exciting, with lots of travel",
+        "Tiring, because she worked late"
+      ],
+      "answer": 0,
+      "why": "Sam says it was quiet – she hasn't done much or been anywhere, so it's been a bit boring."
+    },
+    {
+      "q": "What point does Sam make about boring hobbies?",
+      "options": [
+        "Everyone finds the same things boring",
+        "Hobbies are never boring if you do them often",
+        "Only older people enjoy collecting things",
+        "What bores one person may fascinate another"
+      ],
+      "answer": 3,
+      "why": "She says boredom depends on your state of mind – some find something boring, others find it fascinating."
+    },
+    {
+      "q": "According to Dr Sandi Mann, what is the upside of boredom?",
+      "options": [
+        "It helps us sleep better at night",
+        "Our minds wander, so we get creative",
+        "It makes us work harder at our jobs",
+        "It helps us to make lots of new friends"
+      ],
+      "answer": 1,
+      "why": "She says being bored lets our mind wander and daydream, which leads to problem solving and creativity."
+    },
+    {
+      "q": "What is Sandi Mann afraid we are doing today?",
+      "options": [
+        "Spending too much time daydreaming",
+        "Working too hard and never resting",
+        "Losing creativity by scrolling on phones",
+        "Choosing hobbies that are far too boring"
+      ],
+      "answer": 2,
+      "why": "She fears that 'by swiping and scrolling our boredom away… we're losing that creativity'."
+    },
+    {
+      "q": "Why does Sandi Mann think we seem more bored than ever?",
+      "options": [
+        "Because modern jobs are very repetitive",
+        "Because we have less free time than before",
+        "Because there is nothing good on television",
+        "We've become addicted to new, exciting things"
+      ],
+      "answer": 3,
+      "why": "She says the more we have to entertain us, the more bored we are, because we get addicted to stimulation and novelty."
+    },
+    {
+      "q": "According to Manoush Zomorodi, why does boredom feel so bad at first?",
+      "options": [
+        "We may think about unpleasant things",
+        "We feel guilty that we are not working",
+        "Other people think that we are lazy",
+        "We quickly become very tired and sleepy"
+      ],
+      "answer": 0,
+      "why": "She says there is an uncomfortable period where you think about things you don't want to think about."
+    },
+    {
+      "q": "What does Manoush suggest we should do when we feel bored?",
+      "options": [
+        "Find something to watch on our phones",
+        "Stay with the feeling until good ideas come",
+        "Go to sleep until the feeling passes",
+        "Call a friend and talk about our problems"
+      ],
+      "answer": 1,
+      "why": "She says 'when we stick with it that's when the good stuff can come'."
+    }
+  ]
+}

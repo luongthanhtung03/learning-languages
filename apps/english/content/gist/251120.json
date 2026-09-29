@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook for a dinner party",
+        "Popular foods in different countries",
+        "How to choose a good restaurant",
+        "Good manners and rude behaviour when eating"
+      ],
+      "answer": 3,
+      "why": "Pippa says they're discussing etiquette: the dos and don'ts of what to do when eating."
+    },
+    {
+      "q": "What eating rule does Pippa remember from growing up?",
+      "options": [
+        "No elbows on the table, though she never knew why",
+        "Always finish everything on your plate",
+        "Never talk while you are eating a meal",
+        "Always wait for the oldest person to start"
+      ],
+      "answer": 0,
+      "why": "She was always told not to have her elbows on the table, and never really understood why."
+    },
+    {
+      "q": "Why does the student Samuel think etiquette matters?",
+      "options": [
+        "Because his parents are very strict at home",
+        "Because it helps you eat faster at lunch",
+        "Because first impressions really matter",
+        "Because it's part of his college course"
+      ],
+      "answer": 2,
+      "why": "Samuel says first impressions really matter, as it's about how you present yourself."
+    },
+    {
+      "q": "Which of these does Aya want to see at mealtimes?",
+      "options": [
+        "Eating with your hands, like at home",
+        "Eye contact, conversation and cutlery",
+        "Complete silence during the whole meal",
+        "Everyone using their phones at the table"
+      ],
+      "answer": 1,
+      "why": "Aya would like to see eye contact, having a conversation and using your cutlery."
+    },
+    {
+      "q": "Why does Aya say her napkin rule might seem 'picky'?",
+      "options": [
+        "She knows others may think it's too strict",
+        "She thinks napkins are really unnecessary",
+        "Her family never uses napkins at home",
+        "She often spills food on her clothes"
+      ],
+      "answer": 0,
+      "why": "She says 'I know this could be, like, picky for everyone else'."
+    },
+    {
+      "q": "According to Rupert Wesson, why did people start clinking glasses?",
+      "options": [
+        "To make a pleasant sound before drinking",
+        "To check that the glasses weren't broken",
+        "To start the meal at exactly the same time",
+        "Drinks mixed, showing neither was poisoned"
+      ],
+      "answer": 3,
+      "why": "He says clinking slops drink into each other's cups, showing 'I trust you. You trust me.'"
+    },
+    {
+      "q": "What does Rupert say about wearing a hat at the table?",
+      "options": [
+        "It's fine in most countries these days",
+        "He wouldn't, and never wears a hat inside",
+        "It's only rude at very formal dinners",
+        "It's polite if you are the host of the meal"
+      ],
+      "answer": 1,
+      "why": "He says 'It's not something I would do' and he wouldn't wear a hat inside anyway."
+    },
+    {
+      "q": "What does Pippa conclude about etiquette?",
+      "options": [
+        "The rules are the same in every country",
+        "Etiquette is no longer important these days",
+        "Rules change, but the aim is to show thanks",
+        "Only British people really care about it"
+      ],
+      "answer": 2,
+      "why": "She says etiquette varies over time and culture, but the point is always to show appreciation."
+    }
+  ]
+}

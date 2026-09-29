@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "What translation machines can and can't do",
+        "How to write a good letter to a friend in Spanish",
+        "Why airlines should always use human translators",
+        "How poets choose the best words for their poems"
+      ],
+      "answer": 0,
+      "why": "Rob says they'll find out exactly what machines can and can't translate."
+    },
+    {
+      "q": "How does Rob find the Spanish for 'it's raining'?",
+      "options": [
+        "He remembers it from his Spanish lessons",
+        "He looks it up in a paper dictionary",
+        "He scans it with an app on his phone",
+        "He phones a friend who lives in Spain"
+      ],
+      "answer": 2,
+      "why": "Rob says he has a new app: he holds up his phone and scans the word."
+    },
+    {
+      "q": "What was the problem with older, rules-based translation software?",
+      "options": [
+        "It could only translate between two languages",
+        "It had trouble with metaphors",
+        "It was too expensive for most people to use",
+        "It couldn't translate even simple words"
+      ],
+      "answer": 1,
+      "why": "Rob says it worked fine for simple phrases, but not for more complex language like metaphors."
+    },
+    {
+      "q": "According to Lane Greene, how does Google translate 'raining cats and dogs' into Spanish?",
+      "options": [
+        "It translates each word one by one",
+        "It leaves the phrase in English",
+        "It asks the user to explain what they mean",
+        "It uses a matching Spanish idiom"
+      ],
+      "answer": 3,
+      "why": "He says someone at Google input the Spanish phrase, so the whole chunk is translated into the equivalent metaphor."
+    },
+    {
+      "q": "What is Michael Rosen trying to argue?",
+      "options": [
+        "New poetry is too hard for machines",
+        "Machines will soon write better poems than people",
+        "Poets should use translation apps more often",
+        "Poetry is easier to translate than everyday speech"
+      ],
+      "answer": 0,
+      "why": "He says he is 'sticking up for poetry' and trying to claim it's untranslatable for machines."
+    },
+    {
+      "q": "According to Lane Greene, what advantage do humans have over machines?",
+      "options": [
+        "Humans can memorise more words than machines",
+        "Humans can work much faster than computers",
+        "Humans can be new and creative",
+        "Humans never make any translation mistakes"
+      ],
+      "answer": 2,
+      "why": "He says, 'our advantage is novelty and creativity'."
+    },
+    {
+      "q": "What does Sam say machines really do when they 'learn' a language?",
+      "options": [
+        "They understand the meaning like humans do",
+        "They study grammar books written by teachers",
+        "They talk to native speakers of each language",
+        "They find patterns in millions of translations"
+      ],
+      "answer": 3,
+      "why": "Sam says they have been trained to identify patterns in millions and millions of translations."
+    },
+    {
+      "q": "Why does Sam call the limits of machines 'good news' for her and Rob?",
+      "options": [
+        "Because they don't like using technology",
+        "Their jobs using languages are safer",
+        "Because they can now write their own apps",
+        "Because they want to become poets"
+      ],
+      "answer": 1,
+      "why": "She says it's good news for humans who use different languages in their jobs – 'like us!'"
+    }
+  ]
+}

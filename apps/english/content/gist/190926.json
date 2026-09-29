@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Where the alphabet came from and how it spread",
+        "How young children learn their ABCs at school",
+        "How your surname's first letter may affect your life",
+        "Why teachers take the register in alphabetical order"
+      ],
+      "answer": 2,
+      "why": "Neil says a surname later in the alphabet could be a disadvantage at school and in life."
+    },
+    {
+      "q": "Why are the letters of the alphabet in their order?",
+      "options": [
+        "The Romans chose it",
+        "No one really knows",
+        "They are in order of how common they are",
+        "Teachers decided it"
+      ],
+      "answer": 1,
+      "why": "Neil says, 'no one really knows how the order became established.'"
+    },
+    {
+      "q": "Where does the problem begin, according to Professor Zax?",
+      "options": [
+        "In university exams",
+        "In job interviews",
+        "When children learn to write their names",
+        "When the teacher calls names from the register"
+      ],
+      "answer": 3,
+      "why": "The further down the roll call your name is, the less noticed you are."
+    },
+    {
+      "q": "According to Professor Zax, what happens as the roll call goes on?",
+      "options": [
+        "Everyone gets more excited",
+        "Attention and engagement get weaker",
+        "The teacher speaks more loudly",
+        "Students start to leave the room"
+      ],
+      "answer": 1,
+      "why": "He says 'the intensity of the engagement diminishes'."
+    },
+    {
+      "q": "Why do students whose names were already called stop paying attention?",
+      "options": [
+        "They no longer need to take it seriously",
+        "They are talking to the teacher",
+        "They are doing homework",
+        "They didn't hear their name"
+      ],
+      "answer": 0,
+      "why": "He says those already called 'no longer have any need to take things seriously'."
+    },
+    {
+      "q": "When was the research on this disadvantage carried out?",
+      "options": [
+        "In the UK in the 1990s",
+        "In Colorado last year",
+        "In the US in the 1950s",
+        "In ancient Egypt"
+      ],
+      "answer": 2,
+      "why": "Neil says it was discovered after research in the US in the 1950s."
+    },
+    {
+      "q": "Which disadvantage did the research find for people later in the alphabet?",
+      "options": [
+        "They had more friends at school",
+        "They were more likely to become teachers",
+        "They were less likely to join the military",
+        "Their first jobs usually paid less"
+      ],
+      "answer": 3,
+      "why": "Professor Zax says they 'had first jobs in occupations that paid less'."
+    },
+    {
+      "q": "What does Sam imply when she says Professor Zax 'seems to have done OK'?",
+      "options": [
+        "His surname starts with Z, but he's still successful",
+        "His research was wrong and nobody believed it",
+        "He had a very easy life because of his rich family",
+        "He changed his surname to get ahead in his career"
+      ],
+      "answer": 0,
+      "why": "She adds 'Even with that surname!' and Neil says it doesn't apply to everyone."
+    }
+  ]
+}

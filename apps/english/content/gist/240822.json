@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Dumplings around the world, especially one from Ghana",
+        "How to cook healthy food with less fat",
+        "The history of trade along the Silk Road between China and Turkey",
+        "Why British food is popular in Africa"
+      ],
+      "answer": 0,
+      "why": "They talk about dumplings found all over the world and sample kenkey from Ghana."
+    },
+    {
+      "q": "How does Beth describe a dumpling?",
+      "options": [
+        "A kind of bread that is served with hot soup",
+        "A sweet cake filled with fruit",
+        "A small pie baked in the oven",
+        "A filling wrapped inside cooked dough"
+      ],
+      "answer": 3,
+      "why": "She says they're basically dough envelopes with a filling inside."
+    },
+    {
+      "q": "What do we know about where dumplings come from?",
+      "options": [
+        "They were invented in 17th-century England",
+        "Nobody is sure, but one theory points to the Silk Road",
+        "They started in Ghana and spread to China",
+        "Historians agree they were first made in Italy as gnocchi"
+      ],
+      "answer": 1,
+      "why": "The origins are a mystery, but one theory puts their birthplace along the Silk Road."
+    },
+    {
+      "q": "According to Beth, why are dumplings popular in Ghana?",
+      "options": [
+        "They are cheaper than rice",
+        "They are the only food that children in Ghana like",
+        "They add carbohydrates and soak up sauce",
+        "They can be cooked very quickly"
+      ],
+      "answer": 2,
+      "why": "She says they're a favourite way of adding carbohydrates and soaking up sauce and juices."
+    },
+    {
+      "q": "When did Kafui Adzah last eat kenkey?",
+      "options": [
+        "That same afternoon",
+        "The previous weekend",
+        "On a trip to Ghana years ago",
+        "She has never tried it"
+      ],
+      "answer": 0,
+      "why": "She says, “In fact I had kenkey this afternoon!”"
+    },
+    {
+      "q": "What does Kafui say kenkey is eaten with?",
+      "options": [
+        "Butter and bread",
+        "Guinness gravy",
+        "Cabbage and pork, like the dumplings in China",
+        "Chilli sauce or a black sauce with fish and shrimps"
+      ],
+      "answer": 3,
+      "why": "She mentions shito, a chilli sauce, and a black sauce with shrimps and fish."
+    },
+    {
+      "q": "Why does Kafui mention people who do manual work?",
+      "options": [
+        "Because they are the only people who know how to cook it properly",
+        "Because they sell most of the kenkey in Ghana",
+        "To show that kenkey keeps you full for a long time",
+        "To explain why kenkey is expensive"
+      ],
+      "answer": 2,
+      "why": "She says it fills the tummy and it takes almost a whole day before you feel hungry again."
+    },
+    {
+      "q": "Why does kenkey take a long time to make?",
+      "options": [
+        "It has to be fried several times",
+        "The maize is soaked in water for a week",
+        "The dough must rest for a month",
+        "It is cooked slowly on top of a chicken or beef stew"
+      ],
+      "answer": 1,
+      "why": "Beth says the maize needs to be soaked in water for a week."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to choose a strong password",
+        "How banks protect their customers",
+        "Why social media is bad for teenagers",
+        "Why online fraud is so easy for criminals"
+      ],
+      "answer": 3,
+      "why": "Neil says they'll find out why it's so easy for fraudsters to steal our money online."
+    },
+    {
+      "q": "What kind of passwords do Neil and Georgina admit to using?",
+      "options": [
+        "Long random numbers that they change every month",
+        "Strong passwords that a computer creates for them",
+        "Easy ones, like a mother's maiden name or first pet",
+        "A different password for every account they have"
+      ],
+      "answer": 2,
+      "why": "Georgina uses things like her mother's maiden name, and Neil mentions the name of a first pet."
+    },
+    {
+      "q": "Why do some people see online fraud as an attractive crime?",
+      "options": [
+        "It makes a lot of money with fairly low risk",
+        "It is legal in many countries",
+        "It needs very expensive equipment",
+        "Victims usually get their money back"
+      ],
+      "answer": 0,
+      "why": "Neil says it's regarded as a highly profitable and relatively low-risk crime."
+    },
+    {
+      "q": "What do businesses pay Rachel Tobac to do?",
+      "options": [
+        "Train their staff to write emails",
+        "Break into their systems to find weak spots",
+        "Catch fraudsters and take them to court",
+        "Design new banking software"
+      ],
+      "answer": 1,
+      "why": "She is an 'ethical fraudster' whom businesses employ to hack their systems and find weak spots."
+    },
+    {
+      "q": "According to Rachel, where can attackers find useful information about you?",
+      "options": [
+        "Only from letters stolen from your post box",
+        "Mainly from your bank and credit card records",
+        "Only from official government records about you",
+        "From LinkedIn and your Instagram screenshots"
+      ],
+      "answer": 3,
+      "why": "She says they find your assistant or accountant on LinkedIn and your emails from Instagram screenshots."
+    },
+    {
+      "q": "What is an example of a fraudster's cover story?",
+      "options": [
+        "Offering a free holiday",
+        "Pretending to call from your bank",
+        "Selling cheap computer software",
+        "Asking for help with a school project"
+      ],
+      "answer": 1,
+      "why": "Neil says they may pretend to be calling from your bank or credit card company."
+    },
+    {
+      "q": "What does Neil say about many victims of modern fraudsters?",
+      "options": [
+        "They usually catch the criminals themselves",
+        "They lose only small amounts",
+        "They only notice after their bank accounts are empty",
+        "They are mostly large companies"
+      ],
+      "answer": 2,
+      "why": "He says many victims only realise after their bank accounts have been emptied."
+    },
+    {
+      "q": "What does Georgina decide to do at the end?",
+      "options": [
+        "Change her passwords soon",
+        "Close her social media accounts",
+        "Stop shopping online",
+        "Call her bank"
+      ],
+      "answer": 0,
+      "why": "She says she's going to change her passwords soon – 'Better safe than sorry!'"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How karaoke became popular in Japan",
+        "How to become a professional singer",
+        "Why guitars are easier to play than singing",
+        "Singing, and why it helps even bad singers"
+      ],
+      "answer": 3,
+      "why": "They discuss what happens when we sing and why it's not essential to sing in tune to benefit."
+    },
+    {
+      "q": "What does Georgina think about Neil's singing?",
+      "options": [
+        "She thinks he sings beautifully",
+        "She thinks he might be tone deaf",
+        "She thinks he should sing opera",
+        "She has never heard him sing"
+      ],
+      "answer": 1,
+      "why": "She says after hearing him at the Christmas party, 'I think you might be tone deaf'."
+    },
+    {
+      "q": "How does Neil feel about his own singing?",
+      "options": [
+        "He loves it and makes up for his lack of skill with enthusiasm",
+        "He is embarrassed by his voice and wants to stop singing",
+        "He thinks he is easily the best singer in the whole office",
+        "He only ever sings when he is alone in the shower at home"
+      ],
+      "answer": 0,
+      "why": "Neil says, 'what I lack in ability, I make up for in enthusiasm!'"
+    },
+    {
+      "q": "According to Marijke Peters, what decides how high or low a sung note is?",
+      "options": [
+        "The size of your lungs",
+        "How loudly you sing",
+        "How fast the vocal folds vibrate",
+        "The shape of your mouth"
+      ],
+      "answer": 2,
+      "why": "She says the pitch depends on the frequency of the vocal folds' vibration."
+    },
+    {
+      "q": "Why do the presenters compare singing to playing a guitar?",
+      "options": [
+        "Because most singers also play the guitar",
+        "Because both need a lot of practice",
+        "Because guitars are made from similar materials",
+        "Because both use vibration to make sound"
+      ],
+      "answer": 3,
+      "why": "They say the vocal cords act like strings and the larynx, like the guitar's body, amplifies the sound."
+    },
+    {
+      "q": "According to Professor Peter Pfordresher, where is the problem for most poor singers?",
+      "options": [
+        "In their ears and how they hear music",
+        "In their voice",
+        "In how the brain links sound and muscles",
+        "In their lungs"
+      ],
+      "answer": 2,
+      "why": "Neil says he thinks it's not the ears or voice, but the brain's connection between sound perception and muscle movement."
+    },
+    {
+      "q": "What does Professor Pfordresher advise people who don't sing well?",
+      "options": [
+        "Keep singing, because it has social and stress benefits",
+        "Take lessons with a teacher before singing in public",
+        "Only sing along with a backing track to help them",
+        "Stop singing completely to protect their voice from damage"
+      ],
+      "answer": 0,
+      "why": "He recommends to 'keep singing' because it benefits people socially and for stress responses."
+    },
+    {
+      "q": "Why does Neil say Georgina has 'changed her tune'?",
+      "options": [
+        "She started singing a different song",
+        "She now thinks maybe he should keep singing",
+        "She decided to learn the guitar",
+        "She now says karaoke is boring"
+      ],
+      "answer": 1,
+      "why": "After criticising him, Georgina says, 'maybe you should keep singing, after all!'"
+    }
+  ]
+}

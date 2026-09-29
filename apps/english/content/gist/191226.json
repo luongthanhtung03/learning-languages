@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to decorate a Christmas tree safely with electric lights",
+        "The history of the Christmas tree tradition in Germany and Britain",
+        "How much British families spend on Christmas presents each year",
+        "Whether real or fake trees are better, including for the planet"
+      ],
+      "answer": 3,
+      "why": "Neil and Sam ask what impact real and artificial trees have on the environment."
+    },
+    {
+      "q": "When Neil says Christmas 'comes at a price', what does he mean?",
+      "options": [
+        "Presents are too expensive",
+        "It has a cost for the environment",
+        "Parties are tiring",
+        "Food prices go up at Christmas"
+      ],
+      "answer": 1,
+      "why": "He says, 'I mean it comes at a cost to the environment.'"
+    },
+    {
+      "q": "Why does Phil like having a real tree?",
+      "options": [
+        "It is much cheaper than buying a good fake one",
+        "His family grows them on a farm in the country",
+        "An evergreen tree in the house has special meaning",
+        "It is easier to decorate and smells nice"
+      ],
+      "answer": 2,
+      "why": "He says trees are symbolic, as something that stays green all year."
+    },
+    {
+      "q": "What makes Roy happy about buying a real tree?",
+      "options": [
+        "When the seller promises to plant two or three more",
+        "When the tree is very tall and reaches the ceiling",
+        "When the tree is delivered to his home for free",
+        "When he can recycle it at the council after Christmas"
+      ],
+      "answer": 0,
+      "why": "He's happy if he buys from someone who promises to grow two or three in its place."
+    },
+    {
+      "q": "Why does Feifei have a plastic tree?",
+      "options": [
+        "She doesn't like the smell of real trees",
+        "It can be used every year, so it saves money",
+        "It is better for the environment",
+        "Real trees are hard to find where she lives"
+      ],
+      "answer": 1,
+      "why": "She has reused it for about nine years, so it's more economical."
+    },
+    {
+      "q": "What is Neil's own opinion about Christmas trees?",
+      "options": [
+        "Fake trees are the best choice",
+        "People shouldn't have any tree",
+        "It doesn't matter which kind you have",
+        "Nothing is better than a real tree"
+      ],
+      "answer": 3,
+      "why": "Neil says, 'you can't beat having a real Christmas tree.'"
+    },
+    {
+      "q": "According to BBC Reality Check, what makes a real tree's carbon footprint higher?",
+      "options": [
+        "Being put in landfill after Christmas",
+        "Being composted",
+        "Growing for 12 years",
+        "Taking nitrogen from the soil"
+      ],
+      "answer": 0,
+      "why": "Sam says if it ends up in landfill, the tree's carbon footprint will be higher."
+    },
+    {
+      "q": "What is said about fake trees?",
+      "options": [
+        "They are usually made locally in small British factories",
+        "They are easy to recycle once you no longer want them",
+        "They are usually imported and can't normally be recycled",
+        "They absorb carbon from the air, just like real trees"
+      ],
+      "answer": 2,
+      "why": "Neil says a fake tree is usually imported and can't usually be recycled, but can be reused."
+    }
+  ]
+}

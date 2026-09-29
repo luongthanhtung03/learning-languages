@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to start an online bookshop from your garage",
+        "How Jeff Bezos thinks and how Amazon became a success",
+        "Why online shopping is bad for small shops in towns",
+        "The history of space exploration and rocket travel"
+      ],
+      "answer": 1,
+      "why": "Neil says they'll look inside the brain of Jeff Bezos to find out how he thinks."
+    },
+    {
+      "q": "Which three words do Bezos's friends often use to describe him?",
+      "options": [
+        "Kind, funny and generous to everyone",
+        "Shy, careful and extremely hard-working",
+        "Rich, famous and powerful in business",
+        "Invention, risk-taking and long-term vision"
+      ],
+      "answer": 3,
+      "why": "Georgina says friends often use 'invention, risk-taking and long-term vision'."
+    },
+    {
+      "q": "What did Bezos's grandfather teach him?",
+      "options": [
+        "That careful thinking can solve any problem",
+        "That money is the most important thing",
+        "That books are better than cars",
+        "That taking risks is dangerous"
+      ],
+      "answer": 0,
+      "why": "Neil says Lawrence taught Jeff that by careful thinking, any problem can be solved."
+    },
+    {
+      "q": "Why does Bezos compare Amazon to the old truck?",
+      "options": [
+        "Because both were cheap to buy at the time",
+        "Because both often broke down",
+        "Both are heavy but unstoppable once moving",
+        "Because both belonged to his grandfather"
+      ],
+      "answer": 2,
+      "why": "He compares Amazon to the truck: very heavy, but impossible to stop when it rolls downhill."
+    },
+    {
+      "q": "According to Natalie Berg, what is the key to Amazon's success?",
+      "options": [
+        "Having the lowest prices from the start",
+        "Putting customers at the centre of the business",
+        "Selling only books",
+        "Spending a lot on advertising"
+      ],
+      "answer": 1,
+      "why": "She says Bezos was relentlessly focusing on customers and putting them at the heart of the business."
+    },
+    {
+      "q": "What happened after Bezos started Market Place?",
+      "options": [
+        "More sellers brought more customers and lower prices",
+        "Amazon stopped selling its own products",
+        "Prices went up for customers",
+        "Amazon lost money during the Covid pandemic"
+      ],
+      "answer": 0,
+      "why": "Georgina says more sellers brought more customers, which in turn brought down prices."
+    },
+    {
+      "q": "According to Tom Rivett-Carnac, why is Bezos interested in climate change?",
+      "options": [
+        "He wants to make much more money from green technology",
+        "His grandfather asked him to protect the planet",
+        "He wants to be remembered for doing the right thing",
+        "The US government forced Amazon to cut its emissions"
+      ],
+      "answer": 2,
+      "why": "He says it seemed a legacy issue: Bezos wanted to be on the right side of history."
+    },
+    {
+      "q": "What does Tom Rivett-Carnac think about companies acting to improve their reputation?",
+      "options": [
+        "It is always a form of greenwashing",
+        "It should be against the law",
+        "It never achieves anything",
+        "It's fine if they achieve something real"
+      ],
+      "answer": 3,
+      "why": "He says 'that is fine', as long as they do something meaningful and deliver a major outcome."
+    }
+  ]
+}

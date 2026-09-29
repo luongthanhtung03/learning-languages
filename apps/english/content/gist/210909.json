@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Greta Thunberg's life as a climate activist",
+        "A heatwave that shocked scientists",
+        "How people can protect their homes from wildfires",
+        "Why Canada has such cold winters"
+      ],
+      "answer": 1,
+      "why": "They ask if scientists have misunderstood climate change after the unexpected heat in Lytton, Canada."
+    },
+    {
+      "q": "According to Sam, what do many young people feel?",
+      "options": [
+        "That climate change is not a real problem",
+        "That world leaders are doing a good job",
+        "That Greta Thunberg's speech was too negative",
+        "That not enough is being done about climate change"
+      ],
+      "answer": 3,
+      "why": "Sam says her speech reflected young people's feeling that not enough action is being taken."
+    },
+    {
+      "q": "What happened to the town of Lytton in Canada?",
+      "options": [
+        "It was flooded by heavy rain",
+        "It was covered in snow in July",
+        "It was completely destroyed by a wildfire",
+        "Its residents moved away because of the cold"
+      ],
+      "answer": 2,
+      "why": "Sam says Lytton burned to the ground in a shocking wildfire."
+    },
+    {
+      "q": "What did the Oxford University team's weather models suggest about the Lytton heat?",
+      "options": [
+        "It should have been impossible",
+        "It was completely normal for July",
+        "It happens every ten years",
+        "It was caused by the wildfire"
+      ],
+      "answer": 0,
+      "why": "Sam says according to their modelling, such extreme heat was impossible, in theory."
+    },
+    {
+      "q": "What did Geert Jan van Oldenborgh expect heatwaves to do before this?",
+      "options": [
+        "Stay exactly the same",
+        "Get hotter slowly and steadily",
+        "Become less frequent",
+        "Jump suddenly every few years"
+      ],
+      "answer": 1,
+      "why": "He says they thought it was 'a gradual process' but this was 'a huge jump'."
+    },
+    {
+      "q": "By how much were the previous records broken, according to the professor?",
+      "options": [
+        "By less than one degree",
+        "By about ten degrees",
+        "By four or five degrees",
+        "By exactly two degrees"
+      ],
+      "answer": 2,
+      "why": "He says you suddenly break all your records by four or five degrees."
+    },
+    {
+      "q": "How has this event affected Professor van Oldenborgh?",
+      "options": [
+        "It has made him doubt how well scientists understand heatwaves",
+        "It has proved that his earlier predictions were completely correct",
+        "It has made him decide to stop studying climate change altogether",
+        "It has made him more hopeful about the future of the planet"
+      ],
+      "answer": 0,
+      "why": "He says it has really shaken their confidence in how well they understand climate change and heatwaves."
+    },
+    {
+      "q": "What point does Sam make by mentioning Canada and Britain near the end?",
+      "options": [
+        "Both countries have strong climate laws",
+        "Both countries caused the heatwave",
+        "Only hot countries are affected by climate change",
+        "Even cold northern countries can have extreme changes"
+      ],
+      "answer": 3,
+      "why": "Sam says even cold, northern countries like Canada or Britain can experience such extreme changes."
+    }
+  ]
+}

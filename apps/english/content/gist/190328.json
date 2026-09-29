@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best-paid jobs in the UK and how to get them",
+        "How to become a professional wedding photographer",
+        "People who do a second job using skills or passions",
+        "Why young people don't want to work long hours"
+      ],
+      "answer": 2,
+      "why": "Neil and Rob discuss side hustles, second jobs that use your skills and interests."
+    },
+    {
+      "q": "What would Rob do as a second job if he had time?",
+      "options": [
+        "Take photos and sell them",
+        "Teach English online",
+        "Make and sell rag rugs",
+        "Write software for apps"
+      ],
+      "answer": 0,
+      "why": "He says he'd take photographs and sell them because he loves photography."
+    },
+    {
+      "q": "According to Henley Business School research, how many workers run a side hustle?",
+      "options": [
+        "About one in ten",
+        "About half",
+        "About one in four",
+        "About three in four"
+      ],
+      "answer": 2,
+      "why": "The research says around one in four workers run at least one side hustle."
+    },
+    {
+      "q": "Which age group is most likely to have a side hustle?",
+      "options": [
+        "18 to 24",
+        "35 to 44",
+        "Over 50",
+        "25 to 34"
+      ],
+      "answer": 3,
+      "why": "Neil says those aged 25 to 34 are most likely, with 37% running a sideline."
+    },
+    {
+      "q": "What risk did Elspeth Jackson take when her side hustle became her main job?",
+      "options": [
+        "She had to move abroad to find customers",
+        "She lost the security of a regular wage",
+        "She had to borrow a lot of money from the bank",
+        "She had to work nights as well as days"
+      ],
+      "answer": 1,
+      "why": "She talks about leaving a very regular wage and the security it gives."
+    },
+    {
+      "q": "Why doesn't Elspeth want to go back to a big company?",
+      "options": [
+        "She would lose the flexibility she's used to",
+        "The pay is too low for the hours you work",
+        "She didn't get on with her old colleagues",
+        "Big companies won't hire her at her age"
+      ],
+      "answer": 0,
+      "why": "She says she'd be sacrificing the flexibility she's become accustomed to."
+    },
+    {
+      "q": "What does Becci Mae Ford like about working for the telecoms company?",
+      "options": [
+        "It pays very well and has a pension",
+        "It gives her lots of holiday every year",
+        "It is creative work, like her crafts",
+        "It gets her out of the house to meet people"
+      ],
+      "answer": 3,
+      "why": "She says it gets her out the house and meeting people in a social environment."
+    },
+    {
+      "q": "How does Becci Mae Ford feel about having two jobs?",
+      "options": [
+        "It's easy and relaxing, and she has lots of free time",
+        "It gives her balance but is harder than people think",
+        "She wants to give up her crafting company next year",
+        "It is boring all the time, and she wants a change"
+      ],
+      "answer": 1,
+      "why": "She says it gives creative balance but 'It's definitely a grind.'"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why animals make better pets than robots",
+        "How new medicines are sold around the world",
+        "The history of animal rights campaigns in Britain and Europe",
+        "How artificial intelligence could reduce testing on animals"
+      ],
+      "answer": 3,
+      "why": "Georgie says they'll hear how AI could help reduce the need for testing on animals."
+    },
+    {
+      "q": "Why do animal rights campaigners oppose animal testing?",
+      "options": [
+        "They say it is too expensive for companies",
+        "They say it is cruel and doesn't work well",
+        "They say it takes too long",
+        "They say it is illegal in most countries"
+      ],
+      "answer": 1,
+      "why": "Campaigners say it's cruel, and also ineffective because animals and humans are so different."
+    },
+    {
+      "q": "What does British law say about testing medicines?",
+      "options": [
+        "Medicines can only be tested on healthy human volunteers",
+        "Animal testing has been banned",
+        "They must be tested on two different types of animals",
+        "Only AI can be used to test them"
+      ],
+      "answer": 2,
+      "why": "Phil says medicines must be tested on two different types of animals."
+    },
+    {
+      "q": "What problem with animal testing does Christine Ro describe?",
+      "options": [
+        "Results in animals don't always match what happens in humans",
+        "Animals are too small to test medicines on",
+        "Scientists often lose the test results",
+        "Mice and dogs always react in exactly the same way as people"
+      ],
+      "answer": 0,
+      "why": "She says substances toxic in animals have been safe in humans, and vice versa."
+    },
+    {
+      "q": "What does Christine think most people would want?",
+      "options": [
+        "Testing to continue in exactly the same way as now",
+        "Medicines tested only on pets",
+        "As few animals used as possible, while staying safe",
+        "No new medicines to be made"
+      ],
+      "answer": 2,
+      "why": "She says most people would want as few animals, or none, used while still ensuring safety."
+    },
+    {
+      "q": "Why is AI useful for checking chemical safety?",
+      "options": [
+        "It can analyse enormous amounts of data",
+        "It can grow human cells in a lab",
+        "It replaces the need for any scientists",
+        "It makes medicines cheaper to produce"
+      ],
+      "answer": 0,
+      "why": "Georgie says one thing AI is really good at is analysing mountains of data."
+    },
+    {
+      "q": "Why does Christine mention the number of new chemicals being invented?",
+      "options": [
+        "To show that scientists are working too slowly",
+        "To argue that all new chemicals should be banned until tested",
+        "To explain why animal testing is getting cheaper",
+        "To show that the amount of data to check keeps growing"
+      ],
+      "answer": 3,
+      "why": "On top of the huge amount of data, there's a staggering number of new chemicals all the time."
+    },
+    {
+      "q": "What warning does Christine give about AI?",
+      "options": [
+        "It is far too dangerous to be used in medicine at all",
+        "It is important, but it isn't the complete answer",
+        "It will make animal testing more common",
+        "It only works for simple medicines"
+      ],
+      "answer": 1,
+      "why": "She says “AI isn't the whole picture” but it's an increasingly important part."
+    }
+  ]
+}

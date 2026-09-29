@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a millionaire before the age of forty",
+        "Planning your money for the lifestyle you want",
+        "How to find a better-paid job in the city",
+        "Why young people spend too much on clothes and phones"
+      ],
+      "answer": 1,
+      "why": "Neil says they're talking about finance and planning for future lifestyles."
+    },
+    {
+      "q": "How many numbers does Julie Lord say you need to start?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Six"
+      ],
+      "answer": 2,
+      "why": "She says, 'You just need four numbers.'"
+    },
+    {
+      "q": "Which of these is NOT one of Julie Lord's numbers?",
+      "options": [
+        "Your income",
+        "What you own",
+        "What you owe",
+        "Your age"
+      ],
+      "answer": 3,
+      "why": "The four are income, expenditure, assets and liabilities."
+    },
+    {
+      "q": "What does the cashflow forecast show you?",
+      "options": [
+        "Your future lifestyle, with or without financial products",
+        "How much income tax you must pay this year and next",
+        "Which bank gives the best interest on your savings",
+        "How much your house is worth today on the market"
+      ],
+      "answer": 0,
+      "why": "She says they project forward to show what lifestyle you'll have if you do nothing, or use products."
+    },
+    {
+      "q": "How does Rob keep track of his money?",
+      "options": [
+        "He doesn't keep track at all and hopes for the best",
+        "He uses a detailed spreadsheet of income and spending",
+        "A financial planner does it all for him every month",
+        "He writes it down in a notebook once every year"
+      ],
+      "answer": 1,
+      "why": "He says he has a very detailed spreadsheet listing his income and expenditure."
+    },
+    {
+      "q": "How does Rob feel when he looks at his spreadsheet?",
+      "options": [
+        "Proud of how much he has saved so far",
+        "Excited about his plans for the future",
+        "A bit depressed about how little he has",
+        "Confused by all the numbers and columns"
+      ],
+      "answer": 2,
+      "why": "He says it reminds him how much money he doesn't have: 'It's quite depressing!'"
+    },
+    {
+      "q": "What is Neil's attitude to his own finances?",
+      "options": [
+        "He is very organised and checks them each week",
+        "He worries about them every day and can't sleep",
+        "He has a good pension plan and plenty of savings",
+        "He doesn't know his debts and tries not to worry"
+      ],
+      "answer": 3,
+      "why": "He says he lives in 'blissful ignorance' and has no idea how big his debts are."
+    },
+    {
+      "q": "What does Julie Lord say about her younger clients?",
+      "options": [
+        "They want help getting organised and understanding products",
+        "They are only interested in pensions and retirement",
+        "They are much richer than her older clients",
+        "She doesn't have any clients under the age of fifty"
+      ],
+      "answer": 0,
+      "why": "She says many younger clients want to get financially organised and understand the products."
+    }
+  ]
+}

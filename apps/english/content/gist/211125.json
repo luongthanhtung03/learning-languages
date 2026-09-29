@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Whether nuclear power helps or harms the climate",
+        "Why oil and gas prices rise in the winter",
+        "How the Chernobyl power station was built",
+        "Why Germany uses so much wind and solar power"
+      ],
+      "answer": 0,
+      "why": "Sam says they'll ask whether, when it comes to the climate, nuclear is a friend or foe."
+    },
+    {
+      "q": "What do people who prefer nuclear energy argue?",
+      "options": [
+        "It is much cheaper than oil and natural gas",
+        "It can be built quickly in any country",
+        "It's clean and more reliable than renewables",
+        "It creates more jobs than any other energy"
+      ],
+      "answer": 2,
+      "why": "Neil says they argue it's clean, green and more reliable than renewables."
+    },
+    {
+      "q": "Why do questions about nuclear safety remain?",
+      "options": [
+        "Many power stations have no workers",
+        "Because of disasters like Chernobyl",
+        "Nuclear stations are often in big cities",
+        "Scientists have never tested them"
+      ],
+      "answer": 1,
+      "why": "Neil says after nuclear disasters like Chernobyl and Fukushima, questions about its safety remain."
+    },
+    {
+      "q": "What does Mirjam Vossen remember about the Chernobyl disaster?",
+      "options": [
+        "She was working as a journalist in Ukraine",
+        "The media hardly reported on it at all",
+        "People in Europe were not very worried",
+        "Everyone was scared of the radioactive clouds"
+      ],
+      "answer": 3,
+      "why": "She has vivid memories of how scary it was and how frightened everyone was of the radioactive clouds."
+    },
+    {
+      "q": "What does Mirjam believe about people's views on nuclear safety today?",
+      "options": [
+        "They are correct and should not change",
+        "They are based on modern power stations",
+        "They are out of date",
+        "They are too positive about nuclear power"
+      ],
+      "answer": 2,
+      "why": "She believes these ingrained perceptions are out-of-date, as such accidents couldn't happen in modern stations."
+    },
+    {
+      "q": "What advantage does nuclear have over renewables, according to Neil?",
+      "options": [
+        "It gives a steady supply of power",
+        "It produces no waste at all",
+        "It needs no water to cool down",
+        "It is safer than wind power"
+      ],
+      "answer": 0,
+      "why": "Neil says nuclear gives a steady supply, unlike renewables when the wind doesn't blow or the Sun doesn't shine."
+    },
+    {
+      "q": "Why does Paul Dorfman think nuclear power has no future?",
+      "options": [
+        "Because it produces too much carbon",
+        "Because the public will never trust it",
+        "Because there isn't enough uranium left",
+        "Rising seas threaten stations near water"
+      ],
+      "answer": 3,
+      "why": "Stations are located near seas or lakes for cooling, and he thinks rising sea levels will end nuclear as an option."
+    },
+    {
+      "q": "What does Paul Dorfman think should be done with the money?",
+      "options": [
+        "It should be used to build new nuclear stations",
+        "It should make renewables more reliable",
+        "It should be spent on oil and natural gas",
+        "It should protect stations from the sea"
+      ],
+      "answer": 1,
+      "why": "Sam says he thinks money for nuclear upgrades would be better spent making clean renewables more reliable."
+    }
+  ]
+}

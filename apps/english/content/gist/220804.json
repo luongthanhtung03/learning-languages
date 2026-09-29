@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How the first vaccines were invented and tested",
+        "Why the Black Death was worse than Covid-19",
+        "How rich countries can help poorer countries",
+        "The different ways pandemics come to an end"
+      ],
+      "answer": 3,
+      "why": "Neil says they'll be finding out how pandemics end, and experts discuss biological and social endings."
+    },
+    {
+      "q": "What does Sam say about the Black Death in the Middle Ages?",
+      "options": [
+        "It was ended quickly by the first vaccines",
+        "It killed over half of Europe in four years",
+        "It only affected a few cities in Europe",
+        "It lasted for more than a hundred years"
+      ],
+      "answer": 1,
+      "why": "Sam says the Black Death killed over half of Europe's population and lasted for four years."
+    },
+    {
+      "q": "According to Neil, how do most people feel about Covid now?",
+      "options": [
+        "Tired of worrying and keen for normal life",
+        "Happy to keep all the lockdown rules for years",
+        "More frightened of Covid than ever before",
+        "Not interested in the news about new variants"
+      ],
+      "answer": 0,
+      "why": "Neil says most people are sick of worrying about Covid and can't wait for things to get back to normal."
+    },
+    {
+      "q": "According to Professor Nicholas Christakis, how do pandemics end socially?",
+      "options": [
+        "When scientists find a cure for the disease",
+        "When the government closes all the borders",
+        "When people agree it's over and take more risk",
+        "When nobody in the world is sick any more"
+      ],
+      "answer": 2,
+      "why": "He says they end socially when everyone agrees they've ended and is willing to tolerate more risk."
+    },
+    {
+      "q": "What does Professor Christakis suggest about declaring a pandemic over?",
+      "options": [
+        "We might do it too early and ignore the truth",
+        "We should always wait for the WHO to decide",
+        "It only happens after a disease is eradicated",
+        "It is always the right decision for society"
+      ],
+      "answer": 0,
+      "why": "He says we declare victory 'maybe prematurely', or 'we put our heads in the sand'."
+    },
+    {
+      "q": "Which countries does Sam say are in a better position than most?",
+      "options": [
+        "Countries that had very strict lockdowns",
+        "Countries with very small populations",
+        "Countries that closed their borders early",
+        "Rich western countries able to vaccinate"
+      ],
+      "answer": 3,
+      "why": "Sam says rich western countries with the resources to vaccinate their populations are better placed."
+    },
+    {
+      "q": "What does Professor Dora Vargha say happened with HIV/Aids?",
+      "options": [
+        "Scientists found a cure for it in the 1980s",
+        "It became a long-term, manageable illness",
+        "It stopped being a problem in every country",
+        "It became much more deadly over time"
+      ],
+      "answer": 1,
+      "why": "She says it went from 'an immediate death sentence' to 'a manageable chronic disease' where medicine is available."
+    },
+    {
+      "q": "What are many scientists warning about Covid, according to Sam?",
+      "options": [
+        "The pandemic will certainly end next year",
+        "Vaccines no longer protect people from it",
+        "We're not yet at the beginning of the end",
+        "Covid is now more dangerous than HIV/Aids"
+      ],
+      "answer": 2,
+      "why": "Sam says scientists warn we haven't yet reached the beginning of the end, but maybe the end of the beginning."
+    }
+  ]
+}

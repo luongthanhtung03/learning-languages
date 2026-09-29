@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How parents should punish teenagers",
+        "Why teenagers need more sleep",
+        "How parents can help teenagers plan and do their homework",
+        "How the teenage brain is still developing"
+      ],
+      "answer": 3,
+      "why": "Neil says teenagers' brains are still developing in areas that control behaviour."
+    },
+    {
+      "q": "How does Rob describe himself as a teenager?",
+      "options": [
+        "Quiet and hard-working",
+        "Rude and badly behaved",
+        "Shy but popular",
+        "Sporty and healthy"
+      ],
+      "answer": 1,
+      "why": "Rob says he was 'a nightmare', rude to his parents and never did his homework."
+    },
+    {
+      "q": "According to Neil, why might teenagers' bad behaviour not be directly their fault?",
+      "options": [
+        "Their brains are still developing",
+        "Their parents are too strict",
+        "They have too much homework",
+        "They spend time with the wrong friends"
+      ],
+      "answer": 0,
+      "why": "Neil says it's 'our brains' fault', because teenagers' brains are still developing."
+    },
+    {
+      "q": "When were the first research papers on brain development in adolescence published?",
+      "options": [
+        "In the 1950s",
+        "In the 1930s",
+        "In the late 1990s",
+        "In the last few years"
+      ],
+      "answer": 2,
+      "why": "Professor Blakemore says the first papers were published in the late 90s."
+    },
+    {
+      "q": "What did textbooks say when Professor Sarah-Jayne Blakemore was at university?",
+      "options": [
+        "The brain keeps changing throughout life",
+        "Most brain development happens in the first few years",
+        "Teenagers' brains are the same as adults' brains",
+        "The brain develops most of all when people are in their twenties"
+      ],
+      "answer": 1,
+      "why": "She says the textbooks claimed most brain development happens in the first few years."
+    },
+    {
+      "q": "What is Professor Blakemore's opinion of that old belief?",
+      "options": [
+        "It is partly true",
+        "It is still accepted today",
+        "It needs more research",
+        "It is completely false"
+      ],
+      "answer": 3,
+      "why": "She says 'That dogma is completely false.'"
+    },
+    {
+      "q": "What does the prefrontal cortex help us to do?",
+      "options": [
+        "Make decisions and plan",
+        "Remember faces",
+        "Control our breathing",
+        "Feel emotions like fear"
+      ],
+      "answer": 0,
+      "why": "She says it is involved in high-level tasks 'such as decision making and planning'."
+    },
+    {
+      "q": "What does Professor Blakemore suggest about expecting teenagers to plan their homework?",
+      "options": [
+        "It is good training for their brains",
+        "It might be too much for them",
+        "Parents should do it for them",
+        "Teachers should give less homework"
+      ],
+      "answer": 2,
+      "why": "She says it 'might be too much' because the planning part of the brain is not developed yet."
+    }
+  ]
+}

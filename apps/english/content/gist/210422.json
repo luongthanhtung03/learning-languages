@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why smog is so common in Chinese cities",
+        "Whether the USA and China can work together",
+        "How the Paris agreement was written",
+        "The history of greenhouse gases"
+      ],
+      "answer": 1,
+      "why": "Rob says they'll discuss whether the two biggest emitters, the USA and China, can work together."
+    },
+    {
+      "q": "What did countries promise under the Paris deal of 2015?",
+      "options": [
+        "To stop using all fossil fuels completely by 2020",
+        "To meet every year in Paris to check on progress",
+        "To return every five years with bigger plans to cut carbon",
+        "To pay China to reduce the pollution from its factories"
+      ],
+      "answer": 2,
+      "why": "Rob says they promised to come back every five years and raise their carbon-cutting ambitions."
+    },
+    {
+      "q": "What has happened to the USA's place in the Paris agreement?",
+      "options": [
+        "It was never part of it",
+        "It left under Biden and returned under Trump",
+        "It has always stayed in without any change",
+        "Trump took it out, and Biden brought it back in"
+      ],
+      "answer": 3,
+      "why": "Neil says President Trump pulled out, but President Biden has brought the USA back into it."
+    },
+    {
+      "q": "What has President Xi Jinping promised?",
+      "options": [
+        "China will be carbon neutral by 2060",
+        "China will stop all pollution by 2030",
+        "China will create 10 million green jobs",
+        "China will leave the Paris agreement"
+      ],
+      "answer": 0,
+      "why": "Rob says Xi Jinping has pledged the country will be carbon neutral by 2060."
+    },
+    {
+      "q": "According to Vincent Ni, what is the paradox in China today?",
+      "options": [
+        "It is rich but has many poor cities",
+        "It leads on green projects but is also a big polluter",
+        "It wants to work with the USA but refuses to meet",
+        "It has clean air but dirty water"
+      ],
+      "answer": 1,
+      "why": "He says China is leading on green initiatives while also being a big polluter and emitter."
+    },
+    {
+      "q": "What else must China do while fighting pollution, according to Vincent Ni?",
+      "options": [
+        "Reduce poverty",
+        "Build more cities",
+        "Grow more food",
+        "Stop trading with the USA"
+      ],
+      "answer": 0,
+      "why": "He says China has got to alleviate poverty as well as fight pollution."
+    },
+    {
+      "q": "What historical fact does Jerry Brown admit about the USA?",
+      "options": [
+        "It invented most clean energy technology",
+        "It has always polluted less than Europe",
+        "It signed the first climate agreement",
+        "It has emitted more gases than China"
+      ],
+      "answer": 3,
+      "why": "He says 'We have put more heat-trapping gases in the atmosphere… than China has'."
+    },
+    {
+      "q": "What does Jerry Brown think the USA should do?",
+      "options": [
+        "Focus on China's mistakes and make China pay for them",
+        "Deal with climate change on its own, without other countries",
+        "Stop blaming others and work with other countries as partners",
+        "Compete with China to be the greenest country in the world"
+      ],
+      "answer": 2,
+      "why": "He says we need to stop pointing fingers and work with China, Russia and Europe as partners."
+    }
+  ]
+}

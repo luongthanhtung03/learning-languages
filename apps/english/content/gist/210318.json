@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How digital tech helps blind people",
+        "Famous blind artists and writers in history",
+        "How guide dogs are trained",
+        "Why smartphones are bad for our eyes"
+      ],
+      "answer": 0,
+      "why": "They look at inventions, like smartphone apps, that dramatically improve blind people's lives."
+    },
+    {
+      "q": "Why does Neil mention Homer, Ray Charles and Jorge Borges?",
+      "options": [
+        "They all invented something for blind people",
+        "They all lived in the same country",
+        "They were all musicians",
+        "They were all blind but were great artists"
+      ],
+      "answer": 3,
+      "why": "Neil says they were all blind, and Georgina says it didn't hold them back."
+    },
+    {
+      "q": "Which of these can the 'BeMyEyes' app help blind users do?",
+      "options": [
+        "Read printed books and newspapers aloud to them",
+        "Find lost keys and match the colours of their clothes",
+        "Drive a car safely on busy roads in the city",
+        "Replace their white cane completely when walking"
+      ],
+      "answer": 1,
+      "why": "Apps like BeMyEyes let users find lost keys, cross busy roads and colour match clothes."
+    },
+    {
+      "q": "What is Brian Mwenda's device designed to do?",
+      "options": [
+        "Replace the white cane with a smart phone app",
+        "Read text from a phone screen out loud to the user",
+        "Clip onto a white cane and detect obstacles ahead",
+        "Guide users around the city with a talking map"
+      ],
+      "answer": 2,
+      "why": "He says once you clip it onto any white cane it works to detect obstacles in front of you."
+    },
+    {
+      "q": "How does the 'Sixth Sense' device work?",
+      "options": [
+        "It sends out sound and measures the echoes, like bats",
+        "It uses a small camera and GPS to find the way home",
+        "It vibrates when a friend or family member is near",
+        "It uses a beam of light to scan the road ahead"
+      ],
+      "answer": 0,
+      "why": "It uses echo-location: a sound pulse bounces off an obstacle to show how far away it is."
+    },
+    {
+      "q": "What does Georgina think being able to move around confidently does for blind people?",
+      "options": [
+        "It makes them rely more on others",
+        "It makes their phones more expensive",
+        "It really increases their independence",
+        "It helps them see better"
+      ],
+      "answer": 2,
+      "why": "Georgina says being able to move around confidently really boosts people's independence."
+    },
+    {
+      "q": "What does Fern Lulham hope will happen as society sees more blind people in everyday life?",
+      "options": [
+        "More apps will be invented for them",
+        "Blind people will stop using apps",
+        "People will feel sorry for them",
+        "Disability will seem more normal"
+      ],
+      "answer": 3,
+      "why": "She says it helps tackle stereotypes and 'just normalises disability'."
+    },
+    {
+      "q": "Why does Neil ask listeners to close their eyes and move around the room?",
+      "options": [
+        "To test how well they can hear sounds",
+        "To show how useful the technology is",
+        "To practise using a white cane",
+        "To help them relax"
+      ],
+      "answer": 1,
+      "why": "He says you'll see how difficult it is and how life changing this technology can be."
+    }
+  ]
+}

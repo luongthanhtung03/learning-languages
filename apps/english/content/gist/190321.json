@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become more confident at parties and meetings",
+        "A computer program that reads personality from eye movements",
+        "The meaning of the letters AI and where they came from",
+        "Why introverts often make good presenters and teachers"
+      ],
+      "answer": 1,
+      "why": "Neil says researchers developed a program that can tell your personality by tracking eye movements."
+    },
+    {
+      "q": "How does Rob describe himself?",
+      "options": [
+        "As a confident extrovert",
+        "As someone who loves parties",
+        "As shy, more of an introvert",
+        "As neither introvert nor extrovert"
+      ],
+      "answer": 2,
+      "why": "He says, 'I'm more of an introvert. I'm really quite shy.'"
+    },
+    {
+      "q": "How does Rob explain doing radio and videos if he is shy?",
+      "options": [
+        "He may be pretending to be an extrovert",
+        "He only does it because it's his job",
+        "He is shy only with his family",
+        "He reads from a script"
+      ],
+      "answer": 0,
+      "why": "He says maybe he's pretending to be an extrovert to hide that he's an introvert."
+    },
+    {
+      "q": "What does Rob think about the new technology at first?",
+      "options": [
+        "It's boring",
+        "It's impossible",
+        "It's hi-tech and a bit scary",
+        "It's already common"
+      ],
+      "answer": 2,
+      "why": "He says, 'That sounds pretty hi-tech, and scary.'"
+    },
+    {
+      "q": "Where did Sabrina Hoppe's experiment take place?",
+      "options": [
+        "In a laboratory at the university",
+        "In a hospital with sleeping patients",
+        "At a party with people she knew",
+        "In a real-world setting, not a lab"
+      ],
+      "answer": 3,
+      "why": "Rob explains it took place in the 'real world' without strict control."
+    },
+    {
+      "q": "Was Sabrina Hoppe sure the study would work before it began?",
+      "options": [
+        "Yes, she was completely sure from the start",
+        "No, it wasn't clear at all that it would work",
+        "Yes, because earlier studies had proved it",
+        "She didn't say whether she was sure or not"
+      ],
+      "answer": 1,
+      "why": "She says, 'it was not clear at all if this would be possible.'"
+    },
+    {
+      "q": "What does Sabrina Hoppe say about how the program works?",
+      "options": [
+        "She doesn't really know the details",
+        "It reads people's facial expressions",
+        "It measures how fast people blink",
+        "It asks people questions"
+      ],
+      "answer": 0,
+      "why": "She says 'We still don't really know in detail what makes the difference.'"
+    },
+    {
+      "q": "What example does Sabrina Hoppe give of a possible difference?",
+      "options": [
+        "Introverts look at people's faces more",
+        "Extroverts close their eyes more",
+        "Both look in the same way",
+        "Extroverts may look up; introverts may look down"
+      ],
+      "answer": 3,
+      "why": "She suggests extroverts look up at faces while very introvert people stare at their shoes."
+    }
+  ]
+}

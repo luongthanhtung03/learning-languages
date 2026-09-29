@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why most children want to be astronauts or firefighters",
+        "How to make a lot of money from a hotel and a café",
+        "Why nurses write books about their patients' lives",
+        "Two people who followed their dreams of a better life"
+      ],
+      "answer": 3,
+      "why": "Beth says they will hear how Daisy and Herman followed their childhood dreams by changing themselves."
+    },
+    {
+      "q": "What did Neil and Beth want to be when they were children?",
+      "options": [
+        "Neil wanted to be an astronaut; Beth a firefighter",
+        "Neil a firefighter; Beth an astronaut",
+        "They both wanted to travel around the world",
+        "They both wanted to be nurses in a hospital"
+      ],
+      "answer": 1,
+      "why": "Neil wanted to be a fireman, and Beth wanted to be an astronaut and fly to the Moon."
+    },
+    {
+      "q": "How does the Riverside community in New Zealand work?",
+      "options": [
+        "Members' earnings are shared equally between everyone",
+        "Members keep the money they earn from their own jobs",
+        "Only the people who work the most hours get paid",
+        "Members work outside and give half their pay to the group"
+      ],
+      "answer": 0,
+      "why": "Beth says all the money they earn is collected and shared between everyone equally."
+    },
+    {
+      "q": "According to Daisy, what do many people outside Riverside find hard to accept?",
+      "options": [
+        "That members have to work on the farm every day",
+        "That the community doesn't allow any visitors",
+        "Everyone gets the same, whatever work they do",
+        "That members aren't allowed to leave New Zealand"
+      ],
+      "answer": 2,
+      "why": "Daisy says no matter how many hours or what work you do, everyone gets the same, and outsiders struggle with this."
+    },
+    {
+      "q": "What does Beth say about the politics of Riverside?",
+      "options": [
+        "Everyone there is a member of the communist party",
+        "Members are not allowed to talk about politics",
+        "It was started by politicians from East Germany",
+        "People with many different views live there"
+      ],
+      "answer": 3,
+      "why": "Beth says Riverside isn't communist; people with many different political views live there."
+    },
+    {
+      "q": "How did Herman and Candelaria Zapp begin their journey?",
+      "options": [
+        "In an old car with under $3,500",
+        "On a plane with their three young children",
+        "On bicycles, with money from their families",
+        "On a ship, after selling their house in Argentina"
+      ],
+      "answer": 0,
+      "why": "In 2000 they bought a vintage car and left Argentina with less than 3,500 dollars."
+    },
+    {
+      "q": "How does Herman say travelling has changed him?",
+      "options": [
+        "He now wants to conquer and control the world",
+        "He has become more humble by meeting people",
+        "He feels tired and wants to go back home",
+        "He has become much richer and more successful"
+      ],
+      "answer": 1,
+      "why": "He says the more people you meet and stories you know, the more humble you become."
+    },
+    {
+      "q": "What does Herman mean when he compares himself to a piece of sand?",
+      "options": [
+        "That he feels lost and alone in the world",
+        "That he has spent a lot of time on beaches",
+        "Everyone is small but still important",
+        "That his journey has been hard and painful"
+      ],
+      "answer": 2,
+      "why": "He says you are a tiny piece of sand, 'but a very important piece of sand like everyone is'."
+    }
+  ]
+}

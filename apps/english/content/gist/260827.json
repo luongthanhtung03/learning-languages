@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Which smells people around the world like best",
+        "How perfume companies create new smells",
+        "Why some people lose their sense of smell",
+        "Why English has few words to describe actual smells"
+      ],
+      "answer": 3,
+      "why": "They explain that English is general when describing smells and has few words for the smells themselves."
+    },
+    {
+      "q": "Which smell does Neil say he likes most?",
+      "options": [
+        "The smell of an old leather jacket",
+        "A newly opened packet of ground coffee",
+        "The smell of the ground after rain",
+        "Freshly baked bread from a local bakery"
+      ],
+      "answer": 1,
+      "why": "Neil says you can't beat the smell of a freshly opened packet of ground coffee."
+    },
+    {
+      "q": "What does Neil say about the words on Michael Rosen's list, like 'funky' and 'reeking'?",
+      "options": [
+        "They all simply mean that something smells bad",
+        "They each describe a very different smell",
+        "They are only used by poets",
+        "They describe pleasant smells"
+      ],
+      "answer": 0,
+      "why": "Neil says 'all those words really mean is bad smelling'."
+    },
+    {
+      "q": "How do English speakers often describe a smell, according to Georgie?",
+      "options": [
+        "By saying which colour it reminds them of",
+        "By giving it a special scientific name",
+        "By comparing it to something else, like a rose",
+        "By describing how strong it is on a scale"
+      ],
+      "answer": 2,
+      "why": "Georgie says we often compare smells to other objects, like roses or rotten eggs."
+    },
+    {
+      "q": "Why does Asifa Majid give the example of a perfume?",
+      "options": [
+        "To show that most perfumes actually smell bad",
+        "To show that everyone agrees on which smells are nice",
+        "To explain how perfumes are made from flowers",
+        "To show two people can judge one smell differently"
+      ],
+      "answer": 3,
+      "why": "She says one person may find a perfume fragrant and another stinky, 'and both can be true'."
+    },
+    {
+      "q": "How are words for taste different from words for smell?",
+      "options": [
+        "Taste words give a shared idea that people can agree on",
+        "There are fewer words for taste than for smell",
+        "Taste words are more subjective",
+        "Taste words are only used by chefs"
+      ],
+      "answer": 0,
+      "why": "Neil says words like spicy or salty create a common idea we can all agree on, but not for smells."
+    },
+    {
+      "q": "What did Asifa's research find about how often people talk about their senses?",
+      "options": [
+        "People talk about smells more than about sounds",
+        "People talk about all the senses equally often",
+        "People talk a lot about sight but rarely about smell",
+        "People talk about taste more than anything else"
+      ],
+      "answer": 2,
+      "why": "She says 'we talk a lot about what we see and very rarely about what we smell'."
+    },
+    {
+      "q": "According to Asifa, what do UK parents often do when young children comment on smells?",
+      "options": [
+        "They teach them new smell words",
+        "They stop the conversation and call it disgusting",
+        "They ask them to describe the smell in detail",
+        "They praise them for noticing"
+      ],
+      "answer": 1,
+      "why": "She says the parent will shut it down, saying 'That's disgusting! Put it down.'"
+    }
+  ]
+}

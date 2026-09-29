@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to stay safe while cycling around the busy streets of London",
+        "Safety jackets becoming a fashion item",
+        "Why fashion from the 1980s is coming back",
+        "How workers choose their uniforms"
+      ],
+      "answer": 1,
+      "why": "They discuss the high-vis jacket as 'the oddest item of clothing to hit the catwalk this year'."
+    },
+    {
+      "q": "Why is Rob wearing a high-vis jacket?",
+      "options": [
+        "He wants to look fashionable",
+        "He works in the road and has just come back from a job",
+        "He wears it for cycling and forgot to take it off",
+        "It was a present from Neil"
+      ],
+      "answer": 2,
+      "why": "Rob says he wears it when cycling around London and just forgot to take it off."
+    },
+    {
+      "q": "Who were high-vis jackets originally designed for?",
+      "options": [
+        "People who need to be seen, like cyclists and road workers",
+        "Fashion models on the catwalk",
+        "Dancers and athletes",
+        "Police officers and people who direct traffic at big events"
+      ],
+      "answer": 0,
+      "why": "Rob says they were designed for safety for cyclists, pedestrians and workers who need to be seen."
+    },
+    {
+      "q": "According to Hannah Marriott, why are bright clothes popular now?",
+      "options": [
+        "They are cheaper than other clothes",
+        "They are more comfortable",
+        "Designers have run out of ideas",
+        "They catch people's attention on social media"
+      ],
+      "answer": 3,
+      "why": "She says people scroll Instagram at speed, so anything that catches the eye gets attention."
+    },
+    {
+      "q": "What kind of fashion is getting less attention, according to Hannah Marriott?",
+      "options": [
+        "Quiet, simple items like a cashmere jumper",
+        "Sportswear",
+        "Workwear",
+        "Expensive designer labels from famous fashion houses"
+      ],
+      "answer": 0,
+      "why": "She says bright trends are getting more traction than 'the sort of understated cashmere jumper' fashion."
+    },
+    {
+      "q": "What does Hannah Marriott say is a difficult issue with this trend?",
+      "options": [
+        "The jackets are uncomfortable to wear",
+        "Fashion sells for £2000 what low-paid workers wear",
+        "The jackets are made cheaply and damage the environment",
+        "Designers copy each other"
+      ],
+      "answer": 1,
+      "why": "She mentions charging £2000 for something similar to a uniform worn by someone who doesn't earn much."
+    },
+    {
+      "q": "What safety problem does Rob mention?",
+      "options": [
+        "Fashion jackets are not bright enough",
+        "Cyclists will stop wearing jackets",
+        "Drivers will be distracted by so many bright clothes on the street",
+        "People who need to be seen may not stand out"
+      ],
+      "answer": 3,
+      "why": "Rob says if everyone wears high-vis, people who need to stand out for safety may not."
+    },
+    {
+      "q": "Why does Rob mention Neil's old red jeans?",
+      "options": [
+        "To say Neil should wear them again",
+        "To ask where Neil bought them",
+        "To joke that Neil was a fashion victim",
+        "To show that red is a safe colour"
+      ],
+      "answer": 2,
+      "why": "He gives them as an example of a fashion victim wearing something that doesn't look good."
+    }
+  ]
+}

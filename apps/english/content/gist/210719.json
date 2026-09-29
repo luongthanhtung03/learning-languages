@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to paint a house",
+        "How colour affects our mood and behaviour",
+        "The science of rainbows",
+        "Why blue is the world's favourite colour"
+      ],
+      "answer": 1,
+      "why": "They talk about colour and how it affects how we feel."
+    },
+    {
+      "q": "Why does Neil like green?",
+      "options": [
+        "It reminds him of summer holidays by the sea",
+        "It is the colour of the walls in his home",
+        "It reminds him of nature and can be calming",
+        "It makes him feel energised and ready to work"
+      ],
+      "answer": 2,
+      "why": "Neil says green reminds him of nature and can have a calming effect."
+    },
+    {
+      "q": "According to Karen Haller, how does colour affect us?",
+      "options": [
+        "Light goes via the eye to a key part of the brain",
+        "Colours change the temperature of our skin",
+        "Colours only affect people who are artists",
+        "We learn how to feel about colours at school"
+      ],
+      "answer": 0,
+      "why": "She says wavelengths of light go through the eye into the hypothalamus, which governs everything."
+    },
+    {
+      "q": "What example does Neil give to show colour affects people differently?",
+      "options": [
+        "Blue makes everyone feel sad",
+        "Green makes some people jealous of others",
+        "Yellow makes children excited",
+        "Red affects different people differently"
+      ],
+      "answer": 3,
+      "why": "Neil says seeing red can make one person angry but someone else may just feel energised."
+    },
+    {
+      "q": "What happened during the coronavirus pandemic, according to Georgina?",
+      "options": [
+        "People bought fewer things for their homes",
+        "Demand grew for bright colours and patterns",
+        "Pale colours became more popular",
+        "Shops stopped selling coloured furniture"
+      ],
+      "answer": 1,
+      "why": "She says there was a rise in demand for intense, bright shades, called 'happy design'."
+    },
+    {
+      "q": "Why did people use pale colours at home before the pandemic, according to Karen Haller?",
+      "options": [
+        "Pale colours were cheaper",
+        "They were the only colours available",
+        "To make their homes look bigger",
+        "To have a calm place to relax after busy days"
+      ],
+      "answer": 3,
+      "why": "She says with busy lives people wanted a quiet sanctuary, and pale colours helped them unwind."
+    },
+    {
+      "q": "Why did people start using brighter colours at home during lockdown?",
+      "options": [
+        "To feel the excitement they usually got from going out",
+        "Because famous interior designers told them to do it",
+        "To help them relax and sleep better during the night",
+        "Because they were spending more time working in their gardens"
+      ],
+      "answer": 0,
+      "why": "She says without outside stimulation, people tried to bring in the excitement they'd feel when out."
+    },
+    {
+      "q": "What does Georgina think about very bright colours like yellow?",
+      "options": [
+        "They are perfect for every room in her home",
+        "They make her feel sad and a little tired",
+        "They are perhaps a bit too bright for her",
+        "They are her favourite colours for clothes"
+      ],
+      "answer": 2,
+      "why": "Georgina says, 'perhaps a little too bright for me!'"
+    }
+  ]
+}

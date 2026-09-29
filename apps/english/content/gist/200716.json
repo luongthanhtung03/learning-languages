@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How famous sports stars escaped from poverty",
+        "The best sports for keeping fit and healthy at home",
+        "How sport helps young people from tough backgrounds",
+        "Why surfing has become so popular in South Africa"
+      ],
+      "answer": 2,
+      "why": "Neil says they'll discuss how sport can change the lives of young people from the poorest backgrounds."
+    },
+    {
+      "q": "Why did Tim Conibear start giving free surfing lessons?",
+      "options": [
+        "He noticed township kids hardly ever went to the beach",
+        "He wanted to find and train future surfing champions",
+        "The South African government asked him to do it",
+        "He needed to earn some extra money as a surf coach"
+      ],
+      "answer": 0,
+      "why": "Sam says he noticed kids from poor townships hardly ever went to the beach."
+    },
+    {
+      "q": "According to Tim Conibear, why is surfing good for children who have experienced trauma?",
+      "options": [
+        "It is easy, so everyone can succeed very quickly",
+        "It gives them a good reason to stay away from school",
+        "It helps them earn money from competitions",
+        "Doing something difficult builds their confidence"
+      ],
+      "answer": 3,
+      "why": "He says learning a challenging skill and being recognised by a coach is very good for confidence."
+    },
+    {
+      "q": "What result has been reported among Cape Town's young surfers?",
+      "options": [
+        "Better exam results",
+        "Much less violent behaviour",
+        "More children becoming professional surfers",
+        "Fewer children going to the beach"
+      ],
+      "answer": 1,
+      "why": "Sam says there has been a significant reduction in violent behaviour."
+    },
+    {
+      "q": "How did Skateistan begin?",
+      "options": [
+        "A school in Kabul asked him to give skate lessons",
+        "Afghan children built their own skateboards from wood",
+        "Children were fascinated by Oliver's skateboard",
+        "A charity sent hundreds of skateboards to Afghanistan"
+      ],
+      "answer": 2,
+      "why": "Sam says Oliver was travelling with his skateboard and the children were fascinated, so he taught them."
+    },
+    {
+      "q": "Which children does Skateistan focus on especially?",
+      "options": [
+        "Girls",
+        "Boys over seventeen",
+        "Children from rich families",
+        "Children who already skate"
+      ],
+      "answer": 0,
+      "why": "Neil says the focus is on children with disabilities, from low-income backgrounds and especially girls."
+    },
+    {
+      "q": "According to Jessica Faulkner, why does skateboarding teach life skills?",
+      "options": [
+        "Children learn it in a classroom with a teacher",
+        "It is a team sport, so children must work together",
+        "Coaches give special lessons on life skills after class",
+        "You fall a lot, which builds determination"
+      ],
+      "answer": 3,
+      "why": "She says you have to fall off a lot before you get better, which helps with resilience and determination."
+    },
+    {
+      "q": "What does Jessica Faulkner say is also really important?",
+      "options": [
+        "Winning competitions",
+        "Children having fun",
+        "Learning quickly",
+        "Parents joining in"
+      ],
+      "answer": 1,
+      "why": "She says, “really importantly, we do believe that children should have fun.”"
+    }
+  ]
+}

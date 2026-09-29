@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook healthy vegan meals for the whole family",
+        "Why so many celebrities change their diets every year",
+        "How farmers raise cows and pigs for meat in the UK",
+        "Going vegan: the reasons for it and the difficulties"
+      ],
+      "answer": 3,
+      "why": "They discuss what veganism is, why people choose it, and why not everyone can or will."
+    },
+    {
+      "q": "According to Oxford University research, what could happen if people stopped eating meat and animal products?",
+      "options": [
+        "Food prices would fall by 70%",
+        "Harmful emissions could fall by 70%",
+        "Farming jobs would increase",
+        "Electricity use would halve"
+      ],
+      "answer": 1,
+      "why": "Neil says harmful emissions could be reduced by 70%, according to Oxford research."
+    },
+    {
+      "q": "How does Tom Kuehnel from the Vegan Society describe veganism?",
+      "options": [
+        "Simply a healthy diet without any meat, fish or eggs",
+        "A way to lose weight quickly and feel more energetic",
+        "Avoiding cruelty to animals in food, clothes and everything",
+        "A religion that started in the UK in the 1940s"
+      ],
+      "answer": 2,
+      "why": "He says it excludes all exploitation and cruelty to animals, 'for food, clothing or any other purpose'."
+    },
+    {
+      "q": "What does Tom Kuehnel say about being vegan today?",
+      "options": [
+        "It has never been easier",
+        "It is very expensive",
+        "It is only possible in big cities",
+        "It is harder than in the past"
+      ],
+      "answer": 0,
+      "why": "He says there are plenty of alternatives and 'it's never been easier to be vegan'."
+    },
+    {
+      "q": "What health benefit did the Oxford scientists claim?",
+      "options": [
+        "About 8 million deaths a year could be avoided",
+        "People would live 8 years longer",
+        "Half of all illnesses would disappear",
+        "Nobody would be overweight"
+      ],
+      "answer": 0,
+      "why": "Catherine says they found 8 million deaths per year could be avoided if the world went vegan."
+    },
+    {
+      "q": "What economic effect do the researchers suggest?",
+      "options": [
+        "Farmers would earn more money from growing vegetables",
+        "Food would become much cheaper in supermarkets everywhere",
+        "Governments would collect more tax from meat companies",
+        "Up to $1,000bn a year saved in health costs and productivity"
+      ],
+      "answer": 3,
+      "why": "They suggest up to $1,000bn a year could be saved from reduced healthcare costs and higher productivity."
+    },
+    {
+      "q": "Why do the presenters mention the Berbers in the Sahara?",
+      "options": [
+        "They are famous for their delicious traditional vegan food",
+        "They have stopped raising animals because of climate change",
+        "They live in dry areas where people depend on farm animals",
+        "They produce the most methane of any people in Africa"
+      ],
+      "answer": 2,
+      "why": "Catherine says people in arid regions, like the Berbers, rely on livestock."
+    },
+    {
+      "q": "Why hasn't Neil become vegan?",
+      "options": [
+        "He thinks it's unhealthy",
+        "He likes cheese too much",
+        "He doesn't care about animals",
+        "He can't find vegan food"
+      ],
+      "answer": 1,
+      "why": "Neil says he admires veganism 'but I still like cheese too much to do it!'"
+    }
+  ]
+}

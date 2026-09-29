@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to start a collection of old coins",
+        "Famous films about treasure hunters",
+        "The illegal trade in ancient objects and how to deal with it",
+        "The history of famous museums in London and Paris and their collections"
+      ],
+      "answer": 2,
+      "why": "They discuss criminal networks that steal and sell ancient artefacts, and what can be done about it."
+    },
+    {
+      "q": "What is the oldest thing Beth has at home?",
+      "options": [
+        "A rocking horse that belonged to her father",
+        "Some books from her childhood",
+        "A Roman coin she bought in a London shop last year",
+        "An old necklace from Turkey"
+      ],
+      "answer": 0,
+      "why": "Beth says she has a rocking horse that was her dad's."
+    },
+    {
+      "q": "What did the BBC reporter Ryan Keane buy?",
+      "options": [
+        "A small Greek statue",
+        "An Egyptian mask",
+        "A piece of Roman jewellery from a market",
+        "A coin about 1,800 years old"
+      ],
+      "answer": 3,
+      "why": "Beth mentions the 1,800-year-old Roman coin Ryan recently bought in London."
+    },
+    {
+      "q": "What did Ryan find out while researching other artefacts?",
+      "options": [
+        "Most of the ancient objects sold online are actually fake copies",
+        "Some objects sold online and in shops had been stolen",
+        "Buying ancient coins is now illegal in the UK",
+        "Museums sell their old objects to the public"
+      ],
+      "answer": 1,
+      "why": "He found reports that some artefacts sold online and in stores had been looted and trafficked."
+    },
+    {
+      "q": "Why does Neil mention colonial times?",
+      "options": [
+        "To show that taking ancient objects is not a new problem",
+        "To explain why museums are so popular today",
+        "To show that social media started the problem",
+        "To praise how carefully ancient objects were protected in the past"
+      ],
+      "answer": 0,
+      "why": "He says stealing ancient objects is nothing new and artefacts were often taken abroad in colonial times."
+    },
+    {
+      "q": "According to researcher Amr Al-Azm, how has social media changed the trade?",
+      "options": [
+        "It helps the police to find stolen objects much more quickly",
+        "It has made buyers more careful",
+        "Sellers can now contact buyers directly and easily",
+        "It has made ancient objects much cheaper"
+      ],
+      "answer": 2,
+      "why": "He says sellers used to need intermediaries to reach buyers, but social media 'opens it up'."
+    },
+    {
+      "q": "What did Victoria Reed help her museum do in 2024?",
+      "options": [
+        "Buy a famous Egyptian statue",
+        "Open a new gallery of Roman coins",
+        "Catch a gang of criminals who were stealing from museums in Boston",
+        "Give back a necklace taken from Turkey"
+      ],
+      "answer": 3,
+      "why": "She helped return an ancient necklace taken illegally from Turkey in the 1970s."
+    },
+    {
+      "q": "What is Victoria Reed's view on returning artefacts?",
+      "options": [
+        "All artefacts should go back to their home countries",
+        "She takes a balanced approach and decides carefully",
+        "Museums should never return any objects",
+        "Only private collectors should return objects"
+      ],
+      "answer": 1,
+      "why": "She takes a 'middle-of-the-road' approach and believes in 'judicious repatriation decisions'."
+    }
+  ]
+}

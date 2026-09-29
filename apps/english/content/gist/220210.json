@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to train a dog to help people in danger",
+        "Whether pets notice and care about our feelings",
+        "Why cats make better pets than dogs",
+        "The history of animal shows on children's TV"
+      ],
+      "answer": 1,
+      "why": "Neil asks whether in real life animals know, or care, about human feelings, and they discuss an experiment."
+    },
+    {
+      "q": "What does Sam remember about the TV show 'Lassie'?",
+      "options": [
+        "Lassie was a cat that lived with a family",
+        "Lassie often got lost and Timmy found her",
+        "Lassie could talk to Timmy like a human",
+        "Lassie sensed danger and rescued Timmy"
+      ],
+      "answer": 3,
+      "why": "Sam says whenever Timmy got into trouble, Lassie sensed danger and came to the rescue."
+    },
+    {
+      "q": "According to Neil, why is it easy to misunderstand our pets?",
+      "options": [
+        "They can't tell us how they feel",
+        "They hide their feelings on purpose",
+        "They only care about getting food",
+        "They behave differently when we're out"
+      ],
+      "answer": 0,
+      "why": "Neil says pets can't talk to say how they're feeling, which makes it easy to misunderstand them."
+    },
+    {
+      "q": "What did Dr Karen Hiestand's experiment involve?",
+      "options": [
+        "Leaving pets alone in the house for a day",
+        "Giving pets different kinds of food",
+        "Filming owners pretending to be hurt",
+        "Asking pets to follow simple commands"
+      ],
+      "answer": 2,
+      "why": "She filmed pet owners pretending to be hurt and observed how their dogs and cats reacted."
+    },
+    {
+      "q": "What did Adrian Washbourne think of his pets' reaction to his fake injury?",
+      "options": [
+        "They were very worried and ran to help him",
+        "They didn't seem very bothered",
+        "They were frightened and ran away",
+        "They were angry and started barking"
+      ],
+      "answer": 1,
+      "why": "He says, 'I don't think they were particularly sensitive or bothered' – the dog yawned, the cat just stared."
+    },
+    {
+      "q": "Why does Dr Hiestand think dogs come closer to investigate?",
+      "options": [
+        "They come from wolves, which live in packs",
+        "They are hoping to be given some food",
+        "They have been trained to help humans",
+        "They are much more intelligent than cats"
+      ],
+      "answer": 0,
+      "why": "Dogs are descended from wolves – very social animals living in packs – so they come closer to investigate."
+    },
+    {
+      "q": "How did cats typically react when their owner seemed upset?",
+      "options": [
+        "They ran to another room to hide",
+        "They came and sat on their owner",
+        "They walked around and made noises",
+        "They stayed still and watched closely"
+      ],
+      "answer": 3,
+      "why": "She says cats stayed much more still, looking at their owner and paying them a lot of attention."
+    },
+    {
+      "q": "What do Dr Hiestand's findings suggest about cats?",
+      "options": [
+        "They don't notice human feelings at all",
+        "They care about people more than dogs do",
+        "They sense distress but show it differently",
+        "They only care about their own feelings"
+      ],
+      "answer": 2,
+      "why": "Neil says her findings show cats also feel human distress – 'they just show it in a different way'."
+    }
+  ]
+}

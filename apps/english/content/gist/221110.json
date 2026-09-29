@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why it rains so much in Britain",
+        "How scientists predict the weather",
+        "Scientific ways to change the weather",
+        "How floods damage farmers' crops"
+      ],
+      "answer": 2,
+      "why": "Sam says they'll hear about cloud-seeding and geo-engineering, methods to change the weather."
+    },
+    {
+      "q": "Why is Sam's news disappointing for Neil?",
+      "options": [
+        "The methods make more rain, not less",
+        "The methods are far too expensive",
+        "The methods only work in hot countries",
+        "The methods don't work at all in Britain"
+      ],
+      "answer": 0,
+      "why": "She says, 'these ideas involve making more, not less, rain'."
+    },
+    {
+      "q": "How does cloud seeding work?",
+      "options": [
+        "Mirrors reflect sunlight away from clouds",
+        "Machines on the ground blow clouds away",
+        "Water is pumped up into the sky from lakes",
+        "Planes spray chemicals to make snowflakes"
+      ],
+      "answer": 3,
+      "why": "Airplanes spray chemicals to make water particles freeze and stick together as snowflakes."
+    },
+    {
+      "q": "How does Professor Katja Friedrich answer people who say cloud seeding puts unnatural substances in the air?",
+      "options": [
+        "She agrees and has stopped her research",
+        "Cars and planes also put things in the air",
+        "She says the substances are completely natural",
+        "She says only a few countries use it now"
+      ],
+      "answer": 1,
+      "why": "She says every time you drive or fly you put substances in the air, so 'you're also playing God'."
+    },
+    {
+      "q": "What is special about solar geo-engineering compared with cloud seeding?",
+      "options": [
+        "It is already used in over fifty countries",
+        "It makes more snow fall in the mountains",
+        "It has never been tested; it's a theory",
+        "It started in the 1940s in America"
+      ],
+      "answer": 2,
+      "why": "Neil says it has never been tested and is still just a theory."
+    },
+    {
+      "q": "Why are people scared of solar geo-engineering, according to Professor David Keith?",
+      "options": [
+        "It gives countries an excuse not to cut emissions",
+        "It could make the Earth far too cold to live on",
+        "It could stop airplanes from flying safely",
+        "It is too expensive for poor countries to use"
+      ],
+      "answer": 0,
+      "why": "He says it could provide an excuse to avoid doing the work needed to cut emissions."
+    },
+    {
+      "q": "How has the controversy about geo-engineering changed over time?",
+      "options": [
+        "It has always been a taboo subject for scientists",
+        "It was normal to discuss, then became taboo",
+        "It was taboo in the 1960s but is accepted now",
+        "Nobody discussed it at all until very recently"
+      ],
+      "answer": 1,
+      "why": "He says in early work these ideas were just part of the discussion, but by the 90s and 2000s there was a taboo."
+    },
+    {
+      "q": "What does Neil joke would be good for Britain?",
+      "options": [
+        "Moving everyone to India",
+        "More cloud seeding over London",
+        "A giant mirror in space to cool it",
+        "A giant floating umbrella above it"
+      ],
+      "answer": 3,
+      "why": "He says a giant floating umbrella above Britain would be good."
+    }
+  ]
+}

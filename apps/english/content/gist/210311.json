@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why Danish food is so popular",
+        "How the UN measures income and health",
+        "Small things we can do to feel happier",
+        "Why the pandemic has made everyone unhappy"
+      ],
+      "answer": 2,
+      "why": "Neil says there are small things we can do to feel better about life, and happiness is the subject."
+    },
+    {
+      "q": "What does Neil mean when he says Georgina sees 'the glass half full'?",
+      "options": [
+        "She generally looks at things in a positive way",
+        "She is thirsty and always wants more to drink",
+        "She never quite finishes her work on time",
+        "She worries a lot about small, unimportant things"
+      ],
+      "answer": 0,
+      "why": "He explains it means she generally looks at things in a positive way."
+    },
+    {
+      "q": "Why does Georgina say it's important to discuss happiness now?",
+      "options": [
+        "Because Denmark has a new book about it",
+        "Because the UN asked people to",
+        "Because people are richer than before",
+        "Because it matters more in a pandemic"
+      ],
+      "answer": 3,
+      "why": "She says it may seem strange during a pandemic, but right now feeling happy is more important than ever."
+    },
+    {
+      "q": "What does Malene Rydahl say we should focus on for happiness?",
+      "options": [
+        "Earning more money",
+        "The quality of our relationships",
+        "Travelling to new countries",
+        "Comparing ourselves with others"
+      ],
+      "answer": 1,
+      "why": "She says 'what we need to focus on is the quality of our relationships'."
+    },
+    {
+      "q": "What daily habit does Malene Rydahl recommend?",
+      "options": [
+        "Sleeping for at least eight hours every night",
+        "Drinking hot coffee",
+        "Finding three things to be grateful for",
+        "Writing down your goals"
+      ],
+      "answer": 2,
+      "why": "Georgina says she recommends finding three things to be grateful for every day."
+    },
+    {
+      "q": "According to Malene Rydahl, what happens if you confuse happiness with pleasure?",
+      "options": [
+        "You become more beautiful and confident",
+        "You keep chasing more but are never satisfied",
+        "You become very successful in your career",
+        "You stop caring about other people around you"
+      ],
+      "answer": 1,
+      "why": "She says you'll be like a hamster in a wheel because it's never enough."
+    },
+    {
+      "q": "What is the 'hedonic treadmill', as Georgina explains it?",
+      "options": [
+        "We adapt, so getting more never satisfies us",
+        "A machine that helps people exercise",
+        "A way of saving money for the future",
+        "The feeling of joy after a big success"
+      ],
+      "answer": 0,
+      "why": "She says as we get what we desire our expectations also increase, so we never find the happiness we hoped for."
+    },
+    {
+      "q": "Why does Neil mention his grandma?",
+      "options": [
+        "She lived in Denmark, the happiest country",
+        "She was always happy, even when she was poor",
+        "She taught him to be grateful for small things",
+        "She used to say that money can't buy happiness"
+      ],
+      "answer": 3,
+      "why": "Neil says 'Money can't buy happiness', as my grandma used to say."
+    }
+  ]
+}

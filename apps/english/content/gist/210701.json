@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why rhinos have thick skin",
+        "A breeding programme to save the northern white rhino",
+        "How rhinos are protected from hunters in Kenya",
+        "The differences between northern and southern rhinos"
+      ],
+      "answer": 1,
+      "why": "They discuss an artificial breeding programme to save the northern white rhino from extinction."
+    },
+    {
+      "q": "What happened in 2014?",
+      "options": [
+        "The first rhino embryo was born",
+        "Najin and Fatu were moved to Berlin",
+        "The breeding programme ended",
+        "Suni, the second-to-last male, died"
+      ],
+      "answer": 3,
+      "why": "Neil says the species was close to extinction when Suni, the second-to-last male, died in 2014."
+    },
+    {
+      "q": "What is happening to the five embryos now?",
+      "options": [
+        "They are frozen until they can be put into southern rhinos",
+        "They have already been born and are living in Kenya",
+        "They are being grown into calves in a laboratory in Germany",
+        "They were implanted in Najin and Fatu last month"
+      ],
+      "answer": 0,
+      "why": "Sam says they're being frozen until they can be implanted in southern rhinos."
+    },
+    {
+      "q": "According to Thomas Hildebrandt, what is special about the embryos?",
+      "options": [
+        "They are hybrids of northern and southern white rhinos",
+        "They come from parents that are closely related",
+        "They are pure northern white rhino with no inbreeding",
+        "They are all male, so they cannot have babies"
+      ],
+      "answer": 2,
+      "why": "He says they're not hybrids but pure northern white rhino embryos with no inbreeding effect."
+    },
+    {
+      "q": "Why does Thomas Hildebrandt say they 'desperately' need a calf soon?",
+      "options": [
+        "Because the frozen embryos will soon stop working",
+        "So the old rhinos can teach it rhino behaviour",
+        "Because southern rhinos are also dying out",
+        "Because the programme will lose its money"
+      ],
+      "answer": 1,
+      "why": "He says they can't preserve social knowledge, so the two rhinos must teach a new calf how to behave."
+    },
+    {
+      "q": "How does this story connect to the 'nature versus nurture' debate?",
+      "options": [
+        "Scientists want to change the rhinos' nature with new genes",
+        "The young rhinos won't need any nurture from other animals",
+        "Scientists can save the genes, but not the social learning",
+        "Nurture is only important for humans, not for animals"
+      ],
+      "answer": 2,
+      "why": "Neil says they can preserve 'nature' but can't provide 'nurture' – the social knowledge."
+    },
+    {
+      "q": "How long is a full rhino pregnancy?",
+      "options": [
+        "16 months",
+        "6 months",
+        "9 months",
+        "2 years"
+      ],
+      "answer": 0,
+      "why": "Hildebrandt says a full pregnancy in a rhinoceros takes 16 months."
+    },
+    {
+      "q": "What will the team look for before taking the next step?",
+      "options": [
+        "The birth of a healthy southern rhino calf in the park",
+        "Official permission from the Kenyan government to continue",
+        "A new male northern white rhino found in the wild",
+        "The embryo implanting and forming a placenta"
+      ],
+      "answer": 3,
+      "why": "He says if the embryo implants and forms a nice placenta, they'll proceed with the next step."
+    }
+  ]
+}

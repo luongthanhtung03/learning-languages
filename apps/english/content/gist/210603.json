@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How the ancient Egyptians built the pyramids",
+        "The Rosetta Stone and hieroglyphs",
+        "Napoleon's army in Egypt",
+        "Why the British Museum is so popular"
+      ],
+      "answer": 1,
+      "why": "They discuss the Rosetta Stone and how it unlocked the Egyptian writing system."
+    },
+    {
+      "q": "Who found the Rosetta Stone in 1799?",
+      "options": [
+        "British Egyptologists",
+        "A Coptic priest",
+        "Jean-François Champollion",
+        "Napoleon's soldiers"
+      ],
+      "answer": 3,
+      "why": "Sam says Napoleon's soldiers unearthed the rock in the town of Rosetta in 1799."
+    },
+    {
+      "q": "What does the writing on the Rosetta Stone actually describe?",
+      "options": [
+        "Great wisdom from the famous Egyptian philosophers",
+        "How the ancient Egyptians built the great pyramids",
+        "An agreement that priests didn't have to pay taxes",
+        "The story of a famous war between Egypt and Greece"
+      ],
+      "answer": 2,
+      "why": "Rob says it describes an agreement exempting priests from paying taxes to the King."
+    },
+    {
+      "q": "According to Richard Parkinson, what did people expect to find in Egyptian writing?",
+      "options": [
+        "Great, mysterious wisdom",
+        "Lists of taxes",
+        "Chinese words",
+        "Stories about pharaohs' wars"
+      ],
+      "answer": 0,
+      "why": "He says people expected the script to contain 'great, mysterious pearls of wisdom'."
+    },
+    {
+      "q": "Why was the Rosetta Stone the key to understanding hieroglyphs?",
+      "options": [
+        "It had a small picture next to each word",
+        "It had the same text in Greek",
+        "It was the biggest stone ever found",
+        "It explained the rules of the language"
+      ],
+      "answer": 1,
+      "why": "Rob says the messages were written in three scripts, including Greek, which scholars already knew."
+    },
+    {
+      "q": "According to Penelope Wilson, what helped Champollion succeed?",
+      "options": [
+        "Money from the French government",
+        "Help from British scholars in Egypt",
+        "Talent, love of Egypt and family support",
+        "Years of living in Egypt"
+      ],
+      "answer": 2,
+      "why": "She calls him a prodigy with a fascination for Egypt, encouraged by his older brother."
+    },
+    {
+      "q": "What did Champollion argue in an early lecture?",
+      "options": [
+        "That Coptic was related to ancient Egyptian",
+        "That hieroglyphs were like Chinese",
+        "That the Stone was a fake",
+        "That Greek came from Egyptian"
+      ],
+      "answer": 0,
+      "why": "Wilson says he was one of the first to argue that Coptic was related to ancient Egyptian."
+    },
+    {
+      "q": "What does the story about Champollion running through Paris suggest?",
+      "options": [
+        "He was afraid that the British would stop him",
+        "He hadn't really finished the work at all",
+        "He wanted to become famous across Europe",
+        "He had worked extremely hard and was overwhelmed"
+      ],
+      "answer": 3,
+      "why": "He worked so hard that when he finished he shouted 'I've done it!' and collapsed unconscious."
+    }
+  ]
+}

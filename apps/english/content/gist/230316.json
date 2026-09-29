@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How top chefs create new recipes for restaurants",
+        "Why sugar is so bad for our teeth",
+        "The link between what we eat and how we feel",
+        "How to lose weight quickly before summer"
+      ],
+      "answer": 2,
+      "why": "Sam says they'll be investigating the connection between our food and our mood."
+    },
+    {
+      "q": "What does Rob say about most comfort food?",
+      "options": [
+        "It's full of carbs and sugar, so we soon feel worse",
+        "It is healthy as long as you eat it slowly",
+        "It makes us feel better for many hours afterwards",
+        "It is mostly eaten by children and teenagers"
+      ],
+      "answer": 0,
+      "why": "He says it's high in carbohydrates and sugar and after a few minutes leaves us feeling worse."
+    },
+    {
+      "q": "What happens to chef Danny Edwards' appetite when he works in a busy kitchen?",
+      "options": [
+        "It gets much bigger",
+        "It stays the same",
+        "He only wants sweet food",
+        "It often goes down"
+      ],
+      "answer": 3,
+      "why": "He says your appetite can become suppressed and you sometimes don't want to eat."
+    },
+    {
+      "q": "Why do many chefs have quite a bad diet, according to Danny?",
+      "options": [
+        "They don't really like eating their own cooking",
+        "They grab something quick on the go",
+        "They only eat once a day, late at night",
+        "Restaurant food is too expensive for them"
+      ],
+      "answer": 1,
+      "why": "He says it's often grabbing something on the go, something quick."
+    },
+    {
+      "q": "What did Professor Felice Jacka find in her study?",
+      "options": [
+        "Those who got better had also eaten better",
+        "Medicine worked much better than a healthy diet",
+        "Diet had no real effect on depression at all",
+        "Only olive oil and fish helped the patients"
+      ],
+      "answer": 0,
+      "why": "She found the patients whose mental health improved were those who had improved their diet."
+    },
+    {
+      "q": "How did other doctors react to Professor Jacka's idea at first?",
+      "options": [
+        "They were very excited and wanted to help",
+        "They offered to help her with the study",
+        "They were sceptical and sometimes patronising",
+        "They ignored it completely for many years"
+      ],
+      "answer": 2,
+      "why": "She says they were 'hugely sceptical and sometimes very patronising'."
+    },
+    {
+      "q": "Why does Professor Jacka think doctors reacted like that?",
+      "options": [
+        "Because her study was badly designed and small",
+        "Because she was too young and had no experience",
+        "Because food companies were paying them",
+        "Because they get almost no nutrition training"
+      ],
+      "answer": 3,
+      "why": "She says doctors and psychiatrists get almost no nutrition training during their studies."
+    },
+    {
+      "q": "What does Rob suggest doing when you feel down?",
+      "options": [
+        "Eat a donut to give yourself energy",
+        "Eat an apple instead of a donut",
+        "Skip your next meal and drink water",
+        "Visit a restaurant with some friends"
+      ],
+      "answer": 1,
+      "why": "He says when your brain wants a donut, you might be better eating an apple."
+    }
+  ]
+}

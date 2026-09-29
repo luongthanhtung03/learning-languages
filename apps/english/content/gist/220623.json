@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How Hiroshima was rebuilt after the Second World War",
+        "The science and politics behind the atomic bomb",
+        "Why chemistry teachers use the periodic table",
+        "How Japan and the US became friends after the war"
+      ],
+      "answer": 1,
+      "why": "Rob says they'll look into the science and the politics of The Manhattan Project."
+    },
+    {
+      "q": "What happened after the bomb was dropped on Hiroshima?",
+      "options": [
+        "Japan didn't give up, so Nagasaki was bombed",
+        "Japan surrendered on that very same day",
+        "The US decided not to use any more bombs",
+        "Germany dropped a bomb on the US in return"
+      ],
+      "answer": 0,
+      "why": "Sam says when Japan refused to surrender, a second bomb was dropped on Nagasaki three days later."
+    },
+    {
+      "q": "Before the war, what was the big challenge for scientists studying uranium?",
+      "options": [
+        "Finding enough uranium in the ground to study",
+        "Making uranium heavier than other metals",
+        "Proving that uranium had any energy inside it",
+        "Releasing its energy in a controlled way"
+      ],
+      "answer": 3,
+      "why": "Sam says the challenge was learning how to unleash its potential energy in a controlled way."
+    },
+    {
+      "q": "What did scientists discover in 1938, according to Professor Frank Close?",
+      "options": [
+        "Uranium atoms are very hard to damage",
+        "Uranium turns into water when it is heated",
+        "An atom splits in two when hit by a neutron",
+        "Neutrons are heavier than uranium atoms"
+      ],
+      "answer": 2,
+      "why": "He says if you almost touched uranium with a single neutron, it would break apart, split in two."
+    },
+    {
+      "q": "How much energy does splitting uranium release?",
+      "options": [
+        "A billion times more than a chemical reaction",
+        "About the same as a normal chemical reaction",
+        "Twice as much as burning the same amount of coal",
+        "Less than scientists had first expected"
+      ],
+      "answer": 0,
+      "why": "Sam says fission released a billion times more energy than a normal chemical reaction."
+    },
+    {
+      "q": "Why does splitting uranium create a chain reaction?",
+      "options": [
+        "Because the uranium gets hotter and hotter",
+        "Because more uranium is added each time",
+        "Because the energy makes the atoms move faster",
+        "Each split frees neutrons that hit more atoms"
+      ],
+      "answer": 3,
+      "why": "Rob says splitting atoms releases two more neutrons, which hit more uranium, making four, then eight, and so on."
+    },
+    {
+      "q": "What did Peierls and Frisch fear, according to Frank Close?",
+      "options": [
+        "Britain would lose its scientists to the US",
+        "Germany might already be building one",
+        "The bomb would be too dangerous to test",
+        "Nobody would believe their discovery"
+      ],
+      "answer": 1,
+      "why": "Their memorandum said it was conceivable Germany was developing the weapon, and the only defence was to have one."
+    },
+    {
+      "q": "What 'strange twist of history' does Sam mention?",
+      "options": [
+        "Hitler had built many bombs but never used them",
+        "Roosevelt never read the scientists' report",
+        "Hitler hadn't been building atomic bombs at all",
+        "Peierls and Frisch later worked for Germany"
+      ],
+      "answer": 2,
+      "why": "Sam says, 'it turned out that Hitler hadn't been building atomic bombs at all'."
+    }
+  ]
+}

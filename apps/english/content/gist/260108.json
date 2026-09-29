@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How social media is changing in the age of AI",
+        "How to become famous on social media",
+        "The history of Morse code",
+        "Why young people prefer Facebook"
+      ],
+      "answer": 0,
+      "why": "Pippa says they'll discuss how social media is changing in the age of AI."
+    },
+    {
+      "q": "According to Pippa, what did people use early social media for?",
+      "options": [
+        "Mainly for serious political debate",
+        "Finding jobs and new business contacts",
+        "Posting messages and photos for friends",
+        "Watching films and TV series online"
+      ],
+      "answer": 2,
+      "why": "She says they were places to post messages to friends or share photos of your breakfast."
+    },
+    {
+      "q": "Why do Tristan and Asma think the picture of a man and his dog was made by AI?",
+      "options": [
+        "It had a small label saying it was made by AI",
+        "The man looked half like Jesus, half like his dog",
+        "The photo was in black and white",
+        "The dog in the picture was talking"
+      ],
+      "answer": 1,
+      "why": "They say he looks like Jesus and like his dog, so he 'has to be AI-ed'."
+    },
+    {
+      "q": "What did a recent report find about social media activity?",
+      "options": [
+        "It has doubled since 2022 across all apps",
+        "It is higher than ever before among teens",
+        "It stopped almost completely in 2016",
+        "It peaked in 2022 and has fallen since"
+      ],
+      "answer": 3,
+      "why": "Neil says a report found social media activity peaked in 2022 and has been going down ever since."
+    },
+    {
+      "q": "When did Kyle Chayka feel that social media changed?",
+      "options": [
+        "In 2015–2016, during the US election debate",
+        "When Facebook was first created at university",
+        "When the website MySpace finally closed",
+        "Only last year, with the rise of AI content"
+      ],
+      "answer": 0,
+      "why": "He says in 2015/2016 Twitter became the hub of election discourse in the US."
+    },
+    {
+      "q": "What does Kyle suggest about how the internet felt before that time?",
+      "options": [
+        "It was boring and slow to use at home",
+        "It was far too dangerous for young people",
+        "It seemed a fun place to make friends",
+        "It was only used for work and study"
+      ],
+      "answer": 2,
+      "why": "He says it shattered the illusion that the internet was a place to have fun and find cool friends."
+    },
+    {
+      "q": "What does Kyle think about AI-generated content on social media?",
+      "options": [
+        "It's exactly what users really want to see",
+        "It's new now, but people will lose interest",
+        "It will soon be banned by most governments",
+        "It will replace all human creators soon"
+      ],
+      "answer": 1,
+      "why": "He says users don't really want it: 'it's a novelty for now and people will drift away'."
+    },
+    {
+      "q": "What does Kyle predict people will do in future?",
+      "options": [
+        "Post more than ever before",
+        "Stop using the internet completely",
+        "Use only the biggest platforms",
+        "Move to smaller online spaces and post less"
+      ],
+      "answer": 3,
+      "why": "He sees people gravitating towards smaller spaces, individual voices, and 'posting less in general'."
+    }
+  ]
+}

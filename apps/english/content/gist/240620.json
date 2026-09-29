@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why doctors now prescribe time in forests",
+        "How wood is being used in new ways to build a greener future",
+        "The history of shipbuilding in Britain",
+        "Why forests in Britain are disappearing faster than ever"
+      ],
+      "answer": 1,
+      "why": "Neil says they'll hear how wood is being used in new ways to build a greener future."
+    },
+    {
+      "q": "What does forest bathing involve?",
+      "options": [
+        "Being calm among trees and using all your senses",
+        "Swimming in lakes inside forests",
+        "Cutting down old trees so that new ones can be planted",
+        "Taking a bath with plant oils"
+      ],
+      "answer": 0,
+      "why": "Beth says it means being calm and quiet amongst trees, observing nature with all your senses."
+    },
+    {
+      "q": "How much of Britain was forest in Roman times?",
+      "options": [
+        "Almost all of it",
+        "About 10%",
+        "As much as 40%",
+        "About 85%"
+      ],
+      "answer": 2,
+      "why": "Beth says as much as 40% of the land was forest."
+    },
+    {
+      "q": "What has mostly replaced timber in modern buildings?",
+      "options": [
+        "Bamboo, hemp and other plants",
+        "Plastic and glass",
+        "Stone and clay",
+        "Brick, concrete and steel"
+      ],
+      "answer": 3,
+      "why": "Beth says in modern times man-made materials like brick, concrete and steel are mostly used."
+    },
+    {
+      "q": "What evidence does architect Michael Ramage give about wooden buildings?",
+      "options": [
+        "Children in wooden schools focus better and feel calmer",
+        "Wooden hospitals are cheaper to build",
+        "Wooden houses last much longer than houses made of brick",
+        "People in wooden offices work longer hours"
+      ],
+      "answer": 0,
+      "why": "He says children in wooden schools have greater concentration and lower stress."
+    },
+    {
+      "q": "What other reason for building with wood does Beth give?",
+      "options": [
+        "It is easier to transport",
+        "It is much cheaper than steel and quicker to build with",
+        "It looks more traditional",
+        "It stores carbon, which helps fight climate change"
+      ],
+      "answer": 3,
+      "why": "She says the carbon which wood captures helps combat climate change."
+    },
+    {
+      "q": "What does Michael Ramage suggest about materials like bamboo and hemp?",
+      "options": [
+        "They are only really good for making things like rope and cloth",
+        "They are too weak for large buildings",
+        "They could replace steel and concrete if used well",
+        "They should only be used for houses"
+      ],
+      "answer": 2,
+      "why": "He talks about using them intelligently as replacements for steel and concrete."
+    },
+    {
+      "q": "Where is the world's tallest wooden skyscraper?",
+      "options": [
+        "In a city in Norway",
+        "In Milwaukee, USA",
+        "In Japan",
+        "In London"
+      ],
+      "answer": 1,
+      "why": "Neil says the tallest, at 87 metres, is in Milwaukee, USA."
+    }
+  ]
+}

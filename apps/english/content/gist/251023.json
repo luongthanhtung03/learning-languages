@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How the dinosaurs disappeared from Earth",
+        "That an advanced civilisation came before us",
+        "How scientists look for life on other planets",
+        "How fossils are made over millions of years"
+      ],
+      "answer": 1,
+      "why": "They discuss the Silurian hypothesis: an advanced civilisation before us that left no trace."
+    },
+    {
+      "q": "What do Phil and Beth think about life on other planets?",
+      "options": [
+        "Phil believes in it, but Beth doesn't",
+        "Neither of them believes in it",
+        "They think scientists have already found it",
+        "They both think it probably exists"
+      ],
+      "answer": 3,
+      "why": "Phil says there are so many planets there must be life, and Beth agrees."
+    },
+    {
+      "q": "Why was Adam Frank so shocked during his conversation with Gavin Schmidt?",
+      "options": [
+        "Gavin asked how he knew there was no earlier one",
+        "Gavin said he had found an alien civilisation",
+        "Gavin showed him a very strange fossil from Asia",
+        "Gavin told him the Earth was younger than he thought"
+      ],
+      "answer": 0,
+      "why": "When Adam said there'd been no other civilisation, Gavin asked 'How do you know that?'"
+    },
+    {
+      "q": "What does the Silurian hypothesis suggest?",
+      "options": [
+        "Humans originally came from another planet",
+        "Dinosaurs built cities and roads long ago",
+        "Traces of a very old civilisation couldn't be found",
+        "The Earth will be destroyed quite soon"
+      ],
+      "answer": 2,
+      "why": "It says if such a civilisation existed hundreds of millions of years ago, we couldn't find traces."
+    },
+    {
+      "q": "Why does Adam say fossils won't help prove the hypothesis?",
+      "options": [
+        "Fossils are too hard and expensive to dig up",
+        "Little life fossilises, and it wasn't there long",
+        "Almost all old fossils have been destroyed",
+        "Most scientists don't trust fossils anymore"
+      ],
+      "answer": 1,
+      "why": "He says only a tiny fraction of life is fossilised, and 10,000 years is too short to create many."
+    },
+    {
+      "q": "Why do the presenters mention plastics and concrete?",
+      "options": [
+        "To show how the Earth's crust is formed",
+        "To warn listeners about plastic pollution",
+        "To show an old civilisation would leave marks",
+        "To explain how fossils are made in rock"
+      ],
+      "answer": 2,
+      "why": "Our plastics and concrete will last very long, so critics say an earlier civilisation would leave similar marks."
+    },
+    {
+      "q": "How does Adam respond to people who disagree with him?",
+      "options": [
+        "He ignores them and carries on with his work",
+        "He says they don't understand science at all",
+        "He changes his mind immediately",
+        "He welcomes their work; it leads to agreement"
+      ],
+      "answer": 3,
+      "why": "He says others affirm or push back, and after 20–40 papers 'you have a consensus'."
+    },
+    {
+      "q": "What is Phil's personal view of the idea?",
+      "options": [
+        "It's so mysterious it's OK to keep an open mind",
+        "It's definitely true, and he's sure of it",
+        "It's a complete waste of scientists' time",
+        "It has already been proven wrong by experts"
+      ],
+      "answer": 0,
+      "why": "Phil says the idea is so mysterious, 'it's OK to keep an open mind'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to give blood safely at a hospital or clinic",
+        "Why Japanese popstars share their personal details",
+        "Blood types: beliefs about personality and real uses",
+        "How the immune system fights viruses like the flu"
+      ],
+      "answer": 2,
+      "why": "They find out why humans have different blood types and whether blood is more than a way to carry oxygen."
+    },
+    {
+      "q": "What does Neil admit about his blood type?",
+      "options": [
+        "He doesn't know it",
+        "He is type O like Sam",
+        "He has a very rare type",
+        "He is type A"
+      ],
+      "answer": 0,
+      "why": "Neil says, “actually I don't know.”"
+    },
+    {
+      "q": "According to Sam, how are blood groups used in parts of Asia?",
+      "options": [
+        "To decide who can get a job in a big company",
+        "Only for keeping medical records up to date",
+        "To choose which school children should attend",
+        "To choose partners and describe personality"
+      ],
+      "answer": 3,
+      "why": "Sam says people select partners based on blood type and link blood groups to personalities."
+    },
+    {
+      "q": "How does Chie Kobayashi describe typical type A people?",
+      "options": [
+        "Creative, independent and happy to work alone",
+        "Perfectionists, good at teamwork, who follow rules",
+        "Curious, stubborn and generous with their money",
+        "Selfish, lazy and quite hard to work with"
+      ],
+      "answer": 1,
+      "why": "She says type As are perfectionists, detail-oriented, good at teamwork and respecting rules."
+    },
+    {
+      "q": "Roughly what percentage of Japan's population is type A, according to Marnie Chesterton?",
+      "options": [
+        "10 percent",
+        "20 percent",
+        "40 percent",
+        "30 percent"
+      ],
+      "answer": 2,
+      "why": "She says 40 percent of Japan's population are sensitive, anxious type As."
+    },
+    {
+      "q": "What is Dr Emma Pomeroy's view of blood types and personality?",
+      "options": [
+        "There is no scientific link, as with horoscopes",
+        "The link is strong, but only for people in Japan",
+        "Scientists have now proved the link in many studies",
+        "The link is true for people with type B blood only"
+      ],
+      "answer": 0,
+      "why": "She thinks that, like horoscopes, there's no scientific basis for a connection."
+    },
+    {
+      "q": "What do blood types actually do in the body?",
+      "options": [
+        "Decide how much oxygen the blood can carry",
+        "Control a person's mood and level of energy",
+        "Make the blood thicker or thinner in the veins",
+        "Act as markers that help the body spot pathogens"
+      ],
+      "answer": 3,
+      "why": "Sam says they are chemical markers which support the immune system and identify pathogens."
+    },
+    {
+      "q": "Why is type O blood in high demand?",
+      "options": [
+        "It is the rarest type",
+        "It can be given to anyone",
+        "It protects against all diseases",
+        "Most people in Japan are type O"
+      ],
+      "answer": 1,
+      "why": "Neil mentions the high demand for type O blood, which can be given to anyone."
+    }
+  ]
+}

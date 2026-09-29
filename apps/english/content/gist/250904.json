@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to write a good shopping list",
+        "Famous songs about shopping",
+        "Why lists are so common and why people like them",
+        "How supermarkets organise their products"
+      ],
+      "answer": 2,
+      "why": "They explore our love of lists and find out why people use them so much."
+    },
+    {
+      "q": "What often happens to linguistics researcher Jo Nolan in the supermarket?",
+      "options": [
+        "She finds shopping lists that other people have left",
+        "She forgets to bring her shopping list",
+        "She often meets people who have read her new book about lists",
+        "She buys the wrong things by mistake"
+      ],
+      "answer": 0,
+      "why": "Beth describes finding someone's shopping list and says this happens a lot to Jo."
+    },
+    {
+      "q": "What was Jo really reminding herself to buy with the word 'puke'?",
+      "options": [
+        "Bananas",
+        "Mushrooms",
+        "Medicine for sickness",
+        "Cucumbers"
+      ],
+      "answer": 3,
+      "why": "Jo explains that her husband has always called cucumber 'puke'."
+    },
+    {
+      "q": "Why does Jo's husband use the word 'puke' for this item?",
+      "options": [
+        "It is the word that people use for it in his home town in Scotland",
+        "He dislikes it, and the word sounds like its short form",
+        "It was a joke from a famous song",
+        "He can't spell the real word"
+      ],
+      "answer": 1,
+      "why": "He doesn't like cucumber, and 'puke' rhymes with the abbreviation 'cuc'."
+    },
+    {
+      "q": "What does Phil say about lists after hearing Jo's example?",
+      "options": [
+        "They are usually boring to read",
+        "They can sometimes be like secret codes",
+        "They are only useful for shopping",
+        "They should always use full words so that nobody gets confused"
+      ],
+      "answer": 1,
+      "why": "Phil says, 'Sometimes lists are like secret codes.'"
+    },
+    {
+      "q": "What does Jo say about the list in the song My Favourite Things?",
+      "options": [
+        "It is too long for people to remember",
+        "It was written to sell more records",
+        "It uses long, beautiful words to describe each favourite thing",
+        "It gives a lot in a few words and gets to the point"
+      ],
+      "answer": 3,
+      "why": "She says you get 'a big bang for your buck' and 'get to the nub of things quite quickly'."
+    },
+    {
+      "q": "How does Jo's friend use pros and cons lists?",
+      "options": [
+        "To help her decide what to do",
+        "To plan her weekly shopping",
+        "To remember her friends' birthdays",
+        "To prepare for job interviews"
+      ],
+      "answer": 0,
+      "why": "Jo says the list helps her friend resolve a situation, and by the end 'she knows what she's doing'."
+    },
+    {
+      "q": "Why does Beth mention therapists near the end?",
+      "options": [
+        "To warn that making too many lists causes stress",
+        "To explain that therapists write lists about patients",
+        "To show that lists can even help people feel happier",
+        "To say that therapists dislike to-do lists"
+      ],
+      "answer": 2,
+      "why": "She says therapists recommend listing the good things in your life to feel happier."
+    }
+  ]
+}

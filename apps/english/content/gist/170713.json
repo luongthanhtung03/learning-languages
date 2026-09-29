@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How lost cats and dogs find their way home",
+        "Why cats make better pets than dogs",
+        "How birds fly long distances",
+        "The world's biggest pets"
+      ],
+      "answer": 0,
+      "why": "Dan says the topic is how cats and dogs find their way home over long distances."
+    },
+    {
+      "q": "Why does Neil say he is a 'cat person'?",
+      "options": [
+        "Cats are cleaner than dogs",
+        "He grew up with cats",
+        "Cats are better at finding their way home",
+        "He thinks dogs are hard work"
+      ],
+      "answer": 3,
+      "why": "Neil says he's a cat person because dogs are 'hard work'."
+    },
+    {
+      "q": "What did a cat called Holly do?",
+      "options": [
+        "Became the world's longest cat",
+        "Helped scientists study magnets",
+        "Travelled about 200 miles to get home",
+        "Found a lost dog"
+      ],
+      "answer": 2,
+      "why": "Neil says a lost cat called Holly travelled 200 miles to get home."
+    },
+    {
+      "q": "Which of these is NOT one of the ideas mentioned for how pets navigate?",
+      "options": [
+        "A strong sense of smell",
+        "Following the position of the sun",
+        "Recognising landmarks",
+        "The Earth's magnetic force"
+      ],
+      "answer": 1,
+      "why": "They mention smell, visual landmarks and magnetic forces, but not the sun."
+    },
+    {
+      "q": "What is said about how birds navigate?",
+      "options": [
+        "They follow smells carried on the wind from home",
+        "They use Earth's magnetism, maybe with iron in their beaks",
+        "They remember landmarks like mountains and rivers",
+        "They follow older birds that have made the trip before"
+      ],
+      "answer": 1,
+      "why": "Neil says birds use the Earth's magnetic force, and they may have iron in their beaks."
+    },
+    {
+      "q": "According to Dr John Bradshaw, how does a cat learn a new area?",
+      "options": [
+        "It follows its owner around the garden for weeks",
+        "It stays close to the house for the first few months",
+        "It explores in bigger circles to make a map in its head",
+        "It walks in a straight line until it gets tired"
+      ],
+      "answer": 2,
+      "why": "He says cats go out in 'ever-increasing circles' and construct a mental map."
+    },
+    {
+      "q": "What does Dr Bradshaw think a lost cat does?",
+      "options": [
+        "Searches in growing circles for a familiar place or smell",
+        "Waits in one place until its owner comes to find it",
+        "Asks other cats in the area for help finding home",
+        "Uses the sun and the stars to find the way north"
+      ],
+      "answer": 0,
+      "why": "He says it goes out in growing circles until it finds its territory or a smell from it on the wind."
+    },
+    {
+      "q": "How certain is Dr Bradshaw about his explanation?",
+      "options": [
+        "Completely sure, because it's been proved",
+        "He thinks it's wrong",
+        "He says only dogs behave this way",
+        "It's a theory, as there still isn't enough data"
+      ],
+      "answer": 3,
+      "why": "Dan says it's the theory, but Dr Bradshaw says we still don't have enough data."
+    }
+  ]
+}

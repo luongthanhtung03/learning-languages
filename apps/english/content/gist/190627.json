@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why violent video games are bad for young children",
+        "How to design and sell a successful video game",
+        "The growth of professional video gaming as a business",
+        "The history of the Olympic Games and new sports"
+      ],
+      "answer": 2,
+      "why": "Neil says the business of eSports is the topic of the programme."
+    },
+    {
+      "q": "Why does Sam say Neil's gaming with his kids isn't really eSports?",
+      "options": [
+        "eSports are huge events with well-paid professionals",
+        "eSports are only played by teenagers in their bedrooms",
+        "eSports need special computers that cost thousands",
+        "eSports are only ever played online, never in person"
+      ],
+      "answer": 0,
+      "why": "She says tens of thousands watch, and the players are professional with huge salaries."
+    },
+    {
+      "q": "Which big sports event will include eSports?",
+      "options": [
+        "The 2020 Olympics",
+        "The football World Cup",
+        "The Commonwealth Games",
+        "The 2022 Asian Games"
+      ],
+      "answer": 3,
+      "why": "Neil says eSports are going to be included in the 2022 Asian Games."
+    },
+    {
+      "q": "What does Gabriël Rau think about the growth of eSports?",
+      "options": [
+        "It is dangerous for young people's health and sleep",
+        "It may become as normal as traditional sports",
+        "It will soon become less popular than it is today",
+        "It should only be for adults over the age of eighteen"
+      ],
+      "answer": 1,
+      "why": "He says it 'might become as normal as sports are right now'."
+    },
+    {
+      "q": "What disadvantage of video games does Gabriël Rau mention?",
+      "options": [
+        "They are expensive",
+        "They are bad for your eyes",
+        "They take up a lot of time",
+        "They make people aggressive"
+      ],
+      "answer": 2,
+      "why": "He says, 'It is time-consuming though.'"
+    },
+    {
+      "q": "Why does Neil mention playing until the middle of the night?",
+      "options": [
+        "To show he is good enough to be a professional player",
+        "To give a personal example of how games eat up time",
+        "To complain that his children never go to bed on time",
+        "To recommend playing at night when it is quieter"
+      ],
+      "answer": 1,
+      "why": "He says he knows from experience that many hours can pass while playing."
+    },
+    {
+      "q": "What does Gabriël Rau advise for introducing children to video games?",
+      "options": [
+        "Use discipline, such as strict time limits",
+        "Let them play as much as they want",
+        "Wait until they are teenagers",
+        "Only let them play with friends"
+      ],
+      "answer": 0,
+      "why": "He says 'discipline is the way to go', and Sam gives the example of a one-hour limit."
+    },
+    {
+      "q": "What is the eSports student's main ambition?",
+      "options": [
+        "To become a famous professional player and win prizes",
+        "To design new video games for a big company",
+        "To teach eSports courses at a university",
+        "To organise events that create experiences for others"
+      ],
+      "answer": 3,
+      "why": "She wants to put an event together 'not so much to play it'."
+    }
+  ]
+}

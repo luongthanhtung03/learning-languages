@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a head chef",
+        "How photos of food on social media affect what we eat",
+        "Why restaurant food is getting more expensive",
+        "How to cook healthy meals at home"
+      ],
+      "answer": 1,
+      "why": "Neil says they are talking about photographing food, which is now big business on social media."
+    },
+    {
+      "q": "When does Rob admit he takes photos of his food?",
+      "options": [
+        "Every time he eats",
+        "Only when he cooks at home",
+        "Only at a posh restaurant",
+        "Never, because he thinks it's a silly thing to do"
+      ],
+      "answer": 2,
+      "why": "Rob says he has done it, 'but only when eating some amazing food at a posh restaurant'."
+    },
+    {
+      "q": "What does Neil think about the idea of 'style over substance'?",
+      "options": [
+        "Food sometimes tastes just as good as it looks",
+        "Beautiful food never tastes good",
+        "It is the most important thing for restaurants",
+        "It only matters for expensive food"
+      ],
+      "answer": 0,
+      "why": "Neil says 'Maybe... although I'm sure sometimes the food tastes just as good as it looks.'"
+    },
+    {
+      "q": "According to Rebecca Milford, how do her friends now choose what to eat?",
+      "options": [
+        "By reading a restaurant's website",
+        "By asking the waiter",
+        "By reading long reviews of the restaurant on food blogs",
+        "By looking at its photos on Instagram"
+      ],
+      "answer": 3,
+      "why": "She says they go to the restaurant's Instagram account and choose based on the images."
+    },
+    {
+      "q": "Why do some restaurants pay PR companies?",
+      "options": [
+        "To write their menus",
+        "To take stylish food photos for social media",
+        "To train their chefs",
+        "To find new customers by phoning people at home"
+      ],
+      "answer": 1,
+      "why": "Neil says some restaurants pay PR companies a lot to take stylish photos to share online."
+    },
+    {
+      "q": "What have some chefs and restaurant owners done, according to Rob?",
+      "options": [
+        "Stopped customers taking photos",
+        "Made their portions bigger",
+        "Opened new restaurants that only take bookings through Instagram",
+        "Changed menus so dishes look good on camera"
+      ],
+      "answer": 3,
+      "why": "Rob says some have adjusted their menus to produce meals that look good on a smartphone camera."
+    },
+    {
+      "q": "According to Professor Charles Spence, what happens when food is beautifully presented?",
+      "options": [
+        "We expect more, so it seems to taste better",
+        "We eat it more slowly",
+        "We are less hungry",
+        "We are more likely to be disappointed when we taste it"
+      ],
+      "answer": 0,
+      "why": "He says beautiful presentation 'sets better expectations' which carry over into the tasting experience."
+    },
+    {
+      "q": "Why does Spence say our brain matters before we taste food?",
+      "options": [
+        "It decides how hungry we are",
+        "It remembers how much the dish cost on the menu",
+        "It already imagines how the food will taste",
+        "It warns us if the food is bad"
+      ],
+      "answer": 2,
+      "why": "He says we see the food first and 'our brain's already imagining what it's going to taste like'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to grow chilli peppers at home in pots",
+        "Why spices can be bad for your health",
+        "Pepper: its history, types and effect on food",
+        "The life of a famous French chef in Paris"
+      ],
+      "answer": 2,
+      "why": "They discuss pepper, including its history, different varieties, colours and effect on flavour."
+    },
+    {
+      "q": "What surprising fact does Neil share about peppers?",
+      "options": [
+        "They are the fruit of very tall climbing vines",
+        "They grow underground, just like potatoes",
+        "They only grow in the south of France",
+        "They were first used as a medicine in China"
+      ],
+      "answer": 0,
+      "why": "Neil says peppers are the fruit of vines often growing over ten metres high."
+    },
+    {
+      "q": "How was pepper viewed in the past, according to Becca?",
+      "options": [
+        "It was only used by poor people in the countryside",
+        "It was thought to be dangerous to eat",
+        "It was mainly used to preserve meat in winter",
+        "It was highly valued; explorers sailed for it"
+      ],
+      "answer": 3,
+      "why": "She says pepper was prized as 'the black gold of ingredients' and explorers crossed oceans for it."
+    },
+    {
+      "q": "What was unusual about Mathilde Roellinger as a young girl in Paris?",
+      "options": [
+        "She cooked in her father's restaurant after school",
+        "She put pepper, not sugar, on her yoghurt",
+        "She refused to eat any spices at all",
+        "She grew pepper plants in her garden"
+      ],
+      "answer": 1,
+      "why": "While other girls sprinkled sugar on yoghurt, Mathilde was sprinkling pepper."
+    },
+    {
+      "q": "According to Mathilde, what does pepper do to food?",
+      "options": [
+        "It hides the taste of the other ingredients",
+        "It makes food less spicy",
+        "It makes other flavours stronger without hiding them",
+        "It makes food last longer"
+      ],
+      "answer": 2,
+      "why": "She says it will not disguise the other ingredients but 'push them': it's a flavour catalyst."
+    },
+    {
+      "q": "What does the colour of pepper depend on, according to John Laurenson?",
+      "options": [
+        "How ripe the peppercorns are and how they're treated",
+        "The country where the pepper plant grows",
+        "The variety of pepper plant that is used",
+        "The amount of rain the plant gets each year"
+      ],
+      "answer": 0,
+      "why": "He says colours don't correspond to varieties but to the maturity of the peppercorns and processing."
+    },
+    {
+      "q": "What colour are peppercorns when they are mature and dried?",
+      "options": [
+        "Green",
+        "Red",
+        "Grey",
+        "Black"
+      ],
+      "answer": 3,
+      "why": "He says they're green when young, black when mature and dried, red when very mature."
+    },
+    {
+      "q": "What is Mathilde's opinion of grey pepper?",
+      "options": [
+        "It's her favourite kind",
+        "She doesn't like it, calling it 'grey dust'",
+        "She thinks it's the most natural pepper",
+        "She uses it in all her cooking"
+      ],
+      "answer": 1,
+      "why": "Grey pepper is an industrial creation; Mathilde calls it grey dust and isn't keen on it."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to fix a computer that keeps freezing up",
+        "A new subject studying how people and the web interact",
+        "The history of big companies like Microsoft and Apple",
+        "Why online adverts have become so annoying lately"
+      ],
+      "answer": 1,
+      "why": "They hear about Web Science and ask if it could make the internet better for humanity."
+    },
+    {
+      "q": "Why is Neil upset at the start?",
+      "options": [
+        "A video he was watching wouldn't stop buffering",
+        "He saw some hateful comments about himself online",
+        "He couldn't find a website he needed for work",
+        "His computer froze and he lost an hour's work"
+      ],
+      "answer": 3,
+      "why": "He says his computer suddenly froze and he lost everything."
+    },
+    {
+      "q": "What problem with the internet does Sam mention?",
+      "options": [
+        "It can spread hate and misinformation",
+        "It is too expensive for most people",
+        "It is getting slower every year",
+        "It is only available in big cities"
+      ],
+      "answer": 0,
+      "why": "Sam says the internet also provides a way of spreading hate and misinformation."
+    },
+    {
+      "q": "What was the theme of this year's Web Science conference?",
+      "options": [
+        "Making computers faster",
+        "Stopping cyber crime",
+        "Making the web focused on humans",
+        "Teaching children to code"
+      ],
+      "answer": 2,
+      "why": "Neil says its theme was 'making the web human-centric'."
+    },
+    {
+      "q": "According to Dame Wendy Hall, how do most people misunderstand the web?",
+      "options": [
+        "They think it was invented quite recently, in the 2000s",
+        "They see it as just technology, not made by society",
+        "They think it is secretly controlled by one company",
+        "They believe it is powered entirely by AI these days"
+      ],
+      "answer": 1,
+      "why": "She says people think of the web as a technology, but actually it's co-created by society."
+    },
+    {
+      "q": "Which subjects does Web Science combine with digital technology?",
+      "options": [
+        "Only computer science, statistics and maths",
+        "History, geography and modern languages",
+        "Medicine, law and environmental studies",
+        "Psychology, robotics, economics and sociology"
+      ],
+      "answer": 3,
+      "why": "Neil says it combines technology with subjects from psychology and robotics to economics and sociology."
+    },
+    {
+      "q": "What doubt does Carly Kind have about Covid contact tracing apps?",
+      "options": [
+        "Most people simply won't bother to download them",
+        "They use far too much battery on older phones",
+        "Bluetooth may not be good enough to detect contact",
+        "They collect and share too much personal data"
+      ],
+      "answer": 2,
+      "why": "She questions whether Bluetooth is adequate and says the trials show it's not that great."
+    },
+    {
+      "q": "Why does Sam mention the Covid app as an example?",
+      "options": [
+        "To show how websites can help people in useful ways",
+        "To show that apps like this are always useless",
+        "To explain how the web was first invented in the 1980s",
+        "To advertise the app to listeners and ask them to use it"
+      ],
+      "answer": 0,
+      "why": "Sam calls the contact tracing app an example of websites helpfully interacting with humans."
+    }
+  ]
+}

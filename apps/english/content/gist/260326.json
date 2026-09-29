@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best exercises for losing weight quickly",
+        "How to train properly for a half marathon",
+        "Why eating sugar is bad for your health",
+        "How new weight loss drugs work and affect people"
+      ],
+      "answer": 3,
+      "why": "They discuss drugs like Ozempic and Mounjaro, how they work, and one user's experience."
+    },
+    {
+      "q": "What does Neil say about his own efforts to stay healthy?",
+      "options": [
+        "He has stopped exercising because of an injury",
+        "He exercises and eats well, but isn't sure it works",
+        "He is taking weight loss drugs from his doctor",
+        "He is training hard for his first marathon"
+      ],
+      "answer": 1,
+      "why": "He follows an exercise routine and eats healthily, but isn't sure it's having much effect."
+    },
+    {
+      "q": "What does Georgie say about her lifestyle?",
+      "options": [
+        "She runs a lot but still eats lots of sugar",
+        "She only eats salad and drinks water",
+        "She never does any exercise because she's busy",
+        "She has given up sugar completely this year"
+      ],
+      "answer": 0,
+      "why": "She's training for a half marathon, 'but I still eat a lot of sugar'."
+    },
+    {
+      "q": "Roughly how many British adults are estimated to be overweight?",
+      "options": [
+        "About 20%",
+        "About 40%",
+        "About 65%",
+        "About 90%"
+      ],
+      "answer": 2,
+      "why": "Neil says around 65% of British adults are estimated to be overweight."
+    },
+    {
+      "q": "How do weight loss drugs like Ozempic work?",
+      "options": [
+        "They speed up how fast your body burns energy",
+        "They copy hormones that make you feel full",
+        "They stop the body from absorbing any sugar",
+        "They make all food taste bad, so you eat less"
+      ],
+      "answer": 1,
+      "why": "Georgie says they're modified natural hormones that make us feel full, and the effect lasts longer."
+    },
+    {
+      "q": "What happened when Lynne Massey-Davis used Mounjaro?",
+      "options": [
+        "She felt hungry all the time",
+        "She stopped after one month",
+        "She gained weight at first",
+        "She lost 20kg in six months"
+      ],
+      "answer": 3,
+      "why": "Georgie says Lynne lost 20kg in six months using Mounjaro."
+    },
+    {
+      "q": "Why does Lynne talk about an angel and a devil on her shoulders?",
+      "options": [
+        "To describe a strange dream she had as a child",
+        "To explain why she decided to become a doctor",
+        "To describe the fight in her mind about food",
+        "To joke about the advice her friends give her"
+      ],
+      "answer": 2,
+      "why": "She uses it to explain 'food noise': one voice said don't eat, the other said have a taste."
+    },
+    {
+      "q": "According to Professor Giles Yeo, how did doctors discover these drugs help weight loss?",
+      "options": [
+        "People taking them for diabetes lost weight as a side effect",
+        "They were tested on athletes",
+        "Companies designed them for weight loss from the start",
+        "Patients asked for them"
+      ],
+      "answer": 0,
+      "why": "He says Ozempic was first for diabetes, then people noticed, as a side effect, weight loss."
+    }
+  ]
+}

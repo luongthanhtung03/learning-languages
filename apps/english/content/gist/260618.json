@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best educational apps for young children",
+        "Children's screen time and how parents can manage it",
+        "Why adults should stop using smartphones at work",
+        "How to choose a first phone for a child"
+      ],
+      "answer": 1,
+      "why": "They discuss worries about children's screen time and hear experts' advice for parents."
+    },
+    {
+      "q": "What do Neil and Becca say about their own phone use?",
+      "options": [
+        "Neil uses his phone too much, but Becca doesn't",
+        "Neither of them uses a smartphone",
+        "They both feel they spend too much time on their phones",
+        "They both only use phones for work"
+      ],
+      "answer": 2,
+      "why": "Neil says he spends far too much time on his phone, and Becca says she does too."
+    },
+    {
+      "q": "What did Australia do at the end of last year?",
+      "options": [
+        "Banned social media apps for under-16s",
+        "Banned smartphones in all schools",
+        "Limited adults' screen time",
+        "Gave free tablets to children"
+      ],
+      "answer": 0,
+      "why": "Becca says Australia banned access to social media apps for under 16s."
+    },
+    {
+      "q": "What is Dr Emily Goodacre's view on children and technology?",
+      "options": [
+        "Children should be kept away from technology completely",
+        "Children should decide for themselves how to use it",
+        "Technology is always good for learning",
+        "Adults should think carefully and plan how children use it"
+      ],
+      "answer": 3,
+      "why": "She says it's not about getting them away from technology but 'being intentional' about how it's used."
+    },
+    {
+      "q": "What kind of products does Emily want to see?",
+      "options": [
+        "Cheaper phones and tablets for large families",
+        "Products designed around how children develop",
+        "Games that children can play for much longer",
+        "Devices that only work for one hour a day"
+      ],
+      "answer": 1,
+      "why": "She wants products that think about childhood first and how children at different stages develop."
+    },
+    {
+      "q": "What has Dr Becky Kennedy noticed about parents?",
+      "options": [
+        "They don't really care much about screen time",
+        "They want the government to solve the problem",
+        "They use screens more often than their children",
+        "They want to understand it and make small changes"
+      ],
+      "answer": 3,
+      "why": "She says parents are very eager to understand and want practical, realistic things to make little shifts."
+    },
+    {
+      "q": "What small change does Becky give as an example?",
+      "options": [
+        "Moving the device somewhere the child can't see it",
+        "Turning off the internet at night",
+        "Letting children use screens only at weekends",
+        "Buying a device without games"
+      ],
+      "answer": 0,
+      "why": "Becca says Becky's example is moving the device somewhere it can't be seen."
+    },
+    {
+      "q": "Why does Becky suggest telling the child why the device was moved?",
+      "options": [
+        "To punish the child for their bad behaviour",
+        "To make the child feel guilty about the phone",
+        "To show it's hard for anyone to ignore a screen",
+        "To teach the child how to hide things from adults"
+      ],
+      "answer": 2,
+      "why": "She'd explain it's really hard to see a screen and not want to use it: 'I wasn't setting you up for success.'"
+    }
+  ]
+}

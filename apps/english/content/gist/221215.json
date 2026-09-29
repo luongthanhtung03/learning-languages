@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How politicians win elections in America",
+        "The history of advertising in New York",
+        "How opinion polls work and why they fail",
+        "Why so many young people don't vote"
+      ],
+      "answer": 2,
+      "why": "They look into the polling industry after several well-known poll mistakes."
+    },
+    {
+      "q": "What happened in the 2020 US election, according to Sam?",
+      "options": [
+        "Polls said Trump would lose by much more",
+        "Polls predicted a clear win for Trump",
+        "Polls were completely accurate this time",
+        "No polls were carried out that year"
+      ],
+      "answer": 0,
+      "why": "She says most polls predicted Trump would lose to Biden by a much larger amount than he actually did."
+    },
+    {
+      "q": "What was George Gallup's simple idea?",
+      "options": [
+        "To guess people's opinions from newspapers",
+        "To ask people directly what they thought",
+        "To pay people to vote",
+        "To study only farmers"
+      ],
+      "answer": 1,
+      "why": "He wanted to know people's opinions and thought: 'why not try asking them?'"
+    },
+    {
+      "q": "What did the advertising agency Young and Rubicam hire Gallup to do?",
+      "options": [
+        "Write speeches for political leaders",
+        "Make TV adverts for new cars",
+        "Sell toothpaste in shops across America",
+        "Find out if people liked products"
+      ],
+      "answer": 3,
+      "why": "G Elliot Morris says they hired him to find out if people remembered or liked a certain product."
+    },
+    {
+      "q": "Why does G Elliot Morris mention toothpaste?",
+      "options": [
+        "To show Gallup moved from product research to politics",
+        "Because Gallup invented a new toothpaste",
+        "To show that politics is easier than advertising",
+        "Because toothpaste companies paid for political polls"
+      ],
+      "answer": 0,
+      "why": "He says Gallup wondered, 'if it works for toothpaste, why not politics?'"
+    },
+    {
+      "q": "What is one reason pollsters failed to predict Trump's win in 2016?",
+      "options": [
+        "They asked too many young voters",
+        "They only asked people online",
+        "They didn't ask enough white, non-college-educated voters",
+        "They asked the wrong questions about toothpaste"
+      ],
+      "answer": 2,
+      "why": "Neil says they didn't ask enough white, non-college educated voters."
+    },
+    {
+      "q": "What does G Elliot Morris think people should understand about polls?",
+      "options": [
+        "They are always correct",
+        "They are less precise tools than people expect",
+        "They should be banned",
+        "They are only useful for advertising"
+      ],
+      "answer": 1,
+      "why": "He says people should see polls as less precise tools that can't offer laser-like accuracy."
+    },
+    {
+      "q": "What does Neil suggest might be the real problem?",
+      "options": [
+        "Pollsters are dishonest",
+        "Voters lie to pollsters",
+        "There are too many polls",
+        "Our wish to know the future"
+      ],
+      "answer": 3,
+      "why": "He says maybe it's not polls that are broken but our desire to know the future."
+    }
+  ]
+}

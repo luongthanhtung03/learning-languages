@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How a type of cow is helping to prevent wildfires in Spain",
+        "Famous animals from children's TV shows",
+        "Why Spanish farmers are keeping fewer cows",
+        "How firefighters are trained in Spain"
+      ],
+      "answer": 0,
+      "why": "They discuss how cows are helping to stop wildfires in Spain."
+    },
+    {
+      "q": "Why does Beth mention TV shows like Lassie and Flipper?",
+      "options": [
+        "Because she worked on those shows",
+        "To show that TV animals are unrealistic",
+        "To talk about her favourite childhood pets and the shows she watched",
+        "To introduce the idea of animals helping people in trouble"
+      ],
+      "answer": 3,
+      "why": "The animal stars came to the rescue of humans, and the programme is about real animals helping people."
+    },
+    {
+      "q": "What picture does Beth have in her head, and what does Neil say?",
+      "options": [
+        "A cow running away from a fire – Neil says that's exactly right",
+        "A cow in a firefighter's helmet – Neil says 'not quite'",
+        "A dog putting out a fire – Neil laughs",
+        "A farmer on a horse – Neil agrees"
+      ],
+      "answer": 1,
+      "why": "Beth imagines a cow wearing a fireman's helmet, and Neil replies, 'Not quite, Beth.'"
+    },
+    {
+      "q": "Why are today's wildfires more intense than before?",
+      "options": [
+        "There are more people living and building homes in the forests",
+        "Firefighters have less money",
+        "Temperatures are rising because of climate change",
+        "Farmers burn more grass"
+      ],
+      "answer": 2,
+      "why": "Neil says increasing temperatures caused by climate change make today's wildfires more intense."
+    },
+    {
+      "q": "According to reporter Craig Langran, why are Spanish forests more likely to catch fire?",
+      "options": [
+        "The trees are too old",
+        "Too few animals eat the plants, so the vegetation grows very thick",
+        "People leave rubbish in the forests",
+        "It rains much less in the forests than it does in the towns and cities"
+      ],
+      "answer": 1,
+      "why": "He says forests grew unchecked without enough animals to eat them, and dense vegetation catches fire more easily."
+    },
+    {
+      "q": "According to Pablo Schapira, why have big grazing animals like bison and wild horses gone?",
+      "options": [
+        "Because of wildfires",
+        "Because they moved to other countries with more space and food",
+        "Because there was not enough grass",
+        "Because of extinction and domestication"
+      ],
+      "answer": 3,
+      "why": "He says they are gone from the ecosystem 'because of extinction, domestication'."
+    },
+    {
+      "q": "What do we learn about the tauros cows?",
+      "options": [
+        "They only eat fresh grass",
+        "They are kept on farms at night",
+        "They are similar to an extinct wild cow and eat over 30 kilos a day",
+        "They were brought to Spain from Africa to help farmers in the mountains"
+      ],
+      "answer": 2,
+      "why": "Tauros are similar to the extinct aurochs, and each eats over 30 kilos a day."
+    },
+    {
+      "q": "Apart from eating, how else do the cows help reduce fires?",
+      "options": [
+        "They walk over plants and dead trees, opening up the forest",
+        "They drink lots of water from the rivers, so the ground stays wet",
+        "They warn people when there is smoke",
+        "They pull fallen trees out of the forest"
+      ],
+      "answer": 0,
+      "why": "Craig says their trampling helps open up the forest so it's less packed with flammable vegetation."
+    }
+  ]
+}

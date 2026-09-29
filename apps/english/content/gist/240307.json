@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to start a clothing business",
+        "The health problems that many women face during pregnancy",
+        "A project that sews pads for women who need them",
+        "Why refugees are moving to the UK"
+      ],
+      "answer": 2,
+      "why": "They learn about a project fighting period poverty that affects thousands of women refugees."
+    },
+    {
+      "q": "What is “period poverty”?",
+      "options": [
+        "Being too ill to work during your period",
+        "Not being able to get or afford period products",
+        "Earning less money than men",
+        "Not being taught anything about periods at school"
+      ],
+      "answer": 1,
+      "why": "Georgie says it's when people don't have access to these products or can't afford them."
+    },
+    {
+      "q": "Which effect of period poverty does Georgie mention?",
+      "options": [
+        "Women move to other countries",
+        "Families have to spend less money on food each week",
+        "Shops raise their prices",
+        "Girls miss school, which affects their education"
+      ],
+      "answer": 3,
+      "why": "She says girls on their periods not going to school affects their education."
+    },
+    {
+      "q": "How did Ella Lambert learn to make pads?",
+      "options": [
+        "She taught herself with a borrowed sewing machine and YouTube",
+        "She took a sewing course at Bristol University during lockdown",
+        "Her grandmother showed her",
+        "She worked in a clothes factory"
+      ],
+      "answer": 0,
+      "why": "She borrowed a sewing machine from a friend and learned how to sew on YouTube."
+    },
+    {
+      "q": "Why does Ella say she still can't sew anything except pads?",
+      "options": [
+        "To show she learned to sew only for this project",
+        "To complain that sewing is much too difficult to learn",
+        "To explain why the project stopped",
+        "To ask listeners to teach her"
+      ],
+      "answer": 0,
+      "why": "She was so focused on pads that, “to this day”, they're the only thing she can sew."
+    },
+    {
+      "q": "How are Ella's pads different from most pads sold in shops?",
+      "options": [
+        "They are much thinner",
+        "They are made of paper",
+        "They can be washed and used again",
+        "They are only made for young girls at school"
+      ],
+      "answer": 2,
+      "why": "Beth says Ella designed them to be washed and used again, unlike disposable shop pads."
+    },
+    {
+      "q": "Who has the Pachamama Project given period products to?",
+      "options": [
+        "Only students and staff at Bristol University during lockdown",
+        "Refugees from Syria, Turkey and Lebanon, and women in the UK",
+        "Hospitals across Europe",
+        "Schools in South America"
+      ],
+      "answer": 1,
+      "why": "Georgie says they donated to refugees in Syria, Turkey and Lebanon, as well as women in the UK."
+    },
+    {
+      "q": "What change has Ella noticed among the women giving out the pads?",
+      "options": [
+        "They have stopped using the pads",
+        "They now keep the pads hidden behind a curtain",
+        "They only talk about periods with other women, never with men",
+        "They now talk about periods openly, even with men"
+      ],
+      "answer": 3,
+      "why": "At first they barely spoke about it; now they chat away about the pads with male colleagues."
+    }
+  ]
+}

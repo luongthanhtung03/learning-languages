@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How efficient the human body is",
+        "Why cheetahs are faster than any car on the road",
+        "How Kenyan runners prepare for the Olympic Games",
+        "Why salmon swim upriver every year to lay eggs"
+      ],
+      "answer": 0,
+      "why": "Sam says they'll be asking how efficient the human body is, comparing humans with each other and with animals."
+    },
+    {
+      "q": "Why does Sam mention Olympic swimmers and sprinters?",
+      "options": [
+        "To show that humans are faster than cheetahs",
+        "To say that athletes eat much more than other people",
+        "To show that human bodies are amazing too",
+        "To explain why most people struggle to run"
+      ],
+      "answer": 2,
+      "why": "After Roy lists amazing animals, Sam says human bodies are 'no less incredible'."
+    },
+    {
+      "q": "According to Roy, why does the human body need to be efficient?",
+      "options": [
+        "Because we have to run away from dangerous animals",
+        "It only has the energy that comes from our food",
+        "Because humans sleep less than most other animals",
+        "Because we need to carry heavy things every day"
+      ],
+      "answer": 1,
+      "why": "Roy says our bodies work using just the energy from what we eat, so they must use as little as possible."
+    },
+    {
+      "q": "What does Professor Herman Pontzer say makes humans efficient?",
+      "options": [
+        "Our big brains and our ability to plan ahead",
+        "Our flat backs and our strong, bent legs",
+        "Our small size compared with other apes",
+        "Our straight legs, long for our size"
+      ],
+      "answer": 3,
+      "why": "He says humans have very straight legs that are pretty long for our body size, so we are efficient."
+    },
+    {
+      "q": "How do most animals, such as dogs, stand and move?",
+      "options": [
+        "Bent at the knee and leaning forward",
+        "Upright on two long, straight legs",
+        "Mostly on their back legs, like apes",
+        "With straight legs and a curved back"
+      ],
+      "answer": 0,
+      "why": "Pontzer says the dog has a bent leg shape and that crouched posture is typical of most animals."
+    },
+    {
+      "q": "According to Rhona Pearce, what is the main reason some athletes run so well?",
+      "options": [
+        "The food they eat as children",
+        "Their very long legs and light bones",
+        "Training",
+        "Living high up in the mountains"
+      ],
+      "answer": 2,
+      "why": "Roy says the main reason, according to Rhona Pearce, is training, though there are other factors too."
+    },
+    {
+      "q": "What does Rhona say about age and running?",
+      "options": [
+        "Older runners always have better running economy",
+        "Age makes no difference if you train hard enough",
+        "Children are the most efficient runners of all",
+        "Tendons get less stretchy as you get older"
+      ],
+      "answer": 3,
+      "why": "She says tendon elasticity 'drops off as you get older', so there is a best age for running."
+    },
+    {
+      "q": "What does Rhona say about a runner's weight?",
+      "options": [
+        "Lighter runners are always the fastest ones",
+        "More muscle helps; fat must be carried",
+        "Weight doesn't matter at all for long distances",
+        "Heavier runners use less energy per kilo"
+      ],
+      "answer": 1,
+      "why": "She says more muscle mass will help you, whereas with more fat 'you've got to carry it'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to build your own chatbot at home",
+        "Why we shouldn't trust chatbots too much",
+        "The history of computer games and AI",
+        "How banks use technology to save money"
+      ],
+      "answer": 1,
+      "why": "They discuss whether chatbots think for themselves and why it's dangerous to always trust them."
+    },
+    {
+      "q": "How do modern chatbots produce their answers?",
+      "options": [
+        "They search for the answer in a large dictionary",
+        "A human writes the answers quickly",
+        "They predict the next likely word, one after another",
+        "They copy answers from other users"
+      ],
+      "answer": 2,
+      "why": "Neil says the technology predicts the next word likely to be used in a sentence."
+    },
+    {
+      "q": "Where has Rob used chatbots himself?",
+      "options": [
+        "When writing essays for his university course",
+        "When talking to his bank or booking tickets",
+        "When asking for medical advice at night",
+        "When chatting to his friends and family"
+      ],
+      "answer": 1,
+      "why": "Rob says he has used them when talking to his bank or booking a ticket on a website."
+    },
+    {
+      "q": "According to Professor Emily M Bender, what mistake do people often make?",
+      "options": [
+        "They think fluent text must be reliable",
+        "They ask chatbots far too many questions",
+        "They think chatbots are too slow to be useful",
+        "They refuse to try any new technology"
+      ],
+      "answer": 0,
+      "why": "She says we tend to react to fluent, coherent text as authoritative and reliable, but ChatGPT's text is none of that."
+    },
+    {
+      "q": "What does Geoffrey Hinton fear?",
+      "options": [
+        "That chatbots will suddenly stop working",
+        "That people will soon get bored of chatbots",
+        "That chatbots will replace all school teachers",
+        "That chatbots may soon know more than we do"
+      ],
+      "answer": 3,
+      "why": "He said chatbots could soon overtake the level of information a human brain holds."
+    },
+    {
+      "q": "According to Professor Bender, why might a chatbot say things that sound like it has feelings?",
+      "options": [
+        "Because it really does have human feelings",
+        "Because its makers want to trick the users",
+        "Because it replies with likely words",
+        "Because it has learned to copy animals"
+      ],
+      "answer": 2,
+      "why": "She says if you ask it how it feels, you can provoke it to say things a sentient being would say."
+    },
+    {
+      "q": "What does Professor Bender say about humans and language?",
+      "options": [
+        "We imagine a mind behind any language",
+        "We understand machines better than people",
+        "We learn languages best from computers",
+        "We only trust language that is spoken"
+      ],
+      "answer": 0,
+      "why": "She says 'we are really primed to imagine a mind behind language'."
+    },
+    {
+      "q": "What is Rob's view of chatbots at the end?",
+      "options": [
+        "They can become good friends",
+        "They are smarter than people",
+        "They should be banned",
+        "They are just machines, not friends"
+      ],
+      "answer": 3,
+      "why": "Rob says, 'they are not your friend, they are just machines!'"
+    }
+  ]
+}

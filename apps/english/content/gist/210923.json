@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How adults can learn to speak Welsh quickly",
+        "Indigenous languages and one woman's effort to save hers",
+        "Why English is the most important language in the world",
+        "How young children learn to read and write at school"
+      ],
+      "answer": 1,
+      "why": "They discuss indigenous languages disappearing and Mshkogaabwid Kwe's effort to keep hers alive."
+    },
+    {
+      "q": "Why does Neil mention the road sign in Wales?",
+      "options": [
+        "As an example of an indigenous language that has survived",
+        "To complain that the Welsh road signs are too hard to read",
+        "To show that nobody in Wales speaks Welsh any more",
+        "To explain how he got lost driving on his trip to Wales"
+      ],
+      "answer": 0,
+      "why": "Neil says Welsh is a good example of an indigenous language that has survived."
+    },
+    {
+      "q": "What does Sam say happens when an indigenous language disappears?",
+      "options": [
+        "People quickly learn another local language",
+        "Nothing important is lost",
+        "The culture linked to it disappears too",
+        "It is usually replaced by Welsh"
+      ],
+      "answer": 2,
+      "why": "Sam says when an indigenous language disappears, 'so too does the culture'."
+    },
+    {
+      "q": "When did Mshkogaabwid Kwe learn Anishinaabemowin?",
+      "options": [
+        "As a young child at home",
+        "At school in Canada",
+        "From her four-year-old daughter",
+        "Later in life, as an adult"
+      ],
+      "answer": 3,
+      "why": "She grew up speaking English and only learned Anishinaabemowin later, as an adult."
+    },
+    {
+      "q": "What made Mshkogaabwid feel great joy after a couple of months of learning?",
+      "options": [
+        "Reading a whole book in the language",
+        "Understanding a complete prayer at a ceremony",
+        "Teaching a class of children",
+        "Speaking to her ancestors' friends"
+      ],
+      "answer": 1,
+      "why": "She says she was able to understand one full prayer at a ceremony feast, which gave her glee."
+    },
+    {
+      "q": "What problem did Mshkogaabwid notice with her daughter?",
+      "options": [
+        "She refused to speak to anyone at all",
+        "She forgot all her English at day care",
+        "She didn't like going to day care",
+        "She began using much more English"
+      ],
+      "answer": 3,
+      "why": "She says day care influenced her English, so her daughter was speaking a lot of English."
+    },
+    {
+      "q": "What rule does Mshkogaabwid's family have at home?",
+      "options": [
+        "They speak only Anishinaabemowin",
+        "They speak English and Anishinaabemowin equally",
+        "They only speak English at dinner",
+        "They don't watch English TV"
+      ],
+      "answer": 0,
+      "why": "She describes an 'immersion home' where they only speak Anishinaabemowin in the home."
+    },
+    {
+      "q": "According to Sam, what does Mshkogaabwid believe speaking the language gives her children?",
+      "options": [
+        "Better marks at school and more job choices",
+        "More chances to travel and meet other people",
+        "A sense of family history and their culture",
+        "A way to avoid having to learn English"
+      ],
+      "answer": 2,
+      "why": "Sam says she believes it gives them a sense of family history and preserves her culture."
+    }
+  ]
+}

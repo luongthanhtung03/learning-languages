@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to separate your rubbish for recycling at home",
+        "Why recycling isn't enough, and the circular economy",
+        "Which countries produce the most waste each year",
+        "How washing machines are made and then sold"
+      ],
+      "answer": 1,
+      "why": "They hear that recycling is not the answer, and discuss the circular economy as a possible solution."
+    },
+    {
+      "q": "Why does Sam say “that's a bit harsh” at the start?",
+      "options": [
+        "Neil has criticised the way she does her recycling",
+        "Neil forgot her name when introducing the show",
+        "Neil says the topic of the programme is boring",
+        "She thinks Neil means they are talking nonsense"
+      ],
+      "answer": 3,
+      "why": "When Neil says “we're talking rubbish”, Sam takes it as an insult, but he means the topic is rubbish."
+    },
+    {
+      "q": "What does Sam do with her rubbish at home?",
+      "options": [
+        "She separates it into paper, metal, food and plastic",
+        "She burns all of it in a corner of her garden",
+        "She takes it to a recycling centre every single day",
+        "She doesn't recycle at all because she's too busy"
+      ],
+      "answer": 0,
+      "why": "She says she's always very careful to separate her rubbish into paper, metal, food, plastic and so on."
+    },
+    {
+      "q": "According to Alexandre Lemille, why isn't recycling the answer?",
+      "options": [
+        "It is far too expensive for most cities to run",
+        "People refuse to recycle, even when it's easy",
+        "Not all waste can be separated and treated properly",
+        "There are not enough bins in the streets and parks"
+      ],
+      "answer": 2,
+      "why": "He says we can't get all the waste separated properly and therefore treated."
+    },
+    {
+      "q": "What does Lemille say is the main aim of our current model?",
+      "options": [
+        "To reduce waste",
+        "To hide waste so people don't see it",
+        "To sell waste to other countries",
+        "To turn waste into energy"
+      ],
+      "answer": 1,
+      "why": "He says the main objective is to hide waste, so it is out of sight and out of mind."
+    },
+    {
+      "q": "What does Sam admit about her own rubbish?",
+      "options": [
+        "Once it's collected, she doesn't think about it",
+        "She knows exactly where it goes and what happens",
+        "She often forgets to put it out on the right day",
+        "She sends some of it to other countries herself"
+      ],
+      "answer": 0,
+      "why": "She says her rubbish is collected and she doesn't really think about what happens to it after that."
+    },
+    {
+      "q": "In a circular economy, who is responsible for a product's lifecycle?",
+      "options": [
+        "The consumer who buys it",
+        "The local council",
+        "The shop that sells it",
+        "The manufacturer that makes it"
+      ],
+      "answer": 3,
+      "why": "Manuela Saragosa says the manufacturer retains responsibility for the lifecycle of the product."
+    },
+    {
+      "q": "What does Sam think would be a result of the circular economy?",
+      "options": [
+        "Products would become much cheaper in the shops",
+        "People would buy more and more new products",
+        "Makers would try to make products last longer",
+        "Recycling would stop completely in most cities"
+      ],
+      "answer": 2,
+      "why": "Sam says, “this would make manufacturers try to make their products last longer!”"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to save money when shopping online at night",
+        "Why celebrities earn so much from TV adverts",
+        "How behavioural science influences what we do",
+        "Why many fast-food restaurants are now closing"
+      ],
+      "answer": 2,
+      "why": "They look at the ways people can be convinced to do things, using ideas from behavioural science."
+    },
+    {
+      "q": "Why did Pippa buy new headphones?",
+      "options": [
+        "Her old ones broke, so she researched carefully",
+        "A famous celebrity recommended them online",
+        "They were on special offer in a local shop",
+        "A friend who works in music gave her advice"
+      ],
+      "answer": 0,
+      "why": "She says her old ones broke and she did lots of research to find a good pair."
+    },
+    {
+      "q": "Why does Phil think he bought a soft drink that morning?",
+      "options": [
+        "It was the cheapest drink in the shop",
+        "He was very thirsty after a long run",
+        "A friendly shop worker suggested it to him",
+        "Someone he likes may have advertised it"
+      ],
+      "answer": 3,
+      "why": "Phil says it might be because he saw someone he likes promoting it in an advert."
+    },
+    {
+      "q": "According to Ben Jones, why do endorsements work?",
+      "options": [
+        "Because the products really are always better",
+        "When unsure, we follow people we see as experts",
+        "Because the adverts are repeated many times a day",
+        "Because famous people are paid a lot to say it"
+      ],
+      "answer": 1,
+      "why": "He says when we're unsure, it's easy to follow the lead of those we think are credible."
+    },
+    {
+      "q": "Why does Ben mention parents and teachers?",
+      "options": [
+        "To say they often give bad advice about shopping",
+        "To explain that children see too many adverts",
+        "To show we learn early to trust people who know",
+        "To suggest teachers should promote more products"
+      ],
+      "answer": 2,
+      "why": "He says we start following credible people early, like parents and teachers who help us learn."
+    },
+    {
+      "q": "According to Dean Ward, why do people spend more at touchscreen machines?",
+      "options": [
+        "The food is cheaper when ordered on the screen",
+        "They don't feel judged and have more time",
+        "The machines only show the large portions",
+        "Staff are not allowed to help them order"
+      ],
+      "answer": 1,
+      "why": "He says people don't feel judged by a screen and have more time, so they say yes to extras."
+    },
+    {
+      "q": "How much more do people usually spend when using the touchscreens?",
+      "options": [
+        "About 5%",
+        "About 50%",
+        "About double",
+        "About 25–30%"
+      ],
+      "answer": 3,
+      "why": "Dean says they typically see an increased basket spend of 25–30%."
+    },
+    {
+      "q": "Why did the World Food Programme in Tunisia make a TV series?",
+      "options": [
+        "To get people to eat together by copying others",
+        "To sell more restaurant meals to young families",
+        "To teach people how to cook cheap, healthy food",
+        "To advertise healthy snacks to schoolchildren"
+      ],
+      "answer": 0,
+      "why": "They wanted people to eat together more, as people learn by imitating and observing others."
+    }
+  ]
+}

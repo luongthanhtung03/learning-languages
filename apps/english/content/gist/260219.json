@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook quick, healthy meals after work",
+        "Why so many restaurants in France are closing",
+        "How Michelin stars are awarded to restaurants",
+        "The career of a successful South African chef"
+      ],
+      "answer": 3,
+      "why": "They hear from South African chef Chantel Dartnall about how her career developed."
+    },
+    {
+      "q": "How do Neil and Becca feel about cooking?",
+      "options": [
+        "They both hate cooking and usually eat out",
+        "Neil finds it relaxing; Becca likes cooking for others",
+        "Becca finds it relaxing, but Neil never cooks",
+        "They both only cook at weekends for family"
+      ],
+      "answer": 1,
+      "why": "Neil finds it relaxing; Becca enjoys feeding others but not cooking for herself after work."
+    },
+    {
+      "q": "What does Becca say about working as a top chef?",
+      "options": [
+        "Many chefs work 15 hours a day, six days a week",
+        "Most chefs work part time",
+        "Kitchens are usually calm places",
+        "Chefs are the best-paid restaurant workers"
+      ],
+      "answer": 0,
+      "why": "She says many chefs work 15 hours a day, six days a week, in stressful kitchens."
+    },
+    {
+      "q": "What did Chantel Dartnall do after she graduated?",
+      "options": [
+        "She opened her own restaurant straight away",
+        "She worked in a café in South Africa for years",
+        "She sent her CV to all three-star restaurants",
+        "She went to study French cooking in Paris"
+      ],
+      "answer": 2,
+      "why": "She says she sent her CV to all the three-Michelin-star restaurants in the Michelin Guide."
+    },
+    {
+      "q": "Why wasn't Chantel afraid to apply to such famous restaurants?",
+      "options": [
+        "She already knew the chefs from college",
+        "She felt she had nothing to lose if they said no",
+        "Her college had promised her a job there",
+        "She had already won many cooking prizes"
+      ],
+      "answer": 1,
+      "why": "She says 'The only thing that they could say was no, and what would I lose?'"
+    },
+    {
+      "q": "What happened after Chantel applied?",
+      "options": [
+        "Every single restaurant rejected her application",
+        "She had to wait over a year for an answer",
+        "She decided to go back to college to study more",
+        "Chef Paul Rhodes called and asked when she could start"
+      ],
+      "answer": 3,
+      "why": "She received a call from chef Paul Rhodes saying 'When can you start?'"
+    },
+    {
+      "q": "What made Chantel's restaurant Mosaic different in South Africa?",
+      "options": [
+        "It used edible flowers and herbs, rare there",
+        "It served only classic French food and wine",
+        "It was the cheapest restaurant in Pretoria",
+        "It had no menu, so guests ate what they got"
+      ],
+      "answer": 0,
+      "why": "She was inspired by botanical cuisine, which was 'very much unknown' in South Africa."
+    },
+    {
+      "q": "What does Neil suggest about Chantel's future?",
+      "options": [
+        "She will probably return to London",
+        "She has already won three Michelin stars",
+        "She will probably win Michelin stars soon",
+        "She plans to stop cooking"
+      ],
+      "answer": 2,
+      "why": "Neil says she's still waiting, 'but surely it's only a matter of time' before she wins them."
+    }
+  ]
+}

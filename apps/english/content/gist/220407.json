@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make a perfect cup of coffee at home",
+        "Why tea is healthier than coffee",
+        "How coffee is grown in Africa and Asia",
+        "The history of coffee in Britain"
+      ],
+      "answer": 3,
+      "why": "Sam says they'll be looking into the history of coffee in Britain."
+    },
+    {
+      "q": "What does Neil like about coffee?",
+      "options": [
+        "It helps him sleep well at night",
+        "Its smell, and it wakes him up",
+        "It is cheaper than other drinks",
+        "It helps him stop eating snacks"
+      ],
+      "answer": 1,
+      "why": "Neil mentions 'that lovely smell' and says it wakes him up and gets him ready to face the world."
+    },
+    {
+      "q": "What was the first coffee in Britain like?",
+      "options": [
+        "It took months to arrive and tasted awful",
+        "It was sweet and very expensive to buy",
+        "It came from farms in the south of England",
+        "It was only drunk by the king and queen"
+      ],
+      "answer": 0,
+      "why": "Sam says it took months to arrive by sea, was made by boiling raw beans, and apparently tasted awful."
+    },
+    {
+      "q": "What happened after London's first coffee shop opened in 1652?",
+      "options": [
+        "The government quickly banned coffee",
+        "People said coffee made them sleepy",
+        "Over eighty more opened in ten years",
+        "Most people still preferred tea"
+      ],
+      "answer": 2,
+      "why": "Neil says within a decade over eighty new coffee shops had opened in the City of London alone."
+    },
+    {
+      "q": "Why did tea replace coffee as the fashionable drink by the 1800s?",
+      "options": [
+        "Coffee became illegal in Britain",
+        "Coffee shops became too crowded",
+        "Tea was much cheaper to import",
+        "Partly as Queen Victoria drank it"
+      ],
+      "answer": 3,
+      "why": "Sam says tea replaced coffee partly because it was drunk by Queen Victoria."
+    },
+    {
+      "q": "According to Judith Hawley, why did the Temperance Movement support coffee taverns?",
+      "options": [
+        "To keep working men out of the pub",
+        "To make money from selling coffee",
+        "To give rich people a place to meet",
+        "To help coffee farmers in Yemen"
+      ],
+      "answer": 0,
+      "why": "She says they sponsored coffee taverns 'to try to wean working men off going to the pub for lunch'."
+    },
+    {
+      "q": "What two directions does Judith Hawley see for coffee today?",
+      "options": [
+        "Hot coffee or cold coffee drinks",
+        "Big chains, or quality handmade coffee",
+        "Coffee at home or coffee at work",
+        "Coffee from Africa or from South America"
+      ],
+      "answer": 1,
+      "why": "She describes corporate coffee chains on one hand and Fairtrade, microlot, artisanal coffee on the other."
+    },
+    {
+      "q": "What does the Fairtrade scheme do?",
+      "options": [
+        "It sells coffee only in small, trendy shops",
+        "It makes coffee cheaper for customers",
+        "It guarantees farmers a fair price",
+        "It grows coffee on very small farms"
+      ],
+      "answer": 2,
+      "why": "Sam says it guarantees a fair price for coffee producers in South America, Africa and Asia."
+    }
+  ]
+}

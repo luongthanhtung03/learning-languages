@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Tips for parents keeping children happy in lockdown",
+        "Memories of childhood seaside holidays in the UK",
+        "How schools are teaching all their lessons online",
+        "Why children watch too much TV during the holidays"
+      ],
+      "answer": 0,
+      "why": "Neil says they'll discuss advice for parents keeping children educated and entertained at home."
+    },
+    {
+      "q": "What does Neil remember about his childhood holidays?",
+      "options": [
+        "Flying abroad to France and Spain every summer",
+        "Staying at home all summer with his grandparents",
+        "Playing I-spy in the car on the way to the seaside",
+        "Going camping in the mountains with his friends"
+      ],
+      "answer": 2,
+      "why": "He remembers his dad driving them to the seaside and playing I-spy with his sister."
+    },
+    {
+      "q": "What challenge for parents does Georgina mention?",
+      "options": [
+        "Finding enough food for the whole family every day",
+        "Helping children with difficult maths homework",
+        "Paying for expensive online classes and tutors",
+        "Keeping children busy without hours of TV or phones"
+      ],
+      "answer": 3,
+      "why": "She says parents want to keep children occupied without hours of TV or mobile phones."
+    },
+    {
+      "q": "What is Elizabeth O'Shea's most important piece of advice?",
+      "options": [
+        "Keep children busy every minute",
+        "See the time at home as an opportunity",
+        "Let children decide everything",
+        "Follow the school timetable exactly"
+      ],
+      "answer": 1,
+      "why": "She says, “The most important thing is see this as an opportunity.”"
+    },
+    {
+      "q": "What can parents teach children during this time, according to Elizabeth?",
+      "options": [
+        "How to use computers and the internet safely",
+        "Skills for coping with difficulties in the future",
+        "How to cook healthy meals for the whole family",
+        "Foreign languages, using apps and online videos"
+      ],
+      "answer": 1,
+      "why": "She says parents can teach their children amazing coping skills for dealing with future difficulties."
+    },
+    {
+      "q": "What does Elizabeth O'Shea suggest instead of recreating a classroom at home?",
+      "options": [
+        "Working as a team with children to decide what to do",
+        "Hiring an online tutor for a few hours every day",
+        "Letting children play video games whenever they want",
+        "Giving children short tests every day to check progress"
+      ],
+      "answer": 0,
+      "why": "Georgina says it might be better to work as a team and decide together what you'd like to do."
+    },
+    {
+      "q": "When does Elizabeth recommend having some quiet downtime?",
+      "options": [
+        "Early in the morning",
+        "Before bedtime",
+        "Only at weekends",
+        "Usually after lunch"
+      ],
+      "answer": 3,
+      "why": "She says to include a nice chunk of time, normally after lunch, for quiet reading or play."
+    },
+    {
+      "q": "Why does Elizabeth mention pillow fights?",
+      "options": [
+        "As a way to punish children for bad behaviour",
+        "As a fun game to fill the whole afternoon",
+        "As a good way to release stress when things go wrong",
+        "As something parents should stop before it gets rough"
+      ],
+      "answer": 2,
+      "why": "She calls pillow fights 'a great way to let off steam'."
+    }
+  ]
+}

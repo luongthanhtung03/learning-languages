@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The world record for staying awake the longest",
+        "Why listening to podcasts helps people fall asleep",
+        "An expert's advice for people who can't sleep",
+        "How many hours of sleep adults and children need"
+      ],
+      "answer": 2,
+      "why": "They discuss insomnia and Dr Michael Grandner's best tip for getting to sleep."
+    },
+    {
+      "q": "Why does Rob look tired?",
+      "options": [
+        "He has had chronic insomnia for years",
+        "He was working on a project all night",
+        "He was reading trivia on his phone until 3am",
+        "He tossed and turned all night and couldn't sleep"
+      ],
+      "answer": 3,
+      "why": "He says he was tossing and turning all night."
+    },
+    {
+      "q": "What does Dr Grandner advise if you can't sleep?",
+      "options": [
+        "Get out of bed",
+        "Stay in bed and close your eyes",
+        "Take sleeping pills",
+        "Drink some warm milk"
+      ],
+      "answer": 0,
+      "why": "He says, 'If you cannot sleep, get out of bed.'"
+    },
+    {
+      "q": "Why does Dr Grandner say 'trust me' about his advice?",
+      "options": [
+        "He has only just discovered it in a new study",
+        "It sounds wrong, but decades of data support it",
+        "He tried it himself last night and it worked well",
+        "Most other doctors strongly disagree with him"
+      ],
+      "answer": 1,
+      "why": "He says it sounds counter-intuitive, but he has decades of data behind it."
+    },
+    {
+      "q": "What happens if you often lie awake in bed, according to Dr Grandner?",
+      "options": [
+        "Your body slowly gets used to having less sleep",
+        "You fall asleep much faster the next night",
+        "The bed's power to make you sleep gets weaker",
+        "You start to dream more and wake up tired"
+      ],
+      "answer": 2,
+      "why": "He says 'the ability of the bed to put you to sleep starts getting diluted'."
+    },
+    {
+      "q": "What starts to replace sleep in bed, according to Dr Grandner?",
+      "options": [
+        "Reading books and watching TV shows",
+        "Thinking, tossing and turning, and worrying",
+        "Eating snacks and drinking hot drinks",
+        "Talking on the phone and checking emails"
+      ],
+      "answer": 1,
+      "why": "He says it 'starts getting replaced by thinking, and tossing and turning, and worrying'."
+    },
+    {
+      "q": "How effective does Dr Grandner say his advice is?",
+      "options": [
+        "It doesn't always work, but works more than you'd think",
+        "It works every time, for every single patient",
+        "It only works for children and young teenagers",
+        "It rarely works, so sleeping pills are usually better"
+      ],
+      "answer": 0,
+      "why": "He says it won't work 100% of the time, but more than most people think."
+    },
+    {
+      "q": "What does Neil do when he can't sleep?",
+      "options": [
+        "Listens to podcasts",
+        "Goes for a walk",
+        "Watches TV",
+        "Gets up and reads trivia"
+      ],
+      "answer": 3,
+      "why": "He says, 'when I can't sleep, I get up and read trivia!'"
+    }
+  ]
+}

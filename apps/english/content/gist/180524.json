@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How long it takes to travel to Mars",
+        "Why men walked on the Moon first",
+        "How to grow plants and food in space on long journeys",
+        "Women in space and the first person on Mars"
+      ],
+      "answer": 3,
+      "why": "Neil says the programme is about the women who want to be the first to set foot on the red planet."
+    },
+    {
+      "q": "How does Rob describe his long flight to Australia and New Zealand?",
+      "options": [
+        "Boring and cramped, but he loved the destination",
+        "Exciting and comfortable",
+        "Short and easy",
+        "Frightening because of the bad weather during the flight"
+      ],
+      "answer": 0,
+      "why": "Rob says it was pretty boring and cramped on the plane, 'but I loved it when I got there'."
+    },
+    {
+      "q": "What happened at NASA in 2016?",
+      "options": [
+        "The first woman walked in space",
+        "A third of workers were women for the first time",
+        "Equal numbers of women and men joined as astronaut trainees",
+        "NASA stopped recruiting men"
+      ],
+      "answer": 2,
+      "why": "Rob says 2016 was the first year equal numbers of women and men joined as astronaut trainees."
+    },
+    {
+      "q": "What did Karen Nyberg hope when she was selected as an astronaut in 2000?",
+      "options": [
+        "To be the very first person to walk on the planet Mars",
+        "That her group might be the next to go to the Moon",
+        "To live on the space station for a year",
+        "To become NASA's first female pilot"
+      ],
+      "answer": 1,
+      "why": "She says she thought 'we would be the ones, the next to go to the Moon'."
+    },
+    {
+      "q": "How does Karen Nyberg feel about not going to the Moon?",
+      "options": [
+        "Angry with NASA for choosing other people",
+        "Relieved",
+        "She doesn't care",
+        "Disappointed, but she understands"
+      ],
+      "answer": 3,
+      "why": "She calls it 'unfortunate', which Rob explains means disappointed but perhaps understanding why."
+    },
+    {
+      "q": "What does Rob think astronauts are really like?",
+      "options": [
+        "Mainly spaceship pilots",
+        "More like scientists doing experiments",
+        "Mostly engineers who fix machines",
+        "Tourists who enjoy travel"
+      ],
+      "answer": 1,
+      "why": "Rob says 'really I think they are much more like scientists, carrying out different experiments'."
+    },
+    {
+      "q": "Why does Neil mention growing food on Mars?",
+      "options": [
+        "To show why a plant scientist like Gioia Massa matters",
+        "To say that Mars has good soil",
+        "To joke about Rob's cooking",
+        "To show that the mission is impossible without better food"
+      ],
+      "answer": 0,
+      "why": "He says a base on Mars would need food, so people with those skills, like Gioia Massa."
+    },
+    {
+      "q": "What does Gioia Massa say about her own abilities?",
+      "options": [
+        "She was the best at maths in her class",
+        "She is good at every part of her job, including maths",
+        "She was weak at maths and handwriting, but good with plants",
+        "She wanted to be a pilot but failed"
+      ],
+      "answer": 2,
+      "why": "She says she wasn't as great in math, her handwriting is terrible, but 'plants were my strength'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to bake the perfect biscuit at home",
+        "Why biscuits are bad for your health",
+        "The best biscuits to eat with tea",
+        "The history and name of biscuits"
+      ],
+      "answer": 3,
+      "why": "Neil says they'll look at the origins and the language of this humble snack."
+    },
+    {
+      "q": "What kind of biscuits does Rob prefer?",
+      "options": [
+        "Soft, savoury ones that go well with cheese",
+        "Sweet, crunchy ones good for dipping in tea",
+        "Plain, hard ones without any sugar",
+        "Ones filled with pistachio or chocolate cream"
+      ],
+      "answer": 1,
+      "why": "Rob prefers sweet ones that are crisp, crunchy and good for dunking in tea."
+    },
+    {
+      "q": "According to Dr Laura Wright, what does the original Latin word mean?",
+      "options": [
+        "Sweet bread",
+        "Small cake",
+        "Twice cooked",
+        "Food for the sea"
+      ],
+      "answer": 2,
+      "why": "She says it comes from Latin 'biscoctum' – twice cooked."
+    },
+    {
+      "q": "Why were early biscuits good for long sea journeys?",
+      "options": [
+        "They were dry, so they lasted a long time",
+        "They were sweet and gave sailors energy",
+        "They were cheap to buy in France",
+        "They didn't break easily"
+      ],
+      "answer": 0,
+      "why": "The bread was cooked twice to remove moisture, so it stayed fit for consumption for a long time."
+    },
+    {
+      "q": "What happened to the spelling of 'biscuit' in the 1800s?",
+      "options": [
+        "It was spelt like the original Latin word",
+        "It was changed to 'cookie', like in America",
+        "It became 'bisket', the old English spelling",
+        "People started using the French spelling"
+      ],
+      "answer": 3,
+      "why": "Dr Wright says in the 1800s people started to prefer the French spelling."
+    },
+    {
+      "q": "According to Anastasia Edwards, how did the Industrial Revolution change mealtimes?",
+      "options": [
+        "People ate only one large meal a day in the evening",
+        "People stopped eating breakfast before going to work",
+        "Breakfast became earlier and the evening meal later",
+        "Lunch became much less important than it used to be"
+      ],
+      "answer": 2,
+      "why": "She says by the end of the Industrial Revolution breakfast was earlier and the evening meal later."
+    },
+    {
+      "q": "Why were biscuits a good choice to fill this gap, according to Anastasia Edwards?",
+      "options": [
+        "They were small, ready, cheap and gave quick energy",
+        "They were much healthier than bread and cakes",
+        "They were only sold in the factories where people worked",
+        "They could replace dinner completely for tired workers"
+      ],
+      "answer": 0,
+      "why": "She says they were small, ready, easily consumable, not expensive and gave a sugar rush."
+    },
+    {
+      "q": "What does Neil suggest when he says we should eat biscuits 'in moderation – Rob!'?",
+      "options": [
+        "Rob doesn't like biscuits",
+        "Rob probably eats too many biscuits",
+        "Rob should bake his own biscuits",
+        "Rob only eats healthy snacks"
+      ],
+      "answer": 1,
+      "why": "He adds Rob's name as a joke, and Rob replies that a packet a day is fine."
+    }
+  ]
+}

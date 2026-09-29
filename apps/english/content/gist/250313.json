@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people in Britain prefer bread to rice",
+        "The different types of rice around the world",
+        "The importance of rice and a new way to grow it with less water",
+        "How to cook rice without wasting water"
+      ],
+      "answer": 2,
+      "why": "They discuss rice as a staple food and a new technique helping farmers grow it in a changing climate."
+    },
+    {
+      "q": "What kind of food does Neil often eat?",
+      "options": [
+        "Basic filling food like bread and potatoes",
+        "Mostly rice dishes",
+        "Lots of fresh fruit and vegetables from the market",
+        "Mainly meat and fish"
+      ],
+      "answer": 0,
+      "why": "Neil says he eats basic things that fill him up, like bread and potatoes."
+    },
+    {
+      "q": "Why is growing rice becoming a problem?",
+      "options": [
+        "Fewer people want to eat it",
+        "It needs lots of water, and climate change brings droughts and floods",
+        "Farmers are moving to cities",
+        "It is too expensive to sell because farmers have to pay so much for land"
+      ],
+      "answer": 1,
+      "why": "Neil says rice is a 'thirsty' crop, and droughts and flooding caused by climate change are a problem."
+    },
+    {
+      "q": "According to Dr Yvonne Pinto, how many people rely on rice as their main food?",
+      "options": [
+        "About one billion",
+        "About two billion",
+        "Almost everyone in the world",
+        "About four billion"
+      ],
+      "answer": 3,
+      "why": "She says 50 to 56 percent of the world, 'roughly about four billion people', rely on rice."
+    },
+    {
+      "q": "Where does Dr Pinto say the demand for rice is increasing?",
+      "options": [
+        "Only in South Asia and Southeast Asia",
+        "In North America",
+        "In Australia",
+        "In continents like Africa"
+      ],
+      "answer": 3,
+      "why": "She says 'increasingly the appetite for it is growing in continents like Africa'."
+    },
+    {
+      "q": "How does the AWD technique work?",
+      "options": [
+        "Fields are flooded all the time",
+        "Pipes show water levels, so farmers need fewer flooding cycles",
+        "Rice is grown indoors without soil",
+        "Farmers plant a new variety of rice every month to see which grows best"
+      ],
+      "answer": 1,
+      "why": "Pipes placed 15cm underground show water levels, reducing flooding cycles from 25 to 20."
+    },
+    {
+      "q": "According to Jean-Philippe Laborde, why was it hard to persuade farmers to try AWD?",
+      "options": [
+        "They were afraid of losing money",
+        "They didn't have enough water",
+        "They didn't trust foreign companies",
+        "The pipes were too expensive"
+      ],
+      "answer": 0,
+      "why": "He says the main challenge was farmers' 'apprehension to lose revenues'."
+    },
+    {
+      "q": "What were the results of using AWD?",
+      "options": [
+        "More water was used than before, but farmers grew much more rice",
+        "Methane went up, but costs went down",
+        "Less water, electricity and methane, and more rice",
+        "The rice tasted better, but there was less of it"
+      ],
+      "answer": 2,
+      "why": "Beth says water, electricity and methane decreased, and the amount of rice increased."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The highest restaurants in the world",
+        "What happens to the tips we give in restaurants",
+        "How to become a waiter in a good restaurant",
+        "Why restaurant food has become so expensive"
+      ],
+      "answer": 1,
+      "why": "Sam says the programme is about tipping, and asks where that money goes and who receives it."
+    },
+    {
+      "q": "What does Neil say about tipping in the UK?",
+      "options": [
+        "It is against the law in most places",
+        "It is only expected in expensive restaurants",
+        "It must always be paid in cash",
+        "It's a choice, but people usually expect it"
+      ],
+      "answer": 3,
+      "why": "He says tipping is discretionary, but in most places in the UK it's an expected practice."
+    },
+    {
+      "q": "What do some people wrongly believe about tips?",
+      "options": [
+        "That the person who served them gets the money",
+        "That the money goes to the government",
+        "That the chef keeps all the money",
+        "That tips are added to the price of food"
+      ],
+      "answer": 0,
+      "why": "Neil says some think the person who brought our food gets the money, 'however that isn't always the case'."
+    },
+    {
+      "q": "What is James James's opinion of restaurant tipping systems?",
+      "options": [
+        "They are all the same and work well",
+        "They are fair to kitchen staff only",
+        "They differ, but they're all unfair",
+        "They are better than they used to be"
+      ],
+      "answer": 2,
+      "why": "He says there's nothing consistent about them, 'and they're all unfair in their own equal way'."
+    },
+    {
+      "q": "According to James, what do customers tip for?",
+      "options": [
+        "The quality of the food",
+        "The service he gives",
+        "The price of the meal",
+        "The nice restaurant"
+      ],
+      "answer": 1,
+      "why": "He says he has to earn a tip for the service he provides; 'people don't tip for good food'."
+    },
+    {
+      "q": "What does James's story about the tip jar show?",
+      "options": [
+        "The other servers earned much less than him",
+        "Customers had stopped leaving cash tips",
+        "The restaurant had lost all the money",
+        "He got back far less than he put in"
+      ],
+      "answer": 3,
+      "why": "He put £50 in the jar in his first week, but at the end of the week he was given £2.45."
+    },
+    {
+      "q": "How does a tronc system work?",
+      "options": [
+        "Tips go into a separate independent bank account",
+        "Each waiter keeps the tips from their own tables",
+        "Managers decide who gets tips each week",
+        "Customers pay their tips directly to the tax office"
+      ],
+      "answer": 0,
+      "why": "Sam says tips are collected in one separate independent bank account, avoiding the wrong rate of tax."
+    },
+    {
+      "q": "According to Kate Nicholls, why are troncs becoming more important?",
+      "options": [
+        "Because restaurants are paying lower wages",
+        "Because customers are leaving bigger tips",
+        "More tips are now paid by card, not cash",
+        "Because the tax office has changed the rules"
+      ],
+      "answer": 2,
+      "why": "She says as we move towards a cashless society, more tips are coming through on card payments."
+    }
+  ]
+}

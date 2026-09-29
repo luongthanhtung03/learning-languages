@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How toys help children learn at school",
+        "Why toys have become too expensive for parents",
+        "The growing number of adults who buy children's toys for themselves",
+        "How to make soft toys from leather"
+      ],
+      "answer": 2,
+      "why": "They discuss the trend of 'kidults' – adults who buy kids' toys for themselves."
+    },
+    {
+      "q": "What happened to the toys Phil had as a boy?",
+      "options": [
+        "He gave them to his children",
+        "He sold them online",
+        "He still plays with them",
+        "He lost them all when he moved house"
+      ],
+      "answer": 0,
+      "why": "Phil says he has a couple, but he gave them to his kids."
+    },
+    {
+      "q": "What share of the toy market do adults buying toys for themselves make up?",
+      "options": [
+        "Around 10%",
+        "Between 30 and 40%",
+        "More than half of it",
+        "About 15 to 20%"
+      ],
+      "answer": 1,
+      "why": "Beth says estimates suggest they account for between 30 and 40% of the toy market."
+    },
+    {
+      "q": "Which toys were among the most popular with American kidults?",
+      "options": [
+        "Building bricks",
+        "Video games",
+        "Model cars, trains and planes",
+        "Soft toys made from cloth"
+      ],
+      "answer": 3,
+      "why": "Phil says plush toys, or plushies, were among the most popular."
+    },
+    {
+      "q": "When did toy maker Lisa Lee start buying soft toys again?",
+      "options": [
+        "When her own children were born",
+        "During the Covid lockdowns",
+        "When she started making videos for her YouTube channel",
+        "Once she had a steady job and some spare money"
+      ],
+      "answer": 3,
+      "why": "She says she rediscovered her love for soft toys once she had a stable job with disposable income."
+    },
+    {
+      "q": "What do toys mean to Lisa Lee?",
+      "options": [
+        "They are mainly a way to make money",
+        "They bring her joy and help her reconnect with her childhood",
+        "They remind her of a difficult time",
+        "They are useful in her job as a teacher of young children in Vancouver"
+      ],
+      "answer": 1,
+      "why": "She says toys bring her happiness and are part of 'reconnecting with my childhood'."
+    },
+    {
+      "q": "According to collector Jay Glatfelter, what happened to toy prices during the pandemic?",
+      "options": [
+        "Prices on the second-hand market rose sharply",
+        "Prices fell because shops were closed",
+        "Prices stayed the same as before",
+        "New toys became cheaper than old collectable ones"
+      ],
+      "answer": 0,
+      "why": "He says secondary market prices seemed to 'explode once the pandemic happened'."
+    },
+    {
+      "q": "Why, according to Jay, did so many new collectors appear during the pandemic?",
+      "options": [
+        "Toy companies gave away free samples",
+        "Children asked their parents to collect toys with them during the lockdowns",
+        "People had free time and money they weren't spending on going out",
+        "Influencers were paid to promote toys"
+      ],
+      "answer": 2,
+      "why": "He says people had time on their hands and extra money because they weren't going out."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to save enough money to buy your first house",
+        "Why people in the UK have so little money saved",
+        "How the meaning of 'thrift' has changed over time",
+        "The dangers of borrowing money from banks"
+      ],
+      "answer": 2,
+      "why": "The programme is all about 'thrift' and its changing meanings through history."
+    },
+    {
+      "q": "Why is Sam trying to limit his spending?",
+      "options": [
+        "He is saving for a house deposit",
+        "He has lost his job",
+        "He wants to go on holiday",
+        "He is paying back a loan"
+      ],
+      "answer": 0,
+      "why": "Sam says he is saving up for a deposit to buy a house."
+    },
+    {
+      "q": "According to Alison Hulme, what did the oldest meaning of 'thrift' describe?",
+      "options": [
+        "Being careful with money",
+        "Giving money to the poor",
+        "Working hard every day",
+        "Living well and flourishing"
+      ],
+      "answer": 3,
+      "why": "She says the older definition comes from 'thrive' and meant the ability to live well and flourish."
+    },
+    {
+      "q": "Why did the Puritans think people should save money?",
+      "options": [
+        "To become rich",
+        "To give to others in need",
+        "To pay for wars",
+        "To buy land"
+      ],
+      "answer": 1,
+      "why": "Neil says they believed people ought to save money in order to give to others in need."
+    },
+    {
+      "q": "What was thrift connected to in the Victorian era?",
+      "options": [
+        "Avoiding waste to help the country's war effort",
+        "A religious duty to give money to the church",
+        "Managing your money to be a responsible citizen",
+        "Buying expensive luxury products to show wealth"
+      ],
+      "answer": 2,
+      "why": "Sam says it was about managing your own money in order to be a responsible citizen."
+    },
+    {
+      "q": "How did ideas about thrift change during the Second World War?",
+      "options": [
+        "People were asked to avoid waste to help the war",
+        "People were told to spend more to help shops",
+        "Saving money in a bank became illegal for a time",
+        "Thrift was no longer discussed in newspapers"
+      ],
+      "answer": 0,
+      "why": "Sam says the public was encouraged to avoid waste so every resource could go into the war effort."
+    },
+    {
+      "q": "What view does Alison Hulme NOT fully agree with?",
+      "options": [
+        "That consumer capitalism exists in the developed world",
+        "That thrift has several different definitions today",
+        "That the Puritans valued frugality and hard work",
+        "That people slid morally into consumerism"
+      ],
+      "answer": 3,
+      "why": "She describes the 'moral slide into consumerism' idea and says, “It's not a view that I subscribe to.”"
+    },
+    {
+      "q": "What is Alison Hulme's conclusion about thrift today?",
+      "options": [
+        "It has disappeared completely from modern life",
+        "It hasn't declined, even though consumerism has grown",
+        "It only exists among a few religious groups today",
+        "It is stronger than ever before in rich countries"
+      ],
+      "answer": 1,
+      "why": "She says there's been a rise in consumer capitalism, 'but thrift hasn't declined.'"
+    }
+  ]
+}

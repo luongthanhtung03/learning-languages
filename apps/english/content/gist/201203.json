@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people text instead of talking, and what we lose",
+        "How to write and send text messages more quickly",
+        "Why teenagers spend too much money on their phones",
+        "How modern poets use mobile phones in their work"
+      ],
+      "answer": 0,
+      "why": "Neil says they'll investigate why people choose to text instead of talk and how it changes how we interact."
+    },
+    {
+      "q": "What happens at the very start of the programme?",
+      "options": [
+        "Neil ignores Georgina to answer a call",
+        "Georgina's phone runs out of battery",
+        "Georgina is too busy texting to listen to Neil",
+        "Neil sends Georgina a funny message"
+      ],
+      "answer": 2,
+      "why": "Georgina keeps saying 'just a second' because she is texting a friend while Neil tries to talk."
+    },
+    {
+      "q": "Why is texting popular, according to Neil?",
+      "options": [
+        "It is cheaper than phone calls",
+        "It is better for older people",
+        "It helps people learn to spell",
+        "People like to control what they say"
+      ],
+      "answer": 3,
+      "why": "Neil says the popularity is understandable because people like to be in control of what they say."
+    },
+    {
+      "q": "What point does Professor Sophie Scott make with the phrase “Oh shut up!”?",
+      "options": [
+        "It is always rude, however and wherever you say it",
+        "Its meaning depends on tone, which a text can't show",
+        "Young people use it far more often than adults do",
+        "It sounds much funnier in writing than in speech"
+      ],
+      "answer": 1,
+      "why": "She says it can be funny or aggressive depending on how it's said, but written down it's just aggressive."
+    },
+    {
+      "q": "Besides intention, what other information does speech give us, according to Georgina?",
+      "options": [
+        "The speaker's age, gender and region",
+        "The speaker's job and income",
+        "Where the speaker is at that moment",
+        "How tired the speaker is"
+      ],
+      "answer": 0,
+      "why": "She says speech conveys information from the speaker's age and gender to the region they're from."
+    },
+    {
+      "q": "What problem does poet Gary Turk describe?",
+      "options": [
+        "Texts often get sent to the wrong person by mistake",
+        "People type too slowly on small phone screens to chat",
+        "If a text comes mid-conversation, someone is let down",
+        "Phones make it harder for people to meet new friends"
+      ],
+      "answer": 2,
+      "why": "He says whether you answer the text or keep talking, 'you're going to disappoint somebody.'"
+    },
+    {
+      "q": "What does Gary Turk mean when he talks about treading on mines?",
+      "options": [
+        "Using phones while walking is dangerous",
+        "Phones can explode if they get too hot",
+        "Texting is a safe way to avoid arguments",
+        "Phone communication is full of hidden problems"
+      ],
+      "answer": 3,
+      "why": "Georgina explains that it means a situation full of hidden problems and dangers."
+    },
+    {
+      "q": "Why does Georgina ask Neil if he is “still upset”?",
+      "options": [
+        "He lost the quiz to her earlier in the programme",
+        "She ignored him to text her friend at the start",
+        "She forgot to reply to the message he sent her",
+        "He dropped his phone and broke the screen"
+      ],
+      "answer": 1,
+      "why": "Neil says it's easy to get annoyed when someone ignores you to text a friend, which Georgina did earlier."
+    }
+  ]
+}

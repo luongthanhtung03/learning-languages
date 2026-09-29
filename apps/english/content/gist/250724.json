@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How individuals can recycle more at home",
+        "The idea of shrinking parts of the economy to fight climate change",
+        "Why economies grow faster in some countries",
+        "How new technology is creating more jobs"
+      ],
+      "answer": 1,
+      "why": "Phil and Hannah discuss degrowth – the idea that we should stop economies growing to tackle the climate crisis."
+    },
+    {
+      "q": "What does Phil say about his own habits?",
+      "options": [
+        "He never drives and always recycles",
+        "He thinks individuals can't do anything useful, so he doesn't try",
+        "He has stopped buying new clothes",
+        "He cycles and recycles, but feels he should do more"
+      ],
+      "answer": 3,
+      "why": "Phil says he cycles more than he drives and recycles, but 'should be doing a lot more'."
+    },
+    {
+      "q": "According to Hannah, what do some people think about dealing with climate change?",
+      "options": [
+        "We must change how the economy works, not just rely on individuals",
+        "Individuals should do everything themselves",
+        "Governments should leave it to scientists",
+        "It will be solved naturally by economic growth and by new technology"
+      ],
+      "answer": 0,
+      "why": "She says we can't just rely on individuals and need to change the way our economy works."
+    },
+    {
+      "q": "What have governments traditionally wanted?",
+      "options": [
+        "To reduce the number of jobs",
+        "To use fewer of the Earth's natural resources and make less stuff",
+        "To grow the economy with more money, jobs and goods",
+        "To stop people buying cheap clothes"
+      ],
+      "answer": 2,
+      "why": "Hannah says governments have always wanted to grow the economy: 'more money, more jobs and more stuff'."
+    },
+    {
+      "q": "According to journalist Alvaro Alvarez, what does degrowth really mean?",
+      "options": [
+        "Reducing everything we make and buy by about half over ten years",
+        "Stopping all production of food",
+        "Closing all factories in rich countries",
+        "Cutting only the kinds of production that aren't useful"
+      ],
+      "answer": 3,
+      "why": "He says it's not about reducing everything, but decreasing elements of production that are not beneficial."
+    },
+    {
+      "q": "Which example does Alvaro NOT give of something degrowth would reduce?",
+      "options": [
+        "Public transport",
+        "Fast fashion",
+        "Private jets",
+        "The beef and meat industry"
+      ],
+      "answer": 0,
+      "why": "His examples are fast fashion, private jets and the beef and meat industry."
+    },
+    {
+      "q": "Why does Hannah say 'before we go any further' and mention economists?",
+      "options": [
+        "To show that most economists now strongly support the idea of degrowth",
+        "To explain how degrowth started",
+        "To make it clear that many experts disagree with the idea",
+        "To introduce a new solution to poverty"
+      ],
+      "answer": 2,
+      "why": "She points out that many economists don't think degrowth is a good idea and say it could create more poverty."
+    },
+    {
+      "q": "What is Professor Sam Fankhauser's main criticism of degrowth?",
+      "options": [
+        "It would make fashion too expensive",
+        "It doesn't value new technology and investment enough",
+        "It is far too similar to what governments are already doing today",
+        "It focuses too much on individuals"
+      ],
+      "answer": 1,
+      "why": "He says degrowth underestimates the power of innovation and the need for investment in new technology."
+    }
+  ]
+}

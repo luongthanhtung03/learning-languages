@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to design a beautiful home",
+        "Why children are always untidy",
+        "How to sell unwanted things online",
+        "Why clutter affects us and how to get rid of it"
+      ],
+      "answer": 3,
+      "why": "They discuss the problem of clutter and hear advice on decluttering your home."
+    },
+    {
+      "q": "What did the Woman's Hour listener say in her message?",
+      "options": [
+        "She loves collecting things and says clutter has never been a problem",
+        "Clutter is harming her mental health, so she's giving herself a week",
+        "She paid a professional to tidy her house",
+        "She throws everything away at 4 a.m. every day"
+      ],
+      "answer": 1,
+      "why": "She says clutter is affecting her mental health, woke her at 4 a.m., and she's given herself a week."
+    },
+    {
+      "q": "What does Neil say about clutter in his home?",
+      "options": [
+        "He is the untidiest person in his family and leaves things everywhere",
+        "He enjoys having lots of things around",
+        "His children make a mess everywhere and it annoys him",
+        "He recently threw everything away"
+      ],
+      "answer": 2,
+      "why": "Neil lives with children, says there is clutter everywhere, and 'it drives me mad'."
+    },
+    {
+      "q": "How does Georgie describe herself?",
+      "options": [
+        "As a minimalist who doesn't own much",
+        "As someone who can't throw things away",
+        "As a professional organiser",
+        "As someone who tidies every morning"
+      ],
+      "answer": 0,
+      "why": "Georgie says she's a minimalist and doesn't have very much stuff."
+    },
+    {
+      "q": "According to TV judge Michelle Ogundehin, why can clutter make us tired?",
+      "options": [
+        "Our brains have to work extra hard to process the mess around us",
+        "We spend too much of our free time cleaning and tidying it every day",
+        "It stops us sleeping at night",
+        "It makes our homes too hot"
+      ],
+      "answer": 0,
+      "why": "She says our brains are constantly processing our surroundings, so they 'work overtime' in chaos."
+    },
+    {
+      "q": "Which reasons are given for why people put off decluttering?",
+      "options": [
+        "It's expensive and needs special tools",
+        "Their families won't let them",
+        "It takes time and deciding what to keep is emotional",
+        "They don't know where to take the rubbish or who can collect it"
+      ],
+      "answer": 2,
+      "why": "Georgie says it takes time and it can be emotionally disturbing deciding what to keep."
+    },
+    {
+      "q": "What is organiser Ingrid Jansen's main advice?",
+      "options": [
+        "Clear the whole house in one weekend",
+        "Do it slowly, one drawer or cupboard at a time",
+        "Ask a friend or relative to decide what you should throw away",
+        "Buy more storage boxes first"
+      ],
+      "answer": 1,
+      "why": "She says you have to declutter 'slowly but surely: one drawer, one cupboard at a time'."
+    },
+    {
+      "q": "Why does Ingrid describe people who try to sort out a whole room in one weekend?",
+      "options": [
+        "To show that this is the quickest method",
+        "To praise their energy and enthusiasm",
+        "To explain why weekends are the best time to do this kind of job",
+        "To show that doing too much at once often makes more chaos"
+      ],
+      "answer": 3,
+      "why": "She says after two hours they find 'more chaos than there was before'."
+    }
+  ]
+}

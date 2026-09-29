@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people should stop buying plastic bottles",
+        "A new way of recycling plastic using enzymes",
+        "How plastic reached the top of Mount Everest",
+        "Why landfill is the best way to deal with waste"
+      ],
+      "answer": 1,
+      "why": "Beth says they'll hear about chemical recycling, a groundbreaking way of making old plastic new again."
+    },
+    {
+      "q": "Where does Neil say microparticles of plastic have recently been found?",
+      "options": [
+        "Only in the oceans",
+        "Inside people's homes",
+        "In fresh rainwater in cities",
+        "At the top of Mount Everest"
+      ],
+      "answer": 3,
+      "why": "He says “At the top of Mount Everest!”, though Beth's guesses are also true."
+    },
+    {
+      "q": "What happens to most plastic waste around the world?",
+      "options": [
+        "Less than 10% is recycled and about half goes to landfill",
+        "Most of it is recycled",
+        "Almost all of it is burnt",
+        "It is sent back to the companies that made it, to be reused"
+      ],
+      "answer": 0,
+      "why": "Neil says less than 10% gets recycled and about half goes straight to landfill."
+    },
+    {
+      "q": "What problem with mechanical recycling does William Kremer describe?",
+      "options": [
+        "It is much too expensive for most poorer countries around the world",
+        "It releases dangerous gases",
+        "The plastic loses quality and becomes more brittle each time",
+        "It only works on drinks bottles"
+      ],
+      "answer": 2,
+      "why": "He says it loses a bit of quality each time and becomes slightly more brittle."
+    },
+    {
+      "q": "How does chemical recycling work?",
+      "options": [
+        "Plastic is melted down and pressed into new shapes and forms",
+        "Plastic is buried with special leaves",
+        "Plastic is burnt to produce energy",
+        "Enzymes break plastic into basic parts to make new plastic"
+      ],
+      "answer": 3,
+      "why": "Beth says enzymes break plastic into its basic building blocks, used to make new plastic."
+    },
+    {
+      "q": "Where did researcher Sintawee Sulaiman find the LCC microorganism?",
+      "options": [
+        "In the sea near Osaka",
+        "In a pile of rotting leaves in a park",
+        "Inside an old plastic bottle in her lab",
+        "In a rubbish dump"
+      ],
+      "answer": 1,
+      "why": "On an autumn walk in the park, she found it in a pile of rotting leaves."
+    },
+    {
+      "q": "What does William Kremer mean when he says the discovery was “not the end of the story but the beginning”?",
+      "options": [
+        "LCC was already ready to be used in factories around the world",
+        "The discovery was a mistake",
+        "LCC was promising but needed much more development",
+        "Scientists lost interest in LCC"
+      ],
+      "answer": 2,
+      "why": "He says LCC showed promise but needed a lot more work to become stable and effective."
+    },
+    {
+      "q": "What do scientists in France plan to do by 2025?",
+      "options": [
+        "Recycle 50,000 tonnes of plastic waste a year",
+        "Recycle all of the world's plastic waste every year",
+        "Stop producing nylon clothes",
+        "Ban PET drinks bottles"
+      ],
+      "answer": 0,
+      "why": "Neil says they plan to recycle 50 thousand tonnes of plastic waste annually."
+    }
+  ]
+}

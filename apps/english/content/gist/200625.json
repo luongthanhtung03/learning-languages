@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to get a job at a big technology company",
+        "Why millennials start businesses, and if it helps",
+        "The history of the Nobel Peace Prize and its winners",
+        "How TV shows teach young people about business"
+      ],
+      "answer": 1,
+      "why": "Rob says they'll look at why millennials start businesses and whether this makes the world better."
+    },
+    {
+      "q": "What does Sam like about starting a business?",
+      "options": [
+        "Making lots of money quickly",
+        "Working with friends",
+        "Becoming famous",
+        "Being her own boss"
+      ],
+      "answer": 3,
+      "why": "Sam says, “I like the idea of being my own boss.”"
+    },
+    {
+      "q": "What are some millennials unhappy about?",
+      "options": [
+        "Having to work from home without their friends",
+        "The rising cost of going to university",
+        "How big business uses social media data and harms society",
+        "The lack of good TV shows about business and money"
+      ],
+      "answer": 2,
+      "why": "Sam mentions how big business uses social media data and companies' negative impact on society and the environment."
+    },
+    {
+      "q": "According to Ethan Mollick, why is it easier to start a business now?",
+      "options": [
+        "New platforms like crowdfunding, and lower costs",
+        "Banks lend money much more easily than before",
+        "Governments give free money to young people",
+        "There are fewer big companies to compete with"
+      ],
+      "answer": 0,
+      "why": "He mentions platforms and crowdfunding, and says the cost of launching businesses dropped."
+    },
+    {
+      "q": "What used to be one of the main problems in starting a business?",
+      "options": [
+        "Finding good staff",
+        "Getting the large amount of money needed",
+        "Finding an office",
+        "Getting permission from the government"
+      ],
+      "answer": 1,
+      "why": "Rob says one of the main problems used to be getting the large amounts of money needed."
+    },
+    {
+      "q": "What is Charles Kenny's view?",
+      "options": [
+        "Only businesses can really solve the world's big problems",
+        "Governments should stay out of the economy completely",
+        "Talented young people could do more good in government",
+        "Millennials should not start businesses of their own"
+      ],
+      "answer": 2,
+      "why": "He says the more committed, smart young people work in government, the better governments deliver services."
+    },
+    {
+      "q": "Why does Charles Kenny mention corrupt and inefficient governments?",
+      "options": [
+        "To say fixing them is one of the best ways to help",
+        "To warn millennials never to trust any politicians",
+        "To explain why so many new businesses fail early",
+        "To show that governments are always the real problem"
+      ],
+      "answer": 0,
+      "why": "He says in such places, one of the best ways to push development is to make that problem better."
+    },
+    {
+      "q": "According to Charles Kenny, how can problems like corrupt government be improved?",
+      "options": [
+        "By one brave individual",
+        "By foreign businesses",
+        "By crowdfunding",
+        "Through a collective effort"
+      ],
+      "answer": 3,
+      "why": "He says it's not something one individual can do; 'it has to be a collective effort'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How whales and dolphins live in the deep sea",
+        "If deep-sea mining helps or harms the planet",
+        "How electric car batteries are recycled",
+        "How to reflect sunlight back into space"
+      ],
+      "answer": 1,
+      "why": "They discuss deep-sea mining, which could provide metals but might damage ocean ecosystems."
+    },
+    {
+      "q": "Why are new ideas to fight climate change often controversial?",
+      "options": [
+        "They are far too expensive for poor countries",
+        "Politicians don't really understand them",
+        "Scientists disagree if they'd do more harm",
+        "Nobody wants to pay for them in the end"
+      ],
+      "answer": 2,
+      "why": "Neil says scientists disagree over whether they are possible and whether they could do more harm than good."
+    },
+    {
+      "q": "Why could deep-sea mining be useful?",
+      "options": [
+        "It could give metals for car batteries",
+        "It could provide more fish for the world",
+        "It could clean plastic out of the ocean",
+        "It could produce cheap oil and gas"
+      ],
+      "answer": 0,
+      "why": "It could provide copper, nickel and cobalt needed for electric car batteries and renewable energy."
+    },
+    {
+      "q": "According to Professor Bramley Murton, how much will electric car ownership increase?",
+      "options": [
+        "Three times",
+        "A hundred times",
+        "Ten times",
+        "Twenty-five times"
+      ],
+      "answer": 3,
+      "why": "He says electric car ownership is set to increase by a factor of 25."
+    },
+    {
+      "q": "Why does Professor Murton call the situation a paradox?",
+      "options": [
+        "It may harm the ocean but help the climate",
+        "Metals are cheap but very hard to find",
+        "Nobody really wants to drive electric cars",
+        "Solar power doesn't need any metals at all"
+      ],
+      "answer": 0,
+      "why": "Mining could damage the ocean, but it might provide the metals needed to decarbonise."
+    },
+    {
+      "q": "What is Helen Scales' main concern?",
+      "options": [
+        "Mining will be too slow to make a difference",
+        "Deep-sea mining will be far too expensive",
+        "It's seen as an easy fix so life can go on",
+        "There aren't enough nodules on the sea floor"
+      ],
+      "answer": 2,
+      "why": "She worries nodules are seen as a silver bullet so life can carry on pretty much as normal."
+    },
+    {
+      "q": "What does Helen think the current tests could lead to?",
+      "options": [
+        "A ban on all mining",
+        "Mining on a large commercial scale",
+        "New species being discovered",
+        "Cheaper electric cars"
+      ],
+      "answer": 1,
+      "why": "She says it's a slippery slope towards permission for mining on a commercial scale."
+    },
+    {
+      "q": "Do Professor Murton and Helen Scales agree about deep-sea mining?",
+      "options": [
+        "Yes, both strongly support it",
+        "Yes, both want it banned",
+        "They agree it's already happening everywhere",
+        "No, he sees it as needed, but she has serious doubts"
+      ],
+      "answer": 3,
+      "why": "He argues we need the metals to decarbonise, while Helen 'isn't convinced'."
+    }
+  ]
+}

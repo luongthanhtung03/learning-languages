@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to manage a heavy workload in the office",
+        "Why self-help books have become so popular",
+        "What resilience is and whether we can learn it",
+        "How young children learn best at school"
+      ],
+      "answer": 2,
+      "why": "Rob says they're discussing whether we're born with resilience or have to learn it."
+    },
+    {
+      "q": "How does Georgina show resilience at the start?",
+      "options": [
+        "She stays calm despite a pile of work",
+        "She refuses to do extra work",
+        "She asks Rob for help",
+        "She takes the day off"
+      ],
+      "answer": 0,
+      "why": "She says she has a pile of work but is remaining calm and not getting stressed."
+    },
+    {
+      "q": "What is the first level of resilience Dr David Westley describes?",
+      "options": [
+        "How much sleep we get",
+        "How optimistic we are",
+        "How we calm our nervous system",
+        "The social support around us"
+      ],
+      "answer": 3,
+      "why": "He says first there's our social supports: communities, families and organisations."
+    },
+    {
+      "q": "What do some experts think about people who ask for help?",
+      "options": [
+        "They are less resilient than quiet people",
+        "They may be acting in a more resilient way",
+        "They are too dependent on others",
+        "They need professional therapy"
+      ],
+      "answer": 1,
+      "why": "Rob says some experts think people who ask for help and use social support are more resilient."
+    },
+    {
+      "q": "What is the biological level of resilience, according to Dr Westley?",
+      "options": [
+        "How strong our muscles and bones are",
+        "Whether our parents and grandparents were resilient",
+        "How well we can calm ourselves down when upset",
+        "How healthy our diet is and how much we sleep"
+      ],
+      "answer": 2,
+      "why": "He says it's how well we can soothe ourselves and regulate our nervous systems at times of distress."
+    },
+    {
+      "q": "What did Professor Ann Masten find about resilience?",
+      "options": [
+        "We are all born with the same amount",
+        "It is something we learn when we need to",
+        "It cannot be changed after childhood",
+        "Only adults can develop it"
+      ],
+      "answer": 1,
+      "why": "Rob says she found it was something that we learn when we need to."
+    },
+    {
+      "q": "Who are the 'late bloomers' in Ann Masten's studies?",
+      "options": [
+        "Children who were resilient right from the start",
+        "Children who never managed to become resilient",
+        "Adults who went back to university to study psychology",
+        "Children who struggled at first but later coped well"
+      ],
+      "answer": 3,
+      "why": "Rob says they started off less resilient, struggled, but turned their lives around."
+    },
+    {
+      "q": "Why does Ann Masten say teachers and parents are important?",
+      "options": [
+        "Children learn how to handle problems by watching them",
+        "They can protect children from all of life's problems",
+        "They decide how resilient a child is when it's born",
+        "They should tell children to toughen up and stop crying"
+      ],
+      "answer": 0,
+      "why": "She says they're role models; children learn by seeing how adults react when challenged."
+    }
+  ]
+}

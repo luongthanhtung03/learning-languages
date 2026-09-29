@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Mosquitoes and dengue spreading as it warms",
+        "Why young children often get high fevers",
+        "How to protect your house from insects",
+        "The history of malaria in Africa and Asia"
+      ],
+      "answer": 0,
+      "why": "They look at mosquitoes spreading to new areas with warming temperatures, and the disease dengue."
+    },
+    {
+      "q": "How many people do mosquito-borne diseases kill each year?",
+      "options": [
+        "About 150,000",
+        "About one million children",
+        "Around three-quarters of a million",
+        "About five million"
+      ],
+      "answer": 2,
+      "why": "Neil says they kill around three-quarters of a million people globally every year."
+    },
+    {
+      "q": "According to Dr Dewi Iriani, when might a doctor suspect dengue?",
+      "options": [
+        "When a patient has only muscle aches and pains",
+        "When a patient has a bad cough for a week",
+        "When a child can't sleep because of the heat",
+        "When fever comes with red spots or lasts 3 days"
+      ],
+      "answer": 3,
+      "why": "She says red spots on the skin or a fever lasting three days suggest dengue."
+    },
+    {
+      "q": "What problem does Dr Iriani describe with parents?",
+      "options": [
+        "They don't know the critical days, so come late",
+        "They refuse to take their children to hospital",
+        "They give children the wrong kind of medicine",
+        "They can't afford to pay for hospital treatment"
+      ],
+      "answer": 0,
+      "why": "She says parents don't know about the critical window, and by the time they come it's difficult to help."
+    },
+    {
+      "q": "How does drought help mosquitoes breed?",
+      "options": [
+        "It makes the air much hotter at night",
+        "People store water in buckets, where they breed",
+        "It kills the birds and fish that eat mosquitoes",
+        "It makes rivers flood after the rain"
+      ],
+      "answer": 1,
+      "why": "Drought forces people to collect drinking water in buckets, giving mosquitoes places to breed."
+    },
+    {
+      "q": "According to Professor Manisha Kulkarni, what happens at higher temperatures?",
+      "options": [
+        "Mosquitoes die much more quickly in the heat",
+        "Mosquitoes bite people much less often",
+        "The virus copies itself faster in the mosquito",
+        "The virus becomes weaker and less dangerous"
+      ],
+      "answer": 2,
+      "why": "She says the higher the temperature, the quicker the mosquito can replicate the virus."
+    },
+    {
+      "q": "Why does Paul Conolly mention poverty?",
+      "options": [
+        "To say it has nothing to do with dengue",
+        "To explain why vaccines are so expensive",
+        "To show why dengue is rare in big cities",
+        "Crowded, poor city life exposes more people"
+      ],
+      "answer": 3,
+      "why": "He says as people move to cramped cities with poor sanitation, more are exposed to dengue."
+    },
+    {
+      "q": "What good news does Neil mention at the end?",
+      "options": [
+        "Mosquitoes are leaving Europe",
+        "Early warning systems and work on a vaccine",
+        "Dengue cases in Indonesia have fallen",
+        "Climate change has slowed down"
+      ],
+      "answer": 1,
+      "why": "He mentions early warning systems that predict outbreaks and ongoing work to produce a vaccine."
+    }
+  ]
+}

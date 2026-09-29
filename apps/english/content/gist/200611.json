@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How delivery apps and 'dark kitchens' change how we eat",
+        "How to cook Hawaiian food at home for your family",
+        "Why so many restaurants closed during the lockdown",
+        "The dangers of delivering food by bike in big cities"
+      ],
+      "answer": 0,
+      "why": "They discuss the takeaway revolution, delivery-only 'dark kitchens' and their effect on eating."
+    },
+    {
+      "q": "Why is Georgina surprised by Neil's order?",
+      "options": [
+        "It is very expensive for a quick lunch",
+        "It is something she has never eaten or even seen",
+        "Neil usually cooks all his meals for himself",
+        "A poké bowl doesn't sound like typical takeaway food"
+      ],
+      "answer": 3,
+      "why": "She says, “It doesn't sound like typical takeaway food.”"
+    },
+    {
+      "q": "What is a 'dark kitchen'?",
+      "options": [
+        "A restaurant that is open only at night",
+        "A kitchen that cooks only for delivery, with no diners",
+        "An app that connects customers to local takeaways",
+        "A kitchen where chefs teach cooking online"
+      ],
+      "answer": 1,
+      "why": "Neil says they work as just-for-delivery restaurants, without waiters, tables or diners."
+    },
+    {
+      "q": "What do we learn about Anton Soulier?",
+      "options": [
+        "He founded Deliveroo with some friends in 2013",
+        "He is a food journalist who writes for the BBC",
+        "He runs twelve kitchens in London, Paris and Madrid",
+        "He delivers food by bike around central London"
+      ],
+      "answer": 2,
+      "why": "Georgina says he started Taster and now runs twelve kitchens in London, Paris and Madrid."
+    },
+    {
+      "q": "According to Sheila Dillon, how are the Taster menus designed?",
+      "options": [
+        "So the food stays warm and looks good on arrival",
+        "So they can be cooked very quickly by one chef",
+        "So they use only fresh, local ingredients",
+        "So they are much cheaper than normal restaurants"
+      ],
+      "answer": 0,
+      "why": "She says they're chosen so they'll be warm, keep their texture and won't look like a dog's dinner."
+    },
+    {
+      "q": "What does Sheila Dillon mean when she says the bike has become a shaper of the foods we eat?",
+      "options": [
+        "Cyclists are now choosing what people order to eat",
+        "People are eating much healthier food than before",
+        "Bikes are replacing cars for weekly food shopping",
+        "Delivery needs now shape which dishes are made"
+      ],
+      "answer": 3,
+      "why": "The menus are designed to travel well on the back of a bike, so delivery shapes the food."
+    },
+    {
+      "q": "What does Anton Soulier think might happen in twenty or thirty years?",
+      "options": [
+        "Everyone will learn to cook",
+        "People might not have kitchens",
+        "Restaurants will stop delivering",
+        "Delivery will be done by drones"
+      ],
+      "answer": 1,
+      "why": "He says there is a trend that in twenty, thirty years people might not have kitchens."
+    },
+    {
+      "q": "How does Georgina feel about takeaways compared with cooking?",
+      "options": [
+        "She prefers takeaways and orders one every day",
+        "She never eats takeaways because they're unhealthy",
+        "She enjoys them sometimes but needs her kitchen",
+        "She only cooks at weekends when she has more time"
+      ],
+      "answer": 2,
+      "why": "She says she enjoys a takeaway sometimes but couldn't survive without her kitchen."
+    }
+  ]
+}

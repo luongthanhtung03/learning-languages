@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why animals and humans gain from doing nothing",
+        "How bees collect food from flowers all day",
+        "How to be more productive at work",
+        "Why lions sleep for so many hours a day"
+      ],
+      "answer": 0,
+      "why": "They ask why some animals have evolved to do nothing, and whether being lazy would work for humans too."
+    },
+    {
+      "q": "How was Neil's day different from Beth's?",
+      "options": [
+        "Neil relaxed at home while Beth worked hard",
+        "Neil was very busy while Beth was relaxing",
+        "They both spent the whole day in meetings",
+        "They both went shopping and collected the kids"
+      ],
+      "answer": 1,
+      "why": "Neil spent all day in meetings, shopping and collecting the kids, while Beth was 'sitting around doing nothing'."
+    },
+    {
+      "q": "What surprising fact about animals does Beth mention?",
+      "options": [
+        "They are always on the move looking for food",
+        "They only rest at night when it is dark",
+        "Most spend most of their time doing nothing",
+        "They are busier than nature documentaries show"
+      ],
+      "answer": 2,
+      "why": "She says most animals spend most of the time doing absolutely nothing."
+    },
+    {
+      "q": "What did Professor Dan Charbonneau find in rock ant colonies?",
+      "options": [
+        "All the ants work all the time",
+        "Only the queen is inactive",
+        "The ants take turns to sleep at night",
+        "About half the colony is inactive at any time"
+      ],
+      "answer": 3,
+      "why": "He says roughly half the colony is inactive at any given time."
+    },
+    {
+      "q": "What is one possible reason for the inactive ants?",
+      "options": [
+        "They are sick with a disease",
+        "They are ready to step in if disaster strikes",
+        "They are still too young to do any work",
+        "They are guarding the queen and her eggs"
+      ],
+      "answer": 1,
+      "why": "Beth says they may be reserve ants, ready to step in if disease or disaster strikes."
+    },
+    {
+      "q": "Why does Dr Sandi Mann mention bread, beer and fire?",
+      "options": [
+        "To suggest boredom may have led to inventions",
+        "To show what ancient people ate and drank",
+        "To explain why people get bored so easily",
+        "To show that humans work harder than animals"
+      ],
+      "answer": 0,
+      "why": "She asks whether humans would have invented them if they hadn't been bored and curious."
+    },
+    {
+      "q": "According to Dr Mann, what do people do today to avoid boredom?",
+      "options": [
+        "They go outside more and walk in the park",
+        "They sleep more during the day",
+        "They keep swiping and scrolling on phones",
+        "They read books and magazines"
+      ],
+      "answer": 2,
+      "why": "She says we're constantly swiping and scrolling, looking for the next big thing."
+    },
+    {
+      "q": "What paradox does Dr Mann describe?",
+      "options": [
+        "Working harder makes you more bored",
+        "Animals get bored more often than people",
+        "Being busy all day makes you more creative",
+        "To end boredom, allow more of it in your life"
+      ],
+      "answer": 3,
+      "why": "She says to get rid of boredom is actually to allow more boredom into your life."
+    }
+  ]
+}

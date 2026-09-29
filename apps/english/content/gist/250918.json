@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why robots in films are often violent",
+        "How robots are being used to wash the dishes and babysit children",
+        "How to build a robot at home",
+        "A friendly robot designed to keep lonely people company"
+      ],
+      "answer": 3,
+      "why": "They discuss companion robots, especially Abi, who is making friends with elderly people in Melbourne."
+    },
+    {
+      "q": "How does Neil feel about living with a robot?",
+      "options": [
+        "He would love one to help him with all the cooking and housework",
+        "He doesn't want one because his house is busy enough",
+        "He already has one at home",
+        "He would only want one for his children"
+      ],
+      "answer": 1,
+      "why": "Neil says he doesn't want to live with a robot because he has enough people in his house."
+    },
+    {
+      "q": "Which reports about robots does Beth mention?",
+      "options": [
+        "People sharing secrets with robots and even falling in love with them",
+        "Robots replacing most doctors in hospitals",
+        "Robots refusing to follow human orders",
+        "Children learning to read and write much faster with help from robot teachers"
+      ],
+      "answer": 0,
+      "why": "She mentions people telling secrets to robot therapists and falling in love with robot friends."
+    },
+    {
+      "q": "What gave Grace Brown the idea to build Abi?",
+      "options": [
+        "A Pixar film she watched as a child",
+        "A request from a care home in Melbourne that needed more staff",
+        "Spending five months alone during the Covid pandemic",
+        "Her job as a nurse for elderly people"
+      ],
+      "answer": 2,
+      "why": "She had no human contact for five months during Covid and built Abi to help other lonely people."
+    },
+    {
+      "q": "Who are Andromeda's robots mainly designed for?",
+      "options": [
+        "Elderly care home residents who get few visitors",
+        "Busy parents with young children",
+        "Engineers who work alone",
+        "Hospital patients who are recovering from Covid and feel lonely"
+      ],
+      "answer": 0,
+      "why": "The robots are made as company for elderly care home residents who don't get many visitors."
+    },
+    {
+      "q": "According to Grace, what surprises people when they meet Abi?",
+      "options": [
+        "How quickly she can clean a room",
+        "How quiet and shy she is",
+        "How much she looks like a real adult",
+        "How much personality and independence she seems to have"
+      ],
+      "answer": 3,
+      "why": "Grace says people don't expect so much personality and feel she's 'got a mind of her own'."
+    },
+    {
+      "q": "Why did Grace make Abi child-sized, colourful and similar to cartoon characters?",
+      "options": [
+        "To make her cheaper to build",
+        "So that people would feel relaxed and not afraid of her",
+        "Because she was mainly designed to be used in schools and nurseries",
+        "So she could be sold as a toy"
+      ],
+      "answer": 1,
+      "why": "Her softer design was chosen so children and elderly people could interact with her naturally and without fear."
+    },
+    {
+      "q": "How does Beth react to the story of Abi?",
+      "options": [
+        "She still finds robots frightening",
+        "She thinks Abi is too expensive",
+        "She is pleased to hear something positive about robots",
+        "She worries that families will stop visiting their elderly relatives"
+      ],
+      "answer": 2,
+      "why": "Beth says it's good to hear the positive side of a technology that can seem strange or frightening."
+    }
+  ]
+}

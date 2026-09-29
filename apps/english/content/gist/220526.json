@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How chefs create new flavours for their restaurants",
+        "Two sisters whose senses mix, so words have tastes",
+        "Why some people cannot taste or smell anything",
+        "How to choose healthy food when you feel hungry"
+      ],
+      "answer": 1,
+      "why": "Sam says they'll meet two sisters from Glasgow who can 'taste' every word they hear."
+    },
+    {
+      "q": "What do Neil and Sam say about their favourite things?",
+      "options": [
+        "They both love the taste of coffee most",
+        "Neil loves lavender; Sam loves the colour green",
+        "Neither of them has a favourite word",
+        "Neil likes saying 'nincompoop'; Sam loves coffee"
+      ],
+      "answer": 3,
+      "why": "Neil mentions green, sweet-and-sour and the word 'nincompoop'; Sam mentions coffee, lavender and bread."
+    },
+    {
+      "q": "What does Jen taste when she hears her daughter's name, Sophia?",
+      "options": [
+        "Pink marshmallows",
+        "Noodles",
+        "A tuna baguette",
+        "Rotten eggs"
+      ],
+      "answer": 0,
+      "why": "Neil says when Jen hears 'Sophia', she tastes pink marshmallows."
+    },
+    {
+      "q": "How many different types of synaesthesia could there be?",
+      "options": [
+        "Only two or three",
+        "Exactly five, one for each sense",
+        "Up to 150",
+        "More than 4,000"
+      ],
+      "answer": 2,
+      "why": "Sam says there could be as many as 150 different types of synaesthesia."
+    },
+    {
+      "q": "Why does Jen compare her synaesthesia to being pregnant?",
+      "options": [
+        "Because it started when she was pregnant",
+        "Because it makes her feel tired and sick",
+        "Because her doctor thought she was pregnant",
+        "Words can make her badly want certain foods"
+      ],
+      "answer": 3,
+      "why": "She says a word that tastes like tuna makes her want a tuna baguette – 'almost like… having a craving'."
+    },
+    {
+      "q": "According to Guy Leschziner, what has research shown about synaesthesia?",
+      "options": [
+        "It is only caused by an overactive imagination",
+        "It has a real basis in the brain and in genes",
+        "It usually disappears when people get older",
+        "It is much more common in men than in women"
+      ],
+      "answer": 1,
+      "why": "He says it was dismissed in the past, but it has 'an underlying neurological and genetic basis'."
+    },
+    {
+      "q": "Who else in the sisters' family has synaesthesia?",
+      "options": [
+        "Jen's daughter",
+        "Their brothers",
+        "Their parents",
+        "Nobody else"
+      ],
+      "answer": 0,
+      "why": "Neil says Julie and Jen's brothers don't have it, but Jen's daughter does."
+    },
+    {
+      "q": "About how many people in the world have some form of sense mixing?",
+      "options": [
+        "Fewer than one in a thousand",
+        "About half of all people",
+        "About 4%",
+        "Around 15%"
+      ],
+      "answer": 2,
+      "why": "Neil says an estimated 4% of the world population have some form of sense mixing."
+    }
+  ]
+}

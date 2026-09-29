@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why top football players are paid so much money",
+        "How football players avoid serious head injuries",
+        "How clubs use brain science to help players decide",
+        "The long history of football as 'the beautiful game'"
+      ],
+      "answer": 2,
+      "why": "Clubs are turning to neuroscience to see how players think and decide, and whether brain training helps."
+    },
+    {
+      "q": "Why does Neil love football?",
+      "options": [
+        "The passion, and the players' skill and athleticism",
+        "Because everyone in his family plays it at weekends",
+        "Because the matches are short and easy to follow",
+        "Because he used to be a professional player himself"
+      ],
+      "answer": 0,
+      "why": "Neil says it's the combination of passion and the skill and athleticism of the players."
+    },
+    {
+      "q": "Why did Tom Cooke think something interesting was happening in players' brains?",
+      "options": [
+        "Players often forget the rules during big matches",
+        "Players get tired very quickly in the second half",
+        "Players' brains are much bigger than average",
+        "Players make split-second choices under pressure"
+      ],
+      "answer": 3,
+      "why": "He says they watch athletes make decisions in split instincts under the highest pressures."
+    },
+    {
+      "q": "What did Japanese scientists find when they studied Neymar's brain in 2014?",
+      "options": [
+        "It was far more active than other players' brains",
+        "It was much less active when he moved his ankle",
+        "It worked much better in the morning than at night",
+        "It reacted very strongly to fear and loud noise"
+      ],
+      "answer": 1,
+      "why": "They found his brain was a lot less active than his peers' when he rotated his right ankle."
+    },
+    {
+      "q": "What does Holly Bridge suggest the result about Neymar shows?",
+      "options": [
+        "He was not really concentrating during the test",
+        "He needed much more training on his weaker foot",
+        "He is so skilled that it takes little conscious effort",
+        "His right ankle was injured at the time of the test"
+      ],
+      "answer": 2,
+      "why": "She says the reduced activity reflects absolute expertise, done 'with very, very little conscious effort'."
+    },
+    {
+      "q": "What does Tom Cooke do in training sessions?",
+      "options": [
+        "Lets players rest their brains completely before games",
+        "Makes players watch long videos of past games",
+        "Asks players to train alone, away from the team",
+        "Overloads players with information in a safe setting"
+      ],
+      "answer": 3,
+      "why": "He says they try to overwhelm them in a safe environment like training, where improvement happens."
+    },
+    {
+      "q": "What does Holly Bridge say about emotions and performance?",
+      "options": [
+        "Emotions affect performance, but can be controlled",
+        "Emotions have little effect on how players perform",
+        "Players should show as much emotion as possible",
+        "Only young, inexperienced players are affected"
+      ],
+      "answer": 0,
+      "why": "She says performance is driven by your emotional state, 'something you can learn to control'."
+    },
+    {
+      "q": "What does Niklas Häusler's company do with players?",
+      "options": [
+        "Chooses which players should take the penalties",
+        "Checks their brainwaves before kicks, teaches calm",
+        "Designs new football boots using brain data",
+        "Records their heart rate during the whole match"
+      ],
+      "answer": 1,
+      "why": "He measures players' brainwaves before important kicks and teaches them how to stay relaxed."
+    }
+  ]
+}

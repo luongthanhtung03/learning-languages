@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to write a best-selling book",
+        "Why bookshops are closing in the UK",
+        "The history of the Great Depression",
+        "Why the self-help industry is so successful"
+      ],
+      "answer": 3,
+      "why": "Rob says the topic is self-help and the self-help industry, and they look at why it does so well."
+    },
+    {
+      "q": "What does the $10bn US self-help industry include, according to Rob?",
+      "options": [
+        "Only books and magazines sold in bookshops",
+        "Gym memberships, diet plans and coaching apps",
+        "Doctors, hospitals and medicine for stress",
+        "University courses in psychology and business"
+      ],
+      "answer": 1,
+      "why": "Rob says it includes gym memberships, diet plans and life coaching apps."
+    },
+    {
+      "q": "According to bookshop manager Emma Marshall, what is the trend at the moment?",
+      "options": [
+        "Tidying up and getting rid of things",
+        "Colouring-in books for adults",
+        "Books about getting rich quickly",
+        "Books about travel and adventure"
+      ],
+      "answer": 0,
+      "why": "She says 'at the moment we're in the tidying up, getting rid of things trend'."
+    },
+    {
+      "q": "What does Neil say about books on tidying up?",
+      "options": [
+        "He has already read several and found them useful",
+        "He thinks they are a waste of money and paper",
+        "He'd more likely buy the book than actually tidy",
+        "He tidies every day without any help from books"
+      ],
+      "answer": 2,
+      "why": "Neil jokes, 'I'd be more likely to buy a book about it than actually tidy up!'"
+    },
+    {
+      "q": "What is happening to the colouring-in trend?",
+      "options": [
+        "It is growing fast",
+        "It is only popular with children",
+        "It is becoming less popular",
+        "It has just started"
+      ],
+      "answer": 2,
+      "why": "Emma says colouring-in is 'dwindling now', and Neil says they're selling fewer of these books."
+    },
+    {
+      "q": "What does psychologist Dr Jennifer Wild think is a big reason for the industry's success?",
+      "options": [
+        "The internet, where we're used to searching for solutions",
+        "Cheaper books sold in supermarkets and at stations",
+        "Advice from doctors who recommend self-help books",
+        "Television programmes about people changing their lives"
+      ],
+      "answer": 0,
+      "why": "She believes the internet is a big factor, as we're used to searching for solutions online."
+    },
+    {
+      "q": "What does Caroline Beaton say about millennials?",
+      "options": [
+        "They are lazy and never buy any self-help products",
+        "They're very self-critical and spend twice as much as Gen X",
+        "They prefer self-help books written in the 1930s",
+        "They spend much less on self-help than older people"
+      ],
+      "answer": 1,
+      "why": "She says millennials are highly self-critical and spend twice as much as Generation Xers."
+    },
+    {
+      "q": "Why does the self-help industry do well even in a recession?",
+      "options": [
+        "Self-help books become much cheaper when money is short",
+        "Governments pay for self-help courses for unemployed people",
+        "People have more free time to read when they lose their jobs",
+        "People may turn to self-help more to improve their situation"
+      ],
+      "answer": 3,
+      "why": "Rob says when the economy does badly, people may be even more likely to reach for self-help."
+    }
+  ]
+}

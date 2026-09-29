@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best bands to see live at summer festivals",
+        "Why concert tickets have become so expensive",
+        "How bands try to tour while harming the planet less",
+        "How to reduce your own carbon footprint at home"
+      ],
+      "answer": 2,
+      "why": "Neil says they'll find out about bands who want to keep touring but reduce their environmental impact."
+    },
+    {
+      "q": "What has Neil decided to do to help the environment?",
+      "options": [
+        "Eat less meat and drive less",
+        "Stop flying completely",
+        "Buy an electric car",
+        "Stop going to concerts"
+      ],
+      "answer": 0,
+      "why": "He says he's decided to eat less meat and maybe drive his car less."
+    },
+    {
+      "q": "Why does Rob laugh about the name Green Day?",
+      "options": [
+        "It sounds like a type of food",
+        "The band has broken up",
+        "The band doesn't care about the environment",
+        "It suits a band trying to be environmentally friendly"
+      ],
+      "answer": 3,
+      "why": "He says, “what a good name for a band trying to be environmentally friendly!”"
+    },
+    {
+      "q": "What has drummer Fay Milton done this year?",
+      "options": [
+        "Started a new band",
+        "Turned down a tour",
+        "Bought an electric bus",
+        "Toured only by train"
+      ],
+      "answer": 1,
+      "why": "She says, “This year I have actually turned down a tour.”"
+    },
+    {
+      "q": "How does Fay Milton feel about her decision?",
+      "options": [
+        "Worried and sorry she did it",
+        "Angry with other musicians",
+        "Good, even though it's risky for her income",
+        "Unsure if it was the right choice"
+      ],
+      "answer": 2,
+      "why": "She says it's put her in a precarious situation but she feels quite good; it's the right thing to do."
+    },
+    {
+      "q": "What concern does Rob raise about bands stopping touring altogether?",
+      "options": [
+        "Musicians would get bored",
+        "Fans wouldn't get to see live concerts",
+        "Record companies would close",
+        "Ticket prices would rise"
+      ],
+      "answer": 1,
+      "why": "Rob says if bands stopped touring, fans wouldn't get to see gigs."
+    },
+    {
+      "q": "How does Massive Attack plan to travel around Europe?",
+      "options": [
+        "By private jet, to save time between concerts",
+        "By electric car, driven by the band members",
+        "By ship, with the equipment in a separate van",
+        "Only by train, with all the crew and equipment"
+      ],
+      "answer": 3,
+      "why": "Robert Del Naja says they plan to travel to Europe solely by train, with the band, crew and gear."
+    },
+    {
+      "q": "What does Massive Attack hope to do with the power created by renewable energy?",
+      "options": [
+        "Put it back into the grid to power future gigs",
+        "Sell it to fans cheaply to use in their homes",
+        "Use it to charge fans' phones during the gigs",
+        "Store it in big batteries on the tour bus"
+      ],
+      "answer": 0,
+      "why": "He says the power will go back to the grid, creating green infrastructure to power future gigs."
+    }
+  ]
+}

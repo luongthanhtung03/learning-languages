@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to choose the perfect gift for your mother",
+        "How kindness helps the giver and even politics",
+        "Why people became less kind during the pandemic",
+        "How businesses can make more money by being fair"
+      ],
+      "answer": 1,
+      "why": "They discuss the science showing kindness makes us feel good, and a movement for compassion in politics."
+    },
+    {
+      "q": "How did Sam feel after giving her mum flowers?",
+      "options": [
+        "Worried that her mum didn't like them",
+        "Sorry that she had spent so much money",
+        "Surprised that her mum was so upset",
+        "Good, because she'd made her mum happy"
+      ],
+      "answer": 3,
+      "why": "Sam says, 'It felt good knowing I'd made her happy.'"
+    },
+    {
+      "q": "What are psychologists starting to prove, according to Neil?",
+      "options": [
+        "Being kind feels as good as receiving kindness",
+        "Receiving kindness feels better than giving it",
+        "Most people are kind only to their families",
+        "Random acts of kindness are becoming rare"
+      ],
+      "answer": 0,
+      "why": "He says we feel just as good being kind to someone else as when someone is kind to us."
+    },
+    {
+      "q": "What shows that psychologists are very interested in kindness?",
+      "options": [
+        "Many new university courses on kindness",
+        "A TV series about kind people",
+        "Over a thousand papers on it in ten years",
+        "A new law requiring kindness at work"
+      ],
+      "answer": 2,
+      "why": "Neil says over a thousand academic papers including the term 'kindness' were written in the past decade."
+    },
+    {
+      "q": "According to Dr Dan Campbell-Meiklejohn, what happens in our brain when we're kind?",
+      "options": [
+        "It becomes tired and needs to rest",
+        "It reacts like it does to tasty food",
+        "It feels the same as when we lose money",
+        "It becomes less active than usual"
+      ],
+      "answer": 1,
+      "why": "He says the parts active when we eat yummy food or have a nice surprise become active when we're kind."
+    },
+    {
+      "q": "Why might being kind seem counter-intuitive to some people?",
+      "options": [
+        "Because kind people are often not trusted",
+        "Because it takes a lot of time to be kind",
+        "Because other people rarely say thank you",
+        "Giving things away can feel like a loss"
+      ],
+      "answer": 3,
+      "why": "Neil says for some people giving something away equals losing it, so being kind seems counter-intuitive."
+    },
+    {
+      "q": "What does Neil wonder about business and politics?",
+      "options": [
+        "Whether they are kinder than personal life",
+        "Whether politicians give enough money away",
+        "Whether kindness has any place in them",
+        "Whether women should lead more companies"
+      ],
+      "answer": 2,
+      "why": "He asks about 'the ruthless world of business or politics – surely there's no place for kindness there?'"
+    },
+    {
+      "q": "What does Jennifer Nagel say about compassion in politics?",
+      "options": [
+        "It makes fairer societies and takes courage",
+        "It is a nice idea but not really practical",
+        "It only works in very small countries",
+        "It makes politicians look weak to voters"
+      ],
+      "answer": 0,
+      "why": "She says it leads to fairer societies and lower crime, and 'it actually takes courage to act with compassion'."
+    }
+  ]
+}

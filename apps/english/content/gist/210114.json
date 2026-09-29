@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why English people don't bother to learn other languages",
+        "How to learn Japanese quickly using apps and films",
+        "The life and work of Nelson Mandela in South Africa",
+        "People who speak many languages and the benefits of it"
+      ],
+      "answer": 3,
+      "why": "Neil says people who speak multiple languages benefit from many advantages, as they'll hear."
+    },
+    {
+      "q": "What does Neil say about the English and languages?",
+      "options": [
+        "They are the best language learners in Europe",
+        "They are famously slow to learn other languages",
+        "They all speak French",
+        "They prefer learning Greek"
+      ],
+      "answer": 1,
+      "why": "Neil says, 'The English are famously slow to learn other languages.'"
+    },
+    {
+      "q": "According to Richard Simcott, why do polyglots learn languages?",
+      "options": [
+        "For pleasure or fascination, not because they need to",
+        "To get better jobs and earn more money in business",
+        "Because they live abroad and need them every day",
+        "Because their parents speak many languages at home"
+      ],
+      "answer": 0,
+      "why": "He says polyglots learn languages they don't need, 'just out of sheer enjoyment, pleasure or fascination'."
+    },
+    {
+      "q": "What is the main idea of Rob's favourite Nelson Mandela quote?",
+      "options": [
+        "It's better to speak only one language well",
+        "Learning languages is very difficult",
+        "Speaking someone's own language reaches their heart",
+        "Everyone should learn English"
+      ],
+      "answer": 2,
+      "why": "The quote says talking to a man in his own language 'goes to his heart'."
+    },
+    {
+      "q": "What did Eve Fedorenko expect to find in children who speak many languages?",
+      "options": [
+        "Smaller language regions",
+        "No difference from other children",
+        "Worse speaking skills",
+        "Very active language brains"
+      ],
+      "answer": 3,
+      "why": "Rob says Eve predicted that multilingual children would have hyperactive language brains."
+    },
+    {
+      "q": "What did Eve Fedorenko actually find?",
+      "options": [
+        "Their language regions appeared smaller",
+        "Their brains were larger",
+        "They forgot their first language",
+        "Their language regions were more active"
+      ],
+      "answer": 0,
+      "why": "She says 'their language regions appear to be smaller, and that was surprising'."
+    },
+    {
+      "q": "Why do the language regions become smaller, according to Eve Fedorenko?",
+      "options": [
+        "Because the children stop practising their languages",
+        "Because speaking skills slowly get worse over time",
+        "Because the brain becomes more efficient and needs less tissue",
+        "Because children are learning far too many languages at once"
+      ],
+      "answer": 2,
+      "why": "She says as people get better, less brain tissue is needed, so 'you become more efficient'."
+    },
+    {
+      "q": "What is Rob's conclusion at the end of the discussion?",
+      "options": [
+        "Only children should try to learn languages",
+        "It is good for the head, heart, mind and soul",
+        "Language learning is bad for the brain",
+        "It's better to be a polymath than a polyglot"
+      ],
+      "answer": 1,
+      "why": "Rob says, 'speaking many languages is good for the head, heart, mind and soul!'"
+    }
+  ]
+}

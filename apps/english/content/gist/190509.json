@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to choose the best smart speaker for your home",
+        "Whether smart speakers listen to us, and why we use them",
+        "How governments protect our privacy with new laws",
+        "Why people don't answer phone calls from unknown numbers"
+      ],
+      "answer": 1,
+      "why": "Dan says the topic is 'How safe is your smart speaker?'"
+    },
+    {
+      "q": "Why didn't Rob answer his phone at the start?",
+      "options": [
+        "He didn't want Dan listening to his private call",
+        "He didn't hear it ring because of the music",
+        "He was angry with his wife after an argument",
+        "The battery was dead and it had switched off"
+      ],
+      "answer": 0,
+      "why": "He says he's not crazy about someone eavesdropping on his phone call."
+    },
+    {
+      "q": "How does Rob react when Dan asks how he knows his smart speaker isn't eavesdropping?",
+      "options": [
+        "He says it's impossible",
+        "He says he switches it off at night",
+        "He realises he hadn't thought about it",
+        "He says he doesn't care"
+      ],
+      "answer": 2,
+      "why": "Rob says, 'I see. I hadn't thought of that.'"
+    },
+    {
+      "q": "What does Florian Schaub say people are putting in their homes?",
+      "options": [
+        "A camera that records everything they do all day",
+        "A robot that does housework while they are out",
+        "A device that secretly sells their data to shops",
+        "A listening device, in their most private space"
+      ],
+      "answer": 3,
+      "why": "He says 'You're basically introducing... listening bug in your home.'"
+    },
+    {
+      "q": "What does Florian Schaub say about the microphone?",
+      "options": [
+        "It is only on when you say the keyword",
+        "It is on all the time to detect the keyword",
+        "It can be removed easily",
+        "It doesn't work very well"
+      ],
+      "answer": 1,
+      "why": "He says the microphone is still on the whole time in order to detect the keyword."
+    },
+    {
+      "q": "What worry does Florian Schaub have about governments?",
+      "options": [
+        "They might get around security to listen to people",
+        "They might ban smart speakers from being sold",
+        "They might put a high tax on smart speakers",
+        "They don't understand the technology well enough"
+      ],
+      "answer": 0,
+      "why": "He says governments might try to circumvent security mechanisms to listen."
+    },
+    {
+      "q": "According to Florian Schaub's study, how do many users feel about the privacy risk?",
+      "options": [
+        "Very angry",
+        "Completely unaware of it",
+        "They accept it as the price of convenience",
+        "They plan to stop using speakers"
+      ],
+      "answer": 2,
+      "why": "People are 'resigned to' the trade-off for the convenience the speaker provides."
+    },
+    {
+      "q": "Why does Dan think the data smart speakers hear may not matter much?",
+      "options": [
+        "Companies delete it immediately after using it",
+        "The speakers can't understand most people's accents",
+        "Most people don't talk much when they're at home",
+        "Companies already have lots of data about us anyway"
+      ],
+      "answer": 3,
+      "why": "He says it's probably not significant 'considering all the data companies have about us already'."
+    }
+  ]
+}

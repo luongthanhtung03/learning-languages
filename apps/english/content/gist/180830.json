@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook traditional food from different countries around the world",
+        "The history of bread",
+        "Why street food is becoming so popular in the UK",
+        "Why British pubs serve bad food"
+      ],
+      "answer": 2,
+      "why": "The topic is street food and why it has become so popular in the UK."
+    },
+    {
+      "q": "What does Rob like about street food in London?",
+      "options": [
+        "Food from all over the world is cooked in front of you",
+        "It is always much cheaper than eating in a restaurant",
+        "It is healthier than home cooking",
+        "It is a very old British tradition"
+      ],
+      "answer": 0,
+      "why": "Rob says you can find delicious foods from all over the world, cooked in front of you."
+    },
+    {
+      "q": "What do Neil and Rob say about street food in Britain?",
+      "options": [
+        "It has always been an important part of British life and culture",
+        "It is losing popularity",
+        "It is only found in London",
+        "It isn't really a British tradition, but it's popular now"
+      ],
+      "answer": 3,
+      "why": "Neil says it's not really a British tradition and Rob agrees, but says it's much more popular these days."
+    },
+    {
+      "q": "According to Mark Laurie, where is street food growing?",
+      "options": [
+        "Only in London",
+        "In big cities and more and more outside them",
+        "Mainly in small villages in the countryside",
+        "Only at music festivals"
+      ],
+      "answer": 1,
+      "why": "He says it's growing in the bigger cities and increasingly in the provinces."
+    },
+    {
+      "q": "What does Mark Laurie mean when he says street food has become mainstream?",
+      "options": [
+        "It is only for young people",
+        "It is expensive",
+        "It is a normal, accepted part of everyday eating",
+        "It is sold in supermarkets as well as on the street"
+      ],
+      "answer": 2,
+      "why": "Rob explains it's no longer seen as unusual; it's becoming an accepted part of everyday eating."
+    },
+    {
+      "q": "Why, according to Mark Laurie, do people like street food?",
+      "options": [
+        "It is honest, real food made by people you trust",
+        "It is quick to eat",
+        "It is sold late at night when other places are closed",
+        "It is cooked in microwaves"
+      ],
+      "answer": 0,
+      "why": "He says 'It's honest food, it's authentic food and it's people that you can trust making it.'"
+    },
+    {
+      "q": "What does Mark Laurie compare street food with?",
+      "options": [
+        "Expensive restaurant meals",
+        "Food cooked at home",
+        "Fast food from burger chains",
+        "Microwave food you might get in a pub"
+      ],
+      "answer": 3,
+      "why": "He says 'It's not some microwave food... that you might get in your local pub.'"
+    },
+    {
+      "q": "What is Neil's attitude to microwave meals?",
+      "options": [
+        "He thinks they are dangerous",
+        "He quite likes them now and then",
+        "He never eats them",
+        "He thinks they are authentic"
+      ],
+      "answer": 1,
+      "why": "Neil says 'I quite like a microwave meal now and then'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The coldest places on Earth",
+        "How to keep your home warm in winter",
+        "Why people feel the cold differently",
+        "How reindeer survive in the Arctic"
+      ],
+      "answer": 2,
+      "why": "Phil asks why people feel the cold so differently, and that's what they discuss."
+    },
+    {
+      "q": "What do Phil and Becca agree about?",
+      "options": [
+        "They'd both rather be too hot than too cold",
+        "They both enjoy very cold weather",
+        "They both want to visit Finland",
+        "They both wear T-shirts in winter"
+      ],
+      "answer": 0,
+      "why": "Becca prefers being too hot to too cold, and Phil says 'Yes, me too.'"
+    },
+    {
+      "q": "According to Phil, what is perhaps the most obvious thing affecting how we feel the cold?",
+      "options": [
+        "Our age",
+        "What we eat",
+        "How much we exercise",
+        "The clothes we wear"
+      ],
+      "answer": 3,
+      "why": "He says it depends on genes, culture and birthplace, 'but perhaps the most obvious thing is the clothes'."
+    },
+    {
+      "q": "What does Professor Gunhild Sætren say is the first thing to consider?",
+      "options": [
+        "Where you were born",
+        "Whether you are a man or a woman",
+        "How tall you are",
+        "What material your clothes are made of"
+      ],
+      "answer": 1,
+      "why": "She says first and foremost gender differs; males are often more tolerant than females."
+    },
+    {
+      "q": "What other factor does Gunhild mention?",
+      "options": [
+        "Whether you have warm boots and gloves",
+        "How much sleep you get each night",
+        "Whether you're used to dealing with cold",
+        "How often you drink hot drinks in winter"
+      ],
+      "answer": 2,
+      "why": "She says it's 'what you're used to. Are you used to dealing with the cold?'"
+    },
+    {
+      "q": "Who does Dr Cara Ocobock study?",
+      "options": [
+        "Scientists living in Antarctica",
+        "Mountain climbers on Everest",
+        "Children in Brazil",
+        "Reindeer herders in northern Finland"
+      ],
+      "answer": 3,
+      "why": "She studies reindeer herders, comparing them with ordinary Finns from warmer parts of the country."
+    },
+    {
+      "q": "Why does Cara answer 'yes and no' when asked if reindeer herders cope better?",
+      "options": [
+        "The results so far don't give a clear answer",
+        "Because she hasn't started her research yet",
+        "Because the herders refused to take part",
+        "Because she thinks the question is silly"
+      ],
+      "answer": 0,
+      "why": "She says the more data they collect, 'the more confusing the picture gets'."
+    },
+    {
+      "q": "What has Cara noticed about the reindeer herders so far?",
+      "options": [
+        "They wear fewer clothes than other Finns",
+        "They seem to handle the cold better and shiver less",
+        "They feel the cold more than other people",
+        "They get ill more often in winter"
+      ],
+      "answer": 1,
+      "why": "She says subjectively they handle the cold far better and are far less likely to shiver."
+    }
+  ]
+}

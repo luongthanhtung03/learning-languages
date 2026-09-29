@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to find things you have lost at home",
+        "Why we forget things and how to remember better",
+        "How Chinese students prepare for maths exams",
+        "Why some people have photographic memories"
+      ],
+      "answer": 1,
+      "why": "Rob says they'll find out why we forget the things we've learned, and they hear rules for remembering."
+    },
+    {
+      "q": "What does Rob say about his own memory?",
+      "options": [
+        "He never forgets anything he reads",
+        "He remembers names but forgets faces",
+        "He has a photographic memory",
+        "He remembers faces but not names"
+      ],
+      "answer": 3,
+      "why": "Rob says he can remember faces but has a terrible memory for names."
+    },
+    {
+      "q": "What is Dr Jared Horvath's first rule for remembering?",
+      "options": [
+        "Repetition is key",
+        "Always write things down",
+        "Learn things only once",
+        "Study late at night"
+      ],
+      "answer": 0,
+      "why": "He says, 'Rule number one is repetition is key.'"
+    },
+    {
+      "q": "Why does Dr Horvath mention his middle name, Cuney?",
+      "options": [
+        "To show that unusual names are easy to forget",
+        "To explain how he got interested in memory",
+        "To show that links help us remember",
+        "To say that he often forgets people's names"
+      ],
+      "answer": 2,
+      "why": "He says if he meets someone named Cuney he'll never forget, because he has an immediate link."
+    },
+    {
+      "q": "What is Dr Horvath's second rule?",
+      "options": [
+        "We remember things we hear only once",
+        "We remember what we focus on",
+        "We remember things better when tired",
+        "We remember names better than numbers"
+      ],
+      "answer": 1,
+      "why": "He says, 'rule two then becomes, we remember what we focus on'."
+    },
+    {
+      "q": "What does Georgina say about cramming for exams?",
+      "options": [
+        "It helped her get the best marks in class",
+        "She never did it because it was too tiring",
+        "She still does it before important meetings",
+        "She did it, but it didn't work for her"
+      ],
+      "answer": 3,
+      "why": "She remembers staying up late to revise the night before an exam, 'but it didn't work!'"
+    },
+    {
+      "q": "What did Dr Horvath's research find about students who cram?",
+      "options": [
+        "They remember almost everything for years",
+        "They get better results than other students",
+        "They forget about 90% within three days",
+        "They forget everything within one hour"
+      ],
+      "answer": 2,
+      "why": "Rob says they forget around 90% of what they studied within 72 hours."
+    },
+    {
+      "q": "What does Dr Horvath mean by 'deep learning'?",
+      "options": [
+        "Understanding a few things deeply",
+        "Memorising a hundred facts as quickly as possible",
+        "Repeating information exactly, like a parrot",
+        "Studying for many hours without a break"
+      ],
+      "answer": 0,
+      "why": "Instead of remembering a hundred things, he'll give you ten things to describe deeply and look at in new ways."
+    }
+  ]
+}

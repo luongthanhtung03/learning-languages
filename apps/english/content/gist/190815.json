@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to invest safely in Bitcoin and make a profit",
+        "What cryptocurrencies are and how Libra is different",
+        "How banks protect our money from criminals online",
+        "The history of the Swiss franc and its strength"
+      ],
+      "answer": 1,
+      "why": "Sam explains cryptocurrencies and they discuss Facebook's plans for Libra."
+    },
+    {
+      "q": "What is special about a cryptocurrency, according to Sam?",
+      "options": [
+        "It is only digital and no bank or government controls it",
+        "It is printed and managed by a country's central bank",
+        "It can only be used in the one country that created it",
+        "It is made of special metal coins that are hard to copy"
+      ],
+      "answer": 0,
+      "why": "He says it's purely digital and not controlled by banks or governments."
+    },
+    {
+      "q": "What has Facebook announced?",
+      "options": [
+        "It will buy a large amount of Bitcoin",
+        "It will ban cryptocurrencies from its site",
+        "It is launching its own digital currency",
+        "It is opening a bank in Switzerland"
+      ],
+      "answer": 2,
+      "why": "Catherine says Facebook announced they're launching their own digital currency, Libra."
+    },
+    {
+      "q": "Why does Jemima Kelly say Libra isn't really a cryptocurrency?",
+      "options": [
+        "It isn't digital",
+        "It is controlled by one government",
+        "It is only used on Facebook",
+        "It is backed by a group of real currencies"
+      ],
+      "answer": 3,
+      "why": "It is backed up by a basket of currencies like the dollar, pound, euro and Swiss franc."
+    },
+    {
+      "q": "Which currency is NOT mentioned as backing Libra?",
+      "options": [
+        "The dollar",
+        "The euro",
+        "The Japanese yen",
+        "The Swiss franc"
+      ],
+      "answer": 2,
+      "why": "She lists the dollar, the pound, the euro and the Swiss franc."
+    },
+    {
+      "q": "What risk do ordinary cryptocurrencies have?",
+      "options": [
+        "Their value can rise or fall a lot very quickly",
+        "They are easy to steal",
+        "They lose value slowly over time",
+        "They can't be exchanged for real money"
+      ],
+      "answer": 0,
+      "why": "Sam says crypto markets are notoriously volatile, going up or down quickly."
+    },
+    {
+      "q": "Why are most normal currencies more stable?",
+      "options": [
+        "Far more people around the world use them",
+        "Governments and banks control them",
+        "They are made of metal and paper",
+        "They are older and have a longer history"
+      ],
+      "answer": 1,
+      "why": "Sam says governments and banks control currencies to prevent big changes."
+    },
+    {
+      "q": "Why does Sam compare cryptocurrencies to a self-driving car?",
+      "options": [
+        "They are the future of transport",
+        "They are easy to use",
+        "They are controlled by computers that never fail",
+        "You can't control where they go, and it could end badly"
+      ],
+      "answer": 3,
+      "why": "He says it might be an exciting ride, but it could end in disaster."
+    }
+  ]
+}

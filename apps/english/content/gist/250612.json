@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How scientists predict wildfires",
+        "Why Los Angeles has so many fires",
+        "How to build homes that survive floods",
+        "How climate change can harm mental health, and how communities help"
+      ],
+      "answer": 3,
+      "why": "They discuss how climate change affects mental health and how people can protect it."
+    },
+    {
+      "q": "Do Neil and Beth agree that natural disasters can be stressful?",
+      "options": [
+        "Yes, they both agree",
+        "No, Beth thinks they are rarely stressful",
+        "Only Neil thinks so",
+        "They don't discuss it"
+      ],
+      "answer": 0,
+      "why": "Neil says they can be stressful and asks Beth, who answers, 'Yeah, definitely.'"
+    },
+    {
+      "q": "What has Professor Jyoti Mishra found about climate trauma?",
+      "options": [
+        "It mainly affects children",
+        "It usually disappears after a few weeks without any help",
+        "It affects whole communities, not just individuals",
+        "It is less serious than other kinds of trauma"
+      ],
+      "answer": 2,
+      "why": "She says it's 'a community-wide trauma which really requires community-wide healing'."
+    },
+    {
+      "q": "According to Jyoti, which people are usually more resilient?",
+      "options": [
+        "People who move to a new city",
+        "People with family support and strong community connections",
+        "People who live alone",
+        "People who have already lived through many different disasters"
+      ],
+      "answer": 1,
+      "why": "She says people with positive family support and meaningful community connection are more resilient."
+    },
+    {
+      "q": "What does host Graihagh Jackson find particularly interesting?",
+      "options": [
+        "That the fires were caused by humans",
+        "That trauma after a disaster can be treated quickly with medicine",
+        "That both the harm and the solution involve the whole community",
+        "That most people recover alone"
+      ],
+      "answer": 2,
+      "why": "She is struck that whole communities are affected and the solution is about how the community rebuilds."
+    },
+    {
+      "q": "What happened to Brad Sherwood in 2017?",
+      "options": [
+        "He lost his job because of a flood",
+        "He started a company that builds new houses for families after floods",
+        "He moved to Los Angeles",
+        "He survived a wildfire, but his neighbourhood was destroyed"
+      ],
+      "answer": 3,
+      "why": "He survived the Tubbs fire, but when he returned home his neighbourhood was destroyed."
+    },
+    {
+      "q": "What does Brad suggest about his community since the fire?",
+      "options": [
+        "It is now stronger and is building a new plaza together",
+        "Most people have moved away",
+        "It was never close before the fire",
+        "People are still far too upset to work together on anything new"
+      ],
+      "answer": 0,
+      "why": "He says they're building a new community plaza and are now 'so much stronger and resilient'."
+    },
+    {
+      "q": "How does Beth feel about Brad's story?",
+      "options": [
+        "She thinks it is very sad",
+        "She finds it quite inspiring",
+        "She doesn't believe it",
+        "She thinks he was just very lucky"
+      ],
+      "answer": 1,
+      "why": "Beth says it's 'quite inspiring' to hear how Brad stayed resilient."
+    }
+  ]
+}

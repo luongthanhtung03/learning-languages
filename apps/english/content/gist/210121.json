@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people tell stories and what makes a story work",
+        "How to write a scary story that frightens your friends",
+        "The history of the Cinderella story in different countries",
+        "Why children don't read books any more at home"
+      ],
+      "answer": 0,
+      "why": "They discuss storytelling as a powerful way to connect and why we've told stories for millennia."
+    },
+    {
+      "q": "How does Georgina react to Neil's first story about the mirror?",
+      "options": [
+        "She laughs at it because it's so silly",
+        "She says it's boring and far too long",
+        "She asks him to stop because it's scaring her",
+        "She says she has heard it many times before"
+      ],
+      "answer": 2,
+      "why": "Georgina says, 'Agh, stop Neil! You're scaring me!'"
+    },
+    {
+      "q": "What does Georgina say stories help us do?",
+      "options": [
+        "Learn new words",
+        "Fall asleep more easily",
+        "Remember historical dates",
+        "Make sense of the world"
+      ],
+      "answer": 3,
+      "why": "She says stories help us make sense of the world."
+    },
+    {
+      "q": "According to Sandra Newman and other academics, how many classic plotlines are there?",
+      "options": [
+        "Three",
+        "Seven",
+        "Twelve",
+        "Over 200"
+      ],
+      "answer": 1,
+      "why": "Neil says there are seven classic plotlines which are constantly being recycled."
+    },
+    {
+      "q": "According to Professor Jamie Tarani, why do we pass on classic stories?",
+      "options": [
+        "They connect with fantasies and fears shared by all humans",
+        "They are short and easy to remember, even for children",
+        "Parents are told to read them to their children by teachers",
+        "They show us the real world exactly as it is, without magic"
+      ],
+      "answer": 0,
+      "why": "He says stories tap into universal human fantasies and fears that go beyond particular times and places."
+    },
+    {
+      "q": "What does Professor Tarani say about endings in most stories?",
+      "options": [
+        "They are usually sad",
+        "They are usually surprising",
+        "They are just like real life",
+        "Good people usually win"
+      ],
+      "answer": 3,
+      "why": "He says most of the time the bad guys have unhappy endings and the good guys happy ones."
+    },
+    {
+      "q": "According to Sandra Newman, what happens when a storyteller rambles and doesn't get to the point?",
+      "options": [
+        "Listeners start to ask lots of difficult questions",
+        "Listeners lose interest and even become hostile",
+        "Listeners enjoy the story more because it's longer",
+        "Listeners fall asleep before the story ends"
+      ],
+      "answer": 1,
+      "why": "She says you see everybody lose interest and become hostile and frustrated."
+    },
+    {
+      "q": "Why does Georgina say 'Oh, do get to the point, Neil!' near the end?",
+      "options": [
+        "She is really angry with Neil and wants him to leave",
+        "She has to leave early for an important meeting",
+        "She's joking, as Neil is slow like a bad storyteller",
+        "She didn't understand the question and needs help"
+      ],
+      "answer": 2,
+      "why": "Neil pauses before the answer, and she uses the phrase just discussed about storytellers."
+    }
+  ]
+}

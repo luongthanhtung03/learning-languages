@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Which language is the easiest for adults to learn",
+        "How children learn their first language at school",
+        "Whether language-learning apps really help people learn",
+        "Why fictional languages are becoming popular"
+      ],
+      "answer": 2,
+      "why": "Pippa says they'll try to answer whether apps like Duolingo, Babbel and Busuu really help."
+    },
+    {
+      "q": "According to Pippa, what do many language apps say they focus on?",
+      "options": [
+        "Learning through situations, not grammar rules",
+        "Long daily lessons with a live online teacher",
+        "Practising pronunciation with native speakers",
+        "Reading full novels in the new language"
+      ],
+      "answer": 0,
+      "why": "She says many apps focus on language for situations and implicit learning, not directly teaching rules."
+    },
+    {
+      "q": "Why does Neil mention how children learn their first language?",
+      "options": [
+        "To show that children learn faster with apps",
+        "To give an example of learning without formal lessons",
+        "To argue that grammar lessons are useless",
+        "To explain why children dislike language classes"
+      ],
+      "answer": 1,
+      "why": "He says children's learning is mostly implicit because 'they don't have lessons', then asks if this works for adults."
+    },
+    {
+      "q": "What is Professor Liz Wonnacott's view on how adults learn languages?",
+      "options": [
+        "They should copy children exactly and avoid grammar",
+        "They can easily achieve full immersion",
+        "They learn best only in classrooms",
+        "Some direct teaching of grammar and vocabulary helps them"
+      ],
+      "answer": 3,
+      "why": "She says there is evidence that some explicit teaching of grammar and vocabulary is helpful."
+    },
+    {
+      "q": "Who were the learners in the study that Liz found interesting?",
+      "options": [
+        "Spanish speakers learning English in two ways",
+        "English speakers learning Spanish at home",
+        "Children learning several languages at once",
+        "Teachers testing different apps in class"
+      ],
+      "answer": 0,
+      "why": "The study compared two groups of Spanish speakers learning English, one with an app and one in classes."
+    },
+    {
+      "q": "What was the main result of that study?",
+      "options": [
+        "Both groups improved in exactly the same way",
+        "Classroom learners did better in every test",
+        "App users did better in grammar, class in listening",
+        "App users improved more in listening tests"
+      ],
+      "answer": 2,
+      "why": "Duolingo learners improved more in written grammar tests, classroom learners more in listening."
+    },
+    {
+      "q": "Why does Liz say the study has limits?",
+      "options": [
+        "It lasted for only one week in the summer",
+        "It looked at one language, one app, one school",
+        "Many learners did not finish the final tests",
+        "It was paid for by a large app company"
+      ],
+      "answer": 1,
+      "why": "She says it's 'one particular language, in one particular app, against one particular school'."
+    },
+    {
+      "q": "What do Liz and the presenters recommend in the end?",
+      "options": [
+        "Stopping app use after the first few months",
+        "Using only apps, because they are convenient",
+        "Learning only through full immersion abroad",
+        "Mixing apps with human teaching and more"
+      ],
+      "answer": 3,
+      "why": "Liz suggests combining human teaching with apps, and Neil suggests podcasts and speaking practice too."
+    }
+  ]
+}

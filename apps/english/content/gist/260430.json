@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook cheap, healthy meals for young children",
+        "Why supermarkets are becoming more expensive",
+        "The history of fizzy drinks in Britain",
+        "What ultra-processed food is and if we should eat it"
+      ],
+      "answer": 3,
+      "why": "They discuss what ultra-processed foods are, why they're popular and whether we should avoid them."
+    },
+    {
+      "q": "Why have ultra-processed foods been linked to poor health?",
+      "options": [
+        "They are usually eaten late at night",
+        "They often contain a lot of sugar and salt",
+        "They contain too much fruit",
+        "They are often cooked in a microwave"
+      ],
+      "answer": 1,
+      "why": "Pippa says they often contain lots of sugar and salt and are linked to obesity and diabetes."
+    },
+    {
+      "q": "According to Annabel Rackham, how can you recognise ultra-processed food?",
+      "options": [
+        "It has five or more ingredients, some unusual",
+        "It is always sold frozen in plastic packets",
+        "It always tastes very sweet or very salty",
+        "It has fewer than five simple ingredients"
+      ],
+      "answer": 0,
+      "why": "She says they contain five or more ingredients and things you wouldn't find in your average kitchen."
+    },
+    {
+      "q": "How has Pippa's diet changed?",
+      "options": [
+        "She now eats more ready meals because she's busy",
+        "She has stopped eating chocolate completely",
+        "She ate a lot of processed food but now cooks",
+        "She now only eats fresh fruit and vegetables"
+      ],
+      "answer": 2,
+      "why": "She says she used to eat a lot of ultra-processed foods and now tries to cook everything herself."
+    },
+    {
+      "q": "Why does Phil try to cook with normal ingredients?",
+      "options": [
+        "Because it's cheaper",
+        "So he knows exactly what's in his food",
+        "Because his family asks him to",
+        "Because he enjoys cooking for hours"
+      ],
+      "answer": 1,
+      "why": "He says he cooks with normal ingredients 'just so you know what's gone into it'."
+    },
+    {
+      "q": "What does Annabel think is the main reason people eat ultra-processed food?",
+      "options": [
+        "It's much healthier than most people think",
+        "Doctors often recommend it to busy patients",
+        "It lasts much longer in the fridge than fresh food",
+        "It's convenient and quicker than cooking"
+      ],
+      "answer": 3,
+      "why": "She says convenience is the main issue: a ready meal takes minutes, but cooking from scratch takes long."
+    },
+    {
+      "q": "What is Annabel's advice about eating ultra-processed food?",
+      "options": [
+        "Don't panic; a little of it is fine",
+        "Cut it out of your diet completely",
+        "Only eat it at weekends or on holiday",
+        "Eat it instead of snacks between meals"
+      ],
+      "answer": 0,
+      "why": "She says the best thing is 'not to panic. Everything is fine in moderation.'"
+    },
+    {
+      "q": "How does Phil react to Annabel's advice?",
+      "options": [
+        "He disagrees and says we should avoid all snacks",
+        "He says he will stop eating chocolate for good",
+        "He's pleased he can still have chocolate sometimes",
+        "He thinks the advice is confusing and unclear"
+      ],
+      "answer": 2,
+      "why": "Phil says it sounds sensible and means he won't feel bad eating chocolate now and then."
+    }
+  ]
+}

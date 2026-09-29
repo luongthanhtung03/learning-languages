@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "What it's like to be a twin and why twins fascinate us",
+        "How doctors can tell if twins are identical",
+        "Famous Hollywood stars who have twins",
+        "Why twins are becoming less common"
+      ],
+      "answer": 0,
+      "why": "They discuss our fascination with twins and the good and bad sides of being one."
+    },
+    {
+      "q": "What question would Neil ask a twin?",
+      "options": [
+        "Have you ever swapped boyfriends?",
+        "Do you feel each other's pain?",
+        "Can you read each other's minds?",
+        "Do you have the same dreams?"
+      ],
+      "answer": 2,
+      "why": "Neil says he might ask, 'Do you share each other's thoughts?'"
+    },
+    {
+      "q": "According to presenter Anand Jagatia, how might twins react to these common questions?",
+      "options": [
+        "They might be happy to explain",
+        "They might show they're bored or annoyed",
+        "They might refuse to talk to you",
+        "They might ask you exactly the same questions in return"
+      ],
+      "answer": 1,
+      "why": "He says don't be surprised if they roll their eyes at you."
+    },
+    {
+      "q": "What does Professor Karen Dillon say is good about being a twin as a child?",
+      "options": [
+        "Twins usually get better marks at school because they study together",
+        "Parents give twins more attention",
+        "Twins never argue with each other",
+        "Going through school and making friends together is easier"
+      ],
+      "answer": 3,
+      "why": "She says you go through school and make friends together, so childhood milestones are easier."
+    },
+    {
+      "q": "What problem does Karen Dillon describe as twins get older?",
+      "options": [
+        "People see them as a twin rather than as an individual",
+        "They start to look less similar",
+        "They usually have to live far away from each other for work or study",
+        "They find it hard to make any friends"
+      ],
+      "answer": 0,
+      "why": "She says people really think of you as a twin rather than as an individual."
+    },
+    {
+      "q": "Why are twins useful to scientists?",
+      "options": [
+        "They live longer than other people",
+        "They can share their thoughts with each other during scientific experiments",
+        "They share genes, so their differences show the role of environment",
+        "They are born with psychic powers"
+      ],
+      "answer": 2,
+      "why": "Because twins are so genetically similar, differences between them tell scientists a lot about nature and nurture."
+    },
+    {
+      "q": "Why does Anand mention twins who were separated at birth?",
+      "options": [
+        "To show that adoption is usually a bad idea",
+        "To explain why twins have the same dreams",
+        "To prove that the environment matters much more than the genes we have",
+        "To wonder how much control we have over our lives"
+      ],
+      "answer": 3,
+      "why": "He says their similar lives make you think, 'How much choice have I had over the way my life's turned out?'"
+    },
+    {
+      "q": "Which of these was NOT true of the 'Jim Twins'?",
+      "options": [
+        "They both married a woman called Linda",
+        "They grew up together in the same town",
+        "They both gave their dog the same name",
+        "They met each other again when they were both 39 years old"
+      ],
+      "answer": 1,
+      "why": "They were separated at birth and reunited at 39, so they did not grow up together."
+    }
+  ]
+}

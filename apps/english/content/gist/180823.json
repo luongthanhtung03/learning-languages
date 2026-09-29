@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to take a good selfie",
+        "Whether phones will replace traditional cameras",
+        "The history of the very first phone with a digital camera",
+        "Why DSLR cameras are too expensive"
+      ],
+      "answer": 1,
+      "why": "Neil asks whether cameras have been made obsolete by the smartphone."
+    },
+    {
+      "q": "What happens when Neil tells Catherine to 'say cheese'?",
+      "options": [
+        "He takes a nice photo of her",
+        "His phone camera doesn't work",
+        "He takes a selfie and she isn't in it",
+        "She refuses to be in the photo"
+      ],
+      "answer": 2,
+      "why": "Catherine says 'You just took a selfie, I wasn't even in the picture.'"
+    },
+    {
+      "q": "Where is Catherine's separate camera?",
+      "options": [
+        "In her bag",
+        "At the studio",
+        "She doesn't have one",
+        "In a cupboard at home"
+      ],
+      "answer": 3,
+      "why": "She says 'It's in a cupboard somewhere at home.'"
+    },
+    {
+      "q": "What is special about mirrorless cameras?",
+      "options": [
+        "They are small but take the same lenses as DSLRs",
+        "They are the cheapest type of camera",
+        "They are only found on smartphones",
+        "They are fully automatic, with a fixed lens that can't be changed"
+      ],
+      "answer": 0,
+      "why": "Neil says they're small like a compact but can use the same lenses as DSLRs."
+    },
+    {
+      "q": "What does Phil Hall think about smartphones replacing cameras?",
+      "options": [
+        "They already have",
+        "They will do so within a year",
+        "It won't happen completely any time soon",
+        "Only professional photographers will keep cameras"
+      ],
+      "answer": 2,
+      "why": "He says he doesn't think the smartphone will take over the camera completely soon."
+    },
+    {
+      "q": "Which cameras have seen the biggest fall in sales?",
+      "options": [
+        "Cheap compact cameras",
+        "Mirrorless cameras",
+        "DSLRs",
+        "High-end premium cameras"
+      ],
+      "answer": 0,
+      "why": "Phil Hall says compact camera sales have dropped off a cliff, especially cheap compacts."
+    },
+    {
+      "q": "What are camera makers now focusing on?",
+      "options": [
+        "Cameras for children",
+        "More expensive, high-end cameras",
+        "Making phones",
+        "Cheaper compact cameras for people on holiday"
+      ],
+      "answer": 1,
+      "why": "Neil says camera makers are moving to the high-end market, DSLRs and mirrorless cameras."
+    },
+    {
+      "q": "According to Phil Hall, why do some smartphone users buy a better camera?",
+      "options": [
+        "Their phone is broken",
+        "Traditional cameras are now cheaper than most smartphones",
+        "Their friends tell them to",
+        "The quality frustrates them as their skills grow"
+      ],
+      "answer": 3,
+      "why": "He says people get frustrated with the quality once they start pushing their creative skills."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The differences between tea and coffee for health",
+        "How to make the perfect cup of coffee at home",
+        "Paying more for coffee that is fairer to farmers",
+        "Why coffee prices in shops keep going down each year"
+      ],
+      "answer": 2,
+      "why": "They discuss the trend of paying more for ethically produced coffee and whether farmers benefit."
+    },
+    {
+      "q": "How does Dan like his coffee?",
+      "options": [
+        "Instant, with a little milk",
+        "Freshly ground and very strong",
+        "Black, with no sugar",
+        "From an expensive artisan café"
+      ],
+      "answer": 0,
+      "why": "Dan says he's 'an instant coffee kind of guy' and likes it with a dash of milk."
+    },
+    {
+      "q": "What kind of coffee does Catherine prefer?",
+      "options": [
+        "Cheap instant coffee",
+        "Weak coffee with lots of milk",
+        "Any coffee, as long as it wakes her up",
+        "Dark, strong coffee made from fresh beans"
+      ],
+      "answer": 3,
+      "why": "She prefers freshly-ground beans and likes her coffee dark and strong, maybe Colombian or Brazilian."
+    },
+    {
+      "q": "Would Catherine pay more if the farmer got a fairer price?",
+      "options": [
+        "No, she already pays too much",
+        "Yes, because she thinks it matters",
+        "Only if the coffee tasted better",
+        "She isn't sure"
+      ],
+      "answer": 1,
+      "why": "She says she would, 'because I think that that sort of thing is important'."
+    },
+    {
+      "q": "What did the UN report look at?",
+      "options": [
+        "How much coffee customers in Western countries drink",
+        "How processing, branding and marketing affect farmers",
+        "Which countries grow the best-tasting coffee beans",
+        "Why artisan cafes in big cities are closing down"
+      ],
+      "answer": 1,
+      "why": "The report observed the effect of smarter processing, branding and marketing on farmers and their communities."
+    },
+    {
+      "q": "According to Dan, who takes most of the profits from coffee?",
+      "options": [
+        "The farmers who grow it",
+        "The big supermarkets",
+        "The owners of cafes",
+        "The roasting companies"
+      ],
+      "answer": 3,
+      "why": "Dan says coffee is cheap until it's roasted, so 'roasters take most of the profits'."
+    },
+    {
+      "q": "According to Jonathan Josephs, what happens when customers pay a premium?",
+      "options": [
+        "The export price rises from $1.45 to $5.14 a pound",
+        "The roaster's price falls from $5 to $4 a pound",
+        "The farmer gets less money than before for each bag",
+        "Supermarkets sell more instant coffee to customers"
+      ],
+      "answer": 0,
+      "why": "He says the roaster gets $17.45 and the export price also rises to $5.14, from $1.45."
+    },
+    {
+      "q": "What does Catherine decide at the end?",
+      "options": [
+        "To switch from coffee to tea for health reasons",
+        "To try the expensive Kopi luwak coffee next week",
+        "To look for ethically produced coffee from now on",
+        "To only drink cheap instant coffee at home like Dan"
+      ],
+      "answer": 2,
+      "why": "She says she will definitely look for ethically produced coffee from now on."
+    }
+  ]
+}

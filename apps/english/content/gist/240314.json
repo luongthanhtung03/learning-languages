@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "What libraries are and why they have been important in history",
+        "How to get a library card in London",
+        "Why people today are reading fewer and fewer books than in the past",
+        "How crime novels are written"
+      ],
+      "answer": 0,
+      "why": "They look into the hidden life of the library, including the Great Library of Alexandria."
+    },
+    {
+      "q": "What is Beth's first idea of what a library is?",
+      "options": [
+        "A place of political power",
+        "A museum full of very old and valuable manuscripts",
+        "A shop that sells books",
+        "A place with lots of books where you read or study"
+      ],
+      "answer": 3,
+      "why": "She says it's somewhere with lots of books, where you go to read or study."
+    },
+    {
+      "q": "Which of these does Neil say a library can be?",
+      "options": [
+        "A place to buy cheap food",
+        "A place to keep warm in winter",
+        "A place to watch films",
+        "A place to meet famous authors"
+      ],
+      "answer": 1,
+      "why": "He lists a symbol of knowledge, a place to keep warm in winter, or a crime-novel setting."
+    },
+    {
+      "q": "How does Professor Andrew Pettegree define a library?",
+      "options": [
+        "A public building that is owned by the local government",
+        "A collection of at least 1,000 books",
+        "Any collection of books that someone chose to build",
+        "A place where books can be borrowed for free"
+      ],
+      "answer": 2,
+      "why": "He says a library is any collection of books deliberately put together by its owner or patron."
+    },
+    {
+      "q": "Why does Pettegree mention two shelves of paperbacks at home?",
+      "options": [
+        "To say that paperbacks are not real books",
+        "To complain that people don't read enough",
+        "To show that even a small personal collection can be a library",
+        "To explain how libraries slowly lost their power and importance over time"
+      ],
+      "answer": 2,
+      "why": "He uses it as an example of a library, alongside 30 manuscripts in the 15th century."
+    },
+    {
+      "q": "What was different about books in earlier centuries?",
+      "options": [
+        "They were rare and collected slowly with great effort",
+        "They were sold cheaply everywhere, even in train stations",
+        "They were cheaper than today",
+        "They were only written in Egypt"
+      ],
+      "answer": 0,
+      "why": "Neil says books were rare and may have been painfully collected over many years."
+    },
+    {
+      "q": "What was the aim of the Great Library of Alexandria?",
+      "options": [
+        "To teach soldiers how to fight",
+        "To sell books to people across the ancient world",
+        "To keep books away from ordinary people",
+        "To collect a copy of every book that existed"
+      ],
+      "answer": 3,
+      "why": "Its mission was to bring together a copy of every book then in existence."
+    },
+    {
+      "q": "According to Professor Islam Issa, how did the library make Alexandria powerful?",
+      "options": [
+        "It paid for the city's army",
+        "It showed Alexandria was a centre of knowledge",
+        "It attracted rich tourists who spent lots of money",
+        "It kept knowledge secret from enemies"
+      ],
+      "answer": 1,
+      "why": "He says knowledge equals power, and the library was a form of soft power."
+    }
+  ]
+}

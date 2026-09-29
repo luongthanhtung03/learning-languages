@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people smile more when they are nervous or worried",
+        "How many muscles we have in our face and how they work",
+        "Computers that can tell real smiles from fake ones",
+        "How to take better photos of people who don't like smiling"
+      ],
+      "answer": 2,
+      "why": "Neil says it's about how computers may tell real smiles from fake smiles better than humans."
+    },
+    {
+      "q": "Why does Sam question Neil's greeting at the start?",
+      "options": [
+        "She finds it hard to tell if a smile is real",
+        "Neil forgot her name when he said hello",
+        "Neil wasn't smiling and looked very bored",
+        "She was in a bad mood after a long journey"
+      ],
+      "answer": 0,
+      "why": "She says she finds it difficult to tell if someone is really smiling or faking it."
+    },
+    {
+      "q": "Who is Hassan Ugail?",
+      "options": [
+        "A psychologist who studies happiness",
+        "A film director",
+        "A presenter on BBC Inside Science",
+        "A professor of visual computing"
+      ],
+      "answer": 3,
+      "why": "Neil introduces him as a professor of visual computing at the University of Bradford."
+    },
+    {
+      "q": "How does the software identify emotions?",
+      "options": [
+        "By listening to the person's voice",
+        "By studying facial muscle movements on video",
+        "By measuring heart rate",
+        "By asking people how they feel"
+      ],
+      "answer": 1,
+      "why": "He explains it looks at facial muscle movement through video frames."
+    },
+    {
+      "q": "What is special about how the software works?",
+      "options": [
+        "It works only on photographs",
+        "It needs several days to analyse data",
+        "It works instantly, while the person is talking",
+        "It only works in a laboratory"
+      ],
+      "answer": 2,
+      "why": "Sam explains it works in real time, with no delay."
+    },
+    {
+      "q": "How did the researchers get examples of real smiles?",
+      "options": [
+        "By showing people funny films",
+        "By telling people jokes",
+        "By using photos from social media",
+        "By paying people to smile"
+      ],
+      "answer": 0,
+      "why": "They sat people on a chair and showed some funny movies."
+    },
+    {
+      "q": "How did they collect fake smiles?",
+      "options": [
+        "They used actors from films",
+        "They drew them on a computer",
+        "They showed sad films",
+        "They asked people to pretend to smile"
+      ],
+      "answer": 3,
+      "why": "Professor Ugail says, 'we ask them to pretend to smile.'"
+    },
+    {
+      "q": "How accurate is the system?",
+      "options": [
+        "It is about as good as humans",
+        "It is right about 90% of the time",
+        "It is right about half the time",
+        "It is always right"
+      ],
+      "answer": 1,
+      "why": "Neil says it gets it right 90% of the time, much higher than humans."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to write a good job application and CV",
+        "Problems with unpaid internships for young people",
+        "The history of the London stock exchange and banks",
+        "Why living and renting in London is so expensive"
+      ],
+      "answer": 1,
+      "why": "Sam and Rob discuss internships and the problems of working for free."
+    },
+    {
+      "q": "What work experience did Rob have before his first job?",
+      "options": [
+        "A year-long paid internship at a bank",
+        "An unpaid job in a London office",
+        "A day or two watching how companies worked",
+        "None at all, he started work straight away"
+      ],
+      "answer": 2,
+      "why": "He says he did a day or two at some companies, just shadowing."
+    },
+    {
+      "q": "What are some companies accused of?",
+      "options": [
+        "Using students and graduates as cheap or free workers",
+        "Refusing to hire graduates without work experience",
+        "Paying interns more than their regular full-time staff",
+        "Offering internships that are far too short to be useful"
+      ],
+      "answer": 0,
+      "why": "Rob says some companies are accused of using them as cheap or free labour."
+    },
+    {
+      "q": "According to James Turner, what is now expected in many careers?",
+      "options": [
+        "A master's degree from a top university",
+        "Experience of working abroad for a year",
+        "A recommendation letter from a teacher",
+        "An internship before the first full-time job"
+      ],
+      "answer": 3,
+      "why": "He says it's almost an expectation that a young person does an internship first."
+    },
+    {
+      "q": "Why are unpaid internships bad for social mobility?",
+      "options": [
+        "Interns don't learn any skills that are useful later",
+        "People who can't afford to work for free are excluded",
+        "Companies stop hiring older workers with experience",
+        "They take too long to finish, often more than a year"
+      ],
+      "answer": 1,
+      "why": "Turner says unpaid internships rule out those who can't afford to work for free."
+    },
+    {
+      "q": "Could Sam afford an unpaid internship in London?",
+      "options": [
+        "Yes, easily, because he earns a good salary",
+        "Only for a short time, perhaps a few weeks",
+        "Yes, but only with some help from his family",
+        "No, he can hardly afford to live there already"
+      ],
+      "answer": 3,
+      "why": "Sam says he can barely afford to live in London as it is."
+    },
+    {
+      "q": "What other problem with internships does James Turner mention?",
+      "options": [
+        "They're often only open to people with contacts in the job",
+        "They are only offered in big cities like London",
+        "Interns have to work very long hours with no breaks",
+        "Companies don't advertise them online or in newspapers"
+      ],
+      "answer": 0,
+      "why": "He says they're too often open to those with established connections in the professions."
+    },
+    {
+      "q": "Why does Sam mention a father who plays golf with the CEO?",
+      "options": [
+        "To give some practical advice about networking at events",
+        "To joke about his own father's terrible golf skills",
+        "As an example of a family link that can help you get in",
+        "To show that most CEOs enjoy sport in their free time"
+      ],
+      "answer": 2,
+      "why": "He uses it to explain how a well-connected family can 'open doors'."
+    }
+  ]
+}

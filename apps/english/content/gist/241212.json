@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How children make friends at a new school",
+        "Whether making friends with other mums is positive or stressful",
+        "How to organise a play date",
+        "Why mothers work too hard"
+      ],
+      "answer": 1,
+      "why": "They ask whether making 'mum friends' is positive or an extra stress for overworked mothers."
+    },
+    {
+      "q": "What does Neil remember about first days at school?",
+      "options": [
+        "He always loved them because he enjoyed meeting new people",
+        "He only had one first day",
+        "He cried all day",
+        "He changed schools a lot, and they were never easy"
+      ],
+      "answer": 3,
+      "why": "Neil says he changed schools quite a lot, so had lots of first days, 'never easy'."
+    },
+    {
+      "q": "What happened on Beth's first day at school?",
+      "options": [
+        "She cried, but was happy once her mum left, while her mum was sad",
+        "She was happy all day, and so was her mum, who went straight to work",
+        "She refused to go into the classroom",
+        "Her mum stayed with her all day"
+      ],
+      "answer": 0,
+      "why": "Beth cried at first, but was fine after her mum left, and her mum spent the day sad."
+    },
+    {
+      "q": "What does presenter Nuala McGovern find interesting about the term 'mum friends'?",
+      "options": [
+        "It is used only in Britain",
+        "It was invented by a newspaper in the United States",
+        "These people are never just called 'friends'",
+        "Dads use it more than mums"
+      ],
+      "answer": 2,
+      "why": "She says, 'they're never called “friends”, they're called “mum friends”'."
+    },
+    {
+      "q": "According to mum Jayne Cherrington-Cook, what are the school gates like?",
+      "options": [
+        "A quiet place where nobody talks",
+        "A friendly place where everyone gets on well with each other",
+        "A place mostly for dads",
+        "Like high school, with separate groups of mums"
+      ],
+      "answer": 3,
+      "why": "She compares it to a high school clique, with sporty mums and glam mums."
+    },
+    {
+      "q": "What does Jayne find weird about these groups of mums?",
+      "options": [
+        "They all wear the same clothes",
+        "They only meet because their children were born in the same year",
+        "They never talk about their children and only discuss clothes and make-up",
+        "They only meet at weekends"
+      ],
+      "answer": 1,
+      "why": "She says 'you're all there just because your children were born in the same year'."
+    },
+    {
+      "q": "Why does Jayne mention baby yoga and painting at four months old?",
+      "options": [
+        "To recommend these activities to new mums",
+        "To show how talented her baby was",
+        "To show why she found baby groups ridiculous",
+        "To explain how she met her best friend at a baby yoga class"
+      ],
+      "answer": 2,
+      "why": "She had bad experiences at these baby groups and thought, 'This is ridiculous!'"
+    },
+    {
+      "q": "What does Jayne conclude about making mum friends?",
+      "options": [
+        "It mostly depends on luck",
+        "It depends on how hard you try",
+        "It's impossible for most mums",
+        "It's easy if you join a baby group"
+      ],
+      "answer": 0,
+      "why": "She realised it was 'just down to luck' if she met somebody she clicked with."
+    }
+  ]
+}

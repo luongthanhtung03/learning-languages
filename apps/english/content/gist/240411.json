@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Nudges, and whether they're used for good",
+        "How to stop buying things online",
+        "Why governments ban advertising",
+        "How to win a Nobel Prize in economics like Richard Thaler"
+      ],
+      "answer": 0,
+      "why": "They ask whether the idea behind nudging – to influence behaviour for good – is still true today."
+    },
+    {
+      "q": "How might a supermarket nudge people to eat better?",
+      "options": [
+        "By making chocolate bars much more expensive than fruit",
+        "By placing healthy snacks where they're easy to reach",
+        "By sending shoppers text messages",
+        "By refusing to sell sweets"
+      ],
+      "answer": 1,
+      "why": "Neil describes healthy snacks near the checkout and chocolate hidden on the top shelf."
+    },
+    {
+      "q": "What concern does Beth raise about nudging?",
+      "options": [
+        "It doesn't work on most people",
+        "It is far too expensive for most governments to use",
+        "It is only used by doctors",
+        "It is often used to make money for big companies"
+      ],
+      "answer": 3,
+      "why": "She says nudging is often used less to benefit society and more to make money for big business."
+    },
+    {
+      "q": "How did nudging begin?",
+      "options": [
+        "With an advertising campaign by Ogilvy in London",
+        "With a social media company's experiment",
+        "With a 2008 book by economist Richard Thaler",
+        "With a government law in 2011"
+      ],
+      "answer": 2,
+      "why": "Neil says nudging started in 2008 with a book by Professor Richard Thaler."
+    },
+    {
+      "q": "What example does Rory Sutherland give?",
+      "options": [
+        "Painting pictures on shop windows",
+        "Making the profitable button green and the other one grey",
+        "Sending people text reminders about their doctor's appointments",
+        "Saying there is “only one left”"
+      ],
+      "answer": 1,
+      "why": "He describes making the profitable option green and attractive and the other grey and manky."
+    },
+    {
+      "q": "Why does Rory Sutherland give this example?",
+      "options": [
+        "To show a nudge that isn't always good for the customer",
+        "To show how nudges can help people save money on shopping",
+        "To explain why green is a popular colour",
+        "To prove that nudges never work online"
+      ],
+      "answer": 0,
+      "why": "He calls it a nudge “not necessarily used in the best interests of the consumer”."
+    },
+    {
+      "q": "What is Professor Neil Levy's main criticism of nudging?",
+      "options": [
+        "It is far too slow to change how people actually behave",
+        "It only benefits governments",
+        "It decides for us when we want to make our own choices",
+        "It is based on bad science"
+      ],
+      "answer": 2,
+      "why": "He says it's paternalistic: nudges might be in our interests, but we want to make our own decisions."
+    },
+    {
+      "q": "What does Neil the presenter conclude about nudging?",
+      "options": [
+        "It should be banned",
+        "It is always good for society",
+        "It is mostly harmless fun that nobody really notices",
+        "Whether it's good or bad depends on how it's used"
+      ],
+      "answer": 3,
+      "why": "He says nudging itself is neither good nor bad, it just depends how you use it."
+    }
+  ]
+}

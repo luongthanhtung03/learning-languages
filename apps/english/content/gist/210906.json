@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "A study finding little link between tech and teens' mental health",
+        "How parents can stop their children watching so much television",
+        "Why video games are bad for young people's eyes",
+        "How many TV channels there were in the past"
+      ],
+      "answer": 0,
+      "why": "Sam says they'll look at a report which finds little evidence linking technology with mental health problems in adolescents."
+    },
+    {
+      "q": "What do Neil and Sam think about teenagers and technology at the start?",
+      "options": [
+        "They both think it is very harmful",
+        "They both think it is completely safe",
+        "Neil is worried, but Sam thinks it isn't all bad",
+        "Sam is worried, but Neil thinks it is fine"
+      ],
+      "answer": 2,
+      "why": "Neil says he's not convinced about the report, while Sam says 'I don't think it's all bad news'."
+    },
+    {
+      "q": "How is today's technology different from television, according to Sam?",
+      "options": [
+        "It is much cheaper than a television",
+        "It is only used at school",
+        "It is less colourful",
+        "It is interactive and social"
+      ],
+      "answer": 3,
+      "why": "Sam says unlike passive TV, today's technology is interactive and connects teenagers to friends."
+    },
+    {
+      "q": "How many teenagers did the Oxford Internet Institute study look at?",
+      "options": [
+        "About 4,000",
+        "Over 400,000",
+        "Around 40,000",
+        "Four million"
+      ],
+      "answer": 1,
+      "why": "The study analysed data from over 400,000 British and American teenagers."
+    },
+    {
+      "q": "Why wasn't Ghislaine Boddington expecting to find clear proof of harm?",
+      "options": [
+        "She thinks teenagers are quite savvy with tech",
+        "She thinks the study was badly done by the researchers",
+        "Teenagers don't use technology very much",
+        "She doesn't know any teenagers"
+      ],
+      "answer": 0,
+      "why": "She says teenagers are 'much more savvy than many adults think'."
+    },
+    {
+      "q": "What example does Ghislaine give of teenagers using technology sensibly?",
+      "options": [
+        "They turn off their phones completely every night",
+        "They only use social media at weekends and on holidays",
+        "They let their parents check their phones every evening",
+        "They use app blockers and know about addictive design"
+      ],
+      "answer": 3,
+      "why": "She says the teenagers she knows have app blockers and are aware of the addiction problem."
+    },
+    {
+      "q": "According to the presenters, why is reducing screen time important?",
+      "options": [
+        "Because screens seriously damage young people's eyesight",
+        "Because teachers want students to do more homework at home",
+        "Because many games and social media are made to be addictive",
+        "Because phones and tablets use too much electricity at night"
+      ],
+      "answer": 2,
+      "why": "Neil says most video games and social media are 'designed for addiction'."
+    },
+    {
+      "q": "What does Dr Matti Vuorre suggest about young people who grow up with devices?",
+      "options": [
+        "They are more likely to become addicted to screens",
+        "They are naturally skilled at using it well",
+        "They find it hard to talk to people face to face",
+        "They should wait longer before getting a phone"
+      ],
+      "answer": 1,
+      "why": "He says it's not a surprise that digital natives are skilled in using technology to their benefit."
+    }
+  ]
+}

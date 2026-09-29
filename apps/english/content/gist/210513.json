@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The differences between men's and women's emotions",
+        "How zoos look after lizards, snakes and other reptiles",
+        "How gardeners can stop aphids from damaging plants",
+        "Animals that reproduce without males, and why sex exists"
+      ],
+      "answer": 3,
+      "why": "They discuss female animals that don't need a male to make babies, and the 'paradox of sex'."
+    },
+    {
+      "q": "What is parthenogenesis?",
+      "options": [
+        "When males look after the eggs",
+        "When animals change from male to female",
+        "When a female reproduces without a mate",
+        "When two species mate together"
+      ],
+      "answer": 2,
+      "why": "Neil says it's the process where the female can reproduce without a mate."
+    },
+    {
+      "q": "What advantages of reproducing without sex does Rob mention?",
+      "options": [
+        "They spread fast and need no mate",
+        "Their babies are bigger and stronger than others",
+        "They live longer",
+        "They need less food"
+      ],
+      "answer": 0,
+      "why": "Rob says they can rapidly spread and control large areas and don't waste energy looking for a mate."
+    },
+    {
+      "q": "According to Chris Wilson, what percentage of animal species are completely celibate?",
+      "options": [
+        "About half",
+        "Less than one percent",
+        "About ten percent",
+        "Most of them"
+      ],
+      "answer": 1,
+      "why": "He says less than one percent of all animal species are completely celibate."
+    },
+    {
+      "q": "What does Chris Wilson call 'the paradox of sex'?",
+      "options": [
+        "The fact that males are usually bigger than females",
+        "The fact that some animals mate only once in their lives",
+        "The fact that sex spreads diseases between many animals",
+        "Why sex is so common when going without it seems easier"
+      ],
+      "answer": 3,
+      "why": "Despite the advantages of going without sex, few species do, which is a puzzle he calls the paradox of sex."
+    },
+    {
+      "q": "How does Neil react to the idea that males might not be needed?",
+      "options": [
+        "He is pleased and wants to know more",
+        "He jokes that he feels unappreciated",
+        "He doesn't believe it",
+        "He gets angry with Rob"
+      ],
+      "answer": 1,
+      "why": "Neil says, 'As a male myself, I have to say I'm feeling a little underappreciated'."
+    },
+    {
+      "q": "According to Amber Wright, how do American aphids reproduce?",
+      "options": [
+        "Only by mating all through the year",
+        "Only females are ever born",
+        "All-female generations, then mating later",
+        "Males lay the eggs in spring"
+      ],
+      "answer": 2,
+      "why": "She says they're all female for several generations, then at the end of summer males and females mate."
+    },
+    {
+      "q": "Why is the aphids' strategy described as 'the best of both worlds'?",
+      "options": [
+        "They clone to spread fast and use sex to mix their genes",
+        "They can live both on land and in water, like frogs",
+        "They eat both tomatoes and many other kinds of plants",
+        "They can live in both the US and Europe without problems"
+      ],
+      "answer": 0,
+      "why": "Lucy Cooke says they use cloning to rapidly colonise and then sex to mix up the genes."
+    }
+  ]
+}

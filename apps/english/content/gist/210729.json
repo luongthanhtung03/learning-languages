@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to train a dog to use a toilet",
+        "The history of London's sewers and rivers",
+        "Whether humans are naturally clean",
+        "Why cats are better pets than dogs"
+      ],
+      "answer": 2,
+      "why": "Neil says they'll ask whether humans as a species are naturally clean and tidy."
+    },
+    {
+      "q": "What does Sam say about how humans deal with waste?",
+      "options": [
+        "Humans have always been much cleaner than animals",
+        "Humans often deal with waste badly",
+        "Humans only make waste in cities",
+        "Humans learned it from cats"
+      ],
+      "answer": 1,
+      "why": "Sam says from dumping raw sewage into rivers to littering, humans aren't always good with waste."
+    },
+    {
+      "q": "What do leaf-cutter ants do, according to Neil?",
+      "options": [
+        "They bury their waste in deep holes far from the nest",
+        "They clean the bodies of other, larger animals",
+        "They leave their waste in piles near their home",
+        "They kill dirty ants trying to come back into the group"
+      ],
+      "answer": 3,
+      "why": "Neil says leaf-cutter ants kill any dirty ants trying to re-enter the group."
+    },
+    {
+      "q": "According to Professor Adam Hart, why do some antelope use a special area for their waste?",
+      "options": [
+        "To mark their territory for other animals",
+        "To keep their babies safe from disease",
+        "To stop humans from finding them",
+        "Because they don't like the smell"
+      ],
+      "answer": 0,
+      "why": "He says animals often use dung and urine as territorial markers to say 'this is my territory'."
+    },
+    {
+      "q": "According to Dr Michael De Barra, what is human cleanliness linked to?",
+      "options": [
+        "Living close together in big, crowded cities",
+        "Religious beliefs and old traditions",
+        "The problem of infectious diseases",
+        "Copying the behaviour of other animals"
+      ],
+      "answer": 2,
+      "why": "Sam says he thinks human attitudes to cleanliness are related to the problem of infectious diseases."
+    },
+    {
+      "q": "What kinds of things cause disgust, according to Dr De Barra?",
+      "options": [
+        "Only food that has gone bad",
+        "Bright colours and loud noises",
+        "Things we have never seen before",
+        "Possible signs of disease"
+      ],
+      "answer": 3,
+      "why": "He says it's triggered by infectious disease threats like smells, body wastes, coughs and sneezes."
+    },
+    {
+      "q": "What is the purpose of feelings like disgust and nausea, according to the presenters?",
+      "options": [
+        "They warn us away from sources of illness",
+        "They help us digest our food more quickly",
+        "They show that we are already ill",
+        "They make us want to clean our homes"
+      ],
+      "answer": 0,
+      "why": "Sam says they are the immune system's way of saying 'keep away! – this will make you sick!'"
+    },
+    {
+      "q": "How does Sam feel near the end of the programme?",
+      "options": [
+        "Hungry and ready for her lunch",
+        "Disgusted by the talk of pee and poo",
+        "Bored by all the science and facts",
+        "Proud of how clean humans are"
+      ],
+      "answer": 1,
+      "why": "Sam says, 'All this talk of pee and poo is disgusting!'"
+    }
+  ]
+}

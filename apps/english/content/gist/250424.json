@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why sharks are dangerous to swimmers",
+        "How to watch The Great Migration in Kenya",
+        "How climate change affects migrating animals, and how they can help fight it",
+        "Why sea turtles are disappearing"
+      ],
+      "answer": 2,
+      "why": "They discuss how climate change affects animal migration and how migrating animals help against climate change."
+    },
+    {
+      "q": "What decides where wildebeest travel during The Great Migration?",
+      "options": [
+        "The movement of lions",
+        "The rain",
+        "The number of tourists",
+        "The length of the day"
+      ],
+      "answer": 1,
+      "why": "Neil says they travel around the Serengeti and Maasai Mara every year 'depending on the rain'."
+    },
+    {
+      "q": "According to researcher Trisha Atwood, why do animals migrate?",
+      "options": [
+        "Only to escape from hunters",
+        "Only because the weather becomes too cold",
+        "To find new places to sleep",
+        "For food, for mating or to give birth"
+      ],
+      "answer": 3,
+      "why": "She says some migrate for food resources, mating or giving birth."
+    },
+    {
+      "q": "What example does Trisha give of a long shark migration?",
+      "options": [
+        "Great white sharks swimming from Perth, Australia, to South Africa",
+        "Tiger sharks swimming from the coast of Kenya all the way to Tanzania",
+        "Sharks travelling from Utah to the Pacific",
+        "Sharks crossing from Europe to America"
+      ],
+      "answer": 0,
+      "why": "She mentions great whites travelling from the coast off Perth all the way to South Africa."
+    },
+    {
+      "q": "What is changing the way sharks migrate?",
+      "options": [
+        "Changes in ocean temperature caused by climate change",
+        "Fishing boats",
+        "A lack of sea turtles and other creatures for them to eat",
+        "Pollution from plastic"
+      ],
+      "answer": 0,
+      "why": "Neil says climate change is changing ocean temperatures, which changes the way sharks migrate."
+    },
+    {
+      "q": "How do sharks help fight climate change?",
+      "options": [
+        "They eat seagrass that releases carbon",
+        "They carry carbon down with them to the bottom of the ocean when they dive",
+        "They scare away animals that eat seagrass, which absorbs carbon",
+        "They keep the ocean cooler"
+      ],
+      "answer": 2,
+      "why": "Sharks scare away creatures like sea turtles that eat seagrass, so more seagrass absorbs carbon."
+    },
+    {
+      "q": "What did Trisha's research find?",
+      "options": [
+        "Protecting all migrating animals would be enough to stop climate change completely",
+        "Managing 10 groups of animals could remove about six gigatonnes a year",
+        "Sharks alone remove ten gigatonnes of carbon a year",
+        "Wildebeest produce more carbon than they remove"
+      ],
+      "answer": 1,
+      "why": "She says managing about 10 groups of animals could sequester about six gigatonnes of carbon per year."
+    },
+    {
+      "q": "Why does host Sophie Eastaugh mention the figure of 10 gigatonnes?",
+      "options": [
+        "To show that Trisha's figure is wrong",
+        "To say how much carbon sharks produce",
+        "To explain exactly how much carbon the seagrass on the ocean floor stores",
+        "To help listeners understand how big six gigatonnes is"
+      ],
+      "answer": 3,
+      "why": "She says 'for perspective' that experts think we need to remove 10 gigatonnes a year."
+    }
+  ]
+}

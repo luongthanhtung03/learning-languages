@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Healthy vegan recipes that are quick to cook",
+        "The debate about veganism and changing minds",
+        "Why meat is necessary for good health and strength",
+        "The different types of vegetarian and what they eat"
+      ],
+      "answer": 1,
+      "why": "Dan says they'll discuss the debate about veganism and why it's hard to change people's minds."
+    },
+    {
+      "q": "How does Rob feel about becoming a vegan?",
+      "options": [
+        "It would take a lot of persuading",
+        "He is already planning to",
+        "He has tried it before",
+        "He thinks it's just a fad"
+      ],
+      "answer": 0,
+      "why": "He says, 'me becoming a vegan would take some persuading.'"
+    },
+    {
+      "q": "How many full-time vegans are there in the UK, according to some surveys?",
+      "options": [
+        "About 350,000",
+        "About 35 million",
+        "About 3.5 million",
+        "About 1 million"
+      ],
+      "answer": 2,
+      "why": "Dan says there are now around 3.5 million full-time vegans in the UK."
+    },
+    {
+      "q": "What concern does Rob raise about a meat-free diet?",
+      "options": [
+        "It is too expensive for most families",
+        "It is bad for the planet because of transport",
+        "It takes far too long to prepare and cook",
+        "You might not get all the nutrients you need"
+      ],
+      "answer": 3,
+      "why": "He says you might not get all the nutrients you need."
+    },
+    {
+      "q": "According to Dr Jutta Tobias Mortlock, why are views on veganism so divided?",
+      "options": [
+        "People don't have enough facts about food and farming",
+        "It's about personal beliefs, which are stronger than facts",
+        "The media only shows one side of the argument",
+        "Scientists strongly disagree about the basic facts"
+      ],
+      "answer": 1,
+      "why": "She says the issue touches on personal beliefs, and 'beliefs always trump facts'."
+    },
+    {
+      "q": "When people argue about eating meat, what are they really debating, according to Dr Mortlock?",
+      "options": [
+        "The cost of food",
+        "Health research",
+        "What is moral or immoral",
+        "Farming methods"
+      ],
+      "answer": 2,
+      "why": "She says they're debating beliefs about what's moral or immoral."
+    },
+    {
+      "q": "What does Dr Mortlock suggest to win someone over?",
+      "options": [
+        "Focus on what people share, not just the main facts",
+        "Give them as many facts and statistics as possible",
+        "Tell them clearly and directly that they are wrong",
+        "Avoid talking about the issue so you don't argue"
+      ],
+      "answer": 0,
+      "why": "She'd focus on peripheral things and look for what people have in common."
+    },
+    {
+      "q": "What point does Dan make about respecting other people's choices?",
+      "options": [
+        "Only vegans deserve respect for their brave choices",
+        "Omnivores should all become vegans as soon as they can",
+        "It's fine to keep arguing until the other person agrees",
+        "Even if you're not vegan, respect those who are"
+      ],
+      "answer": 3,
+      "why": "He says you should respect someone's choice to be a vegan."
+    }
+  ]
+}

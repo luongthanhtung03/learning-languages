@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The life and work of Albert Einstein",
+        "What algorithms are and how they help us",
+        "How to cook pancakes using a simple recipe",
+        "Why internet dating has become so popular"
+      ],
+      "answer": 1,
+      "why": "Neil says algorithms are all around us, and 'they're the topic of this programme'."
+    },
+    {
+      "q": "Why does Neil mention credit cards, internet dating and traffic lights?",
+      "options": [
+        "To show that computers often make mistakes",
+        "To explain how banks make their money",
+        "To show how modern life has become stressful",
+        "They're examples of things that use algorithms"
+      ],
+      "answer": 3,
+      "why": "He says they all involve computers, and they all use algorithms."
+    },
+    {
+      "q": "According to Neil, what is a simple way to think of algorithms?",
+      "options": [
+        "Like recipes",
+        "Like maps",
+        "Like games",
+        "Like letters"
+      ],
+      "answer": 0,
+      "why": "He says, 'A simple way to think of algorithms is as recipes.'"
+    },
+    {
+      "q": "How long have algorithms existed?",
+      "options": [
+        "Since the first computers",
+        "Since Einstein's time",
+        "Since Babylonian times",
+        "Only for the last few decades"
+      ],
+      "answer": 2,
+      "why": "Sam says they've been around since Babylonian times, around 4,000 years ago."
+    },
+    {
+      "q": "Why can algorithms be controversial today?",
+      "options": [
+        "They make computers work too slowly",
+        "Some have been accused of racial prejudice",
+        "They are too expensive for most companies",
+        "They are only understood by mathematicians"
+      ],
+      "answer": 1,
+      "why": "Neil says some algorithms used in internet search engines have been accused of racial prejudice."
+    },
+    {
+      "q": "What is Professor Ramesh Srinivasan's view of algorithms?",
+      "options": [
+        "They are dangerous and should be controlled",
+        "They are a mystery that nobody understands",
+        "They will soon replace human workers",
+        "They're simply sets of repeated instructions"
+      ],
+      "answer": 3,
+      "why": "He says they're not the bogyman or mysterious – just a repeated set of instructions to solve a problem."
+    },
+    {
+      "q": "What does the apple example show about algorithms?",
+      "options": [
+        "Computers are better at picking fruit than people",
+        "Big apples are always harder to sort",
+        "They find the quickest, most efficient method",
+        "Every tree needs its own special algorithm"
+      ],
+      "answer": 2,
+      "why": "Sorting apples tree by tree is easier, and Neil says algorithms find the most efficient way to get things done."
+    },
+    {
+      "q": "What example does Professor Ian Stewart give?",
+      "options": [
+        "A computer sorting emails by date",
+        "A shop sorting all its customers by age",
+        "A phone finding the fastest route home",
+        "A pizza company planning its deliveries"
+      ],
+      "answer": 0,
+      "why": "He describes a computer sorting 500 emails by date 'in a flash', which would take ages by hand."
+    }
+  ]
+}

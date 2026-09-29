@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Whether AI could replace doctors and nurses",
+        "How to protect your skin from the sun",
+        "Why fewer young people want to become doctors today",
+        "How nurses cared for Covid patients"
+      ],
+      "answer": 0,
+      "why": "Neil says they'll discuss whether the AI revolution could replace human doctors and nurses."
+    },
+    {
+      "q": "What does Sam doubt a robot could replace?",
+      "options": [
+        "A doctor's ability to scan the body",
+        "A doctor's kind and caring way with patients",
+        "A doctor's knowledge of medicine",
+        "A doctor's long working hours"
+      ],
+      "answer": 1,
+      "why": "Sam says he doubts a doctor's bedside manner could easily be replaced by a robot."
+    },
+    {
+      "q": "How many people in the UK are treated for skin cancer each year?",
+      "options": [
+        "About 500,000",
+        "About 2 million",
+        "About 21,000",
+        "Over 5 million"
+      ],
+      "answer": 3,
+      "why": "Neil says every year in the UK over 5 million people are treated for skin cancer."
+    },
+    {
+      "q": "According to Daniel Susskind, what could the Stanford system do?",
+      "options": [
+        "Treat skin cancer without the need for surgery",
+        "Train new dermatologists",
+        "Spot cancerous freckles from photos",
+        "Stop freckles from appearing"
+      ],
+      "answer": 2,
+      "why": "He says if you give it a photo of a freckle it can tell whether the freckle is cancerous."
+    },
+    {
+      "q": "How accurate was the Stanford system?",
+      "options": [
+        "As accurate as twenty-one leading dermatologists",
+        "Less accurate than one normal doctor at a local clinic",
+        "Right about half the time, like tossing a coin",
+        "Only accurate when it was used on people with pale skin"
+      ],
+      "answer": 0,
+      "why": "Susskind says it was as accurate as twenty-one leading dermatologists."
+    },
+    {
+      "q": "Why is Daniel Susskind not convinced that AI will replace doctors?",
+      "options": [
+        "Because AI systems are still far too expensive for hospitals",
+        "Because most patients don't trust machines with their health",
+        "Because doctors can't fully explain how they make a diagnosis",
+        "Because the Stanford system made too many serious mistakes"
+      ],
+      "answer": 2,
+      "why": "He says doctors struggle to explain how they diagnose, so it's hard to write instructions for a machine."
+    },
+    {
+      "q": "According to Susskind, what do doctors say diagnosis needs?",
+      "options": [
+        "Very expensive equipment",
+        "Creativity and judgement",
+        "Good reference books only",
+        "Many years of training in AI"
+      ],
+      "answer": 1,
+      "why": "He says doctors would say it requires things like creativity and judgement."
+    },
+    {
+      "q": "Why does Neil mention cooking rice?",
+      "options": [
+        "To show how doctors relax",
+        "To explain a healthy diet",
+        "To compare AI with a recipe book",
+        "To give an example of a rule of thumb"
+      ],
+      "answer": 3,
+      "why": "He says a good rule of thumb is two portions of water to one of rice."
+    }
+  ]
+}

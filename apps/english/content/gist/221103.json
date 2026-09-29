@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Famous chefs and their secret recipes",
+        "The scientists who create food flavours",
+        "Why chocolate is so popular around the world",
+        "How supermarkets keep food fresh for longer"
+      ],
+      "answer": 1,
+      "why": "Neil says they'll be meeting the flavourists, scientists who create the flavours in our food."
+    },
+    {
+      "q": "According to Sam, what influences flavour besides the tongue?",
+      "options": [
+        "Only the smell of food, nothing else",
+        "The price of food and where it's from",
+        "How food looks, smells and is described",
+        "The temperature of the room you eat in"
+      ],
+      "answer": 2,
+      "why": "She says flavour is also influenced by how food looks, smells and even how it's described."
+    },
+    {
+      "q": "Why do some scientists think combinations like strawberries and cream work well?",
+      "options": [
+        "Their chemicals overlap in special ways",
+        "They are the same colour",
+        "They are both sweet",
+        "They grow at the same time of year"
+      ],
+      "answer": 0,
+      "why": "Sam says some scientists think their chemicals overlap in special ways."
+    },
+    {
+      "q": "What was the flavour industry like in the 19th century, according to Dr Nadia Berenstein?",
+      "options": [
+        "It was run by large supermarkets",
+        "It was taught at many universities",
+        "Recipes were shared openly with everyone",
+        "A few firms kept secret family recipes"
+      ],
+      "answer": 3,
+      "why": "She says a dozen or so companies used secret recipes, sometimes passed from father to son."
+    },
+    {
+      "q": "What increased demand for new flavours after the Second World War?",
+      "options": [
+        "More people eating out in restaurants",
+        "Processed food in supermarkets and fridges",
+        "New flavour schools opening in Europe",
+        "Cheaper sugar from abroad"
+      ],
+      "answer": 1,
+      "why": "Neil says the invention of processed food sold in supermarkets and kept in fridges increased demand."
+    },
+    {
+      "q": "How do people become flavourists today?",
+      "options": [
+        "By studying flavour science at university",
+        "By passing a difficult government exam",
+        "By training at work with a master",
+        "By working in a restaurant kitchen first"
+      ],
+      "answer": 2,
+      "why": "Dr Berenstein says there's no academic path; training is on-the-job with a master flavourist."
+    },
+    {
+      "q": "How does Dr Berenstein describe the flavourist's job?",
+      "options": [
+        "Only scientific, with no creativity",
+        "Simple and easy to learn",
+        "Mainly about business and selling",
+        "Scientific but also creative"
+      ],
+      "answer": 3,
+      "why": "She says 'it's a scientific profession for sure… but it is a creative profession'."
+    },
+    {
+      "q": "Why does Neil compare a flavourist to a magician?",
+      "options": [
+        "They add a little of this and that for taste",
+        "Because flavourists perform tricks on stage",
+        "Because their recipes are secret and dishonest",
+        "Because flavourists work mostly at night"
+      ],
+      "answer": 0,
+      "why": "He says he loves the idea of adding a pinch of this and a drop of that to create a magical taste."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to use a telephone politely",
+        "Why British people don't like hugs",
+        "Why greetings matter and where 'hello' comes from",
+        "How diplomats learn foreign languages"
+      ],
+      "answer": 2,
+      "why": "Catherine says they're exploring the world of greetings and the history of 'hello'."
+    },
+    {
+      "q": "What does Catherine advise about kissing someone as a greeting?",
+      "options": [
+        "Always kiss twice",
+        "Kiss the air close to the cheek",
+        "Never kiss anyone",
+        "Kiss only people you know well, and only once"
+      ],
+      "answer": 1,
+      "why": "She says 'definitely an air-kiss! Close to the cheek, but don't touch.'"
+    },
+    {
+      "q": "According to Andy Scott, why are greetings so important?",
+      "options": [
+        "They show our relationships and intentions",
+        "They show other people how well educated and polite we are",
+        "They help us remember people's names",
+        "They are required by law in some countries"
+      ],
+      "answer": 0,
+      "why": "He says through greetings we reaffirm or test our bonds and signal our intentions."
+    },
+    {
+      "q": "Why might someone give a hug instead of a handshake?",
+      "options": [
+        "Because they are cold",
+        "Because they forgot the rules",
+        "Because handshakes are rude",
+        "To test whether a friendship has grown"
+      ],
+      "answer": 3,
+      "why": "Rob says we might check if our friendship has grown by offering something warmer, like a hug."
+    },
+    {
+      "q": "What does Scott suggest if you get a greeting wrong?",
+      "options": [
+        "Just laugh about it",
+        "Apologise many times",
+        "Start again",
+        "Leave quickly"
+      ],
+      "answer": 0,
+      "why": "Catherine says greetings also reduce tension, 'So if you get it wrong, just laugh about it.'"
+    },
+    {
+      "q": "According to Dr Laura Wright, how was 'hello' first used?",
+      "options": [
+        "As a polite greeting to friends",
+        "As a way to say goodbye",
+        "As a shout to someone far away",
+        "As a word in letters"
+      ],
+      "answer": 2,
+      "why": "She says 'It starts as a distant hailing', yelling at someone miles away."
+    },
+    {
+      "q": "What made 'hello' become a common greeting?",
+      "options": [
+        "A famous book about good manners",
+        "The invention of the telephone",
+        "The first radio programmes",
+        "School lessons"
+      ],
+      "answer": 1,
+      "why": "She says 'It's not until the invention of telephones we really get to use hello as a greeting'."
+    },
+    {
+      "q": "Why did people first say 'hello' on the telephone?",
+      "options": [
+        "To be polite to the operator who connected the call for them",
+        "Because it was the law",
+        "To end the call",
+        "To get attention while waiting to be connected"
+      ],
+      "answer": 3,
+      "why": "She says it was 'an attention-grabbing device', for example to attract the operator's attention."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best presents to give at Christmas",
+        "What it takes to be a good Santa",
+        "How Christmas is celebrated around the world",
+        "Why children stop believing in Santa"
+      ],
+      "answer": 1,
+      "why": "Neil says the topic is 'What makes the perfect Santa?'"
+    },
+    {
+      "q": "When Dan says Christmas is all about presents, what does he really mean?",
+      "options": [
+        "He loves receiving expensive gifts",
+        "He thinks Christmas has become too commercial",
+        "He enjoys giving presents to others",
+        "He prefers presents to food"
+      ],
+      "answer": 2,
+      "why": "Dan explains he was talking about giving presents, not getting them."
+    },
+    {
+      "q": "Who is James Lovell?",
+      "options": [
+        "A man who runs a school for Santas in London",
+        "A famous actor who plays Santa on TV",
+        "A children's writer",
+        "A shop owner who hires Santas"
+      ],
+      "answer": 0,
+      "why": "Neil says he runs a Santa school at his company Ministry of Fun in London."
+    },
+    {
+      "q": "According to James Lovell, what is a key part of being Father Christmas?",
+      "options": [
+        "Having a real white beard",
+        "Knowing every child's name",
+        "Giving the best presents",
+        "Doing a perfect 'ho ho ho!'"
+      ],
+      "answer": 3,
+      "why": "He says 'a perfect ho ho ho! is a key part of being a Father Christmas'."
+    },
+    {
+      "q": "How does James Lovell do his 'ho ho ho'?",
+      "options": [
+        "He shouts it as loudly as possible",
+        "He sings it with a group of children",
+        "He says it quietly and slowly",
+        "He taps his tummy and smiles widely"
+      ],
+      "answer": 3,
+      "why": "He says he likes to 'reach down into my tummy, tap it and with a big smile' say it."
+    },
+    {
+      "q": "What does Dan think might be hard about the job?",
+      "options": [
+        "Wearing the heavy costume all day long",
+        "The pressure of impressing lots of children",
+        "Working very long hours in the busy shop",
+        "Remembering the names of all the reindeer"
+      ],
+      "answer": 1,
+      "why": "Dan thinks there would be 'a lot of pressure to perform' with all the children to impress."
+    },
+    {
+      "q": "Which of these does James Lovell NOT say a Santa needs?",
+      "options": [
+        "A deep singing voice",
+        "Magical eyes",
+        "Lots to say",
+        "To look good"
+      ],
+      "answer": 0,
+      "why": "He lists looking good, lots to say, being very jolly and magical eyes, but not a singing voice."
+    },
+    {
+      "q": "How does Dan feel about becoming a Santa by the end?",
+      "options": [
+        "He is ready to start next week",
+        "He wants to open his own Santa school",
+        "He is having second thoughts about it",
+        "He thinks it would be very easy"
+      ],
+      "answer": 2,
+      "why": "Dan says he's having second thoughts and it might be 'a challenge too far'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of women getting the vote in Britain",
+        "How general elections work in the UK and Europe",
+        "Efforts to get more women to stand for parliament",
+        "Why politics on TV is so boring for young people"
+      ],
+      "answer": 2,
+      "why": "They discuss projects trying to get more women interested in standing for parliament."
+    },
+    {
+      "q": "What does Georgina say about women MPs in the UK?",
+      "options": [
+        "About 34% are women, the most ever but far from half",
+        "Half of all MPs are now women, for the first time",
+        "The number of women MPs has been falling for years",
+        "There are no women MPs under the age of 30"
+      ],
+      "answer": 0,
+      "why": "She says about 34% of MPs are women, the highest ever, but still not close to 50%."
+    },
+    {
+      "q": "What is 50:50 Parliament's 'sign-up-to-stand' campaign for?",
+      "options": [
+        "Asking more young people to vote in elections",
+        "Raising money for women's charities across the UK",
+        "Training young journalists to report on politics",
+        "Getting more women interested in standing as MPs"
+      ],
+      "answer": 3,
+      "why": "Sam describes it as one of the projects trying to get more women interested in standing for parliament."
+    },
+    {
+      "q": "How did Lucrece Grehoua feel about politics at first?",
+      "options": [
+        "She had wanted to be a politician since childhood",
+        "She thought it looked boring and not for her",
+        "She was angry at all politicians for lying",
+        "She found it much too difficult to follow"
+      ],
+      "answer": 1,
+      "why": "She says she didn't see herself in Parliament and politics looked extremely boring."
+    },
+    {
+      "q": "What made Lucrece decide to sign up?",
+      "options": [
+        "A well-known politician asked her to join",
+        "Her family and friends encouraged her to try",
+        "It included a diverse range of young women",
+        "She was offered a paid job in parliament"
+      ],
+      "answer": 2,
+      "why": "She says when she saw it included a diverse range of young women, she thought 'this is really for me'."
+    },
+    {
+      "q": "What does Lucrece believe about everybody and politics?",
+      "options": [
+        "Only well-educated people can understand politics",
+        "We all get angry about something, so we're all politicians",
+        "Most people don't really care about politics at all",
+        "Young people should stay out of politics until they're older"
+      ],
+      "answer": 1,
+      "why": "She says, “everybody has a politician within them because we all get anger about something.”"
+    },
+    {
+      "q": "What did Lucrece dislike about the way politics is discussed?",
+      "options": [
+        "It is too emotional and people shout too much",
+        "It happens only on TV late at night",
+        "It is always about money and taxes",
+        "It is full of jargon that's hard to understand"
+      ],
+      "answer": 3,
+      "why": "She says when we see it, it's all jargon, not words we can understand."
+    },
+    {
+      "q": "Why does Lucrece mention her working-class, disadvantaged background?",
+      "options": [
+        "To show politics is for everyone if explained well",
+        "To explain why she can't stand for parliament yet",
+        "To complain about private schools and their pupils",
+        "To ask the listeners for some financial help"
+      ],
+      "answer": 0,
+      "why": "She says she realised politics is for everybody; the way you speak about it has to be tailored to everyone."
+    }
+  ]
+}

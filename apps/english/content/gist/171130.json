@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to choose the best new smartphone",
+        "Why young people use their phones too much",
+        "How to repair an old phone",
+        "Why people are keeping their phones for longer"
+      ],
+      "answer": 3,
+      "why": "They discuss smartphones and why people hold onto their phones instead of buying the latest model."
+    },
+    {
+      "q": "What does Rob say about his own phone?",
+      "options": [
+        "He bought it last month to replace a broken one",
+        "It's about two years old and he's happy with it",
+        "It often stops working when the battery is low",
+        "He plans to upgrade it soon to the newest model"
+      ],
+      "answer": 1,
+      "why": "Rob bought it a couple of years ago and says it does everything he needs."
+    },
+    {
+      "q": "Why isn't Rob worried about not having the latest model?",
+      "options": [
+        "He doesn't believe the new model offers much more",
+        "He can't afford a new phone on his current salary",
+        "He doesn't use his phone very often, except for calls",
+        "He prefers phones from smaller, cheaper brands"
+      ],
+      "answer": 0,
+      "why": "He says he's 'not convinced that the latest model offers any more' than his phone."
+    },
+    {
+      "q": "According to Andrew Orlowski, what has happened to expensive phones?",
+      "options": [
+        "Their prices have fallen",
+        "Fewer brands make them",
+        "Their prices have gone up",
+        "They have become smaller"
+      ],
+      "answer": 2,
+      "why": "He says 'prices have gone up at the high end'."
+    },
+    {
+      "q": "What is the 'cycle' Andrew Orlowski describes?",
+      "options": [
+        "People buy new phones every year, so the prices keep dropping",
+        "Makers release new models, so people upgrade more and more often",
+        "Phones are kept longer, so prices rise, so people keep them longer",
+        "Shops sell old phones cheaply, so makers stop making new ones"
+      ],
+      "answer": 2,
+      "why": "People hang onto phones longer, makers charge more, then people hang on longer to justify the price."
+    },
+    {
+      "q": "How does Andrew Orlowski describe the smartphone market now?",
+      "options": [
+        "Very new and growing fast",
+        "Very mature",
+        "About to disappear",
+        "Mostly for young people"
+      ],
+      "answer": 1,
+      "why": "He says 'I think it's a very mature market now'."
+    },
+    {
+      "q": "Why does Andrew Orlowski mention a 49-inch TV for £450?",
+      "options": [
+        "To advertise a TV he likes",
+        "To show that TVs are better quality than phones",
+        "To suggest people watch TV more than they use phones",
+        "To show that expensive phones no longer seem so special"
+      ],
+      "answer": 3,
+      "why": "He compares £900–£1000 phones with a cheap spectacular TV and says phones lost their 'must-have lustre'."
+    },
+    {
+      "q": "How does Catherine react to the TV example?",
+      "options": [
+        "She thinks the TV sounds like a bargain",
+        "She says she never watches TV",
+        "She thinks £450 is too expensive",
+        "She says her TV is even bigger"
+      ],
+      "answer": 0,
+      "why": "She says a 49-inch TV for £450 sounds like a bargain, as hers is only 30 inches."
+    }
+  ]
+}

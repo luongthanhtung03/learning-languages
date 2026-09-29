@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Whether it is too late to stop Arctic ice melting",
+        "How the coronavirus pandemic affected the climate",
+        "Record high temperatures in California",
+        "How satellites are built to study ice"
+      ],
+      "answer": 0,
+      "why": "Georgina says they'll look at climate change in the Arctic and ask if it's too late to change."
+    },
+    {
+      "q": "Why does Georgina say climate change has received less attention in 2020?",
+      "options": [
+        "Scientists have stopped studying it",
+        "The ice has stopped melting",
+        "People believe it is already solved",
+        "The coronavirus has dominated the headlines"
+      ],
+      "answer": 3,
+      "why": "She says with coronavirus dominating the headlines, attention has moved away from climate change."
+    },
+    {
+      "q": "What do we learn about Greenland's ice sheet?",
+      "options": [
+        "It is roughly the same size as the state of Texas",
+        "It holds enough water to raise sea levels by 6 metres",
+        "It is about 6 kilometres thick in the middle",
+        "It is growing a little bigger every single year"
+      ],
+      "answer": 1,
+      "why": "Neil says it is three times the size of Texas and holds enough water to raise sea levels by 6 metres."
+    },
+    {
+      "q": "According to Michalea King, what was the situation before 2000?",
+      "options": [
+        "The ice sheet was growing quickly",
+        "The ice sheet was melting faster than today",
+        "Ice lost was roughly replaced by new snow",
+        "No one was measuring the ice"
+      ],
+      "answer": 2,
+      "why": "She says the ice lost from glaciers was approximately equal to what was gained from snow each year."
+    },
+    {
+      "q": "What is happening to the glaciers now?",
+      "options": [
+        "They are shrinking faster than new ice forms",
+        "They are staying the same size",
+        "They are growing because of more snow",
+        "They are moving further inland"
+      ],
+      "answer": 0,
+      "why": "Georgina says the glaciers are shrinking faster than new ice is being accumulated."
+    },
+    {
+      "q": "What message does Michalea King want to send?",
+      "options": [
+        "It is too late to do anything",
+        "The ice sheet will soon recover by itself",
+        "Only governments can make a difference",
+        "We can still slow the loss, so we shouldn't give up"
+      ],
+      "answer": 3,
+      "why": "She says we can control the rate of mass loss and it's not a 'give up' kind of situation."
+    },
+    {
+      "q": "What does Michalea King think will probably still happen?",
+      "options": [
+        "The ice sheet will disappear this century",
+        "Ice loss will stop completely",
+        "The ice sheet will continue to lose mass",
+        "Sea levels will fall"
+      ],
+      "answer": 2,
+      "why": "She says it seems likely that we will continue to lose mass, though a slow rate is preferred."
+    },
+    {
+      "q": "How does Neil describe the overall message at the end?",
+      "options": [
+        "Worrying, with no hope left",
+        "Positive, but everyone needs to act soon",
+        "Confusing, because scientists disagree",
+        "Unimportant compared with the pandemic"
+      ],
+      "answer": 1,
+      "why": "He says it's a positive message but calls for everyone to do what they can before it's too late."
+    }
+  ]
+}

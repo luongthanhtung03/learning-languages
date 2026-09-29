@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why British schools are the best in the world",
+        "How to prepare for maths exams",
+        "The life of a school principal in Estonia",
+        "International school rankings and what makes some countries do well"
+      ],
+      "answer": 3,
+      "why": "They talk about the Pisa rankings and what makes countries perform better in these tests."
+    },
+    {
+      "q": "What does Beth think of the British education system?",
+      "options": [
+        "It's quite good, but probably not the best in the world",
+        "It's the best in the world",
+        "It's very poor and needs to change completely, starting with exams",
+        "She doesn't have an opinion"
+      ],
+      "answer": 0,
+      "why": "She says it's quite good, she'd change a couple of things, but it's 'maybe not the best in the world'."
+    },
+    {
+      "q": "What do the Pisa tests try to show?",
+      "options": [
+        "Which countries have the most teachers",
+        "Which countries teach maths, science and reading most effectively",
+        "Which schools have the best buildings",
+        "Which students will go to the best universities in their own country"
+      ],
+      "answer": 1,
+      "why": "Beth says they try to show which countries are most effective at teaching maths, science and reading."
+    },
+    {
+      "q": "According to journalist Sean Coughlan, why were the tests controversial at first?",
+      "options": [
+        "The tests were much too difficult for most students in poorer countries",
+        "Only rich countries could take part",
+        "People doubted you could fairly compare very different countries",
+        "Teachers refused to use them"
+      ],
+      "answer": 2,
+      "why": "People asked how you could possibly compare America to Luxembourg or parts of China."
+    },
+    {
+      "q": "What pattern is often seen in the Pisa rankings?",
+      "options": [
+        "Large Western European countries usually come first",
+        "Rich countries always do best",
+        "The most successful countries tend to be smaller",
+        "Results stay the same every time"
+      ],
+      "answer": 2,
+      "why": "Beth says the most successful countries tend to be smaller, like Singapore, Estonia and Taiwan."
+    },
+    {
+      "q": "Why does Sean mention a 'knowledge economy'?",
+      "options": [
+        "To say that Pisa tests are not useful",
+        "To explain why countries might want to measure skills with these tests",
+        "To show that Estonia's economy still depends on a large farming industry",
+        "To describe what students study at university"
+      ],
+      "answer": 1,
+      "why": "He says if you want an economy based on skills, 'this is how you measure it'."
+    },
+    {
+      "q": "According to Sean, which countries tend to do well?",
+      "options": [
+        "Those that get all pupils to a certain standard, whatever their background",
+        "Those that spend the most money on school buildings, teachers and technology",
+        "Those with the longest school days",
+        "Those that give the most homework"
+      ],
+      "answer": 0,
+      "why": "He says countries that get all pupils to a certain standard, 'regardless of their background', do well."
+    },
+    {
+      "q": "According to principal Rando Kuustik, what is one reason for Estonia's success?",
+      "options": [
+        "Students start school very early",
+        "Schools use lots of technology",
+        "Teachers are paid very well compared with other countries",
+        "Students are not separated into groups by ability"
+      ],
+      "answer": 3,
+      "why": "He says teaching by level or ability segregates people, and not doing that is why Estonia is successful."
+    }
+  ]
+}

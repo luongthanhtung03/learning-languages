@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Unfair treatment of shorter people",
+        "The tallest people who have ever lived in history",
+        "How to become taller",
+        "Why women earn less than men"
+      ],
+      "answer": 0,
+      "why": "The topic is heightism, a kind of discrimination against shorter people."
+    },
+    {
+      "q": "How do Neil and Catherine feel about their own height?",
+      "options": [
+        "Both wish they were much shorter",
+        "Catherine is unhappy with her height, but Neil is happy with his",
+        "Both are fine, though Neil wouldn't mind being taller",
+        "Neither of them has thought about it"
+      ],
+      "answer": 2,
+      "why": "Catherine says she's alright with her height; Neil says the same, but wouldn't mind being slightly taller."
+    },
+    {
+      "q": "Why does Catherine say the book title 'Shortchanged' is clever?",
+      "options": [
+        "Because the author is very tall",
+        "Because the book is very short",
+        "Because the book is about getting the wrong change in shops",
+        "It's a pun about short people being treated unfairly"
+      ],
+      "answer": 3,
+      "why": "She says in the context of discrimination against people who aren't tall, it's 'a really good pun'."
+    },
+    {
+      "q": "What has Tanya S Osensky noticed about tall people?",
+      "options": [
+        "Many of them wish they were shorter",
+        "None of them wish they were shorter",
+        "They don't like talking about height",
+        "They often say they are shorter than they are"
+      ],
+      "answer": 1,
+      "why": "She says 'I have not met anybody who said they would wish they were shorter.'"
+    },
+    {
+      "q": "What do people often do when asked how tall they are?",
+      "options": [
+        "Refuse to answer",
+        "Give their exact height",
+        "Say they are shorter than they really are",
+        "Say they are taller than they really are"
+      ],
+      "answer": 3,
+      "why": "She says people tend to embellish their height, saying they are taller than they are."
+    },
+    {
+      "q": "According to research, which of these is true for shorter people?",
+      "options": [
+        "They are less likely to get jobs and promotions",
+        "They are more likely to be promoted",
+        "They work longer hours",
+        "They are better at their jobs"
+      ],
+      "answer": 0,
+      "why": "Neil says research shows shorter people are less likely to get jobs, be promoted or earn as much."
+    },
+    {
+      "q": "How much extra per inch of height do men earn, according to one set of data?",
+      "options": [
+        "$1000",
+        "Over $2000",
+        "$200",
+        "$10,000"
+      ],
+      "answer": 1,
+      "why": "She says the premium for height is over $2000 per inch for men and $1000 for women."
+    },
+    {
+      "q": "What does Tanya S Osensky say happens to this pay difference over time?",
+      "options": [
+        "It disappears",
+        "It stays the same from the first job until the last one",
+        "It grows into a big part of career earnings",
+        "It only affects women"
+      ],
+      "answer": 2,
+      "why": "She says the disparity grows significantly, becoming 'a huge chunk of someone's paycheck'."
+    }
+  ]
+}

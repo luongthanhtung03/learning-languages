@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to look after a pet rabbit at home",
+        "Why chocolate eggs are eaten at Easter in Britain",
+        "Rabbits in Britain and people's mixed views of them",
+        "The life of Beatrix Potter and her children's books"
+      ],
+      "answer": 2,
+      "why": "Neil and Rob talk about rabbits' history in the UK and how they're seen as both cute and tricky."
+    },
+    {
+      "q": "What is Rob's view of rabbits?",
+      "options": [
+        "They are pests that damage farms",
+        "They are cute, and he likes them",
+        "They are dangerous and carry disease",
+        "He has no opinion about them at all"
+      ],
+      "answer": 1,
+      "why": "He calls them 'Cute, adorable and fluffy – what's not to like?'"
+    },
+    {
+      "q": "How did rabbits first arrive in Britain, according to Neil?",
+      "options": [
+        "They were probably brought by invaders",
+        "They swam from Europe",
+        "They have always lived there",
+        "They were brought as pets in the 1990s"
+      ],
+      "answer": 0,
+      "why": "He says they were believed to be brought by invaders, maybe the Romans or Normans."
+    },
+    {
+      "q": "According to Victoria Dickinson, what shows rabbits have been in Britain a long time?",
+      "options": [
+        "Old paintings of rabbits in country houses",
+        "Rabbit bones found in ancient castles",
+        "Old recipes for rabbit pie from the 1500s",
+        "Over 400 places with 'warren' in their name"
+      ],
+      "answer": 3,
+      "why": "She says there are over 400 villages and towns with the word 'warren' in their name."
+    },
+    {
+      "q": "What allowed rabbits to spread and become wild?",
+      "options": [
+        "Farmers released them to control the weeds",
+        "Fox hunting grew and removed their predators",
+        "Warmer weather allowed them to breed all year",
+        "There was more food for them in towns and cities"
+      ],
+      "answer": 1,
+      "why": "She says when their predators disappeared with fox hunting, rabbits multiplied."
+    },
+    {
+      "q": "Why does Victoria Dickinson call the rabbit 'paradoxical'?",
+      "options": [
+        "It has opposite sides, like being wild and tame",
+        "It is very hard to catch, even for skilled hunters",
+        "It is loved in some countries but hated in others",
+        "It lives both above and below the ground"
+      ],
+      "answer": 0,
+      "why": "She says it's both wild and tame, timid but also a trickster."
+    },
+    {
+      "q": "Why does Rob think rabbits are the perfect symbol for Easter?",
+      "options": [
+        "They are good at hiding chocolate eggs in the garden",
+        "They are born in spring, just like baby chickens",
+        "They are wild and clever, just like foxes in the woods",
+        "They're tame and loved by kids, with toys and rhymes"
+      ],
+      "answer": 3,
+      "why": "He says we think of them as tame, with nursery rhymes and cuddly toys."
+    },
+    {
+      "q": "What has happened to rabbit numbers in the UK in the last 20 years?",
+      "options": [
+        "They have doubled",
+        "They have stayed the same",
+        "They have fallen by around 60%",
+        "They have risen by around 60%"
+      ],
+      "answer": 2,
+      "why": "Neil says numbers have declined by around 60 per cent over the last 20 years."
+    }
+  ]
+}

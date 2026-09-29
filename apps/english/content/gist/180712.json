@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Smartphone addiction and how to use phones less",
+        "The history of the smartphone",
+        "How to make videos for YouTube",
+        "Why teenagers need their own phones from a young age"
+      ],
+      "answer": 0,
+      "why": "They discuss smartphone addiction and ideas like app timers to help us use phones less."
+    },
+    {
+      "q": "What causes the confusion at the start?",
+      "options": [
+        "Catherine doesn't own a smartphone",
+        "Rob forgot his phone",
+        "Catherine uses her phone 18 or 19 hours a day",
+        "Rob thinks Catherine means per month, not per week"
+      ],
+      "answer": 2,
+      "why": "Rob thinks she means 18 or 19 hours a week, but Catherine says she meant a day."
+    },
+    {
+      "q": "Why does Catherine keep checking her phone?",
+      "options": [
+        "She is waiting for an important call",
+        "She is afraid of missing something interesting",
+        "Her boss sends her messages",
+        "She is playing a game"
+      ],
+      "answer": 1,
+      "why": "She says she suffers from FOMO: something cool might be happening and she wants to catch it."
+    },
+    {
+      "q": "What does Rob demonstrate while Catherine is looking at her phone?",
+      "options": [
+        "How to switch a phone off",
+        "How to take a photo",
+        "How to set a timer on an app to limit your phone use",
+        "That she ignores him because of her phone"
+      ],
+      "answer": 3,
+      "why": "Rob has to repeat 'Hello… I said…' and 'Catherine!' because she isn't listening, like a phubber."
+    },
+    {
+      "q": "According to one survey, how many teenagers in the USA feel addicted to their phones?",
+      "options": [
+        "About a quarter",
+        "About half",
+        "Almost all",
+        "About one in ten"
+      ],
+      "answer": 1,
+      "why": "Rob says half of teenagers in the USA feel like they are addicted to their mobile phones."
+    },
+    {
+      "q": "What danger of phones does psychologist Jean Twenge mention?",
+      "options": [
+        "We lose track of time and an hour passes",
+        "Our eyes get tired",
+        "We spend too much money on games and other apps",
+        "We sleep badly at night"
+      ],
+      "answer": 0,
+      "why": "She talks about getting into social media and 'realising that an hour has passed'."
+    },
+    {
+      "q": "What does Catherine say happens to her with online videos?",
+      "options": [
+        "She never watches them",
+        "She only watches BBC videos",
+        "She gets lost watching one video after another",
+        "She watches them to fall asleep"
+      ],
+      "answer": 2,
+      "why": "She says 'I've spent ages just getting lost in video after video.'"
+    },
+    {
+      "q": "What does Jean Twenge think about app timers?",
+      "options": [
+        "They are a waste of time",
+        "They will make people even more addicted to their phones",
+        "Nobody will use them",
+        "She seems to like them, as people would meet more"
+      ],
+      "answer": 3,
+      "why": "Catherine says she doesn't say so directly, but seems to think it's good because people would meet in person."
+    }
+  ]
+}

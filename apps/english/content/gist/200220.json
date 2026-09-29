@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Fast fashion, why we buy so much, and the backlash",
+        "How clothes are made in big factories in Asia",
+        "The best places to buy cheap vintage clothes",
+        "How to look good in photos on Instagram"
+      ],
+      "answer": 0,
+      "why": "They discuss buying clothes and wearing them only a few times, and people pledging to stop."
+    },
+    {
+      "q": "What does Neil say about his own clothes?",
+      "options": [
+        "He buys new clothes every single week online",
+        "He only buys second-hand clothes from charity shops",
+        "He is wearing a shirt he bought seven years ago",
+        "He makes his own clothes with a sewing machine"
+      ],
+      "answer": 2,
+      "why": "He says, “I for one am wearing the same shirt I bought seven years ago.”"
+    },
+    {
+      "q": "Which environmental problem of fast fashion is mentioned?",
+      "options": [
+        "Cotton farms use too much land and water",
+        "Shops use too much electricity for their lights",
+        "Delivery vans cause traffic jams in the cities",
+        "Fibres flow into the sea when clothes are washed"
+      ],
+      "answer": 3,
+      "why": "Neil says fibre fragments are flowing into the sea when clothes are washed."
+    },
+    {
+      "q": "How many times does the average person wear an item of clothing, according to Georgina?",
+      "options": [
+        "Seventy",
+        "Seven",
+        "Seventeen",
+        "Twice"
+      ],
+      "answer": 1,
+      "why": "She says she's heard the average time someone wears something is just seven."
+    },
+    {
+      "q": "According to Lauren Bravo, why have clothes become cheaper?",
+      "options": [
+        "Production moved to poorer countries; firms compete on price",
+        "Clothes are now made from much cheaper, lower-quality materials",
+        "Governments have cut taxes on clothes and shoes in the shops",
+        "People buy fewer clothes, so shops have had to cut their prices"
+      ],
+      "answer": 0,
+      "why": "She says production was offshored to developing countries and the industry keeps undercutting competitors."
+    },
+    {
+      "q": "What does Lauren Bravo mean by 'chasing the cheapest needle'?",
+      "options": [
+        "Buying the cheapest sewing kits in the shops",
+        "Workers having to sew faster and faster each day",
+        "Shops selling clothes at a loss to attract buyers",
+        "The industry always seeking the cheapest producer"
+      ],
+      "answer": 3,
+      "why": "Georgina explains it means always looking for the company which can make clothes cheaper."
+    },
+    {
+      "q": "What does Lauren Bravo blame for people not wanting to be seen in the same outfit twice?",
+      "options": [
+        "Fashion magazines",
+        "TV adverts",
+        "Social media",
+        "Celebrities"
+      ],
+      "answer": 2,
+      "why": "She says the feeling “really stems from social media”, with people buying outfits for Instagram photos."
+    },
+    {
+      "q": "What does Georgina say the 'backlash' involves?",
+      "options": [
+        "Shops stopping all their online sales to save waste",
+        "People buying second-hand and mending their clothes",
+        "Governments banning very cheap clothes from abroad",
+        "People leaving social media to avoid fashion adverts"
+      ],
+      "answer": 1,
+      "why": "She says some people now promise to buy second-hand, make do with what they have and mend clothes."
+    }
+  ]
+}

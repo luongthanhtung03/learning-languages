@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why older people always lose their memory",
+        "Ways to improve memory, including drawing",
+        "How to pass exams without revising",
+        "Why artists are better than other people at remembering faces"
+      ],
+      "answer": 1,
+      "why": "Neil says they are talking about improving memory, and they discuss a new study about drawing."
+    },
+    {
+      "q": "Why does Rob say at the start that he is forgetting things?",
+      "options": [
+        "He has too many things on his mind",
+        "He didn't sleep the night before",
+        "He is feeling ill",
+        "He has not eaten breakfast"
+      ],
+      "answer": 0,
+      "why": "Rob says he has 'too many things on my mind' and it's affecting his short-term memory."
+    },
+    {
+      "q": "Which of these is NOT given as a factor that can affect memory?",
+      "options": [
+        "Stress",
+        "Tiredness",
+        "Height",
+        "Mood"
+      ],
+      "answer": 2,
+      "why": "Neil lists health, anxiety, mood, stress and tiredness, but not height."
+    },
+    {
+      "q": "How does Neil usually try to remember facts for an exam?",
+      "options": [
+        "He draws pictures of them",
+        "He listens to recordings",
+        "He asks his friends and family to test him again and again",
+        "He writes them down many times"
+      ],
+      "answer": 3,
+      "why": "Neil says he writes things down 'again and again and again'."
+    },
+    {
+      "q": "Which learning style does Rob think describes him?",
+      "options": [
+        "Visual, learning by seeing",
+        "Kinaesthetic, learning by doing",
+        "Auditory, learning by listening",
+        "Written, learning by taking lots of notes in class"
+      ],
+      "answer": 1,
+      "why": "After describing kinaesthetic learning as 'doing' and practising, Rob says 'That sounds like me.'"
+    },
+    {
+      "q": "According to Professor Daryl O'Connor, why does drawing help memory?",
+      "options": [
+        "It is more relaxing than writing",
+        "It takes much less time than making written notes",
+        "It makes people feel more confident",
+        "It helps you store information in more detail"
+      ],
+      "answer": 3,
+      "why": "He says if you have encoded something in greater detail, you're more likely to remember it."
+    },
+    {
+      "q": "Why does Rob wonder whether artists have good memories?",
+      "options": [
+        "Because drawing seems to help people remember",
+        "Because he met an artist with a great memory",
+        "Because artists took part in the study",
+        "Because artists often do crossword puzzles"
+      ],
+      "answer": 0,
+      "why": "He says it after hearing that drawing creates a detailed picture in your mind."
+    },
+    {
+      "q": "What other activities does Neil say can help memory, especially for older people?",
+      "options": [
+        "Walking and swimming",
+        "Watching quiz shows on TV",
+        "Crossword puzzles and Sudoku",
+        "Learning a musical instrument"
+      ],
+      "answer": 2,
+      "why": "Neil says he has heard that crossword puzzles and Sudoku can help, especially when you're older."
+    }
+  ]
+}

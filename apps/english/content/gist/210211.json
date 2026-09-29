@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to get a pay rise in a staff job",
+        "Unusual job titles from the 19th century",
+        "The good and bad sides of working for yourself",
+        "Why the pandemic closed many businesses"
+      ],
+      "answer": 2,
+      "why": "They talk about working freelance and the advantages and disadvantages of it."
+    },
+    {
+      "q": "Why does Rob like his current job?",
+      "options": [
+        "It's creative, varied and secure",
+        "He can work from home every day of the week",
+        "He is his own boss",
+        "It pays much more than other jobs"
+      ],
+      "answer": 0,
+      "why": "Rob says it's creative with lots of variety, and it's permanent with regular income and a pension."
+    },
+    {
+      "q": "According to Rob, why do businesses need workers to work in different ways now?",
+      "options": [
+        "Because workers want more holidays and shorter working days",
+        "Because the law about working hours has recently changed",
+        "Because there are fewer people looking for jobs these days",
+        "Because business needs change often, so firms must be flexible"
+      ],
+      "answer": 3,
+      "why": "Rob says business needs change frequently and companies need to be agile."
+    },
+    {
+      "q": "How did Carla Barker feel about leaving her permanent job?",
+      "options": [
+        "Relaxed and confident",
+        "Very frightened and full of doubts",
+        "Angry with her old boss",
+        "Bored with her old routine"
+      ],
+      "answer": 1,
+      "why": "She calls it 'a bit petrifying' and 'super-scary', and wondered if she was good enough."
+    },
+    {
+      "q": "Which of these was NOT a reason Fiona Thomas gave for leaving her 9 to 5 job?",
+      "options": [
+        "Wanting creative fulfilment",
+        "Needing flexibility for her mental health",
+        "Wanting to travel around the world",
+        "Wanting financial freedom"
+      ],
+      "answer": 2,
+      "why": "She mentions creative fulfilment, flexibility for her mental health and financial freedom, but not travel."
+    },
+    {
+      "q": "What kind of job did Fiona Thomas have before?",
+      "options": [
+        "A face-to-face job in hospitality",
+        "A job as a writer",
+        "A job in a bank",
+        "A job delivering newspapers"
+      ],
+      "answer": 0,
+      "why": "She says her job was very customer based, working face-to-face in hospitality."
+    },
+    {
+      "q": "Why did her old job make Fiona's depression and anxiety worse?",
+      "options": [
+        "The pay was too low for the hours",
+        "Fixed hours and crowds of people",
+        "Her colleagues were unkind",
+        "She had to travel a long way to work"
+      ],
+      "answer": 1,
+      "why": "She says a rigid schedule and being in front of many people really exacerbated her symptoms."
+    },
+    {
+      "q": "What risk does Rob point out about financial freedom?",
+      "options": [
+        "You have to pay more taxes to the government",
+        "Your boss controls your money",
+        "You can never earn more",
+        "Nobody else controls your income"
+      ],
+      "answer": 3,
+      "why": "Rob says the money isn't controlled by someone else, but 'that can be risky too'."
+    }
+  ]
+}

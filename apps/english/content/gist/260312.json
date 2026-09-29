@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make chocolate at home",
+        "A new EU law that could make chocolate more expensive",
+        "Why dark chocolate is healthier than milk chocolate",
+        "The history of chocolate in Europe"
+      ],
+      "answer": 1,
+      "why": "Becca says a new EU law could make chocolate more expensive, and they discuss its effects."
+    },
+    {
+      "q": "What kind of chocolate do Neil and Becca like?",
+      "options": [
+        "They both prefer milk chocolate to dark",
+        "Neil likes it with sea salt, Becca with chilli",
+        "Both love dark chocolate, with different flavours",
+        "Neither of them eats much chocolate at all"
+      ],
+      "answer": 2,
+      "why": "Both love dark chocolate: Neil likes it with chilli, Becca prefers sea salt."
+    },
+    {
+      "q": "What would the new EU law stop companies from doing?",
+      "options": [
+        "Selling chocolate that contains a lot of sugar",
+        "Importing any cocoa from West Africa",
+        "Using plastic packaging for chocolate bars",
+        "Buying cocoa from recently cleared forest land"
+      ],
+      "answer": 3,
+      "why": "Neil says it would stop them buying cocoa from land where trees were cut down in the last six years."
+    },
+    {
+      "q": "Why does Albert Smith think the law won't change much for his business?",
+      "options": [
+        "He knows exactly which farms his cocoa is from",
+        "His company is too small to be affected by it",
+        "He doesn't sell any of his chocolate in Europe",
+        "He grows all his own cocoa on his own farm"
+      ],
+      "answer": 0,
+      "why": "He works with small co-op or social enterprise farms, and all his cocoa is traced back to the plantation."
+    },
+    {
+      "q": "What challenge does Albert mention for some farmers?",
+      "options": [
+        "They don't want to sell their cocoa to Europe",
+        "They can't grow enough cocoa in dry years",
+        "Remote farmers find it hard to give their location",
+        "They have to cut down more trees to grow cocoa"
+      ],
+      "answer": 2,
+      "why": "He says providing geolocations is a challenge for very remote farmers, some without mobile phones."
+    },
+    {
+      "q": "What might happen to chocolate lovers because of these changes?",
+      "options": [
+        "They may have to pay even more for chocolate",
+        "They will find less choice in shops",
+        "Chocolate will become cheaper",
+        "They will have to buy chocolate online"
+      ],
+      "answer": 0,
+      "why": "Becca says the price of chocolate might go up even more."
+    },
+    {
+      "q": "Why is the first chocolate lover happy to pay more?",
+      "options": [
+        "Because he earns a lot of money in his job",
+        "Because expensive chocolate always tastes better",
+        "Because he only buys chocolate as a gift",
+        "It helps local people and fights deforestation"
+      ],
+      "answer": 3,
+      "why": "He says the money will give local people a better life and help tackle deforestation."
+    },
+    {
+      "q": "What is the second chocolate lover's attitude?",
+      "options": [
+        "He always checks where the cocoa comes from",
+        "He doesn't check and wants efficient production",
+        "He will stop eating chocolate if prices rise",
+        "He thinks chocolate is already too expensive"
+      ],
+      "answer": 1,
+      "why": "He says 'absolutely not' to checking and wants production 'as efficient as possible'."
+    }
+  ]
+}

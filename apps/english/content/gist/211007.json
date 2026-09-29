@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How robots will replace people in the home",
+        "Why science-fiction novels are popular again",
+        "How much smart devices cost to buy",
+        "Whether smart technology can help fight climate change"
+      ],
+      "answer": 3,
+      "why": "Neil says some people are wondering whether smart tech can help fight climate change."
+    },
+    {
+      "q": "How can a smart home help save resources, according to Sam?",
+      "options": [
+        "By turning off all devices automatically every night",
+        "By learning when people are home and heating at the best time",
+        "By producing its own electricity from solar panels on the roof",
+        "By reminding people to buy fewer devices for their home"
+      ],
+      "answer": 1,
+      "why": "Sam says AI can learn when the house is occupied and the best time to turn on the heating."
+    },
+    {
+      "q": "What problem does Neil point out with smart home systems?",
+      "options": [
+        "The energy that powers them may come from fossil fuels",
+        "They break down too easily",
+        "They are too difficult for older people to use",
+        "They collect too much personal information"
+      ],
+      "answer": 0,
+      "why": "Neil says the problem is the origin of the energy: if it's fossil fuels, burning them creates emissions."
+    },
+    {
+      "q": "What is Dr Enass Abo-Hamed testing on Orkney?",
+      "options": [
+        "New kinds of wind turbines",
+        "Smart lights for island homes",
+        "Ways to store renewable energy",
+        "Ways to dig up fossil fuels more safely"
+      ],
+      "answer": 2,
+      "why": "She is working on a project on Orkney testing ways of storing renewable energy."
+    },
+    {
+      "q": "Why does Dr Abo-Hamed say renewable energy is not always reliable?",
+      "options": [
+        "Because the equipment is very old",
+        "Because it is too expensive for most countries",
+        "Because people don't want to use it",
+        "Because it depends on the sun and the wind"
+      ],
+      "answer": 3,
+      "why": "She says it relies on the weather – when the sun shines and the wind blows."
+    },
+    {
+      "q": "What happens when a lot of renewable power is produced but nobody needs it?",
+      "options": [
+        "The energy is wasted",
+        "There is a blackout",
+        "The price of electricity goes up",
+        "It is sent to other countries"
+      ],
+      "answer": 0,
+      "why": "She says when there's no demand for the power, 'it's wasted'."
+    },
+    {
+      "q": "What is a 'digital twin', as Graihagh Jackson describes it?",
+      "options": [
+        "A second wind turbine built next to the first as a backup",
+        "A computer model of a turbine using live sensor data",
+        "An engineer who checks turbines at sea in bad weather",
+        "A smart device that controls the heating in two homes at once"
+      ],
+      "answer": 1,
+      "why": "Sensors are attached to the turbine so it can be modelled on a computer in real time."
+    },
+    {
+      "q": "Why does Graihagh Jackson think digital twins are important?",
+      "options": [
+        "They make wind turbines much cheaper to build and transport",
+        "They stop turbines from making noise near people's homes",
+        "They help make sure turbines work as well as possible",
+        "They replace the need for engineers to visit the turbines"
+      ],
+      "answer": 2,
+      "why": "She says they can make sure the turbines are 'performing their best'."
+    }
+  ]
+}

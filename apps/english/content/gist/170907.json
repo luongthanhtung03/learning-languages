@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why we wear uniforms and how they can change our behaviour",
+        "The history of the police force in London and New York",
+        "How to choose the right clothes for a job interview",
+        "Why school uniforms should be banned in all schools"
+      ],
+      "answer": 0,
+      "why": "Neil and Tim discuss the point of uniforms and how wearing one can let you behave differently."
+    },
+    {
+      "q": "Why is Tim wearing a police officer's hat?",
+      "options": [
+        "He has a new job with the police",
+        "He found it in the studio",
+        "It protects him from the sun",
+        "To get in the mood for the topic"
+      ],
+      "answer": 3,
+      "why": "Tim says he's wearing it 'to get me in the mood for our topic today – uniforms!'"
+    },
+    {
+      "q": "Why do the police and emergency services wear uniforms?",
+      "options": [
+        "Because they are cheaper than normal clothes for work",
+        "They need practical clothes and must be easy to recognise",
+        "To look more fashionable and modern on television",
+        "To keep them warm and dry when working at night"
+      ],
+      "answer": 1,
+      "why": "Neil says they need practical clothes, and Tim adds that people need to recognise them."
+    },
+    {
+      "q": "What else can a uniform do, according to Neil?",
+      "options": [
+        "Make you work longer hours",
+        "Help you earn more money",
+        "Show that you belong to a group",
+        "Stop you making friends at work"
+      ],
+      "answer": 2,
+      "why": "Neil says a uniform lets you fit in and shows you belong to a group or organisation."
+    },
+    {
+      "q": "What does cultural historian Joe Moran say about wearing a uniform?",
+      "options": [
+        "It makes people feel less important than others",
+        "It is uncomfortable for most people to wear all day",
+        "It shows your true personality to the people around you",
+        "It is like putting on a mask, which can feel freeing"
+      ],
+      "answer": 3,
+      "why": "He compares it to the freedom of masks and says taking on a professional role 'can be liberating'."
+    },
+    {
+      "q": "What example does Neil give of how a uniform might help someone?",
+      "options": [
+        "A shy person might behave more confidently",
+        "A lazy person might work harder",
+        "A tall person might look shorter",
+        "A new worker might learn faster"
+      ],
+      "answer": 0,
+      "why": "Neil says if you're shy, a uniform might feel liberating because you can act more confidently."
+    },
+    {
+      "q": "Which uniform and persona would Tim choose?",
+      "options": [
+        "A surgeon",
+        "A police officer",
+        "An airline pilot",
+        "A chef"
+      ],
+      "answer": 2,
+      "why": "Tim says he'd choose an airline pilot, with a blazer, cap and mirror sunglasses."
+    },
+    {
+      "q": "What uniform would Neil like to try?",
+      "options": [
+        "A nun's habit",
+        "A chef's uniform",
+        "A pilot's blazer",
+        "A surgeon's scrubs"
+      ],
+      "answer": 1,
+      "why": "Neil says he'd go for a chef's apron, checked trousers and a tall hat."
+    }
+  ]
+}

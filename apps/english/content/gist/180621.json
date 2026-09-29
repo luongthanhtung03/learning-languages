@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How computers were invented in the 1950s",
+        "Why children should play fewer video games and do more sport",
+        "Competitive gaming becoming a big sport and business",
+        "How to plan a two-week holiday"
+      ],
+      "answer": 2,
+      "why": "They discuss eSports, the Fortnite phenomenon, and gaming becoming 'a multi-billion-dollar industry'."
+    },
+    {
+      "q": "What does Catherine say about Fortnite?",
+      "options": [
+        "It is very competitive, and you can even hire a coach",
+        "It is only popular in Australia",
+        "It is an old game from the 1950s",
+        "It is too violent for children to play without their parents"
+      ],
+      "answer": 0,
+      "why": "She says it's very competitive, and 'you can even hire people to be your Fortnite coach'."
+    },
+    {
+      "q": "What is being discussed for eSports?",
+      "options": [
+        "Banning them for under-18s",
+        "Including them in the Olympic Games",
+        "Showing them only on TV",
+        "Making them free to watch"
+      ],
+      "answer": 1,
+      "why": "Neil says 'they are even discussing including them in the Olympic Games'."
+    },
+    {
+      "q": "When did 13-year-old Kyle Jackson start playing competitively?",
+      "options": [
+        "When he was five",
+        "Last year",
+        "When he was thirteen and joined a team",
+        "When he was around nine or ten"
+      ],
+      "answer": 3,
+      "why": "Kyle says 'I started playing competitively when I was around nine or ten.'"
+    },
+    {
+      "q": "What does Kyle Jackson think he could do?",
+      "options": [
+        "Design his own games",
+        "Become a gaming coach",
+        "Play at a professional level",
+        "Stop playing and study instead"
+      ],
+      "answer": 2,
+      "why": "He says he could probably go to a pro level if he keeps playing at his current level."
+    },
+    {
+      "q": "What does Catherine think about Kyle saying he's played games 'all his life'?",
+      "options": [
+        "It might be a bit of an exaggeration",
+        "It is completely true",
+        "It is impossible to believe",
+        "It is a sad situation"
+      ],
+      "answer": 0,
+      "why": "She says 'that might be a little exaggeration', but he's probably played as long as he can remember."
+    },
+    {
+      "q": "What is Team Secret?",
+      "options": [
+        "A company that makes games",
+        "A group of game designers who work together on new games",
+        "A TV programme about gaming",
+        "A team of players who compete in eSports"
+      ],
+      "answer": 3,
+      "why": "Neil says Team Secret are like a regular sports team, with players who play matches in eSports."
+    },
+    {
+      "q": "What parts of the gaming industry does George Yao mention?",
+      "options": [
+        "Only playing in competitions",
+        "Making and publishing games, and the eSports scene",
+        "Selling computers, phones and games consoles around the world",
+        "Training coaches and referees"
+      ],
+      "answer": 1,
+      "why": "He lists production of games, publishing of games and the eSports scene."
+    }
+  ]
+}

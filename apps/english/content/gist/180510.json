@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people skip breakfast",
+        "How to make new words in English",
+        "Feeling angry when you're hungry, and why",
+        "Why social media makes so many people angry these days"
+      ],
+      "answer": 2,
+      "why": "Neil says the topic 'is all about feeling angry when you are hungry'."
+    },
+    {
+      "q": "Why is Neil feeling grumpy at the start?",
+      "options": [
+        "He hasn't eaten yet",
+        "Dan was late",
+        "He forgot the script",
+        "He slept badly"
+      ],
+      "answer": 0,
+      "why": "Neil says he hasn't had the chance to eat yet 'and it's making me a bit grumpy'."
+    },
+    {
+      "q": "Why hasn't Neil eaten?",
+      "options": [
+        "He is on a diet",
+        "He was doing research for the programme",
+        "The canteen was closed",
+        "He forgot his lunch"
+      ],
+      "answer": 1,
+      "why": "Neil says 'I was doing some research for today's topic'."
+    },
+    {
+      "q": "What does Sophie Medlin say about 'hanger'?",
+      "options": [
+        "It was invented by scientists at King's College London",
+        "It is not a real thing",
+        "It only affects children",
+        "Science has long known hunger causes irritability"
+      ],
+      "answer": 3,
+      "why": "She says 'We've long recognised that hunger leads to irritability - in science.'"
+    },
+    {
+      "q": "What does Dan add about the word 'hangry'?",
+      "options": [
+        "It first appeared in the 1990s, before social media",
+        "It was first used on Twitter by a famous hungry celebrity",
+        "It comes from another language",
+        "It is not in any dictionary"
+      ],
+      "answer": 0,
+      "why": "Dan says the word actually appeared in the 1990s, a little before social media."
+    },
+    {
+      "q": "According to Sophie Medlin, what happens in our body when blood sugar drops?",
+      "options": [
+        "We produce less adrenalin",
+        "It produces more fight or flight hormones",
+        "Our brain stops working",
+        "We feel more relaxed and sleepy, so we get less angry"
+      ],
+      "answer": 1,
+      "why": "She says as blood sugars drop, 'we increase our cortisol and adrenalin'."
+    },
+    {
+      "q": "Why do hunger and anger feel similar, according to Medlin?",
+      "options": [
+        "Because we eat when we are angry",
+        "Because both make us tired",
+        "Because angry people forget to eat",
+        "Because the same brain chemicals trigger both"
+      ],
+      "answer": 3,
+      "why": "She says the chemicals that trigger hunger 'are the same ones that trigger for anger'."
+    },
+    {
+      "q": "What does Dan suggest about Neil near the end?",
+      "options": [
+        "He has calmed down",
+        "He should go on a diet",
+        "He is still hangry",
+        "He is being too polite"
+      ],
+      "answer": 2,
+      "why": "Dan says 'I can see that you're still a bit hangry Neil.'"
+    }
+  ]
+}

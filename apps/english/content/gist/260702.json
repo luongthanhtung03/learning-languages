@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to write a formal job application",
+        "Why people send fewer emails than before",
+        "Rude emails at work and why people write them",
+        "How to use emojis in business messages"
+      ],
+      "answer": 2,
+      "why": "They discuss what people find rude in emails and the psychology behind rudeness at work."
+    },
+    {
+      "q": "What annoys Rachel in Manchester about some emails?",
+      "options": [
+        "They are much too long and hard to follow",
+        "They start with only her name and no greeting",
+        "They are often sent very late at night",
+        "They are full of spelling and grammar mistakes"
+      ],
+      "answer": 1,
+      "why": "Rachel dislikes emails starting with just her name, without a greeting like 'hi'."
+    },
+    {
+      "q": "What did one anonymous listener receive in reply to a carefully written email?",
+      "options": [
+        "A single emoji",
+        "No reply at all",
+        "A very angry message",
+        "A phone call"
+      ],
+      "answer": 0,
+      "why": "Dr Peter Olusoga says they received a single emoji in response to a carefully worded email."
+    },
+    {
+      "q": "How does Phil feel about getting a single emoji as a reply?",
+      "options": [
+        "He thinks it's funny",
+        "He thinks it's a normal, friendly reply",
+        "He often does it himself",
+        "He says it would annoy him too"
+      ],
+      "answer": 3,
+      "why": "Phil says, 'I think that would annoy me too.'"
+    },
+    {
+      "q": "According to some psychologists, what is rudeness in emails based on?",
+      "options": [
+        "A fight-or-flight response when people are stressed",
+        "Poor writing skills learned at school",
+        "Differences between cultures and languages",
+        "Not knowing the other person very well"
+      ],
+      "answer": 0,
+      "why": "Becca says rudeness in emails is based on a fight-or-flight response humans feel when stressed."
+    },
+    {
+      "q": "Which is an example of the 'fight' response that Dr Emma Russell describes?",
+      "options": [
+        "Not replying to an angry email at all",
+        "Answering only some of the points in the email",
+        "Copying in senior staff to put someone in their place",
+        "Waiting a whole day before replying"
+      ],
+      "answer": 2,
+      "why": "She says fight includes hostile emails or cc'ing senior personnel to put someone in their place."
+    },
+    {
+      "q": "What does Emma Russell say makes people more likely to be rude?",
+      "options": [
+        "Working from home and feeling lonely",
+        "Being tired and stressed from doing too much",
+        "Using a mobile phone to reply quickly",
+        "Having a new boss who is very strict"
+      ],
+      "answer": 1,
+      "why": "She says because we're all quite frazzled, we're more at risk of incivility."
+    },
+    {
+      "q": "Why does Phil say pausing before you hit send 'might save your friendship or even your job'?",
+      "options": [
+        "To joke that emails are not really important",
+        "To suggest people should stop using email",
+        "To show that bosses secretly read all emails",
+        "To show an angry email can have serious results"
+      ],
+      "answer": 3,
+      "why": "He advises pausing when angry, because a rude email could cost you a friendship or a job."
+    }
+  ]
+}

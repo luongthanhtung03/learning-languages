@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best types of exercise for heart health",
+        "How to choose a comfortable office chair",
+        "Why sitting too much harms our health",
+        "Why people in Britain watch too much television"
+      ],
+      "answer": 2,
+      "why": "They find out how much sitting is too much and how it affects our health."
+    },
+    {
+      "q": "What does Phil say about his own habits?",
+      "options": [
+        "He exercises every day",
+        "He never does any kind of exercise at all",
+        "He works standing up",
+        "He cycles at weekends but sits a lot"
+      ],
+      "answer": 3,
+      "why": "He rides his bike at the weekend but admits he spends a lot of time sitting down."
+    },
+    {
+      "q": "Why are we sitting so much, according to Professor Charlotte Edwardson?",
+      "options": [
+        "People are lazier than in the past",
+        "Technology has removed much of the movement from daily life",
+        "Doctors tell us to rest more",
+        "Office chairs today are much more comfortable than they used to be"
+      ],
+      "answer": 1,
+      "why": "She says movement has been engineered out of our everyday lives by advances in technology."
+    },
+    {
+      "q": "What happens when we sit down, according to Professor Edwardson?",
+      "options": [
+        "Big muscles aren't used, so blood flow falls",
+        "Our heart beats faster",
+        "Our leg muscles work harder and grow stronger",
+        "We burn more energy"
+      ],
+      "answer": 0,
+      "why": "We don't use the large muscles in our legs and bum, so circulation reduces."
+    },
+    {
+      "q": "How much more energy does the body use when standing than when sitting?",
+      "options": [
+        "About 92% more",
+        "About 60% more",
+        "About 5% more",
+        "About 20% more"
+      ],
+      "answer": 3,
+      "why": "Georgie says the body uses 20% more energy when standing; walking uses 92% more."
+    },
+    {
+      "q": "Why does Professor Edwardson mention meetings and doctors' surgeries?",
+      "options": [
+        "To show how much of daily life is organised around sitting",
+        "To say these places should have more chairs",
+        "To explain where people catch illnesses",
+        "To suggest that doctors and business people should sit down less"
+      ],
+      "answer": 0,
+      "why": "People always say “Come and take a seat” – everything's geared around sitting."
+    },
+    {
+      "q": "What does presenter James Gallagher ask Professor Edwardson?",
+      "options": [
+        "Whether she sits down at work",
+        "Whether standing desks are too expensive",
+        "Whether she feels she's fighting against society",
+        "Whether new technology will solve the problem of sitting"
+      ],
+      "answer": 2,
+      "why": "He asks if she feels she's swimming against the tide as society drives us to sit more."
+    },
+    {
+      "q": "What simple advice does Phil give?",
+      "options": [
+        "Only sit down for meals",
+        "Break up long sitting with a few minutes of moving",
+        "Exercise hard for two hours every evening after work",
+        "Stand up for the whole working day"
+      ],
+      "answer": 1,
+      "why": "He says to break up sitting of 30 minutes or more with a few minutes of walking or moving."
+    }
+  ]
+}

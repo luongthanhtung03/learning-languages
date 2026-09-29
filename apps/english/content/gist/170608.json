@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a happier person in just a few simple steps",
+        "Why some countries are so happy, and if genes play a part",
+        "Why the weather in the north affects our mood so much",
+        "How the UN helps poor countries improve their economies"
+      ],
+      "answer": 1,
+      "why": "Neil says they'll be discussing whether happiness is genetic, starting with the world happiness report."
+    },
+    {
+      "q": "Which country came top in the UN's latest happiness report?",
+      "options": [
+        "Denmark",
+        "Sweden",
+        "The UK",
+        "Norway"
+      ],
+      "answer": 3,
+      "why": "Dan says Norway came top, overtaking Denmark, which led from 2012 to 2016."
+    },
+    {
+      "q": "How are the results of the report decided?",
+      "options": [
+        "1,000 people in each country answer one question",
+        "Experts compare the wealth and health of each country",
+        "Doctors test thousands of people for depression",
+        "Governments send in their own scores every year"
+      ],
+      "answer": 0,
+      "why": "They ask 1,000 people in each country a single subjective question using a 0–10 ladder."
+    },
+    {
+      "q": "What is the average score of the Nordic countries?",
+      "options": [
+        "About 5 out of 10",
+        "About 10 out of 10",
+        "Close to 7.5 out of 10",
+        "About 6 out of 10"
+      ],
+      "answer": 2,
+      "why": "Dan says the Nordic countries all score an average close to 7.5 out of 10."
+    },
+    {
+      "q": "What does Neil first guess might connect these happy countries?",
+      "options": [
+        "Their food",
+        "Their long holidays",
+        "The weather",
+        "Their language"
+      ],
+      "answer": 2,
+      "why": "Neil asks, 'There must be a connection… is it the weather?'"
+    },
+    {
+      "q": "What does Professor Andrew Oswald say about the Danes?",
+      "options": [
+        "They have less of a genetic pattern linked to depression",
+        "They have the highest salaries in the world, on average",
+        "They are happier because of the cool, calm weather",
+        "They have more public holidays than anyone else in Europe"
+      ],
+      "answer": 0,
+      "why": "He says the Danes have the smallest amount of a 'dangerous' genetic pattern, protecting them against depression."
+    },
+    {
+      "q": "Why does Neil point out that Professor Oswald said 'in part'?",
+      "options": [
+        "Because the professor made a mistake",
+        "Because only part of Denmark was studied",
+        "Because Neil disagrees with genetics completely",
+        "Because it means genes don't explain everything"
+      ],
+      "answer": 3,
+      "why": "Neil says 'in part' means it doesn't explain everything, so something is missing."
+    },
+    {
+      "q": "What is Michael Booth's view of why the Danes are happy?",
+      "options": [
+        "It is mostly about their DNA and their genes",
+        "They are rich, funny and don't work very much",
+        "They live near the sea and spend time outdoors",
+        "They have very good free schools and hospitals"
+      ],
+      "answer": 1,
+      "why": "He says the reasons have nothing to do with DNA: they're rich, sexy, funny and don't work much."
+    }
+  ]
+}

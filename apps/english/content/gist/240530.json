@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to look after twins",
+        "The trend of women having babies later in life",
+        "Why families in India are getting bigger than before",
+        "Health problems that babies have at birth"
+      ],
+      "answer": 1,
+      "why": "They discuss the trend for older mums and ask, “when are you too old to have a baby?”"
+    },
+    {
+      "q": "What reasons for the trend of older mothers does Neil mention?",
+      "options": [
+        "Cheaper healthcare and longer holidays",
+        "Pressure from grandparents",
+        "New laws about marriage",
+        "Better access to education and careers"
+      ],
+      "answer": 3,
+      "why": "He says the reasons include better access to education and careers."
+    },
+    {
+      "q": "What has Professor Joyce Harper found?",
+      "options": [
+        "In many countries women now have their first baby after 30",
+        "Women today are having more babies than before",
+        "Most women have their first baby before 20",
+        "Older mothers are now completely accepted in every single country"
+      ],
+      "answer": 0,
+      "why": "She says in many countries women have their first birth over the age of 30."
+    },
+    {
+      "q": "What does Neil say about attitudes to older mothers?",
+      "options": [
+        "People have always admired them",
+        "The word “geriatric” is still commonly used by doctors today",
+        "An offensive label has gone, but some disapproval remains",
+        "Nobody cares about a mother's age any more"
+      ],
+      "answer": 2,
+      "why": "He says the term “geriatric” is no longer used, but social disapproval still lingers."
+    },
+    {
+      "q": "Why does Neil mention Mick Jagger?",
+      "options": [
+        "To show that men can become fathers much later in life",
+        "To give an example of a famous woman who became a mother late",
+        "To show that musicians have big families",
+        "To say that older fathers are criticised"
+      ],
+      "answer": 0,
+      "why": "He explains men's fertility lasts longer; Jagger had his eighth child at 73."
+    },
+    {
+      "q": "According to Professor Harper, how do people usually react to a very old father?",
+      "options": [
+        "They feel uncomfortable",
+        "They are worried about the baby",
+        "They congratulate him",
+        "They ignore it"
+      ],
+      "answer": 2,
+      "why": "She says most people would “pat him on the back”."
+    },
+    {
+      "q": "How does Professor Harper say people react to a woman having a baby in her sixties or seventies?",
+      "options": [
+        "They are pleased and very supportive of her",
+        "They think it's normal",
+        "They say it's a medical miracle",
+        "They are shocked and feel uncomfortable"
+      ],
+      "answer": 3,
+      "why": "She says it causes a shock reaction and makes people feel uncomfortable."
+    },
+    {
+      "q": "What are many young Gen Z women in the west saying?",
+      "options": [
+        "They want to have children very young",
+        "They won't have children at all",
+        "They will wait until their fifties",
+        "They want large families"
+      ],
+      "answer": 1,
+      "why": "Beth says Gen Z women are saying they won't have children at all."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why Trump and Biden disagree about technology",
+        "How hackers changed the result of the 2000 election",
+        "How to register to vote in the US",
+        "A plan for volunteer hackers to help protect a US election"
+      ],
+      "answer": 3,
+      "why": "Sam says they'll hear about plans to prevent election cyber-attacks by working with volunteer hackers."
+    },
+    {
+      "q": "Why are US election officials worried about cyber-attacks?",
+      "options": [
+        "Most American voters now vote from abroad by post",
+        "Many votes are digital and a lot depends on it",
+        "The voting machines in most states are very old",
+        "Hackers have already attacked this year's election"
+      ],
+      "answer": 1,
+      "why": "Rob says many votes are cast digitally, and with so much depending on the result, officials are worried."
+    },
+    {
+      "q": "According to Maya Worman, what harm does interfering with election systems cause?",
+      "options": [
+        "It makes elections much more expensive to run",
+        "It delays the final result by several weeks",
+        "It weakens the right to vote and public confidence",
+        "It stops many young people from voting at all"
+      ],
+      "answer": 2,
+      "why": "She says interference undermines the right to vote, burdens voters and impacts public confidence."
+    },
+    {
+      "q": "Who is responsible for keeping each area free from cyber-attacks?",
+      "options": [
+        "About eight thousand local jurisdictions",
+        "The President's office",
+        "A single national agency",
+        "The volunteer hackers themselves"
+      ],
+      "answer": 0,
+      "why": "Sam says it's up to each of the eight thousand local jurisdictions to keep their area safe."
+    },
+    {
+      "q": "What does the Cyber Surge project help with, according to Rob?",
+      "options": [
+        "Counting all the votes by hand after polls close",
+        "Choosing new candidates for the local elections",
+        "Printing and posting ballot papers to voters",
+        "Everything from anti-virus software to big threats"
+      ],
+      "answer": 3,
+      "why": "Rob says it covers everything from the latest anti-virus software to more serious threats."
+    },
+    {
+      "q": "What worry does Sam raise about the project?",
+      "options": [
+        "It will be too expensive",
+        "A troublemaker might sign up as a volunteer",
+        "Officials won't listen to the volunteers",
+        "Too few people will volunteer"
+      ],
+      "answer": 1,
+      "why": "Sam asks how we know volunteers are trustworthy, since a troublemaker could sign up."
+    },
+    {
+      "q": "How does Maya Worman answer this worry?",
+      "options": [
+        "Volunteers only give advice and get no sensitive access",
+        "Volunteers are watched closely by the police at all times",
+        "Volunteers must also work as local election officials",
+        "Volunteers are well paid, so they can be fully trusted"
+      ],
+      "answer": 0,
+      "why": "She says volunteers won't have 'the keys to the castle' but will have a dialogue with administrators."
+    },
+    {
+      "q": "What does Sam hope the project will achieve?",
+      "options": [
+        "More people will vote online",
+        "The election will be finished sooner",
+        "Everyone will accept the 2020 election result",
+        "Hackers will get jobs in government"
+      ],
+      "answer": 2,
+      "why": "Sam says the 2020 election result will hopefully be accepted by everyone."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why rock music is more popular than pop",
+        "How streaming is changing the way pop songs are made",
+        "Why people have stopped buying music",
+        "How radio DJs choose which new songs to play on their shows"
+      ],
+      "answer": 1,
+      "why": "They discuss how music producers are adapting songs for modern technology like streaming."
+    },
+    {
+      "q": "Why does Neil prefer streaming music?",
+      "options": [
+        "It is easier and you can listen anywhere",
+        "The sound quality is better than CDs",
+        "It is completely free",
+        "He can talk over the songs"
+      ],
+      "answer": 0,
+      "why": "Neil says there are no CDs to buy and load, and it's easier and you can play it anywhere."
+    },
+    {
+      "q": "What have researchers found about pop songs?",
+      "options": [
+        "They are getting longer every year",
+        "They use far more instruments than songs did in the past",
+        "Long instrumental intros have almost disappeared",
+        "Most of them are now written for films"
+      ],
+      "answer": 2,
+      "why": "Neil says long instrumental introductions to pop songs have become 'almost extinct'."
+    },
+    {
+      "q": "According to Brendan Williams, why are radio playlists important?",
+      "options": [
+        "They help a song make money",
+        "They decide which songs win prizes",
+        "They let listeners choose songs",
+        "They are the only way to hear new music"
+      ],
+      "answer": 0,
+      "why": "He says radio playlists are important in judging success and feed into a track's commercial success."
+    },
+    {
+      "q": "What happens on Spotify if a song is played for less than 30 seconds?",
+      "options": [
+        "The song is removed from the service",
+        "The listener has to pay for it",
+        "It is moved to a playlist",
+        "It is not counted as a play"
+      ],
+      "answer": 3,
+      "why": "Brendan Williams says if a track isn't played for at least 30 seconds, it doesn't register a play."
+    },
+    {
+      "q": "What is the aim of getting to the vocals and chorus quickly?",
+      "options": [
+        "To make songs cheaper to record",
+        "To keep people listening to the song",
+        "To give DJs more time to talk",
+        "To make songs easier to dance to"
+      ],
+      "answer": 1,
+      "why": "The theory is that if we don't hear the vocals, we might not carry on listening."
+    },
+    {
+      "q": "Why does Rob mention radio DJs in the old days?",
+      "options": [
+        "To explain why songs used to be shorter",
+        "To say that DJs chose the best songs",
+        "To show intros were once useful for DJs to talk over",
+        "To complain that modern radio DJs talk far too much between songs"
+      ],
+      "answer": 2,
+      "why": "Rob says DJs 'loved to talk over that bit', meaning the instrumental intro."
+    },
+    {
+      "q": "Which song does Rob choose as a favourite catchy song?",
+      "options": [
+        "Despacito",
+        "Gangnam Style",
+        "A rock song with loud vocals",
+        "Happy by Pharrell Williams"
+      ],
+      "answer": 3,
+      "why": "Rob says 'It's got to be Happy by Pharrell Williams. A very catchy song.'"
+    }
+  ]
+}

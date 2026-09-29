@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a professional mathematician at university",
+        "Why people fear numbers and whether anyone can manage them",
+        "The history of the largest numbers ever written down",
+        "Why maths is taught badly in almost every country"
+      ],
+      "answer": 1,
+      "why": "Sam says they'll explore how the fear of numbers might just be in our heads."
+    },
+    {
+      "q": "How do Neil and Sam feel about maths?",
+      "options": [
+        "Neil loves it, but Sam doesn't",
+        "They both enjoyed it at school",
+        "Neither of them was good at it",
+        "Sam teaches it in his free time"
+      ],
+      "answer": 2,
+      "why": "Neil says he's not a numbers person, and Sam says 'maybe like me, you weren't good at maths'."
+    },
+    {
+      "q": "What put Neil off maths?",
+      "options": [
+        "It was complicated and not useful in real life",
+        "His maths teacher was very strict and unkind",
+        "He failed an important maths exam at school",
+        "His school friends laughed at his wrong answers"
+      ],
+      "answer": 0,
+      "why": "He says it was complicated and very theoretical, not practical for real-life situations."
+    },
+    {
+      "q": "According to Charles Seife, why do advertisers and politicians use numbers?",
+      "options": [
+        "Because numbers are easy for people to remember",
+        "Because the law says they must",
+        "Because numbers make speeches shorter",
+        "People rarely question them"
+      ],
+      "answer": 3,
+      "why": "He says we're primed not to question numbers, so they're powerful tools for deception."
+    },
+    {
+      "q": "Why does Neil give Sam a long, confusing statistic about people who eat meat?",
+      "options": [
+        "To share a real research finding with Sam",
+        "To show how hard numbers are to challenge",
+        "To test Sam's knowledge of health",
+        "To prove that eating meat is unhealthy"
+      ],
+      "answer": 1,
+      "why": "He says unless you're confident with numbers, you're unlikely to challenge them, then asks if Sam would."
+    },
+    {
+      "q": "What did The Why Factor find about girls and maths?",
+      "options": [
+        "They are worse at maths than boys",
+        "They are less interested in numbers",
+        "They learn maths faster than boys",
+        "They are more anxious, but no worse at it"
+      ],
+      "answer": 3,
+      "why": "Neil says girls feel more anxious about maths but aren't any worse with numbers."
+    },
+    {
+      "q": "What does Paula Miles believe?",
+      "options": [
+        "Only some people are born good at numbers",
+        "Everyone should study maths at university",
+        "Taught well, anyone can learn basic numeracy",
+        "Psychology students don't need statistics"
+      ],
+      "answer": 2,
+      "why": "She says there's no such thing as a numbers person; taught the right way, we can all get basic numeracy."
+    },
+    {
+      "q": "How does Sam feel after hearing Paula Miles?",
+      "options": [
+        "A little better",
+        "More anxious than before",
+        "Angry about his school",
+        "Bored by the topic"
+      ],
+      "answer": 0,
+      "why": "Sam says, 'I feel a little better now!'"
+    }
+  ]
+}

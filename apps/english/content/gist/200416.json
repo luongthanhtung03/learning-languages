@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The most exciting holidays in the world",
+        "Whether bucket lists are good for us",
+        "How to overcome a fear of flying",
+        "The history of the phrase 'kick the bucket'"
+      ],
+      "answer": 1,
+      "why": "They discuss bucket lists, which can help people but have also been criticised."
+    },
+    {
+      "q": "What criticism of bucket lists is mentioned at the start?",
+      "options": [
+        "They are too expensive for most ordinary people",
+        "They make people lazy because they only dream",
+        "They take far too long to write and plan properly",
+        "They make people follow someone else's perfect life"
+      ],
+      "answer": 3,
+      "why": "Sam says they've been accused of limiting imagination by encouraging people to follow someone else's idea."
+    },
+    {
+      "q": "How does Neil feel about extreme activities?",
+      "options": [
+        "He might try bungee-jumping if the rope was checked",
+        "He loves skydiving and does it every summer",
+        "He has already done all of them at least once",
+        "He would never try anything risky, even bungee-jumping"
+      ],
+      "answer": 0,
+      "why": "He says 'Not really!' to skydiving, but bungee-jumping maybe, as long as someone checked the rope."
+    },
+    {
+      "q": "Why did blogger Annette White make her bucket list?",
+      "options": [
+        "To become famous online",
+        "To learn Spanish for work",
+        "To help her overcome anxiety",
+        "To raise money for charity"
+      ],
+      "answer": 2,
+      "why": "She listed things as a way of improving her wellbeing, and Claudia Hammond says it was to overcome anxiety."
+    },
+    {
+      "q": "According to Annette White, how has her bucket list helped her?",
+      "options": [
+        "It has made her richer through her travel blog",
+        "Leaving her comfort zone made her fear smaller",
+        "It has helped her make lots of new friends abroad",
+        "It has helped her relax and enjoy life at home"
+      ],
+      "answer": 1,
+      "why": "She says each step out of her comfort zone replaces fear with empowerment, so her 'fear bubble' got smaller."
+    },
+    {
+      "q": "What is Linda Blair's opinion of bucket lists?",
+      "options": [
+        "She is not really in favour of them",
+        "She thinks everyone should have one",
+        "She thinks they're only useful for older people",
+        "She has written one herself"
+      ],
+      "answer": 0,
+      "why": "She says, “I'm not really in favour of bucket lists.”"
+    },
+    {
+      "q": "According to Linda Blair, how do people fool themselves with a bucket list?",
+      "options": [
+        "They believe they will finish it quickly",
+        "They think it will make them happy forever",
+        "They copy other people's ideas",
+        "They feel they can somehow control death"
+      ],
+      "answer": 3,
+      "why": "She says the list gives you the idea that you can somehow control when and what death will be."
+    },
+    {
+      "q": "What does Linda Blair think a bucket list takes away?",
+      "options": [
+        "Your free time",
+        "Your savings",
+        "The chance to be spontaneous",
+        "Your fear of the unknown"
+      ],
+      "answer": 2,
+      "why": "She says, “A bucket list takes you away from the chance to be spontaneous.”"
+    }
+  ]
+}

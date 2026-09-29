@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to sort your rubbish correctly at home",
+        "Why China produces so much of the world's plastic",
+        "How plastic is made from oil in big factories",
+        "Recycling problems and why reducing waste matters"
+      ],
+      "answer": 3,
+      "why": "Neil asks if the recycling system is broken, and experts say reducing and reusing is better."
+    },
+    {
+      "q": "Why was Neil late?",
+      "options": [
+        "He forgot to put the recycling bins out",
+        "He missed his train",
+        "He was shopping for groceries",
+        "He overslept"
+      ],
+      "answer": 0,
+      "why": "He says he'd forgotten to take the recycling bins out before the collection."
+    },
+    {
+      "q": "What happened in 2018?",
+      "options": [
+        "Britain stopped recycling paper and cardboard",
+        "Vietnam started accepting all of the world's waste",
+        "China stopped taking the world's plastic and paper",
+        "Plastic production fell for the first time in history"
+      ],
+      "answer": 2,
+      "why": "Georgina says China used to accept 55% of the world's scrap, but in 2018 it stopped."
+    },
+    {
+      "q": "Why are countries like Indonesia and Vietnam sending waste back?",
+      "options": [
+        "They have no more space to store it in their ports",
+        "They say it's contaminated and harming nature",
+        "They want to be paid more money for taking it",
+        "They have built their own new recycling factories"
+      ],
+      "answer": 1,
+      "why": "Neil says they argue it is contaminated and harming their own environments."
+    },
+    {
+      "q": "What worries Professor Roland Geyer, despite greater public awareness?",
+      "options": [
+        "People are now recycling far too much of their waste",
+        "Recycling workers are losing their jobs to machines",
+        "The public is not really interested in the problem",
+        "The virgin plastic industry is increasing production"
+      ],
+      "answer": 3,
+      "why": "He says he sees no real action because the virgin plastic industry is increasing its production capacity."
+    },
+    {
+      "q": "What surprising finding did Professor Monic Sun's experiments show?",
+      "options": [
+        "People use more when they know they can recycle",
+        "People recycle much more when they feel guilty",
+        "Most people in the study don't recycle at all",
+        "Recycling makes people buy fewer new products"
+      ],
+      "answer": 0,
+      "why": "She found that if people know recycling is an option, they tend to use more resources."
+    },
+    {
+      "q": "According to Professor Sun, what is often not emphasised enough?",
+      "options": [
+        "The many benefits of recycling for the planet",
+        "The number of recycling bins in each street",
+        "The labour and material costs of recycling",
+        "The high value of plastic scrap on world markets"
+      ],
+      "answer": 2,
+      "why": "She says the cost of recycling isn't emphasised enough; there are significant labour and material costs."
+    },
+    {
+      "q": "What does Professor Sun think our priority should be?",
+      "options": [
+        "Recycling as much as possible",
+        "Reducing and reusing before recycling",
+        "Burning waste instead of burying it",
+        "Sending waste to other countries"
+      ],
+      "answer": 1,
+      "why": "She says “reduce and reuse is better than recycling”."
+    }
+  ]
+}

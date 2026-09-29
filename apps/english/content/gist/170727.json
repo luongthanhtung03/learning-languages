@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to stop people stealing from shops and offices",
+        "How honest people really are, especially with money",
+        "The life of Benjamin Franklin and his famous sayings",
+        "Why small businesses are closing in the UK"
+      ],
+      "answer": 1,
+      "why": "Rob says they're talking about honesty and how honest people are, particularly when spending money."
+    },
+    {
+      "q": "How does an 'honesty box' work?",
+      "options": [
+        "A sales assistant checks what you pay",
+        "You pay with a card at a machine",
+        "You get a discount for being honest",
+        "You put in the money yourself and nobody checks"
+      ],
+      "answer": 3,
+      "why": "Neil says you put money in a box, but it's up to you to put in the right amount."
+    },
+    {
+      "q": "Why might a small business use an honesty box?",
+      "options": [
+        "So it doesn't need a sales assistant",
+        "Because customers prefer it",
+        "To make more profit",
+        "Because the law requires it"
+      ],
+      "answer": 0,
+      "why": "Neil says it means you don't need a sales assistant."
+    },
+    {
+      "q": "What does Rob mean when he says 'Honestly, Neil!' about the quiz?",
+      "options": [
+        "He is promising to tell Neil the whole truth",
+        "He doesn't know the answer and wants a clue",
+        "He is annoyed because the question is too easy",
+        "He thinks Neil has cheated by looking it up"
+      ],
+      "answer": 2,
+      "why": "Rob says everyone will know the answer, and Neil explains 'honestly' can show irritation."
+    },
+    {
+      "q": "According to Philip Graves, are most people honest?",
+      "options": [
+        "Yes, almost everyone is",
+        "Only when they are shopping",
+        "No, they aren't",
+        "Only people in small social groups"
+      ],
+      "answer": 2,
+      "why": "He asks 'Are most people honest?' and says 'the answer to that is no'."
+    },
+    {
+      "q": "Why does Philip Graves say humans developed the ability to be dishonest?",
+      "options": [
+        "Getting an advantage over others helped us survive",
+        "It helped us make more friends in our groups",
+        "It was taught to us by our parents as children",
+        "It made groups work together better when hunting"
+      ],
+      "answer": 0,
+      "why": "He says if we can gain an advantage over people around us, we have a greater chance of surviving."
+    },
+    {
+      "q": "What stops people being dishonest all the time, according to Philip Graves?",
+      "options": [
+        "Fear of the police",
+        "Religious rules",
+        "Not having enough chances to cheat",
+        "The risk of being pushed out of the group"
+      ],
+      "answer": 3,
+      "why": "He says we balance helping ourselves against 'the risk of being ostracised by the group'."
+    },
+    {
+      "q": "Why does Rob think we value honesty?",
+      "options": [
+        "Dishonest people always get caught and punished in the end",
+        "Selfish behaviour is disliked and societies work better",
+        "Honest people earn more money during their careers",
+        "Being honest is much easier than remembering lies"
+      ],
+      "answer": 1,
+      "why": "Rob says others won't like selfish behaviour, and societies work better when people co-operate."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The true story of the 1969 Moon landing",
+        "How to talk to people who believe online conspiracies",
+        "Why Bill Gates is funding so much vaccine research",
+        "How fact checkers at the BBC do their job each day"
+      ],
+      "answer": 1,
+      "why": "Sam says they'll hear advice on how to talk to people convinced by online conspiracies."
+    },
+    {
+      "q": "Why does Neil mention the Moon landing, JFK and giant lizards at the start?",
+      "options": [
+        "He is reading a history book about the 20th century",
+        "He wants to test Sam's general knowledge with a quiz",
+        "He has studied these events at university for years",
+        "He is pretending to have fallen for conspiracies"
+      ],
+      "answer": 3,
+      "why": "Sam jokes that reading online conspiracies has sent Neil 'down the rabbit hole'."
+    },
+    {
+      "q": "Why do people look for more information in times of crisis?",
+      "options": [
+        "They feel uncertain and afraid and want to feel safer",
+        "They suddenly have more free time to read the news",
+        "Their governments tell them to research the facts",
+        "They want to become famous online by sharing posts"
+      ],
+      "answer": 0,
+      "why": "Neil says as people feel uncertain and fearful, they look for information to feel more secure."
+    },
+    {
+      "q": "According to Marianna Spring, why has Bill Gates become a target?",
+      "options": [
+        "He made a big public mistake in a TV interview",
+        "He secretly works for the American government",
+        "He is rich and powerful and has funded vaccine work",
+        "He has spoken out strongly against all vaccines"
+      ],
+      "answer": 2,
+      "why": "She says he's rich and powerful and has funded research into vaccines."
+    },
+    {
+      "q": "How does Marianna Spring think we should treat claims about microchips?",
+      "options": [
+        "Investigate them carefully",
+        "With the disdain they deserve",
+        "Share them to warn others",
+        "Report them to the police"
+      ],
+      "answer": 1,
+      "why": "She says the ideas have no evidence and 'we should treat them with the disdain they deserve.'"
+    },
+    {
+      "q": "What does Dr Jovan Byford think is important?",
+      "options": [
+        "Arguing strongly until the person gives up",
+        "Ignoring people who believe conspiracies",
+        "Blocking conspiracy websites",
+        "Separating the belief from the person who holds it"
+      ],
+      "answer": 3,
+      "why": "He thinks it's important to separate the conspiracy from the theorist."
+    },
+    {
+      "q": "Which piece of advice is part of Dr Byford's approach?",
+      "options": [
+        "Try to find the real concern behind the belief",
+        "Tell them clearly that they're wrong",
+        "Avoid giving them any facts",
+        "Force them to change their mind"
+      ],
+      "answer": 0,
+      "why": "Spring says to get to the bottom of the often legitimate concern at the heart of the conspiracy."
+    },
+    {
+      "q": "Why does Sam say some conspiracies are dangerous?",
+      "options": [
+        "They cost people a lot of money on fake cures",
+        "They make people stop trusting the BBC and its news",
+        "Believing vaccines kill could make the pandemic worse",
+        "They cause serious arguments inside many families"
+      ],
+      "answer": 2,
+      "why": "Sam says people thinking vaccines will kill them might worsen the coronavirus situation worldwide."
+    }
+  ]
+}

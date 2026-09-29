@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "New office safety technology after lockdown, and its problems",
+        "Why working from home is better than going to the office",
+        "How thermal cameras were first invented and used",
+        "How to design a modern, open-plan office space"
+      ],
+      "answer": 0,
+      "why": "Sam says they'll look at how the new workplace technology works and ask if it's really the answer."
+    },
+    {
+      "q": "Where is Sam during the programme?",
+      "options": [
+        "Back in the BBC office",
+        "In a studio with Neil",
+        "Still working from home",
+        "Visiting a tech company"
+      ],
+      "answer": 2,
+      "why": "Sam says, “still working from home, as you can hear.”"
+    },
+    {
+      "q": "Which technology might become 'the new normal' in workplaces?",
+      "options": [
+        "Robots that clean and disinfect every desk at night",
+        "Plastic screens put up between every desk",
+        "Video calls instead of face-to-face meetings",
+        "Sensors, distance-alert apps and temperature devices"
+      ],
+      "answer": 3,
+      "why": "Neil lists sensors that monitor movement, apps that alert you if you're too close, and temperature devices."
+    },
+    {
+      "q": "How does Microshare's system work, according to Charles Paumelle?",
+      "options": [
+        "Cameras film everyone who enters or leaves the building",
+        "Workers fill in a short health form every morning",
+        "Phones scan a special code at each door in the office",
+        "Bluetooth wristbands record when people are close"
+      ],
+      "answer": 1,
+      "why": "He says staff wear Bluetooth wristbands or tags which detect proximity events."
+    },
+    {
+      "q": "Why does the company save the proximity data?",
+      "options": [
+        "To trace contacts if someone later becomes infected",
+        "To check how hard people are working at their desks",
+        "To sell it to other companies for a lot of money",
+        "To plan where desks should go in the new office"
+      ],
+      "answer": 0,
+      "why": "Paumelle says it's saved in case they need to retrace an infected person's steps and inform contacts."
+    },
+    {
+      "q": "What worry about this technology does Sam raise?",
+      "options": [
+        "It is too expensive",
+        "It doesn't work with smartphones",
+        "It breaks easily",
+        "It feels like a big invasion of privacy"
+      ],
+      "answer": 3,
+      "why": "Sam says it all feels like quite a big invasion of privacy."
+    },
+    {
+      "q": "What does lawyer Ravi Naik suggest companies might be doing?",
+      "options": [
+        "Breaking the law on purpose to save money",
+        "Spending too little on the safety of their staff",
+        "Using technology just for the sake of it",
+        "Ignoring what their workers want or need"
+      ],
+      "answer": 2,
+      "why": "He asks, “are you trying to use tech for tech's sake?”"
+    },
+    {
+      "q": "What is Ravi Naik's opinion about the evidence for this technology?",
+      "options": [
+        "There is plenty of evidence it works",
+        "There isn't enough evidence to justify it",
+        "Evidence isn't needed in a crisis",
+        "Only governments have the evidence"
+      ],
+      "answer": 1,
+      "why": "He says there has to be a high level of evidential justification, and 'I just don't think it's there.'"
+    }
+  ]
+}

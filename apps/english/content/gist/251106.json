@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Garlic and its uses in cooking, medicine and religion",
+        "How to grow garlic at home",
+        "Why garlic gives you bad breath",
+        "Traditional food in the former Soviet Union"
+      ],
+      "answer": 0,
+      "why": "They discuss garlic in cooking, its medicinal uses in history, and why some groups avoid it."
+    },
+    {
+      "q": "Why does chef Jason Chan love garlic?",
+      "options": [
+        "It is cheap and easy to find in any shop",
+        "It keeps vampires and bad luck away",
+        "It is versatile and has health benefits",
+        "It makes very spicy food less hot"
+      ],
+      "answer": 2,
+      "why": "He says it's a versatile ingredient that can be used for cooking and offers various health benefits."
+    },
+    {
+      "q": "What does chef Poul Erik Jensen say about cooking with garlic?",
+      "options": [
+        "He only uses it in meat dishes",
+        "He can't imagine cooking without it",
+        "He uses it only on special occasions",
+        "He prefers not to use it"
+      ],
+      "answer": 1,
+      "why": "He uses it in stocks, soups and many dishes: 'it's unimaginable not using garlic'."
+    },
+    {
+      "q": "Who brought garlic to European countries like France?",
+      "options": [
+        "The ancient Egyptians",
+        "Traders from China",
+        "The ancient Greeks",
+        "The Roman Empire"
+      ],
+      "answer": 3,
+      "why": "Neil says it was the Roman Empire that brought garlic to European countries like France."
+    },
+    {
+      "q": "According to Robin Cherry, what was garlic used to treat in the past?",
+      "options": [
+        "Many illnesses, including the plague",
+        "Only colds and sore throats in winter",
+        "Broken bones and bad injuries",
+        "Only skin problems like spots"
+      ],
+      "answer": 0,
+      "why": "She lists cancer, scurvy, the plague and respiratory ailments."
+    },
+    {
+      "q": "Why do Jains avoid eating garlic, according to Neil?",
+      "options": [
+        "It is too expensive to buy in India",
+        "It is bad for the stomach and digestion",
+        "It tastes too strong for most people",
+        "Pulling it up kills the plant and soil life"
+      ],
+      "answer": 3,
+      "why": "He says uprooting the plant kills both it and the soil ecosystem it grows in."
+    },
+    {
+      "q": "What other reason for avoiding garlic does Sonal Ved give?",
+      "options": [
+        "It makes people feel tired and weak",
+        "It may increase desire and harm spiritual growth",
+        "It is only eaten at special festivals",
+        "It is used in medicine, so it isn't food"
+      ],
+      "answer": 1,
+      "why": "She says it's believed to stimulate desire, passion, aggression, and affect spiritual growth."
+    },
+    {
+      "q": "What has modern medicine confirmed about garlic?",
+      "options": [
+        "It can cure cancer if eaten every day",
+        "It helps people sleep better at night",
+        "It can lower blood pressure and help the gut",
+        "It has no real health benefits at all"
+      ],
+      "answer": 2,
+      "why": "Beth says modern medicine confirmed benefits including reduced blood pressure and better gut health."
+    }
+  ]
+}

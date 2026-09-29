@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why most British people now prefer coffee to tea",
+        "How to make traditional English tea",
+        "The health benefits of green tea",
+        "How bubble tea was invented and became popular"
+      ],
+      "answer": 3,
+      "why": "They discuss bubble tea: who invented it, how, and how it spread around the world."
+    },
+    {
+      "q": "What do we learn about Beth's tea drinking?",
+      "options": [
+        "She drinks different kinds of tea at different times of day",
+        "She only drinks tea in the morning",
+        "She has recently stopped drinking tea and switched to coffee",
+        "She only likes bubble tea"
+      ],
+      "answer": 0,
+      "why": "She has English Breakfast in the morning, matcha at lunch and herbal tea before bed."
+    },
+    {
+      "q": "Which new tea trends in Britain does Beth mention?",
+      "options": [
+        "Mint tea and lemon tea",
+        "Tea with sugar and honey",
+        "Iced tea and matcha tea",
+        "Tea made with coffee beans"
+      ],
+      "answer": 2,
+      "why": "She says iced tea and green matcha tea have become as popular as the traditional cuppa."
+    },
+    {
+      "q": "What is bubble tea usually made with?",
+      "options": [
+        "Coffee, whipped cream and melted chocolate",
+        "Tea, milk, ice and chewy tapioca balls",
+        "Hot water, lemon and sugar",
+        "Fruit juice and fizzy water"
+      ],
+      "answer": 1,
+      "why": "Ben Henderson says it's tea mixed with milk, crushed ice and chewy tapioca balls."
+    },
+    {
+      "q": "What gave Liu Han-Chieh the idea for bubble tea?",
+      "options": [
+        "A recipe from his grandmother",
+        "A trip to Japan where people drank iced milk tea",
+        "A request from a famous customer like Jackie Chan",
+        "A competition in a local market"
+      ],
+      "answer": 1,
+      "why": "Beth says his invention was inspired by seeing people enjoying iced milk tea in Japan."
+    },
+    {
+      "q": "What helped bubble tea become internationally famous?",
+      "options": [
+        "Adverts on television in Taiwan and Japan",
+        "Low prices in supermarkets",
+        "A government campaign",
+        "Celebrities visiting Liu's tea shop"
+      ],
+      "answer": 3,
+      "why": "Neil says it began a revolution when celebrities like Michael Jordan and Jackie Chan visited."
+    },
+    {
+      "q": "How does Liu Han-Chieh explain bubble tea's success?",
+      "options": [
+        "He planned it carefully for years",
+        "It was his best and only product",
+        "It was mostly luck, almost a miracle",
+        "His staff worked harder than anyone else"
+      ],
+      "answer": 2,
+      "why": "He says the reason it became so popular “was pure luck. It was a miracle.”"
+    },
+    {
+      "q": "What does Beth suggest when she says “Maybe that's what we need here in Britain too”?",
+      "options": [
+        "A modern twist could make tea more popular again in Britain",
+        "Britain should stop drinking coffee",
+        "Britain should open more coffee shops",
+        "Britain should start selling its traditional tea in Taiwan"
+      ],
+      "answer": 0,
+      "why": "She praises a modern twist on a traditional drink, and more Brits now prefer coffee."
+    }
+  ]
+}

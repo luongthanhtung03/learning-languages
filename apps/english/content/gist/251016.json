@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How bodybuilders train for big competitions",
+        "How to cook eggs for a healthy breakfast",
+        "Why supermarkets are selling less meat",
+        "The protein trend and whether we forget fibre"
+      ],
+      "answer": 3,
+      "why": "They discuss the focus on protein and ask whether we're forgetting other nutrients like fibre."
+    },
+    {
+      "q": "What is Neil's and Georgie's favourite kind of protein?",
+      "options": [
+        "Chicken",
+        "Eggs",
+        "Fish",
+        "Beans"
+      ],
+      "answer": 1,
+      "why": "Neil says an egg is his favourite protein, and Georgie was going to say that too."
+    },
+    {
+      "q": "What does Ruth Alexander notice in supermarkets?",
+      "options": [
+        "Lots of high-protein items, like lentil pasta",
+        "Fewer products that contain any protein",
+        "Much more sugar-free chocolate on the shelves",
+        "Mostly fresh fruit and vegetables at the front"
+      ],
+      "answer": 0,
+      "why": "She sees high-protein products in abundance, like lentil and chickpea pasta and bean bread."
+    },
+    {
+      "q": "According to Neil, how are some products made to look 'high-protein'?",
+      "options": [
+        "They are made smaller and sold at higher prices",
+        "They are sold only in gyms and sports shops",
+        "They are repackaged, or have beans added",
+        "They are cooked for longer to change them"
+      ],
+      "answer": 2,
+      "why": "He says items with protein are re-packaged as 'high-protein', and others have beans and pulses added."
+    },
+    {
+      "q": "What does Scott Dicker say about how consumers see protein?",
+      "options": [
+        "They think it's sometimes good and sometimes bad",
+        "They always see it as healthy, unlike carbs and fat",
+        "They think it's too expensive",
+        "They don't care about it"
+      ],
+      "answer": 1,
+      "why": "He says carbs and fat are sometimes good, sometimes bad, but protein has a 'continuous health halo'."
+    },
+    {
+      "q": "What does Neil suggest about adding protein powder to foods?",
+      "options": [
+        "It can make unhealthy food seem healthy",
+        "It always makes food healthier",
+        "It makes food taste much better",
+        "It is banned in some countries"
+      ],
+      "answer": 0,
+      "why": "He says food once considered unhealthy is now called healthy just because protein powder is added."
+    },
+    {
+      "q": "What does Dr Karan Rajan say about people's interest in fibre?",
+      "options": [
+        "People have always paid enough attention to it",
+        "Nobody is really interested in fibre at all",
+        "Fibre is much less important than protein",
+        "People ignored it, but interest is growing"
+      ],
+      "answer": 3,
+      "why": "He says historically probably not, but 'the tide is turning' and more people are interested."
+    },
+    {
+      "q": "Which tip does Dr Karan give for getting more fibre?",
+      "options": [
+        "Drinking protein shakes after exercise",
+        "Eating more eggs and meat every day",
+        "Adding seeds or nuts to snacks and meals",
+        "Eating only fruit for breakfast"
+      ],
+      "answer": 2,
+      "why": "He mentions tips like adding certain seeds or nuts to snacks."
+    }
+  ]
+}

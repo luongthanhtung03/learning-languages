@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to plan a wedding",
+        "Why horse and carriage rides are rare",
+        "Why fewer people are marrying, and views on marriage",
+        "How divorce laws in the UK have changed over the last fifty years"
+      ],
+      "answer": 2,
+      "why": "They discuss falling numbers of marriages and hear from two people with different views."
+    },
+    {
+      "q": "Why does Neil mention a horse and carriage?",
+      "options": [
+        "To say that, like carriages, marriage is becoming rarer",
+        "To suggest a way to travel to a wedding",
+        "To talk about old traditions in the countryside",
+        "To show that marriage is very old-fashioned"
+      ],
+      "answer": 0,
+      "why": "He says carriages are rare now and 'marriage in the UK is getting rarer too'."
+    },
+    {
+      "q": "What is the trend for opposite-sex marriages in the UK?",
+      "options": [
+        "The numbers are rising",
+        "The numbers are staying the same",
+        "The numbers change a lot every year",
+        "The numbers are falling year on year"
+      ],
+      "answer": 3,
+      "why": "Rob says 'the trend is downwards' with fewer couples marrying year on year."
+    },
+    {
+      "q": "What does Tom think about marriage?",
+      "options": [
+        "It is the best way to show love",
+        "It is old-fashioned, and he fears commitment",
+        "It is too expensive",
+        "It is good for society and makes relationships stronger"
+      ],
+      "answer": 1,
+      "why": "Tom calls it 'a bit of an archaic concept' and says he's a commitment phobe."
+    },
+    {
+      "q": "What does Tom say about his current relationship?",
+      "options": [
+        "He is single",
+        "He is planning to get married",
+        "He is very happy in it",
+        "It has just ended"
+      ],
+      "answer": 2,
+      "why": "Tom says 'although I am in a very happy relationship at the moment'."
+    },
+    {
+      "q": "What is Dan's view of marriage?",
+      "options": [
+        "It makes society more stable",
+        "It is only for religious people",
+        "It is not necessary any more",
+        "It makes people less free"
+      ],
+      "answer": 0,
+      "why": "Dan says 'It has a very stabilising effect on society'."
+    },
+    {
+      "q": "According to Dan, what else does marriage do?",
+      "options": [
+        "Saves couples money",
+        "Makes families bigger",
+        "Makes people happier and more successful at work",
+        "Tells everyone you have found the right person"
+      ],
+      "answer": 3,
+      "why": "He says it 'declares publicly to the world that you have found the right person for you'."
+    },
+    {
+      "q": "What possible reason for fewer marriages does Neil suggest?",
+      "options": [
+        "Weddings are too expensive",
+        "Children of divorced parents may be less likely to marry",
+        "People are too busy working to find time to plan a wedding",
+        "There are fewer places to get married"
+      ],
+      "answer": 1,
+      "why": "Neil says with more divorces, 'perhaps children of divorced parents are less likely to get married'."
+    }
+  ]
+}

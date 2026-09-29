@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to win every argument with friends and family",
+        "Whether disagreeing is good and how to do it better",
+        "Why politicians in parliament never agree on anything",
+        "How couples' therapy works for married people"
+      ],
+      "answer": 1,
+      "why": "Sam says they're discussing 'Is it good to disagree?' and they hear tips for disagreeing better."
+    },
+    {
+      "q": "Why does Rob say “No, we won't!” at the start?",
+      "options": [
+        "He doesn't want to talk about the topic",
+        "He thinks the programme is too short",
+        "He is angry with Sam",
+        "He is disagreeing on purpose as a joke"
+      ],
+      "answer": 3,
+      "why": "He says he feels better for having that little disagreement, which proves it's good to disagree."
+    },
+    {
+      "q": "Why does Sam call Rob 'pedantic'?",
+      "options": [
+        "He says it should be 'five minutes', not six",
+        "He refuses to answer the quiz question at all",
+        "He talks too much and doesn't let Sam speak",
+        "He disagrees with everything that Sam says"
+      ],
+      "answer": 0,
+      "why": "Rob corrects Sam's 'next six minutes' to five, and Sam says he is focusing too much on small details."
+    },
+    {
+      "q": "According to Esther Perel, what happens in a bad disagreement?",
+      "options": [
+        "Both people finally agree to reach a compromise",
+        "Nobody says what they really think about the issue",
+        "One person acts superior and shows contempt",
+        "People stop listening to each other and just leave"
+      ],
+      "answer": 2,
+      "why": "She says in a battle one person is on top of the other, with contempt, thinking the other is lesser."
+    },
+    {
+      "q": "Which tip for disagreeing better does the podcast Seriously give?",
+      "options": [
+        "Always aim for the middle ground",
+        "Listen carefully and aim for empathy",
+        "Avoid speaking truthfully",
+        "Make sure you agree at the end"
+      ],
+      "answer": 1,
+      "why": "Rob says it suggests speaking truthfully, listening intently and aiming for empathy."
+    },
+    {
+      "q": "What convinced Douglas Alexander that disagreement is necessary?",
+      "options": [
+        "His years as an elected politician",
+        "A book on arguing that he read at university",
+        "His early work as a family therapist",
+        "A big family argument at Christmas"
+      ],
+      "answer": 0,
+      "why": "He says a couple of decades as an elected politician convinced him disagreement is necessary."
+    },
+    {
+      "q": "According to Douglas Alexander, what would happen if society valued politeness over truth and justice?",
+      "options": [
+        "People would be happier",
+        "There would be fewer wars",
+        "Politicians would be more honest",
+        "Society would stop developing"
+      ],
+      "answer": 3,
+      "why": "He says it would simply be 'a recipe for stagnation'."
+    },
+    {
+      "q": "What does Sam add to Douglas Alexander's advice?",
+      "options": [
+        "Disagreements should be kept short and simple",
+        "People should avoid difficult topics like politics",
+        "Disagreeing should be done politely and with respect",
+        "People should always compromise in the end"
+      ],
+      "answer": 2,
+      "why": "Sam says, “I would add that this should be done politely and with respect.”"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why the COP26 conference was a failure",
+        "How whales are affected by climate change",
+        "Scientific plans to repair the climate",
+        "How diamonds are mined and sold"
+      ],
+      "answer": 2,
+      "why": "Sam says they'll discuss geoengineering – new scientific plans to remove carbon and stop global warming."
+    },
+    {
+      "q": "How does Neil feel about the news on climate change?",
+      "options": [
+        "Very depressed",
+        "Quite hopeful",
+        "Not worried",
+        "Very angry"
+      ],
+      "answer": 0,
+      "why": "After listing the problems, Neil says, 'It's all very depressing!'"
+    },
+    {
+      "q": "Why are some geoengineering ideas controversial?",
+      "options": [
+        "They are far too expensive for any country",
+        "They were invented by musicians, not scientists",
+        "They would take hundreds of years to work",
+        "They interfere with natural climate systems"
+      ],
+      "answer": 3,
+      "why": "Neil says some are controversial because they interfere with natural climate systems."
+    },
+    {
+      "q": "What is the purpose of spraying diamond dust in the sky?",
+      "options": [
+        "To make the sky look more beautiful",
+        "To reflect sunlight and cool the planet",
+        "To give nutrients to fish in the ocean",
+        "To make much more rain fall in dry areas"
+      ],
+      "answer": 1,
+      "why": "Sam says the idea is to deflect the Sun's rays to cool the planet."
+    },
+    {
+      "q": "What could help oceans hold even more carbon?",
+      "options": [
+        "Fewer fish and plankton in the water",
+        "Colder water at the ocean surface",
+        "More nutrients for fish and plankton",
+        "Less rain falling into the sea"
+      ],
+      "answer": 2,
+      "why": "Sam says oceans could hold more carbon if the fish and plankton had more available nutrients."
+    },
+    {
+      "q": "According to David King, what happens after whales poo in the same area?",
+      "options": [
+        "The water becomes too dirty for fish to live in",
+        "The whales leave that area of the ocean",
+        "The poo sinks quickly to the ocean floor",
+        "Within months, the area is full of fish"
+      ],
+      "answer": 3,
+      "why": "He says a huge area gets covered in nutrients and 'within three months that region is chock-a-block with fish'."
+    },
+    {
+      "q": "What does Professor Rachael James want to do?",
+      "options": [
+        "Use waste rock from mines to trap carbon",
+        "Find more diamonds in old mine waste",
+        "Stop all mining for diamonds around the world",
+        "Build new mountains from mined rock"
+      ],
+      "answer": 0,
+      "why": "She says mine waste could be repurposed for enhanced rock weathering, locking carbon into rock."
+    },
+    {
+      "q": "Why does Rachael James think her idea is especially good?",
+      "options": [
+        "It will make diamonds much cheaper to buy",
+        "It reuses waste in a circular economy",
+        "It can be done in just a few days",
+        "It does not need any mining at all"
+      ],
+      "answer": 1,
+      "why": "She says 'I think that's really good because it creates a circular economy'."
+    }
+  ]
+}

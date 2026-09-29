@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The long history of make-up in ancient times",
+        "How to become rich quickly by posting videos online",
+        "Two beauty influencers and how they work online",
+        "Why traditional jobs are disappearing in the UK"
+      ],
+      "answer": 2,
+      "why": "Sam says they'll meet two beauty influencers from Nigeria and Pakistan who are changing attitudes to beauty."
+    },
+    {
+      "q": "Why does Sam talk about the card game Happy Families?",
+      "options": [
+        "To contrast old jobs with new online ones",
+        "Because it is her favourite childhood game",
+        "To show that families should work together",
+        "Because influencers often promote card games"
+      ],
+      "answer": 0,
+      "why": "The game has traditional jobs like baker and tailor; Neil says a 21st-century list would include jobs like YouTuber."
+    },
+    {
+      "q": "What kind of videos has Dimma Umeh been making?",
+      "options": [
+        "Cooking videos filmed in markets in Lagos",
+        "Photography lessons for young beginners",
+        "Face painting designs for children's parties",
+        "Make-up tutorials for women of colour"
+      ],
+      "answer": 3,
+      "why": "Neil says she's been creating make-up video tutorials for women of colour for eight years."
+    },
+    {
+      "q": "What made Dimma's 2017 video become so popular?",
+      "options": [
+        "It was the first make-up video made in Nigeria",
+        "She made it funny by telling jokes",
+        "A famous company paid to promote it",
+        "It showed her shopping with celebrities"
+      ],
+      "answer": 1,
+      "why": "Others had made similar videos, but Dimma did hers 'in a way that was a bit funny' and cracked jokes."
+    },
+    {
+      "q": "What did Rammal Mehmud do before becoming a make-up artist?",
+      "options": [
+        "She was a photographer",
+        "She was a school teacher",
+        "She worked as a doctor",
+        "She sold make-up in a shop"
+      ],
+      "answer": 0,
+      "why": "Neil describes her as 'a photographer turned make-up artist' in Islamabad."
+    },
+    {
+      "q": "According to Rammal, how did face painting help her?",
+      "options": [
+        "It helped her win an important art prize",
+        "It helped her find a job with a big company",
+        "It helped her get through depression",
+        "It helped her meet her husband and friends"
+      ],
+      "answer": 2,
+      "why": "Neil says her colourful face painting designs helped her through a period of depression."
+    },
+    {
+      "q": "What does Rammal do to protect her family and friends?",
+      "options": [
+        "She never posts anything about her private life",
+        "She only lets her followers see photos of herself",
+        "She stops followers asking personal questions",
+        "She asks people if they're happy to be shown"
+      ],
+      "answer": 3,
+      "why": "She says you have to ask people if they are comfortable being on your platform or not."
+    },
+    {
+      "q": "What does Sam find most amazing about Dimma and Rammal?",
+      "options": [
+        "How much money they both make from companies",
+        "They start talks about what beauty means",
+        "How many products they manage to sell each day",
+        "How quickly they both became famous on TV"
+      ],
+      "answer": 1,
+      "why": "Sam says what's amazing is how they use social media to start conversations about what beauty means to women."
+    }
+  ]
+}

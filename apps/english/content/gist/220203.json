@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why many South Koreans get so little sleep",
+        "How to set a world record for staying awake",
+        "Why afternoon naps are bad for your health",
+        "How South Korean companies became so successful"
+      ],
+      "answer": 0,
+      "why": "Sam says South Korea is one of the most stressed and tired nations, where people get less sleep than anywhere."
+    },
+    {
+      "q": "What do Sam and Neil say about their own sleep?",
+      "options": [
+        "Both need at least ten hours a night",
+        "Neil takes naps, but Sam never does",
+        "Sam likes a nap; Neil falls asleep fast",
+        "Both of them find it hard to fall asleep"
+      ],
+      "answer": 2,
+      "why": "Sam gets by on seven hours and likes an afternoon nap; Neil says he's 'out like a light'."
+    },
+    {
+      "q": "What does research show about people in South Korea?",
+      "options": [
+        "They sleep more than people in most countries",
+        "They sleep less and are often depressed",
+        "They work fewer hours than people in Europe",
+        "They find it easy to stop thinking about work"
+      ],
+      "answer": 1,
+      "why": "Neil says South Koreans sleep fewer hours and have higher rates of depression and suicide than almost anywhere."
+    },
+    {
+      "q": "What did Ji-an's employer expect from her?",
+      "options": [
+        "To work only from home at night",
+        "To take a nap at a sleep cafe every day",
+        "To stop contacting colleagues after work",
+        "To be ready to answer work contact 24/7"
+      ],
+      "answer": 3,
+      "why": "She says, 'They told me you need to be contactable 24/7.'"
+    },
+    {
+      "q": "How does Ji-an feel when she thinks about her old job?",
+      "options": [
+        "Very upset and worried",
+        "Proud of how hard she worked",
+        "Bored and a little sleepy",
+        "Happy that she was needed"
+      ],
+      "answer": 0,
+      "why": "She says, 'Even just thinking about it, I get really agitated.'"
+    },
+    {
+      "q": "What businesses have grown because of sleeplessness in South Korea?",
+      "options": [
+        "Late-night restaurants and bars",
+        "Shops selling expensive new beds",
+        "Sleep clinics and cafes for naps",
+        "Coffee shops that open all night"
+      ],
+      "answer": 2,
+      "why": "Sam says there are sleep clinics that assess people overnight, and sleep cafes to nap during the day."
+    },
+    {
+      "q": "What is the 'bali bali' culture?",
+      "options": [
+        "A tradition of taking long lunch breaks",
+        "A habit of drinking tea before bed",
+        "A way of relaxing through meditation",
+        "People always being in a hurry"
+      ],
+      "answer": 3,
+      "why": "Neil says it means 'quickly, quickly' or 'hurry, hurry' – people are constantly in a rush."
+    },
+    {
+      "q": "According to Dr Lee, what problems do some sleeping pill users have?",
+      "options": [
+        "They stop feeling tired during the day",
+        "They sleepwalk and do things they forget",
+        "They sleep for more than twenty hours",
+        "They become much more relaxed at work"
+      ],
+      "answer": 1,
+      "why": "He says people can sleepwalk, eat uncooked food and not remember it next day; some even cause car accidents."
+    }
+  ]
+}

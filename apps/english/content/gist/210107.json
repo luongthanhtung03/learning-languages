@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook macaroni and cheese",
+        "World records for eating biscuits",
+        "Comfort food and why we want to eat it",
+        "Why Italian food is the healthiest"
+      ],
+      "answer": 2,
+      "why": "Rob says they'll discuss comfort food and what actually makes us eat it."
+    },
+    {
+      "q": "Why does Rob like eating biscuits?",
+      "options": [
+        "They are quick, easy and make him feel good",
+        "They are healthy",
+        "His doctor recommends them",
+        "They help him concentrate at work"
+      ],
+      "answer": 0,
+      "why": "Rob says they're a quick and easy sweet treat and they make him feel good."
+    },
+    {
+      "q": "What makes foods like biscuits, crisps and pizza easy comfort foods, according to Neil?",
+      "options": [
+        "They are cheap to buy in any shop",
+        "They are easy and need no cooking skills",
+        "They last a long time",
+        "They are low in sugar"
+      ],
+      "answer": 1,
+      "why": "Neil says they're easy to snack on and don't require many culinary skills."
+    },
+    {
+      "q": "According to Shira Gabriel, why does macaroni and cheese comfort her?",
+      "options": [
+        "It is her favourite meal at an expensive restaurant",
+        "It is quick and easy to make when she is tired after work",
+        "It is the healthiest food she knows and has lots of vitamins",
+        "It reminds her of being cared for by people who loved her"
+      ],
+      "answer": 3,
+      "why": "She says those foods were made for her by people who loved and took care of her."
+    },
+    {
+      "q": "What happens when Shira eats these foods?",
+      "options": [
+        "She feels guilty about eating unhealthy food",
+        "She feels hungry again quickly",
+        "She gets a rush of good feelings",
+        "She forgets her memories"
+      ],
+      "answer": 2,
+      "why": "She says eating them gives her a rush of positive feelings and a sense of acceptance."
+    },
+    {
+      "q": "Why can eating comfort food be complicated, according to Neil?",
+      "options": [
+        "It is always more expensive than healthy food",
+        "Food high in sugar or salt can make us feel guilty",
+        "It makes us forget our happy childhood memories",
+        "It is hard to find in shops and supermarkets"
+      ],
+      "answer": 1,
+      "why": "Neil says food high in carbohydrates, sugar or salt can make us feel guilty."
+    },
+    {
+      "q": "What did Jenny Linford learn from her Italian friends?",
+      "options": [
+        "They eat comfort food every single day",
+        "They think comfort food is unhealthy",
+        "They only eat pasta when they are sad",
+        "To them, all food is comfort"
+      ],
+      "answer": 3,
+      "why": "They said 'food is always comfort and always pleasure', so they don't have the phrase."
+    },
+    {
+      "q": "What does Jenny Linford conclude about the idea of comfort food?",
+      "options": [
+        "It is not universal and differs between cultures",
+        "It is the same everywhere in the world",
+        "It was invented in Italy",
+        "It is only for children"
+      ],
+      "answer": 0,
+      "why": "She says the idea of comfort food 'is not universal, it's actually quite nuanced'."
+    }
+  ]
+}

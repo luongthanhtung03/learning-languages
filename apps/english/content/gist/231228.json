@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to grow vegetables in a small garden",
+        "Why fewer and fewer young women are choosing to become farmers",
+        "Ideas helping female farmers get fairer treatment and prices",
+        "The most popular vegetables in the world"
+      ],
+      "answer": 2,
+      "why": "Neil says they'll look at ideas helping female farmers in Bangladesh and Peru earn a fair price."
+    },
+    {
+      "q": "According to the UN, what share of the world's farmers are women?",
+      "options": [
+        "Over 40%",
+        "About 10%",
+        "Around 25%",
+        "More than 70%"
+      ],
+      "answer": 0,
+      "why": "Beth says over 40% of farmers globally are women."
+    },
+    {
+      "q": "What problems do female farmers in Bangladesh face at the market?",
+      "options": [
+        "The market is too far away",
+        "They aren't allowed to grow vegetables",
+        "Their vegetables are often stolen",
+        "They are harassed or paid too little"
+      ],
+      "answer": 3,
+      "why": "Neil says they face harassment or are underpaid for their produce."
+    },
+    {
+      "q": "How does the “Farm to Go” app help women like Poppy?",
+      "options": [
+        "It teaches them to grow new crops",
+        "They can sell without revealing who they are",
+        "It gives them free seeds",
+        "It sends their husbands to the market to sell for them"
+      ],
+      "answer": 1,
+      "why": "Farmers can sell their produce without revealing their identity and get a fairer price."
+    },
+    {
+      "q": "Apart from more profit, what other benefit does Poppy mention?",
+      "options": [
+        "She can travel to other cities",
+        "It saves time for her family and garden",
+        "She has made lots of new friends through the app",
+        "She no longer has to grow okra"
+      ],
+      "answer": 1,
+      "why": "She says it saves time, so she can spend time with family and work in the garden."
+    },
+    {
+      "q": "Why does reporter Salman Saeed say the extra three cents “might sound small”?",
+      "options": [
+        "To argue that the app is not worth using",
+        "To complain about low vegetable prices",
+        "To show that most farmers dislike the app",
+        "To show that small gains add up over time"
+      ],
+      "answer": 3,
+      "why": "He says over the year, average monthly revenue for farmers on the app has risen dramatically."
+    },
+    {
+      "q": "What problem continues in many other places, according to Beth?",
+      "options": [
+        "Men in the family often control the money",
+        "There are not enough vegetables",
+        "Women refuse to use new technology like apps",
+        "Markets are closed to all farmers"
+      ],
+      "answer": 0,
+      "why": "She says problems continue because the man in the family often controls the finances."
+    },
+    {
+      "q": "How does the project in Peru help female coffee growers?",
+      "options": [
+        "It buys all their coffee beans at a much higher price",
+        "It gives them free machines",
+        "Members save together so farmers can borrow money",
+        "It sends them to study in the city"
+      ],
+      "answer": 2,
+      "why": "People chip in small amounts, which a farmer can access as a loan, for example for a machine."
+    }
+  ]
+}

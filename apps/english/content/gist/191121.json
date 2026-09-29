@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of the first commercial robots",
+        "How robots are used in factories",
+        "Using robots to care for elderly and sick people",
+        "Why nurses are paid so little"
+      ],
+      "answer": 2,
+      "why": "Rob says robots are being introduced in social care to look after the sick and elderly."
+    },
+    {
+      "q": "What problem is mentioned about human carers?",
+      "options": [
+        "There aren't enough of them for everyone who needs care",
+        "They don't get enough training to look after older people",
+        "They cost much more than robots over a whole year",
+        "They don't want to work alongside robots in care homes"
+      ],
+      "answer": 0,
+      "why": "Sam says there are more people needing care than people who can help."
+    },
+    {
+      "q": "What did the UK government announce?",
+      "options": [
+        "A plan to train thousands more nurses",
+        "A £34 million fund to develop care robots",
+        "A ban on using robots in all care homes",
+        "Higher pay for care assistants from next year"
+      ],
+      "answer": 1,
+      "why": "Sam mentions a £34 million fund to help develop robots to look after us."
+    },
+    {
+      "q": "What can the robot Pepper NOT do?",
+      "options": [
+        "Wave its hands",
+        "Turn around for privacy",
+        "Talk to people",
+        "Pick up or move things"
+      ],
+      "answer": 3,
+      "why": "Abbey says it doesn't grip or move anything and can't provide physical assistance."
+    },
+    {
+      "q": "What are the researchers mainly interested in testing with Pepper?",
+      "options": [
+        "How well it works as someone to talk to",
+        "How quickly it can move around",
+        "Whether it can give medicine",
+        "How cheap it is to produce"
+      ],
+      "answer": 0,
+      "why": "Abbey says they're more interested in how it works as a companion to talk and interact with."
+    },
+    {
+      "q": "What is Sam's view about robots as companions?",
+      "options": [
+        "Robots are better because they never get tired",
+        "Robots will soon understand people perfectly",
+        "A human would probably understand people better",
+        "Companions are not important for old people"
+      ],
+      "answer": 2,
+      "why": "Sam says 'surely a human is better for that' because they understand you better."
+    },
+    {
+      "q": "Why does Rob mention the 100,000 care assistant vacancies?",
+      "options": [
+        "To show that care jobs are now very well paid",
+        "To argue that someone, or something, must do the work",
+        "To criticise the government for cutting care budgets",
+        "To encourage young listeners to apply for care jobs"
+      ],
+      "answer": 1,
+      "why": "After the figure he asks, 'Who is going to do all the work?'"
+    },
+    {
+      "q": "What is Dr Sarah Woodin worried about?",
+      "options": [
+        "Robots becoming too expensive for care homes to buy",
+        "Robots taking all the doctors' and nurses' jobs",
+        "Robots often breaking down in busy care homes",
+        "People being left with only robots to care for them"
+      ],
+      "answer": 3,
+      "why": "She warns people 'might be housed and abandoned to robots' if robots replace people."
+    }
+  ]
+}

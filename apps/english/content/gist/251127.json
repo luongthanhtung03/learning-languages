@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a successful online influencer",
+        "How social media influencers get into politics",
+        "Why so many young people don't vote",
+        "The most popular Instagram accounts this year"
+      ],
+      "answer": 1,
+      "why": "Beth says they'll find out what happens when social media influencers get involved in politics."
+    },
+    {
+      "q": "Does Beth follow social media influencers?",
+      "options": [
+        "Yes, she follows many of them very closely",
+        "No, she doesn't use any social media at all",
+        "Not really, but she sees them on social media",
+        "She is actually an influencer herself"
+      ],
+      "answer": 2,
+      "why": "She says she doesn't follow any specifically, but does see influencers on Facebook and Instagram."
+    },
+    {
+      "q": "Why are politicians interested in influencers?",
+      "options": [
+        "Because influencers can reach millions of people",
+        "Because influencers pay for election campaigns",
+        "Because influencers write their speeches",
+        "Because influencers are experts on politics"
+      ],
+      "answer": 0,
+      "why": "Pippa says the most successful have millions of followers, which has caught politicians' attention."
+    },
+    {
+      "q": "What has been alleged in places like Colombia, Argentina and Indonesia?",
+      "options": [
+        "Influencers have been banned from politics",
+        "Influencers have won elections",
+        "Social media has been switched off before elections",
+        "Politicians have paid influencers for their support"
+      ],
+      "answer": 3,
+      "why": "Pippa mentions allegations of politicians paying for the support of influencers there."
+    },
+    {
+      "q": "Why are influencers especially important in Nigeria?",
+      "options": [
+        "Most people there don't have TVs at home",
+        "Many young people there ignore traditional media",
+        "The government owns all the country's newspapers",
+        "Influencers there are older than in other countries"
+      ],
+      "answer": 1,
+      "why": "70% of Nigerians are under 30, and many young voters are turned off traditional media."
+    },
+    {
+      "q": "According to Adline Okere, how did some Nigerian influencers start out?",
+      "options": [
+        "As local politicians in their home towns",
+        "As journalists working for big newspapers",
+        "In activism or lifestyle content first",
+        "As professional football players"
+      ],
+      "answer": 2,
+      "why": "She says some started in activism, some with lifestyle, and then branched into politics."
+    },
+    {
+      "q": "How did many people in Nigeria react to influencers promoting political parties?",
+      "options": [
+        "People reacted badly and dug into their lives",
+        "They followed the influencers even more closely",
+        "Most people didn't notice or care at all",
+        "They asked the influencers to run for president"
+      ],
+      "answer": 0,
+      "why": "Adline says there was 'a huge pushback'; people dug up information from their personal lives."
+    },
+    {
+      "q": "What does Beth conclude about influencers and politics?",
+      "options": [
+        "Influencers always make very good politicians",
+        "Social media has no real effect on elections",
+        "Politicians should stop using social media",
+        "Politics doesn't always go well for influencers"
+      ],
+      "answer": 3,
+      "why": "She says social media is powerful for politicians, but politics doesn't always go well for influencers."
+    }
+  ]
+}

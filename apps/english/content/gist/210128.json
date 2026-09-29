@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Famous artists who only became famous after they died",
+        "Henrietta Lacks, whose cells made many discoveries possible",
+        "The history of the polio vaccine and how it reached Africa",
+        "How cancer is diagnosed and treated in hospitals today"
+      ],
+      "answer": 1,
+      "why": "They tell the story of Henrietta Lacks, whose cells led to many medical breakthroughs."
+    },
+    {
+      "q": "What do Van Gogh, Galileo and Henrietta Lacks have in common?",
+      "options": [
+        "They were all scientists who worked together",
+        "They all lived and worked in America",
+        "They all died of cancer at a young age",
+        "They were recognised only after death"
+      ],
+      "answer": 3,
+      "why": "Rob says their contributions were only recognised after their death, and Georgina adds Henrietta."
+    },
+    {
+      "q": "What was extraordinary about Henrietta Lacks' cells?",
+      "options": [
+        "They could not be infected by viruses",
+        "They were very large",
+        "They could keep replacing themselves endlessly",
+        "They glowed in the dark"
+      ],
+      "answer": 2,
+      "why": "Doctors found her cells could replace themselves endlessly."
+    },
+    {
+      "q": "Did Henrietta Lacks agree to her cells being used for research?",
+      "options": [
+        "No, she never gave her consent",
+        "Yes, she asked doctors to use them",
+        "Yes, her family agreed for her",
+        "Yes, but only for cancer research"
+      ],
+      "answer": 0,
+      "why": "Rob says she never consented to her tissues being used for medical research."
+    },
+    {
+      "q": "According to Rebecca Skloot, how have HeLa cells helped with Covid?",
+      "options": [
+        "They were used to make face masks for hospitals",
+        "They helped show what the virus's receptor is like",
+        "They cured the first Covid patients",
+        "They showed that Covid came from bats"
+      ],
+      "answer": 1,
+      "why": "She says scientists quickly figured out what the receptor looks like using her cells."
+    },
+    {
+      "q": "Why does Rebecca Skloot call HeLa cells a 'workhorse'?",
+      "options": [
+        "Because the cells were first tested on horses in a lab",
+        "Because they are very strong and hard to destroy",
+        "Because they are cheap and easy for labs to buy",
+        "Because they are at the base of so much science"
+      ],
+      "answer": 3,
+      "why": "She calls them 'this incredible workhorse that is at the base of so much science'."
+    },
+    {
+      "q": "What recent news does Sir John Burn think Henrietta would have liked?",
+      "options": [
+        "The polio vaccine had wiped out polio in Africa",
+        "A new cancer drug was discovered",
+        "Her family received money",
+        "A book about her became a best-seller"
+      ],
+      "answer": 0,
+      "why": "He says she would have liked the announcement that the polio vaccine led to polio's eradication in Africa."
+    },
+    {
+      "q": "Why does Sir John Burn describe her contribution as 'unwitting'?",
+      "options": [
+        "Because it was a mistake",
+        "Because nobody used her cells",
+        "Because it was made without her knowledge",
+        "Because she was not a scientist"
+      ],
+      "answer": 2,
+      "why": "Georgina explains it was made without her knowledge or consent."
+    }
+  ]
+}

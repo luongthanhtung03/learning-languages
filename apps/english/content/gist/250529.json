@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make fresh noodles at home",
+        "Why pasta is healthier than noodles",
+        "How noodles spread and changed in different countries",
+        "The life of the explorer Marco Polo"
+      ],
+      "answer": 2,
+      "why": "They look at how noodles spread from China and how the US and Japan created new varieties."
+    },
+    {
+      "q": "What are Beth's favourite noodles?",
+      "options": [
+        "Udon, which are big and thick",
+        "Ramen with beef",
+        "Dried noodles from a packet with hot water",
+        "Spicy rice noodles"
+      ],
+      "answer": 0,
+      "why": "Beth says her favourite are udon – 'the big thick ones'."
+    },
+    {
+      "q": "How did noodle recipes spread, according to Beth?",
+      "options": [
+        "Chinese chefs opened restaurants in Europe and taught people to cook",
+        "They were written in famous cookbooks",
+        "Italian explorers brought them home",
+        "Traders on the Silk Road took them to new places"
+      ],
+      "answer": 3,
+      "why": "She says noodle recipes were spread by traders on the ancient Silk Road."
+    },
+    {
+      "q": "According to author Jen Lin-Liu, why was the Marco Polo story created?",
+      "options": [
+        "To teach children about Chinese history",
+        "To help a pasta association sell more dried pasta",
+        "To explain how pasta was really invented",
+        "To make Chinese noodles more popular than pasta in Italy"
+      ],
+      "answer": 1,
+      "why": "She says a new pasta association wanted to promote dried pasta, so they came up with the story."
+    },
+    {
+      "q": "What happened after the Marco Polo story spread in the US?",
+      "options": [
+        "People stopped eating noodles",
+        "Pasta sales went up",
+        "Italy banned dried pasta",
+        "Chinese restaurants closed"
+      ],
+      "answer": 1,
+      "why": "Neil says 'it worked – sales of pasta jumped as a result'."
+    },
+    {
+      "q": "How much ramen does blogger Frank Striegl eat?",
+      "options": [
+        "About three bowls every single week",
+        "One bowl every week",
+        "More than 300 bowls a year",
+        "Three bowls a day"
+      ],
+      "answer": 2,
+      "why": "Beth says he eats over 300 bowls of ramen a year."
+    },
+    {
+      "q": "According to Frank, how did ramen develop in Japan?",
+      "options": [
+        "Chefs changed Chinese noodle dishes to make them more Japanese",
+        "It was invented by Japanese farmers",
+        "It came from Italian pasta dishes",
+        "It was copied exactly from Chinese recipes without making any changes"
+      ],
+      "answer": 0,
+      "why": "He says chefs loved Chinese noodle dishes but decided to 'tweak them' to be more Japanese."
+    },
+    {
+      "q": "What does Frank find fascinating about ramen?",
+      "options": [
+        "It has not changed at all for hundreds of years, like sushi",
+        "It is the cheapest food in Japan",
+        "It is more traditional than sushi",
+        "It keeps changing, and chefs can try new ideas"
+      ],
+      "answer": 3,
+      "why": "He says ramen 'continues to evolve' and 'it's OK to push the boundaries'."
+    }
+  ]
+}

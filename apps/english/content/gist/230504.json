@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How ice may have helped life begin",
+        "Why ice melts so quickly in hot weather",
+        "The first dinosaurs that lived on Earth",
+        "How to build and launch a space telescope"
+      ],
+      "answer": 0,
+      "why": "They discuss a discovery that scientists think could explain the origins of life on Earth, and how ice fits in."
+    },
+    {
+      "q": "What did the James Webb Space Telescope recently detect?",
+      "options": [
+        "A new planet covered in liquid water",
+        "The coldest ices ever found in space",
+        "Signs of life on one of Jupiter's moons",
+        "A large comet about to hit the Earth"
+      ],
+      "answer": 1,
+      "why": "Neil says it detected the coldest ices ever in outer space."
+    },
+    {
+      "q": "What was the 'primordial soup' like?",
+      "options": [
+        "Full of tiny plants and small animals",
+        "Hot and dry, with no water at all",
+        "Covered in thick ice and frozen gases",
+        "Watery, with gases but no oxygen"
+      ],
+      "answer": 3,
+      "why": "Sam describes a watery environment of oxygen-free gases and chemicals."
+    },
+    {
+      "q": "According to Professor Melissa McClure, how did basic molecules like water and CO2 reach Earth?",
+      "options": [
+        "In rain from the atmosphere",
+        "From volcanoes",
+        "In ice carried by comets",
+        "From the Sun's light"
+      ],
+      "answer": 2,
+      "why": "She says those molecules were definitely brought to Earth by ices in comets."
+    },
+    {
+      "q": "What might have turned these molecules into more complex ones, according to Professor McClure?",
+      "options": [
+        "Heat from the ground or lightning",
+        "Very freezing temperatures in space",
+        "Strong wind and heavy rain for years",
+        "Plants growing on them over time"
+      ],
+      "answer": 0,
+      "why": "She says they may have reacted with geothermal heat or a lightning strike."
+    },
+    {
+      "q": "What makes a molecule a 'complex organic molecule', according to Professor McClure?",
+      "options": [
+        "It contains water",
+        "It is found in organic food",
+        "It is very cold",
+        "It contains a carbon atom"
+      ],
+      "answer": 3,
+      "why": "She says if they have a carbon atom in them, they're complex organic molecules."
+    },
+    {
+      "q": "Why does Professor McClure mention alcohols like ethanol?",
+      "options": [
+        "To warn listeners about drinking alcohol",
+        "To give simple examples of such molecules",
+        "To explain how comets are made from ice",
+        "To show that alcohol exists on Jupiter"
+      ],
+      "answer": 1,
+      "why": "She says simple alcohols like methanol or ethanol, 'like what you would drink', are complex organic molecules."
+    },
+    {
+      "q": "According to the theory, what created the first living cells?",
+      "options": [
+        "A single huge lightning strike on the sea",
+        "Dinosaurs eating plants and spreading seeds",
+        "Reactions when molecules met the soup",
+        "Ice melting slowly in the warm oceans"
+      ],
+      "answer": 2,
+      "why": "Sam says organic molecules meeting the primordial soup produced a chain reaction that created the first cells."
+    }
+  ]
+}

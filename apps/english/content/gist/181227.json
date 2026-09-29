@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Michelle Obama's UK visit and her message about empowerment",
+        "The history of the role of First Lady in the White House",
+        "How American presidents and their wives are chosen",
+        "Why schools in London are better than schools in the US"
+      ],
+      "answer": 0,
+      "why": "They talk about Michelle Obama's UK visit to talk about her life, and her message about empowerment."
+    },
+    {
+      "q": "Why was Michelle Obama in the UK?",
+      "options": [
+        "To open a new school",
+        "To meet the Prime Minister",
+        "To talk about her life and her new book",
+        "To start her own political campaign for the next election"
+      ],
+      "answer": 2,
+      "why": "Rob says she has just published her autobiography and has been talking in the UK about her life."
+    },
+    {
+      "q": "Where did she go that she had visited before?",
+      "options": [
+        "A university in Oxford",
+        "A hospital in south London",
+        "The BBC studios",
+        "A school in north London"
+      ],
+      "answer": 3,
+      "why": "The BBC report says Mrs Obama revisited a school in north London."
+    },
+    {
+      "q": "What was special about that place for her?",
+      "options": [
+        "It was where she was first inspired to focus on education",
+        "It was where she first met her husband, Barack Obama",
+        "It was where she wrote her book",
+        "It was the school where she studied as a young child"
+      ],
+      "answer": 0,
+      "why": "She says it was where she was first inspired to focus on education as First Lady."
+    },
+    {
+      "q": "What feeling did Michelle Obama speak openly about?",
+      "options": [
+        "Anger at the media",
+        "A feeling that she didn't deserve her position",
+        "Sadness at having to leave the White House after eight years",
+        "Fear of speaking in public"
+      ],
+      "answer": 1,
+      "why": "Dan says she spoke about feeling she didn't belong and didn't deserve her position."
+    },
+    {
+      "q": "How does Dan react to the idea of imposter syndrome?",
+      "options": [
+        "He says it is not a real problem",
+        "He says only famous people have it",
+        "He says he has the feeling all the time",
+        "He says he has never heard of it"
+      ],
+      "answer": 2,
+      "why": "Dan says 'I get that feeling all the time!'"
+    },
+    {
+      "q": "According to Rob, what usually causes imposter syndrome?",
+      "options": [
+        "Being genuinely bad at your job",
+        "Working too many hours without enough rest or holidays",
+        "Having a famous partner",
+        "Low confidence or how society labels us"
+      ],
+      "answer": 3,
+      "why": "Rob says it isn't justified; it's more a lack of confidence or the way society labels us."
+    },
+    {
+      "q": "What mistake does Michelle Obama say people often make?",
+      "options": [
+        "Thinking that education is not important",
+        "Thinking working-class people are less gifted",
+        "Trusting politicians too much",
+        "Believing that real talent can never be learned or taught"
+      ],
+      "answer": 1,
+      "why": "She says we assume working-class folks are not highly gifted in their own right."
+    }
+  ]
+}

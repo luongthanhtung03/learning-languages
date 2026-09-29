@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a professional drone pilot",
+        "The dangers and the many useful new jobs of drones",
+        "Why airports want to ban all drones",
+        "The history of military aircraft"
+      ],
+      "answer": 1,
+      "why": "Rob and Neil discuss the risks of drones but also the ways they are bringing benefits."
+    },
+    {
+      "q": "What do the 2016 UK figures show about drones?",
+      "options": [
+        "There were 70 near misses, more than twice the year before",
+        "There were 70 crashes with passenger planes",
+        "Near misses fell by half compared with the year before",
+        "There were 17 near misses near airports"
+      ],
+      "answer": 0,
+      "why": "Rob says there were 70 near misses in 2016, 'more than double the year before'."
+    },
+    {
+      "q": "Apart from safety near airports, what other risk does Neil mention?",
+      "options": [
+        "Drones being too noisy in cities",
+        "Drones being too expensive for most people",
+        "People's privacy being invaded by drone cameras",
+        "Drones damaging buildings when they fall"
+      ],
+      "answer": 2,
+      "why": "Neil mentions the risk to privacy when a drone with a camera flies over someone's property."
+    },
+    {
+      "q": "According to Dr Yoge Patel, what has her company used drones for?",
+      "options": [
+        "Delivering parcels to homes in rural areas",
+        "Filming wildlife programmes for television",
+        "Rescuing swimmers in trouble at sea",
+        "Inspecting planes and entering Fukushima"
+      ],
+      "answer": 3,
+      "why": "She says their drones are used for aircraft inspections and were put into Fukushima."
+    },
+    {
+      "q": "What are UNICEF and the Malawian government testing drones for?",
+      "options": [
+        "Watching for criminals near the borders",
+        "Carrying medical supplies to remote places",
+        "Checking for leaks in village water pipes",
+        "Training soldiers to fly in bad weather"
+      ],
+      "answer": 1,
+      "why": "Rob says they are testing drones for carrying medical supplies, which could save lives in remote places."
+    },
+    {
+      "q": "What does a Japanese firm plan to do with a drone?",
+      "options": [
+        "Deliver lunch to office workers",
+        "Check that employees arrive on time",
+        "Clean the windows of its offices",
+        "Play music to make staff stop working late"
+      ],
+      "answer": 3,
+      "why": "The firm plans to force employees out of the office by playing music at them if they work overtime."
+    },
+    {
+      "q": "After hearing all the examples, what is Neil still a little worried about?",
+      "options": [
+        "How drones are controlled by the law",
+        "Whether drones will become too cheap",
+        "How long drone batteries last",
+        "Whether drones can fly in bad weather"
+      ],
+      "answer": 0,
+      "why": "Neil says he is 'a little concerned about how they are regulated or controlled'."
+    },
+    {
+      "q": "What does Dr Patel suggest about rules for drones?",
+      "options": [
+        "Drones should be banned until the rules are finished",
+        "The same strict rules should apply to every drone",
+        "Rules should develop with the technology and suit each use",
+        "Rules are not needed because drones are safe"
+      ],
+      "answer": 2,
+      "why": "She says regulation must be 'harmonised' with technology and be proportionate to different uses."
+    }
+  ]
+}

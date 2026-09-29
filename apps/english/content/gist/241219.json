@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make a complaint by phone",
+        "Why call centres have long queues",
+        "The growing use of AI in call centres and its effect on workers",
+        "How to get a job in a call centre"
+      ],
+      "answer": 2,
+      "why": "They ask who's really in charge at the call centre: humans or AI."
+    },
+    {
+      "q": "How does Phil feel when his call is put on hold?",
+      "options": [
+        "Usually frustrated, but he likes knowing his place in the queue",
+        "Relaxed, because he enjoys listening to the music while he waits",
+        "Angry, so he always hangs up",
+        "He doesn't mind at all"
+      ],
+      "answer": 0,
+      "why": "He's usually frustrated, but likes it when a number says how many people are in front."
+    },
+    {
+      "q": "Why is AI causing problems in countries like India and the Philippines?",
+      "options": [
+        "Their phone networks are too slow",
+        "Customers there don't trust AI",
+        "AI doesn't understand the local languages spoken in those countries",
+        "Call centre jobs are a big part of their economies"
+      ],
+      "answer": 3,
+      "why": "Pippa says call centre jobs make up a big part of the economy there."
+    },
+    {
+      "q": "Who is Mylene Cabalona?",
+      "options": [
+        "A computer programmer who builds AI systems for call centres",
+        "The president of a union for call centre workers",
+        "A manager at a big call centre",
+        "A customer who complained about AI"
+      ],
+      "answer": 1,
+      "why": "She is president of the call centre workers' union, B.I.E.N."
+    },
+    {
+      "q": "What makes Mylene's job difficult?",
+      "options": [
+        "She has to work at night",
+        "She has to speak many different languages with customers every day",
+        "She has to travel a lot",
+        "She calms angry, shouting customers while AI monitors her"
+      ],
+      "answer": 3,
+      "why": "She must pacify yelling clients, and 'you're being monitored by an AI'."
+    },
+    {
+      "q": "Why does Mylene mention a study?",
+      "options": [
+        "To show that AI creates new jobs",
+        "To support her fear that AI will replace many workers",
+        "To prove that customers much prefer talking to humans than to AI",
+        "To explain how AI monitors calls"
+      ],
+      "answer": 1,
+      "why": "She cites a study saying about 27% of workers will be displaced by AI."
+    },
+    {
+      "q": "Why does Mylene believe AI will never fully replace humans?",
+      "options": [
+        "Because AI lacks empathy",
+        "Because AI is too expensive",
+        "Because AI makes too many mistakes",
+        "Because the law protects workers"
+      ],
+      "answer": 0,
+      "why": "She says she doesn't think AI is empathetic, and people are more compassionate."
+    },
+    {
+      "q": "What does Pippa point out about the way Mylene speaks?",
+      "options": [
+        "She speaks very fast",
+        "She uses lots of technical words that listeners may not understand",
+        "She often says 'you know' to give herself time to think",
+        "She never pauses"
+      ],
+      "answer": 2,
+      "why": "Pippa says Mylene says 'you know' a lot – a filler that gives the speaker time to think."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How fighter jets are designed",
+        "Why so many people make fake videos about aliens online",
+        "The history of space travel",
+        "Mysterious flying objects and possible aliens"
+      ],
+      "answer": 3,
+      "why": "They discuss the Tic Tac videos and whether we are alone in the universe."
+    },
+    {
+      "q": "How does Beth say she would feel if she saw strange objects in the sky?",
+      "options": [
+        "Excited to take photos",
+        "Unsure what she was seeing and a bit scared",
+        "Completely calm",
+        "Sure that they were aliens from another planet"
+      ],
+      "answer": 1,
+      "why": "She says she might not believe what she was seeing and would be a bit scared."
+    },
+    {
+      "q": "What are the “Tic Tac videos”?",
+      "options": [
+        "Navy pilots' film of strange objects in 2004",
+        "A YouTube series about aliens",
+        "Videos made by NASA scientists to test cameras",
+        "Adverts for a type of sweet"
+      ],
+      "answer": 0,
+      "why": "Neil says Navy pilots recorded mysterious oval objects on a training flight in 2004."
+    },
+    {
+      "q": "Who is reviewing the Tic Tac videos now?",
+      "options": [
+        "The pilots themselves",
+        "YouTube",
+        "The US Congress",
+        "The National UFO Reporting Center"
+      ],
+      "answer": 2,
+      "why": "Neil says the videos are being reviewed by US Congress."
+    },
+    {
+      "q": "What does Professor Adam Frank think of the pilots?",
+      "options": [
+        "They made the story up",
+        "They believe they saw aliens",
+        "They are honest and aren't claiming it was aliens",
+        "They were confused by bad weather and bright lights"
+      ],
+      "answer": 2,
+      "why": "He says the pilots aren't lying and “They're not saying they're aliens.”"
+    },
+    {
+      "q": "Why does Frank say the pilots' reports can't answer the question scientifically?",
+      "options": [
+        "The videos were deleted",
+        "The pilots were flying too far away",
+        "The objects were too small",
+        "They are only personal testimony"
+      ],
+      "answer": 3,
+      "why": "He says, “personal testimony. You can't do any science with that.”"
+    },
+    {
+      "q": "What did a NASA scientist show about one object in the video?",
+      "options": [
+        "It was flying much faster than any jet ever built",
+        "It was only moving at about 40 miles an hour",
+        "It was under the ocean",
+        "It was a flying saucer"
+      ],
+      "answer": 1,
+      "why": "A simple analysis showed it was moving at 40 miles an hour."
+    },
+    {
+      "q": "What does Frank suggest by saying there was “nothing very extra-terrestrial about that”?",
+      "options": [
+        "The object was probably something ordinary, not alien",
+        "Aliens must travel very slowly",
+        "NASA is hiding the truth about the objects from the public",
+        "The video proves aliens exist"
+      ],
+      "answer": 0,
+      "why": "The object that looked very fast was only doing 40 mph – nothing alien about it."
+    }
+  ]
+}

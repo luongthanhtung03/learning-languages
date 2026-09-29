@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How scientists measure the loudness of sound",
+        "Noise, how it affects us and ways to reduce it",
+        "Why listening to birdsong is good for our health",
+        "The history of car horns and traffic in India"
+      ],
+      "answer": 1,
+      "why": "They talk about noise and ideas for making the world a quieter place."
+    },
+    {
+      "q": "Which sounds does Georgina give as examples of noises that really annoy people?",
+      "options": [
+        "Birdsong and the wind in the trees",
+        "Music and laughter",
+        "Children playing",
+        "Beeping lorries and road drills"
+      ],
+      "answer": 3,
+      "why": "She mentions the beeping of a reversing lorry and someone drilling a hole in the road."
+    },
+    {
+      "q": "According to Julian Treasure, why don't we notice the effect of noise?",
+      "options": [
+        "Because we have got used to ignoring it",
+        "Because most noise is too quiet",
+        "Because cities are getting quieter",
+        "Because we wear headphones"
+      ],
+      "answer": 0,
+      "why": "He says there's so much noise in cities that we get into the habit of ignoring it."
+    },
+    {
+      "q": "What can background noise lead to, according to experts?",
+      "options": [
+        "Better concentration",
+        "Hearing loss in children only",
+        "Stress and mental health problems",
+        "Stronger immune systems"
+      ],
+      "answer": 2,
+      "why": "Neil says background noise can lead to stress and mental health issues."
+    },
+    {
+      "q": "Why are trees grown by motorways?",
+      "options": [
+        "To give drivers something nice to look at",
+        "To absorb traffic noise",
+        "To stop cars from crashing",
+        "To reduce air pollution"
+      ],
+      "answer": 1,
+      "why": "Georgina says trees are grown by motorways to absorb the traffic noise."
+    },
+    {
+      "q": "What was Sumaira Abdul Ali told when she started her work in Mumbai?",
+      "options": [
+        "That wanting to control noise is a Western idea",
+        "That the police would help her immediately",
+        "That Indians hate noise",
+        "That car horns are only for safety"
+      ],
+      "answer": 0,
+      "why": "She was told these are 'all Western ideas to want to control noise – Indians love noise!'"
+    },
+    {
+      "q": "What does Georgina say honking means for people in India?",
+      "options": [
+        "It is only for road safety",
+        "It is a sign of anger",
+        "It is against the law",
+        "It is a way to express how they feel"
+      ],
+      "answer": 3,
+      "why": "Georgina says honking is almost another language; people express how they feel with it."
+    },
+    {
+      "q": "What did the police campaign in Mumbai do?",
+      "options": [
+        "It banned car horns completely in the city centre",
+        "It gave large fines to drivers who honked their horns",
+        "It kept traffic lights red for longer if it got too noisy",
+        "It built new quiet roads outside the city for lorries"
+      ],
+      "answer": 2,
+      "why": "If noise at traffic lights went over a certain level, the lights would stay red for longer."
+    }
+  ]
+}

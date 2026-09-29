@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of women's football in England",
+        "The rules and history of the Cricket World Cup",
+        "How to become a professional footballer as a teenager",
+        "Why football is shown on TV more than other sports"
+      ],
+      "answer": 0,
+      "why": "Catherine says they'll find out about the history of women's football in England."
+    },
+    {
+      "q": "What has Sam enjoyed about this Women's World Cup?",
+      "options": [
+        "Playing in some of the matches herself",
+        "Watching the games live on TV and the media interest",
+        "Going to the stadium in France almost every day",
+        "Betting on the results with her friends at work"
+      ],
+      "answer": 1,
+      "why": "She says it's great to watch the matches live on TV and there's so much media interest."
+    },
+    {
+      "q": "According to Gemma Clarke, what has happened after each success of women's football?",
+      "options": [
+        "More money was given to the sport by the government",
+        "The players became famous and very well paid",
+        "There was a backlash and efforts to hold women back",
+        "Men's football became less popular for a few years"
+      ],
+      "answer": 2,
+      "why": "She says there has been a backlash and an attempt to keep women back."
+    },
+    {
+      "q": "What does Gemma Clarke say women footballers have struggled to do?",
+      "options": [
+        "Find enough players for their teams",
+        "Travel to matches in other countries",
+        "Learn the rules of the modern game",
+        "Be taken seriously as athletes"
+      ],
+      "answer": 3,
+      "why": "She says it has been a struggle 'to be taken seriously as athletes'."
+    },
+    {
+      "q": "How popular was women's football during and after the First World War?",
+      "options": [
+        "Crowds of up to 50,000 watched games",
+        "Only a few hundred people watched",
+        "It was only played in schools",
+        "It was more popular in other countries"
+      ],
+      "answer": 0,
+      "why": "Catherine says crowds of up to 50,000 were watching games."
+    },
+    {
+      "q": "What did the Football Association do?",
+      "options": [
+        "Paid women players the same as the men",
+        "Started a new national women's league in 1921",
+        "Banned women from its grounds for about 50 years",
+        "Asked the best women to join the men's teams"
+      ],
+      "answer": 2,
+      "why": "Gemma Clarke says they banned women from association grounds for about 50 years."
+    },
+    {
+      "q": "Why were the men who ran the game worried, according to Catherine?",
+      "options": [
+        "Women were getting badly injured during matches",
+        "The pitches were getting damaged by too many games",
+        "Women's games might take money and fans from men's",
+        "Women didn't follow the rules and argued with referees"
+      ],
+      "answer": 1,
+      "why": "She says they thought it might take money and supporters away from the men's game."
+    },
+    {
+      "q": "When was the ban finally lifted?",
+      "options": [
+        "In 1921",
+        "In 1991",
+        "In 2019",
+        "In 1971"
+      ],
+      "answer": 3,
+      "why": "Catherine says the ban was lifted comparatively recently, in 1971."
+    }
+  ]
+}

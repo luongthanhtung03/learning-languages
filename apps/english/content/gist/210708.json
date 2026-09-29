@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How stage magicians do their tricks in front of a crowd",
+        "Why so many people want to quit smoking but can't",
+        "Hypnotism and what makes some people easier to hypnotise",
+        "How to fall asleep more quickly after a stressful day"
+      ],
+      "answer": 2,
+      "why": "They discuss hypnotism and why some people are more hypnotisable than others."
+    },
+    {
+      "q": "What happens when Rob tries to hypnotise Sam at the start?",
+      "options": [
+        "Sam falls asleep",
+        "Sam starts clucking like a chicken",
+        "Sam gets angry with Rob",
+        "It doesn't work"
+      ],
+      "answer": 3,
+      "why": "Sam says, 'I don't think so, Rob. It's not so easy to put me into a hypnotic trance.'"
+    },
+    {
+      "q": "What real benefit of hypnotism does Sam mention?",
+      "options": [
+        "Improving memory",
+        "Curing phobias",
+        "Making people more intelligent",
+        "Helping people learn languages"
+      ],
+      "answer": 1,
+      "why": "Sam says hypnotism has real benefits, such as curing phobias."
+    },
+    {
+      "q": "What is Rob's concern about hypnotism?",
+      "options": [
+        "He doesn't want a stranger in his head",
+        "It is too expensive for most people",
+        "It only works on children",
+        "It takes too long"
+      ],
+      "answer": 0,
+      "why": "Rob asks why you would let a complete stranger inside your head."
+    },
+    {
+      "q": "According to Professor Amir Raz, which old ideas about hypnotism have been largely rejected?",
+      "options": [
+        "That hypnotism is real and can be used in medicine",
+        "That relaxing helps people to become hypnotised",
+        "That clever people and men are harder to hypnotise",
+        "That hypnotists need a swinging watch to work"
+      ],
+      "answer": 2,
+      "why": "He says the ideas about intelligent people and males being less suggestible have been largely dismissed."
+    },
+    {
+      "q": "What does Professor Raz mean by 'absorption'?",
+      "options": [
+        "Being able to get completely involved in an activity",
+        "Being able to remember a lot of information",
+        "Being easily influenced by others",
+        "Being able to relax your body"
+      ],
+      "answer": 0,
+      "why": "He describes it as the ability to get engrossed, like losing track of time reading a book."
+    },
+    {
+      "q": "Which example does Professor Raz give of absorption?",
+      "options": [
+        "Playing a violin",
+        "Talking to a stranger",
+        "Doing a maths problem",
+        "Crying while watching a film"
+      ],
+      "answer": 3,
+      "why": "He mentions people watching a film and beginning to cry, getting sucked into the scene."
+    },
+    {
+      "q": "What is the second thing needed to be hypnotised, according to Professor Raz?",
+      "options": [
+        "A soft and gentle voice from the hypnotist",
+        "Attention: focusing on certain things",
+        "A strong imagination and good memory",
+        "Being very tired or ready to sleep"
+      ],
+      "answer": 1,
+      "why": "He says it's attention: the ability to focus and hone in on particular pieces of information."
+    }
+  ]
+}

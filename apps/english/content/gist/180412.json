@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to open a restaurant",
+        "What it really means to be a foodie",
+        "Why fast food is unhealthy",
+        "The best cookery programmes on TV"
+      ],
+      "answer": 1,
+      "why": "Neil says 'Today we're talking about being a foodie', and chef Angela Hartnett gives her view."
+    },
+    {
+      "q": "How does Rob describe a foodie?",
+      "options": [
+        "Someone who eats out every night",
+        "Someone who works as a chef in a restaurant or a hotel kitchen",
+        "Someone very interested in preparing and eating good food",
+        "Someone who loves fast food"
+      ],
+      "answer": 2,
+      "why": "Rob says a foodie has a strong interest in food, likes preparing and eating it and using good ingredients."
+    },
+    {
+      "q": "According to Angela Hartnett, what do people who call themselves foodies usually do?",
+      "options": [
+        "Buy cookbooks and watch TV, but cook only a little",
+        "Cook a big meal every day for all of their families",
+        "Grow their own vegetables",
+        "Work in restaurants"
+      ],
+      "answer": 0,
+      "why": "She says they 'buy the books, watch TV and will cook a little bit'."
+    },
+    {
+      "q": "What is Angela Hartnett's idea of a true foodie?",
+      "options": [
+        "Someone who eats in expensive restaurants",
+        "Someone who writes cookery books and presents shows on television",
+        "Someone who only buys organic food",
+        "Someone who shops daily and knows the parts of an animal"
+      ],
+      "answer": 3,
+      "why": "She describes people who shop every day and 'understand one end of a pig from another'."
+    },
+    {
+      "q": "Why does Hartnett mention her mother and grandmother?",
+      "options": [
+        "They were famous chefs",
+        "They are examples of people who really knew about food",
+        "They taught her to cook in their own family restaurants",
+        "They didn't like cooking"
+      ],
+      "answer": 1,
+      "why": "She says they made food and knew about what was expensive and about quality."
+    },
+    {
+      "q": "What does Hartnett admit about her idea of a foodie?",
+      "options": [
+        "It might be a bit idealistic",
+        "It is completely wrong",
+        "It is only true in Britain",
+        "It is too modern"
+      ],
+      "answer": 0,
+      "why": "She says 'maybe that's a bit romantic', meaning an imagined ideal."
+    },
+    {
+      "q": "What is Hartnett's opinion of food in Britain?",
+      "options": [
+        "It is cheap and good quality",
+        "It is much better than in the rest of Europe",
+        "It is too expensive for lots of people",
+        "It is too unhealthy"
+      ],
+      "answer": 2,
+      "why": "She says food is expensive and 'I don't think it's affordable for lots of people'."
+    },
+    {
+      "q": "What is Hartnett worried might happen?",
+      "options": [
+        "Restaurants might close",
+        "People might stop watching cookery shows and buying cookbooks",
+        "People might eat too much",
+        "People might forget how to cook a cheap family meal"
+      ],
+      "answer": 3,
+      "why": "She worries we'll stop knowing how to make a meal for a family of four for five pounds."
+    }
+  ]
+}

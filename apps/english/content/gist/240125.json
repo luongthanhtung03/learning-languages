@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How the words used on menus affect diners",
+        "How to cook classic French dishes",
+        "Why fried chicken is unhealthy",
+        "The best restaurants to eat in around Manchester"
+      ],
+      "answer": 0,
+      "why": "They discuss how the language used to describe food affects our psychology."
+    },
+    {
+      "q": "Why does Neil offer Beth chicken and chips twice, using different words?",
+      "options": [
+        "Because he forgot what he had said the first time",
+        "Because he wants to practise his French",
+        "To show how words can make a dish sound better",
+        "To show that French food is healthier"
+      ],
+      "answer": 2,
+      "why": "He says the same dish described with different words can sound more delicious."
+    },
+    {
+      "q": "Why are many words for gourmet food French?",
+      "options": [
+        "Because French is easier to spell",
+        "Because French food is cheaper than food from other countries",
+        "Because most chefs are French",
+        "Because France has a long tradition of high-level cooking"
+      ],
+      "answer": 3,
+      "why": "Neil says France has a long tradition of high-level cooking called haute cuisine."
+    },
+    {
+      "q": "According to linguist Dr Keri Matwick, why is French being used less on menus?",
+      "options": [
+        "Chefs no longer learn French",
+        "It can sound pretentious",
+        "French food is less popular",
+        "It makes food more expensive"
+      ],
+      "answer": 1,
+      "why": "She says there's a tendency not to use French now “because it sounds pretentious”."
+    },
+    {
+      "q": "What happened when chef Caroline Martins used French cooking terms on her menu?",
+      "options": [
+        "More customers came to her restaurant",
+        "Customers asked her to teach them some French cooking words",
+        "Some diners got confused, avoided dishes or even left",
+        "Critics gave her an award"
+      ],
+      "answer": 2,
+      "why": "People were confused, avoided dishes, were sarcastic, and some just left."
+    },
+    {
+      "q": "What does Caroline suggest her customers really wanted?",
+      "options": [
+        "Cheaper prices",
+        "Simple food without fancy names",
+        "More French dishes",
+        "Smaller portions at lower prices"
+      ],
+      "answer": 1,
+      "why": "She imagines them saying, “I wanna eat food, I don't wanna eat names, posh names.”"
+    },
+    {
+      "q": "Which languages does Caroline use on her menu now?",
+      "options": [
+        "English and Brazilian Portuguese",
+        "French and English",
+        "Only Portuguese",
+        "Spanish, English and a little French"
+      ],
+      "answer": 0,
+      "why": "Neil says she now uses English and her native Brazilian Portuguese."
+    },
+    {
+      "q": "What has been the result of Caroline's change?",
+      "options": [
+        "Customers complain about the prices",
+        "Fewer people now order the Brazilian dishes on the menu",
+        "Waiters have less to do",
+        "Customers aren't confused and chat with the waiters"
+      ],
+      "answer": 3,
+      "why": "Customers don't feel confused, and their curiosity starts a conversation with the waiter."
+    }
+  ]
+}

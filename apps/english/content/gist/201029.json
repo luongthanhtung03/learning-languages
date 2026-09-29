@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How iPods replaced cassette players",
+        "Why young people prefer headphones",
+        "The invention and success of the Sony Walkman",
+        "The history of Japanese pop music"
+      ],
+      "answer": 2,
+      "why": "They take a nostalgic look back at the birth of the Sony Walkman."
+    },
+    {
+      "q": "Why didn't Georgina answer Neil at the start?",
+      "options": [
+        "She was listening to music on her headphones",
+        "She was talking to a friend on her phone",
+        "She was busy reading an interesting magazine",
+        "She had just arrived late and was out of breath"
+      ],
+      "answer": 0,
+      "why": "She says she didn't hear him because she was listening to music on her headphones."
+    },
+    {
+      "q": "What gave Akio Morita the idea for the Walkman?",
+      "options": [
+        "Students listening to music on crowded trains",
+        "A request from a famous American music journalist",
+        "An old cassette player he found in his garage",
+        "Teenagers carrying heavy radios on their shoulders"
+      ],
+      "answer": 3,
+      "why": "He saw Japanese teenagers carrying heavy transistor radios on their shoulders."
+    },
+    {
+      "q": "How did Morita's colleagues react to his idea?",
+      "options": [
+        "They were excited and wanted to start at once",
+        "They doubted people would walk around in headphones",
+        "They thought it would be too expensive to make",
+        "They wanted to sell it only in America at first"
+      ],
+      "answer": 1,
+      "why": "Andrea Koppen says people were very sceptical that anyone would want to walk around with headphones."
+    },
+    {
+      "q": "Why did Sony give Walkmans to students?",
+      "options": [
+        "Students had asked for free machines",
+        "The government paid for it",
+        "They had little money for advertising",
+        "Students were the only people who liked music"
+      ],
+      "answer": 2,
+      "why": "Koppen says their advertising budget was very tight, so they decided to give it to students to try."
+    },
+    {
+      "q": "Why does Andrea Koppen mention that Morita put his job on the line?",
+      "options": [
+        "To show he secretly wanted to leave Sony",
+        "To show how strongly he believed in the Walkman",
+        "To explain why he was later fired by the company",
+        "To show that his colleagues fully supported him"
+      ],
+      "answer": 1,
+      "why": "He said he would resign if it didn't take off, showing how confident he was."
+    },
+    {
+      "q": "What happened to the first 30,000 Walkmans?",
+      "options": [
+        "They all sold out within three months",
+        "They were sent back because of faults",
+        "They were only sold in the US",
+        "Most were given away free"
+      ],
+      "answer": 0,
+      "why": "Neil says within 3 months the entire first run of 30 thousand Walkmans had sold out."
+    },
+    {
+      "q": "According to Tim Jarman, what did people first expect about the Walkman?",
+      "options": [
+        "It would be popular with all ages",
+        "It would replace the radio",
+        "It would be too heavy to carry",
+        "It would sell only to a small group"
+      ],
+      "answer": 3,
+      "why": "He says they thought it could be a niche product that might not sell."
+    }
+  ]
+}

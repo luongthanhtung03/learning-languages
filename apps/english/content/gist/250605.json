@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to write polite emails",
+        "What politeness is and why we teach it to children",
+        "Why British people are ruder than before",
+        "How to remember people's names"
+      ],
+      "answer": 1,
+      "why": "They discuss whether a boy was impolite and why we teach kids to be polite."
+    },
+    {
+      "q": "Why does Beth say 'You, give me that pen!' at the start?",
+      "options": [
+        "Because she is angry with Neil",
+        "Because Neil took her pen",
+        "To give an example of asking for something rudely",
+        "To show a typical, polite British way of asking for something"
+      ],
+      "answer": 2,
+      "why": "Neil says it was a bit rude, and they then practise the polite version."
+    },
+    {
+      "q": "Why did the boy call Michael Rosen 'thingy'?",
+      "options": [
+        "He recognised him but couldn't remember his name",
+        "He wanted to insult him",
+        "He thought Michael was someone else he had seen on television",
+        "It is Michael's nickname"
+      ],
+      "answer": 0,
+      "why": "Beth says the boy recognised Michael but couldn't remember his name."
+    },
+    {
+      "q": "Why did the boy's words give Michael Rosen a problem?",
+      "options": [
+        "He didn't understand what the boy meant by the word 'innit'",
+        "The boy was very aggressive",
+        "He was in a hurry",
+        "They broke the usual rules, so he didn't know how to reply"
+      ],
+      "answer": 3,
+      "why": "He says it broke all the rules, 'it gave me a problem. How do I answer it?'"
+    },
+    {
+      "q": "What does Professor Louise Mullany think is the key to whether something is polite?",
+      "options": [
+        "How old the speaker is",
+        "Whether the speaker uses formal words and a polite tone of voice",
+        "Whether the speaker says 'please'",
+        "How the person being spoken to understands it"
+      ],
+      "answer": 3,
+      "why": "She says 'the crucial thing there is in how you've perceived it'."
+    },
+    {
+      "q": "How did Michael Rosen feel about the boy?",
+      "options": [
+        "He felt friendly towards him and didn't think he was rude",
+        "He felt insulted and upset",
+        "He was frightened of him",
+        "He wanted to correct the boy's English and teach him better manners"
+      ],
+      "answer": 0,
+      "why": "Louise says he didn't see it as insulting and was 'quite kindly disposed' to the boy."
+    },
+    {
+      "q": "According to Louise, why do we teach children to be polite?",
+      "options": [
+        "So they get better marks at school and pass their exams",
+        "So they make adults laugh",
+        "So they can be accepted in society",
+        "So they can speak more formally"
+      ],
+      "answer": 2,
+      "why": "She thinks teaching politeness helps children enjoy the benefits of being accepted in society."
+    },
+    {
+      "q": "How did Louise feel when her daughter wouldn't say hello to the nursery cook?",
+      "options": [
+        "Proud that her daughter was so independent and confident",
+        "Very embarrassed, so she made excuses for her",
+        "Angry with the cook",
+        "Not worried, because she was only two"
+      ],
+      "answer": 1,
+      "why": "She says 'the embarrassment was so strong' and she made excuses like 'she's tired'."
+    }
+  ]
+}

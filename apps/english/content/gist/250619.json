@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How babies communicate before they can talk",
+        "How to help babies sleep at night",
+        "Why babies learn languages quickly",
+        "What parents should feed their babies"
+      ],
+      "answer": 0,
+      "why": "They investigate how newborn babies tell their parents what's going on before they can speak."
+    },
+    {
+      "q": "Why do Beth and Neil say they are hungry and ask for a pen at the start?",
+      "options": [
+        "Because they forgot to eat and bring pens before the programme",
+        "To show that babies use the same words",
+        "To introduce a quiz about food",
+        "To show how easily adults can say what they want"
+      ],
+      "answer": 3,
+      "why": "Beth says that as an adult she just opens her mouth and speaks, unlike babies."
+    },
+    {
+      "q": "According to Beth, how can babies communicate?",
+      "options": [
+        "Only by smiling",
+        "Only with their bodies or by crying",
+        "With simple words and signs",
+        "By copying their parents' faces"
+      ],
+      "answer": 1,
+      "why": "She says babies can only communicate with their bodies or by crying."
+    },
+    {
+      "q": "What does child psychotherapist Marie Derome say babies want us to know?",
+      "options": [
+        "That they want to be left alone",
+        "That they understand everything we say to them from birth",
+        "That they depend on us completely to survive",
+        "That they need lots of toys"
+      ],
+      "answer": 2,
+      "why": "She says they need us 'one hundred percent, because without us, they won't survive'."
+    },
+    {
+      "q": "What does Marie say about babies' arm and leg movements?",
+      "options": [
+        "They are completely random",
+        "Most of them are planned and have a purpose",
+        "They show that the baby is in pain",
+        "They only happen when babies are asleep or dreaming"
+      ],
+      "answer": 1,
+      "why": "She says 75% of their movements are intentional and synchronised."
+    },
+    {
+      "q": "What is the purpose of these movements, according to Marie?",
+      "options": [
+        "To get their parents' attention and bring them closer",
+        "To make the muscles in their arms and legs grow stronger",
+        "To help them fall asleep",
+        "To show that they are hungry"
+      ],
+      "answer": 0,
+      "why": "She says they're there 'to bring us in', saying 'Look at me. I need you.'"
+    },
+    {
+      "q": "What does Marie think about the idea of 'love at first sight' with a new baby?",
+      "options": [
+        "It is true for almost all parents",
+        "It only happens with a first child",
+        "It is a lovely idea that all new parents should aim for",
+        "It is an unhelpful idea, because love takes time"
+      ],
+      "answer": 3,
+      "why": "She calls it 'such an unhelpful cliché' and says it will take time to love the baby."
+    },
+    {
+      "q": "Why, according to Neil, can this idea cause problems?",
+      "options": [
+        "It makes new parents spend too much money on toys and clothes",
+        "It stops parents talking to doctors",
+        "It can create unrealistic hopes and make parents feel guilty",
+        "It makes babies cry more often"
+      ],
+      "answer": 2,
+      "why": "He says it can create unrealistic expectations or make parents feel guilty."
+    }
+  ]
+}

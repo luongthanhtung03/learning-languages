@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Research showing genes partly control our weight",
+        "The best diet for losing weight fast before summer",
+        "How twins choose what to eat when they live apart",
+        "Why exercise is much better than dieting for weight"
+      ],
+      "answer": 0,
+      "why": "Neil says scientists have evidence our weight is not just controlled by what we eat, but by genes."
+    },
+    {
+      "q": "How does Neil explain his paunch?",
+      "options": [
+        "He eats too many snacks in the office",
+        "He stopped exercising after hurting his knee",
+        "He says it's partly out of his control, due to genes",
+        "He is on a crash diet that isn't working"
+      ],
+      "answer": 2,
+      "why": "He says it's out of his control and some of it has to do with his genes."
+    },
+    {
+      "q": "What does Dan say about crash diets?",
+      "options": [
+        "They are the healthiest way to diet",
+        "They can be risky and don't always work",
+        "They always work for thin people",
+        "He has tried one himself"
+      ],
+      "answer": 1,
+      "why": "He says eating this way can be risky for your health and they don't always work."
+    },
+    {
+      "q": "According to twin studies, how much of the variation in weight is affected by genes?",
+      "options": [
+        "About 10%",
+        "About 60%",
+        "Almost 100%",
+        "About 40%"
+      ],
+      "answer": 3,
+      "why": "Neil says about 40% of the variation in a person's weight is affected by genes."
+    },
+    {
+      "q": "What does Professor Farooqi hope the research will change?",
+      "options": [
+        "How much unhealthy food supermarkets sell",
+        "People's habit of judging overweight people",
+        "The way twins are studied by scientists",
+        "How doctors measure weight and body fat"
+      ],
+      "answer": 1,
+      "why": "She says people are very judgemental, and hopes to get people thinking about that."
+    },
+    {
+      "q": "What would Professor Farooqi say to a thin person who asks, 'If I can control my weight, why can't you?'",
+      "options": [
+        "They probably have better willpower",
+        "They should eat more",
+        "They are morally superior",
+        "They are probably just lucky with their genes"
+      ],
+      "answer": 3,
+      "why": "She says 'you're probably quite lucky in terms of the genes that you have'."
+    },
+    {
+      "q": "Should overweight people feel defeated by this research, according to Dan?",
+      "options": [
+        "Yes, because nothing at all can be done about it",
+        "Yes, because diets never work for anyone in the end",
+        "No, it gives hope and may lead to new medicines",
+        "No, because the research is wrong and badly done"
+      ],
+      "answer": 2,
+      "why": "He says it should give them hope and could lead to medicines to help them."
+    },
+    {
+      "q": "What did research in the British Journal of Sports Medicine suggest?",
+      "options": [
+        "Short bursts of hard exercise may help weight loss more",
+        "Long, gentle workouts are best for losing weight quickly",
+        "Exercise doesn't really affect weight, only diet does",
+        "Low-carb diets are dangerous for people who exercise"
+      ],
+      "answer": 0,
+      "why": "It said bursts of high intensity training may be more effective than longer less intense workouts."
+    }
+  ]
+}

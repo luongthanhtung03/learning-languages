@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why the letter X is used to mean a kiss",
+        "Which languages have the most letters",
+        "How to write a formal business letter",
+        "The history of British coins"
+      ],
+      "answer": 0,
+      "why": "They discuss the letter X at the end of messages and where the idea of X for a kiss comes from."
+    },
+    {
+      "q": "What is Rob doing at the start of the programme?",
+      "options": [
+        "Complaining about text messages",
+        "Making jokes with words starting 'ex'",
+        "Reading out a love letter",
+        "Trying to guess the answer to the quiz question"
+      ],
+      "answer": 1,
+      "why": "Rob says words like 'EXcited' and 'EXpectations' as clues, and Neil tells him to stop his jokes."
+    },
+    {
+      "q": "According to Dr Laura Wright, how long have people added Xs for kisses to letters?",
+      "options": [
+        "Since Roman times",
+        "Since the invention of email",
+        "Since at least 1763",
+        "Since the early 1900s"
+      ],
+      "answer": 2,
+      "why": "She says we've been adding Xs for kisses since at least 1763."
+    },
+    {
+      "q": "How many Xs were on the first known example?",
+      "options": [
+        "One",
+        "Three",
+        "Five",
+        "Seven"
+      ],
+      "answer": 3,
+      "why": "Dr Wright says the very first one we know of had seven Xs."
+    },
+    {
+      "q": "Why might X have come to mean a kiss?",
+      "options": [
+        "Because it looks like two lips",
+        "Its original sound /ks/ is close to 'kiss'",
+        "Because the Romans always used it at the end of their letters",
+        "Because it was the last letter of the alphabet"
+      ],
+      "answer": 1,
+      "why": "Rob says Dr Wright suggests it's because of the original pronunciation, /ks/."
+    },
+    {
+      "q": "Who do people usually put an X for?",
+      "options": [
+        "Friends and family",
+        "Everyone they write to",
+        "Their boss",
+        "Only their husband or wife"
+      ],
+      "answer": 0,
+      "why": "Neil says it's usually only for friends and family, people you might kiss in real life."
+    },
+    {
+      "q": "What mistake did Professor Nils Langer's German colleague make?",
+      "options": [
+        "She forgot to sign her letters",
+        "She wrote all her official letters in German, not English",
+        "She paid too much tax",
+        "She put Xs on every letter, even to the tax office"
+      ],
+      "answer": 3,
+      "why": "She finished any letter with Xs, 'even a letter to the Inland Revenue'."
+    },
+    {
+      "q": "What does the presenter imply with his joke about the tax office?",
+      "options": [
+        "They sent her kisses back",
+        "They were very pleased to receive such friendly letters",
+        "They might have taken more money from her",
+        "They never read her letters"
+      ],
+      "answer": 2,
+      "why": "He joked they 'docked her another 20 quid', meaning took more money from her."
+    }
+  ]
+}

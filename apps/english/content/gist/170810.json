@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to organise a wedding",
+        "Popular costumes for Halloween parties",
+        "Why funerals in church are becoming more expensive",
+        "People choosing funerals that feel more like parties"
+      ],
+      "answer": 3,
+      "why": "They discuss funerals and people moving away from traditional ones, including a fancy dress funeral."
+    },
+    {
+      "q": "How does Neil feel when Rob introduces the topic?",
+      "options": [
+        "Excited to plan his own funeral",
+        "Reluctant, because it isn't a fun subject",
+        "Sad, because he recently lost someone",
+        "Angry with Rob for being rude"
+      ],
+      "answer": 1,
+      "why": "Neil says it isn't a fun topic and asks if they can talk about something else."
+    },
+    {
+      "q": "What kind of funeral would Neil prefer?",
+      "options": [
+        "A quiet one in church with traditional hymns",
+        "A fancy dress one with a Star Wars theme",
+        "A celebration with his music and nobody in black",
+        "A very small one with only his close family there"
+      ],
+      "answer": 2,
+      "why": "Neil says he'd prefer a celebration with his favourite music and nobody wearing black."
+    },
+    {
+      "q": "What happened at the funeral Rob's friend went to?",
+      "options": [
+        "The funeral director dressed as Darth Vader",
+        "Everyone dressed as witches",
+        "The guests had a party on a beach",
+        "Nobody wore black"
+      ],
+      "answer": 0,
+      "why": "Rob says the funeral director was dressed as Darth Vader from Star Wars."
+    },
+    {
+      "q": "What instructions had Shonnie's mother left?",
+      "options": [
+        "Not to cry, and to have a party to celebrate her life",
+        "To wear fancy dress as characters from horror films",
+        "To hold the funeral at Halloween with a witch theme",
+        "To play her favourite song as the coffin arrived"
+      ],
+      "answer": 0,
+      "why": "Shonnie says her mum only asked that they don't cry and have a party to celebrate her life."
+    },
+    {
+      "q": "What did Shonnie wear to the funeral?",
+      "options": [
+        "A Beetlejuice costume with a wig",
+        "A traditional black suit and tie",
+        "A white ghost costume and a mask",
+        "A little black dress and a witch's hat"
+      ],
+      "answer": 3,
+      "why": "She says she was a witch, in a little black dress and a little witch hat."
+    },
+    {
+      "q": "Why does Shonnie say the family friend 'went all out'?",
+      "options": [
+        "He left the funeral early to go to a party",
+        "He had a full costume with hair and make-up",
+        "He paid for the whole party and all the food",
+        "He gave a very long and emotional speech"
+      ],
+      "answer": 1,
+      "why": "Neil explains the friend made a big effort: special clothes plus special hair and make-up."
+    },
+    {
+      "q": "What would Rob like for his own funeral?",
+      "options": [
+        "A fancy dress party where everyone dresses as Superman",
+        "A quiet church service with just a few old friends",
+        "Goodbyes on a beach at sunset with a Led Zeppelin song",
+        "A Halloween theme with ghosts, witches and pumpkins"
+      ],
+      "answer": 2,
+      "why": "Rob imagines friends and family on a beach at sunset, listening to 'Stairway to Heaven'."
+    }
+  ]
+}

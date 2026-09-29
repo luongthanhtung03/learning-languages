@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Grime music and the places it came from",
+        "How to design better tower blocks in London",
+        "Why pirate radio stations were closed down",
+        "The life story of the singer Stormzy"
+      ],
+      "answer": 0,
+      "why": "Neil says they're talking about grime, a style of music which originated in London's tower blocks."
+    },
+    {
+      "q": "How does Sam describe her taste in music?",
+      "options": [
+        "She only listens to grime",
+        "She doesn't really like music",
+        "She likes many different styles",
+        "She prefers classical music"
+      ],
+      "answer": 2,
+      "why": "Sam says she doesn't have one specific type – her taste is 'eclectic', including a wide variety of styles."
+    },
+    {
+      "q": "Where did grime music begin?",
+      "options": [
+        "In music schools in central London",
+        "In tower blocks in east and southeast London",
+        "In nightclubs in American cities",
+        "In recording studios owned by the BBC"
+      ],
+      "answer": 1,
+      "why": "Neil says it originated in the tower blocks of east and southeast London."
+    },
+    {
+      "q": "What does Jude Yawson say happened on his estate when he was about seven or eight?",
+      "options": [
+        "His family moved to a different part of London",
+        "The old tower blocks were knocked down",
+        "He started making music with his friends",
+        "Life there became more tense, with more conflict"
+      ],
+      "answer": 3,
+      "why": "He says things 'started to get a bit more contentious' as new people moved in and police harassed people."
+    },
+    {
+      "q": "How does Jude now feel about his teacher's advice about stabbing?",
+      "options": [
+        "He thinks it was a joke at the time",
+        "He still thinks it was completely normal",
+        "He wonders why a teenager needed to hear it",
+        "He is angry that the teacher said nothing"
+      ],
+      "answer": 2,
+      "why": "He felt grateful at 14, but in hindsight questions why a teenager should receive that information."
+    },
+    {
+      "q": "How did grime music first spread?",
+      "options": [
+        "Through pirate radio stations",
+        "Through big concerts in stadiums",
+        "Through TV talent shows",
+        "Through music videos in cinemas"
+      ],
+      "answer": 0,
+      "why": "Neil says it started in bedrooms and basements, with many artists' works broadcast on pirate radio."
+    },
+    {
+      "q": "What do some critics think of grime music?",
+      "options": [
+        "It is too slow and quiet to enjoy",
+        "It copies American music too closely",
+        "It is only popular with older people",
+        "Its lyrics and beats make violence seem good"
+      ],
+      "answer": 3,
+      "why": "Sam says some think the hard-hitting lyrics and strong beats glorify violence."
+    },
+    {
+      "q": "How does Jude Yawson see grime differently from its critics?",
+      "options": [
+        "As an angry and violent kind of music",
+        "As a 'soulful shout' people need to let out",
+        "As music written mainly for young children",
+        "As a simple copy of Wiley's early songs"
+      ],
+      "answer": 1,
+      "why": "He describes grime as 'a soulful shout… there's a necessity in literally getting all of this content out'."
+    }
+  ]
+}

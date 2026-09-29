@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a wine judge",
+        "What decides our taste and whether experts' opinions matter",
+        "The most popular crisps in the UK",
+        "Why some people are colour-blind"
+      ],
+      "answer": 1,
+      "why": "They ask what taste is, why we can't agree on it, and whether it's worth listening to experts."
+    },
+    {
+      "q": "What have scientists discovered about taste, according to Beth?",
+      "options": [
+        "It is only a matter of personal opinion",
+        "It changes every few years",
+        "Everyone tastes food the same way",
+        "It is influenced by our genes and DNA"
+      ],
+      "answer": 3,
+      "why": "Beth says scientists have discovered taste is influenced by our genes and DNA."
+    },
+    {
+      "q": "When did science's understanding of how taste works begin?",
+      "options": [
+        "About 25 years ago, when taste receptors were discovered",
+        "About 100 years ago, when the first taste tests were done",
+        "In ancient Greece",
+        "Only last year"
+      ],
+      "answer": 0,
+      "why": "Phil says it started only 25 years ago with the discovery of taste receptors."
+    },
+    {
+      "q": "Why might the same food taste sweet to one person and sour to another?",
+      "options": [
+        "Because of what they ate earlier",
+        "Because some people are born with many more taste buds than others",
+        "Because of differences in the taste receptors they're born with",
+        "Because of the temperature of the food"
+      ],
+      "answer": 2,
+      "why": "Beth says it's because of differences in the receptors we're born with."
+    },
+    {
+      "q": "What does researcher Danielle Reed say about early genetic studies of taste?",
+      "options": [
+        "They studied people from every continent and many different cultures",
+        "They were mostly about wine",
+        "They looked mainly at people of European ancestry",
+        "They proved everyone's taste is the same"
+      ],
+      "answer": 2,
+      "why": "She says they 'confined ourselves to looking at a few Europeans', so understanding was limited."
+    },
+    {
+      "q": "Why does Danielle mention friends who are colour-blind?",
+      "options": [
+        "To argue we shouldn't criticise people's taste, since it's biology too",
+        "To explain that taste and sight are controlled by exactly the same cells",
+        "To show that colour affects taste",
+        "To say colour-blind people can't taste well"
+      ],
+      "answer": 0,
+      "why": "She says we wouldn't criticise colour-blind friends, yet we feel free to criticise friends' taste."
+    },
+    {
+      "q": "What does presenter Ruth Alexander ask wine judge David Kermode?",
+      "options": [
+        "Which wine is the best in the world",
+        "How to become a wine judge",
+        "Whether drinking wine every day is bad for people's health in the long term",
+        "Whether wine competitions are pointless if taste is genetic"
+      ],
+      "answer": 3,
+      "why": "She asks if individual, genetic taste makes the wine competition 'a pointless exercise'."
+    },
+    {
+      "q": "How does David Kermode respond?",
+      "options": [
+        "He agrees that the competitions are pointless but says people still enjoy them",
+        "He admits taste is personal, but judges must put their prejudices aside",
+        "He says taste is not subjective at all",
+        "He says only experts have good taste"
+      ],
+      "answer": 1,
+      "why": "He says taste is subjective, but judges are encouraged, 'ordered almost, to park those prejudices'."
+    }
+  ]
+}

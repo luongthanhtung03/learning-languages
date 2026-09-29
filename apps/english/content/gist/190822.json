@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "When 18-year-olds were first allowed to vote in the UK",
+        "Whether and why people's politics change with age",
+        "How to choose a political party that matches your values",
+        "Why young people don't vote in general elections"
+      ],
+      "answer": 1,
+      "why": "They ask whether we become more right-wing as we get older, and why."
+    },
+    {
+      "q": "How does Sam feel her political views have changed?",
+      "options": [
+        "They have completely changed since she was a student",
+        "She has lost all interest in politics and stopped voting",
+        "She's better informed but agrees with the same things",
+        "She now supports the opposite side from her parents"
+      ],
+      "answer": 2,
+      "why": "She says her views are better informed but she still generally agrees with the same things."
+    },
+    {
+      "q": "Why does Sam object when Neil says 'many, many, many years'?",
+      "options": [
+        "She doesn't want to sound old",
+        "She has never voted",
+        "She thinks he is wrong about the date",
+        "She doesn't remember voting"
+      ],
+      "answer": 0,
+      "why": "She says 'not so much with the manys' and approves of 'very, very few years'."
+    },
+    {
+      "q": "According to Professor Tilley, what is one plausible reason older people change their views?",
+      "options": [
+        "They earn more money",
+        "They watch more TV news",
+        "Their friends influence them",
+        "They become more resistant to change"
+      ],
+      "answer": 3,
+      "why": "He says people 'become a bit more resistant to change as they get older'."
+    },
+    {
+      "q": "What other change does Professor Tilley say happens with age?",
+      "options": [
+        "People become more revolutionary",
+        "People become less idealistic",
+        "People stop voting",
+        "People become more emotional"
+      ],
+      "answer": 1,
+      "why": "He says they also tend to become less idealistic."
+    },
+    {
+      "q": "Why might right-wing parties attract older people?",
+      "options": [
+        "Their platforms tend to support keeping things the same",
+        "They promise big changes to pensions and the economy",
+        "They usually have younger and more exciting leaders",
+        "They spend much more on education and universities"
+      ],
+      "answer": 0,
+      "why": "He says parties on the right may be more favourable to the status quo."
+    },
+    {
+      "q": "According to Professor Tilley, older people's politics are more about what?",
+      "options": [
+        "Idealism",
+        "Revolution",
+        "Being practical and realistic",
+        "Following their parents"
+      ],
+      "answer": 2,
+      "why": "He says it's 'more about pragmatism than it is about idealism'."
+    },
+    {
+      "q": "What does Sam add about people moving to the right?",
+      "options": [
+        "It happens to everyone",
+        "It only happens in the UK",
+        "It means they change their politics completely",
+        "It doesn't apply to everyone, or mean a complete change"
+      ],
+      "answer": 3,
+      "why": "She says it doesn't apply to everyone and doesn't mean they completely change their politics."
+    }
+  ]
+}

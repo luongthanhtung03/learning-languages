@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best creams to buy for perfect skin",
+        "Why teenagers eat unhealthy food",
+        "Acne and its effects, told partly by a doctor who had it herself",
+        "How to become a skin doctor"
+      ],
+      "answer": 2,
+      "why": "They discuss acne and hear from a dermatologist who suffered from acne herself."
+    },
+    {
+      "q": "At what age does acne often happen, according to Neil?",
+      "options": [
+        "Between 14 and 19",
+        "Only after 30",
+        "Between 5 and 10 years",
+        "Only in old age"
+      ],
+      "answer": 0,
+      "why": "Neil says it often happens between the ages of 14 and 19, but can continue into adulthood."
+    },
+    {
+      "q": "Why can acne be especially hard during the teenage years?",
+      "options": [
+        "Because teenagers can't buy medicine",
+        "Because teenagers' self-image and appearance are changing",
+        "Because acne is much more painful for younger people than for adults",
+        "Because schools don't allow make-up"
+      ],
+      "answer": 1,
+      "why": "Beth says it's emotionally damaging when our self-image and physical appearance are changing."
+    },
+    {
+      "q": "What does dermatologist Dr Sharon Crichlow say about acne in adults?",
+      "options": [
+        "It almost never continues after the teenage years, even in severe cases",
+        "It only affects men",
+        "It is always mild in adults",
+        "In up to 20% of patients, mostly women, it lasts into their 30s and 40s"
+      ],
+      "answer": 3,
+      "why": "She says in up to 20 or so percent, certainly in females, it persists into the 30s and 40s."
+    },
+    {
+      "q": "Why does Dr Crichlow say acne should never be treated as unimportant?",
+      "options": [
+        "Because it spreads easily",
+        "Because treatment is very expensive and most families can't pay for it",
+        "Because it can cause other diseases",
+        "Because even mild acne can hurt teenagers' feelings and friendships"
+      ],
+      "answer": 3,
+      "why": "She says it has a huge psychological impact and affects teenagers' friendships and peer groups."
+    },
+    {
+      "q": "What causes acne, according to Beth?",
+      "options": [
+        "Eating too much chocolate",
+        "Natural hormones and genes, which cause oil and bacteria in the skin",
+        "Not washing your face often enough, especially after exercise or sport",
+        "Using too much make-up"
+      ],
+      "answer": 1,
+      "why": "She says acne is largely genetic and the build-up of oil and bacteria is due to natural hormones."
+    },
+    {
+      "q": "Why didn't Dr Crichlow see a dermatologist when she was young?",
+      "options": [
+        "There were no dermatologists in Barbados",
+        "She was too embarrassed",
+        "Her family couldn't afford it",
+        "Her acne was very mild"
+      ],
+      "answer": 2,
+      "why": "She says her family 'just simply couldn't afford it'."
+    },
+    {
+      "q": "Why does Dr Crichlow tell patients she has tried the treatments herself?",
+      "options": [
+        "To show she understands and can say from experience that they work",
+        "To sell them her own products",
+        "To explain why she became a doctor late",
+        "To warn them that some of the treatments can be dangerous if misused"
+      ],
+      "answer": 0,
+      "why": "She says pretty much anything she recommends, she's tried herself and 'can tell them, it works'."
+    }
+  ]
+}

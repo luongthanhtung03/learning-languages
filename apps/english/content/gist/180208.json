@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why air travel has become so cheap in recent years",
+        "How to reduce traffic on the way to work",
+        "New ideas that could change future travel",
+        "The history of the horse and cart in cities"
+      ],
+      "answer": 2,
+      "why": "Rob and Neil discuss the future of transport, including driverless vehicles and the Hyperloop."
+    },
+    {
+      "q": "How does Rob answer the question about travelling to work in 30 years?",
+      "options": [
+        "He expects to fly to work",
+        "He thinks he will take a driverless car",
+        "He says he will still take the train",
+        "He hopes he won't be working by then"
+      ],
+      "answer": 3,
+      "why": "Rob says homeworking will be more common, and he hopes he won't be working in 30 years' time."
+    },
+    {
+      "q": "What is the French company Alstom planning to do?",
+      "options": [
+        "Test goods trains that can run without a driver",
+        "Build the world's fastest passenger train",
+        "Stop using computers to drive its trains",
+        "Make flying cars for city travel"
+      ],
+      "answer": 0,
+      "why": "Alstom plans to test automated freight trains that can travel about 100 km without a driver."
+    },
+    {
+      "q": "How does Rob first react to the idea of travelling at 1,123 km per hour?",
+      "options": [
+        "He is excited and wants to try it",
+        "He thinks it sounds hard to believe",
+        "He says it is already common in Japan",
+        "He worries that it is too expensive"
+      ],
+      "answer": 1,
+      "why": "Rob says it sounds 'a bit far-fetched', like flying cars in sci-fi films."
+    },
+    {
+      "q": "How does the Hyperloop One work?",
+      "options": [
+        "Cars drive themselves along special motorways",
+        "Planes fly very high above the clouds",
+        "Trains run on normal rails with stronger engines",
+        "Passengers ride in pods pushed through a metal tube"
+      ],
+      "answer": 3,
+      "why": "Neil explains you are loaded into a pod and pushed through a metal tube at high speed."
+    },
+    {
+      "q": "Why does Anita Sengupta compare the Hyperloop to planes and maglev trains?",
+      "options": [
+        "To show it just combines two things people accept",
+        "To explain why a ticket will cost more than flying",
+        "To show that it is slower than a plane on long trips",
+        "To admit that it is quite dangerous for passengers"
+      ],
+      "answer": 0,
+      "why": "She says people have no problem with planes or maglev trains, and the Hyperloop just combines the two."
+    },
+    {
+      "q": "What does BBC correspondent Rory Cellan-Jones think?",
+      "options": [
+        "The Hyperloop will be ready within a year",
+        "The Hyperloop uses too much energy",
+        "Governments may not agree to build the long tubes",
+        "Passengers will be too scared to use it"
+      ],
+      "answer": 2,
+      "why": "He thinks it will be hard to convince governments to allow long metal tubes on or below ground."
+    },
+    {
+      "q": "What is Neil's view about new transport technology?",
+      "options": [
+        "It is mostly a waste of money",
+        "We need to try it, or we would never make progress",
+        "It should only be used for goods, not people",
+        "It is less important than working from home"
+      ],
+      "answer": 1,
+      "why": "Neil says we have to try new technologies, or we'd still be travelling by horse and cart."
+    }
+  ]
+}

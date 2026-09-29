@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why the dodo became extinct on its island",
+        "How to survive a natural disaster like a flood",
+        "The biggest dangers to humanity and if we'll survive",
+        "The history of the Cold War between the US and Russia"
+      ],
+      "answer": 2,
+      "why": "Neil says they'll look at dangers facing humanity and whether civilisation can survive them."
+    },
+    {
+      "q": "Why did the dodo die out, according to the presenters?",
+      "options": [
+        "It was hunted by humans and didn't hide from them",
+        "Its island home was destroyed by a volcano",
+        "It caught a deadly disease from the sailors' dogs",
+        "Its main food ran out after a long, dry summer"
+      ],
+      "answer": 0,
+      "why": "Neil says dodos couldn't fly, didn't hide from sailors with dogs, and were hunted to extinction."
+    },
+    {
+      "q": "Why does Neil disagree that humans are too clever to die out?",
+      "options": [
+        "Humans are not as clever as we think",
+        "Humans are losing interest in science",
+        "The Earth is getting too hot to live on",
+        "Many of the biggest risks are made by humans"
+      ],
+      "answer": 3,
+      "why": "He says lots of existential risks, like nuclear war or rogue AI, are human-made."
+    },
+    {
+      "q": "According to Simon Beard, what happens about once every thousand years?",
+      "options": [
+        "A giant asteroid hits the Earth and kills many",
+        "An event wipes out about a third of the population",
+        "A completely new species of animal appears",
+        "A nuclear war begins between two superpowers"
+      ],
+      "answer": 1,
+      "why": "He says about once every thousand years an event wipes out about a third of the human population."
+    },
+    {
+      "q": "What example does Simon Beard give from the Middle Ages?",
+      "options": [
+        "A great flood that covered much of Europe",
+        "A long war between England and France",
+        "The Black Death and global cooling",
+        "A terrible famine in Africa and Asia"
+      ],
+      "answer": 2,
+      "why": "He mentions the Black Death and dramatic global cooling, possibly linked to volcanoes."
+    },
+    {
+      "q": "According to Seth Baum, how could a nuclear war start without anyone intending it?",
+      "options": [
+        "Through a computer virus",
+        "Through a false alarm mistaken for an attack",
+        "Through a terrorist stealing a bomb",
+        "Through an accident at a power station"
+      ],
+      "answer": 1,
+      "why": "He says the biggest example is a false alarm that is mistaken as a nuclear attack."
+    },
+    {
+      "q": "What happened in 1995?",
+      "options": [
+        "The US and Russia signed an important peace deal",
+        "A nuclear bomb exploded by accident in a desert",
+        "A deadly pandemic spread quickly around the world",
+        "Soviet radars mistook US science rockets for an attack"
+      ],
+      "answer": 3,
+      "why": "Sam says US missiles sent up to study the northern lights were mistaken for nuclear warheads."
+    },
+    {
+      "q": "What hopeful idea does Neil suggest at the end?",
+      "options": [
+        "Human intelligence could also solve the problems we made",
+        "Humans could all move to a safe desert island",
+        "The dangers have all been greatly exaggerated by the media",
+        "Nuclear weapons will soon disappear from the world"
+      ],
+      "answer": 0,
+      "why": "He says the same intelligence which split the atom could find solutions to our human-made problems."
+    }
+  ]
+}

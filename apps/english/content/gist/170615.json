@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to breathe correctly when exercising in the gym",
+        "The history of Buddhism and how it spread to the West",
+        "Mindfulness becoming popular, especially in schools",
+        "Why children find it hard to concentrate in class"
+      ],
+      "answer": 2,
+      "why": "Neil says they're exploring the rise of mindfulness, particularly in schools."
+    },
+    {
+      "q": "How does Catherine react when Neil asks her to close her eyes and focus on her breathing?",
+      "options": [
+        "She asks to do it later because time is short",
+        "She does it straight away",
+        "She laughs and refuses",
+        "She says she already did it this morning"
+      ],
+      "answer": 0,
+      "why": "Catherine says, 'Can we do this later? We've only got six minutes.'"
+    },
+    {
+      "q": "What does Neil say about where mindfulness is used?",
+      "options": [
+        "It is only practised in temples and other religious places",
+        "It is mainly used in hospitals to help patients with pain",
+        "It is becoming less popular now that people are busier",
+        "It began in Buddhism but is now used in non-religious places"
+      ],
+      "answer": 3,
+      "why": "He says it's traditionally linked with Buddhism and is now very popular in workplaces, classes and schools."
+    },
+    {
+      "q": "Why does teacher Alison Mayo think mindfulness suits young children?",
+      "options": [
+        "They enjoy sitting still",
+        "It is natural for them to live in the present",
+        "They have more free time than adults",
+        "Their parents ask for it"
+      ],
+      "answer": 1,
+      "why": "She says, 'That's very natural for children – to be in the present.'"
+    },
+    {
+      "q": "According to Alison Mayo, when does learning happen more easily?",
+      "options": [
+        "When children are relaxed and happy",
+        "When children are a little stressed",
+        "When lessons are very short",
+        "When children work alone"
+      ],
+      "answer": 0,
+      "why": "She says 'learning happens so much more easily if you're relaxed and happy'."
+    },
+    {
+      "q": "Which of these benefits of mindfulness is NOT mentioned?",
+      "options": [
+        "It may help treat depression and anxiety",
+        "It lowers levels of a stress hormone",
+        "It improves children's exam results",
+        "Eating mindfully may help people lose weight"
+      ],
+      "answer": 2,
+      "why": "They mention depression and anxiety, cortisol and mindful eating, but not exam results."
+    },
+    {
+      "q": "What criticism of the research on mindfulness is mentioned?",
+      "options": [
+        "The studies are too old",
+        "Mostly only positive results get published",
+        "The studies only looked at children",
+        "Scientists were paid by schools"
+      ],
+      "answer": 1,
+      "why": "Neil says critics point to a publication bias: only the positive results are published."
+    },
+    {
+      "q": "How does Neil explain the difference between meditation and mindfulness?",
+      "options": [
+        "They are exactly the same thing with two different names",
+        "Mindfulness is a religious practice, but meditation is not",
+        "Meditation is only for experts who have trained for years",
+        "Meditation is the wider term; mindfulness is one kind of it"
+      ],
+      "answer": 3,
+      "why": "Neil says meditation is the broader term and mindfulness is a particular kind of meditation."
+    }
+  ]
+}

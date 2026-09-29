@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to get fit without spending any money on a gym",
+        "Why group exercise at the gym is becoming popular",
+        "The history of spin classes and how they began",
+        "Why people stop going to the gym after a few weeks"
+      ],
+      "answer": 1,
+      "why": "Catherine says they're talking about why gym membership and group exercise are becoming more popular."
+    },
+    {
+      "q": "How does Rob prefer to exercise?",
+      "options": [
+        "In a spin class with friends",
+        "Playing football in the park",
+        "Running alone outdoors",
+        "Lifting weights at the gym"
+      ],
+      "answer": 2,
+      "why": "Rob says he hates group exercise and prefers to go for a run on his own outdoors."
+    },
+    {
+      "q": "Why does Catherine like spin classes?",
+      "options": [
+        "The instructor makes her work harder than alone",
+        "They are cheaper than other classes at her gym",
+        "She can listen to her favourite music while she cycles",
+        "They are very relaxing after a long day at work"
+      ],
+      "answer": 0,
+      "why": "She says she wouldn't push herself so hard without someone shouting at her."
+    },
+    {
+      "q": "According to Philip Mills, how has our working life changed since the 1960s?",
+      "options": [
+        "We work about 35% fewer hours",
+        "More of us work outdoors",
+        "Most of us now work from home",
+        "We work about 35% more hours"
+      ],
+      "answer": 3,
+      "why": "He says 'we work about 35% more hours than we used to work in the 60s'."
+    },
+    {
+      "q": "Why does Philip Mills think people go to the gym instead of playing sport together?",
+      "options": [
+        "Society has broken up and lost what brought people together",
+        "Gyms are much cheaper than joining a local sports club or team",
+        "Parks are too crowded now for team games, especially at weekends",
+        "People now prefer to exercise alone, away from friends and family"
+      ],
+      "answer": 0,
+      "why": "He says society has become fragmented and many things that brought people together no longer exist."
+    },
+    {
+      "q": "Why does Philip Mills say we are 'tribal animals'?",
+      "options": [
+        "To explain why people like competitive sport",
+        "To say that people fight too much at the gym",
+        "To explain that we still want to feel part of a group",
+        "To describe how gyms are organised"
+      ],
+      "answer": 2,
+      "why": "He says we're pack animals, and the gym helps people commune, meeting our need to belong."
+    },
+    {
+      "q": "What does Philip Mills think group exercise might be like in the future?",
+      "options": [
+        "Classes will be held outdoors",
+        "Gyms will close and people will exercise at home",
+        "Instructors will become much stricter",
+        "People will cycle inside a video game"
+      ],
+      "answer": 3,
+      "why": "Rob says Mills thinks we'll be cycling inside a video game, visiting other planets and times."
+    },
+    {
+      "q": "What concern does Catherine have about this future idea?",
+      "options": [
+        "It will be too expensive for most ordinary gym members",
+        "People will connect with a computer, not each other",
+        "It will be less good for our health than outdoor sport",
+        "It will be too frightening for children and older people"
+      ],
+      "answer": 1,
+      "why": "She says people will then be 'communing with a computer', not really with each other."
+    }
+  ]
+}

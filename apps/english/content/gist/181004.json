@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of social media",
+        "Why baby boomers are rich",
+        "The young generation that grew up with social media",
+        "How companies advertise their products to millennials online"
+      ],
+      "answer": 2,
+      "why": "They focus on Generation Z, 'the social media generation'."
+    },
+    {
+      "q": "Which generation do Neil and Rob belong to?",
+      "options": [
+        "Generation X",
+        "Baby boomers",
+        "Millennials",
+        "Generation Z"
+      ],
+      "answer": 0,
+      "why": "Rob confesses he is Generation X, and Neil says 'Yes me too'."
+    },
+    {
+      "q": "What mainly makes Generation Z different?",
+      "options": [
+        "They were born in the 1980s",
+        "They don't use technology much",
+        "They have more money to spend than any other generation",
+        "They have never known life without social media"
+      ],
+      "answer": 3,
+      "why": "Neil says they have never known a time without social media."
+    },
+    {
+      "q": "How does Rob react when he hears that Gen Z have always had social media?",
+      "options": [
+        "He is jealous of them",
+        "He feels sorry for them",
+        "He doesn't believe it",
+        "He thinks it makes them clever"
+      ],
+      "answer": 1,
+      "why": "Rob says 'Oh, poor them!'"
+    },
+    {
+      "q": "According to analyst Hiral Patel, how do most people see Generation Z?",
+      "options": [
+        "As a completely new type of consumer",
+        "As lazy and uninterested",
+        "As similar to baby boomers",
+        "As mini-millennials"
+      ],
+      "answer": 3,
+      "why": "She says 'Most people view Generation Z as mini-millennials'."
+    },
+    {
+      "q": "What does Hiral Patel's research show?",
+      "options": [
+        "Gen Z have their own values and preferences",
+        "Gen Z and millennials are the same",
+        "Gen Z don't buy anything online",
+        "Gen Z trust brands more than older people"
+      ],
+      "answer": 0,
+      "why": "She says their research shows Gen Z are different, with their own values and preferences."
+    },
+    {
+      "q": "Why is this research important for companies?",
+      "options": [
+        "They need to hire more young workers who understand technology",
+        "They must provide what Gen Z want to sell to them",
+        "They should stop using social media",
+        "They should only sell to millennials"
+      ],
+      "answer": 1,
+      "why": "Neil says companies that want to sell to this generation need to cater for it."
+    },
+    {
+      "q": "How does Neil compare himself with Gen Z?",
+      "options": [
+        "He knows much more about modern technology than young people do",
+        "He never uses modern technology",
+        "He's comfortable with it, but for Gen Z it's always been normal",
+        "He thinks they use too much technology"
+      ],
+      "answer": 2,
+      "why": "Neil says he's savvy but didn't grow up with it, while for Gen Z it's their norm."
+    }
+  ]
+}

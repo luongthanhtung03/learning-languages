@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How weather forecasters predict tropical storms",
+        "Why the Arctic is the coldest place on Earth",
+        "How climate change may make storms more dangerous",
+        "How to stay safe at home during a flood"
+      ],
+      "answer": 2,
+      "why": "Phil asks how climate change is affecting extreme weather, and they focus on tropical storms."
+    },
+    {
+      "q": "How does Sarah explain the difference between weather and climate?",
+      "options": [
+        "Weather is what happens day to day; climate is long-term",
+        "Weather is about rain; climate is about temperature",
+        "Weather affects cities; climate affects the countryside",
+        "Weather is measured on land; climate is measured at sea"
+      ],
+      "answer": 0,
+      "why": "She says weather is what you see and feel every day, while climate is more long-term."
+    },
+    {
+      "q": "What does Sarah say about hurricanes, cyclones and typhoons?",
+      "options": [
+        "Typhoons are the strongest and most deadly of the three",
+        "They form over cold northern seas in winter",
+        "Cyclones only happen in the Atlantic Ocean",
+        "They are one type of storm with local names"
+      ],
+      "answer": 3,
+      "why": "She says they are the same; the name depends on where in the world they form."
+    },
+    {
+      "q": "What do climate scientists think will happen to these storms as the world warms?",
+      "options": [
+        "They will happen less often",
+        "They will cause more damage",
+        "They will move to colder regions",
+        "They will become smaller but faster"
+      ],
+      "answer": 1,
+      "why": "Sarah says scientists think these storms will get more destructive as the world warms."
+    },
+    {
+      "q": "According to Darren Bett, why is it a problem if storms slow down?",
+      "options": [
+        "They stay longer, so there is more rain and flooding",
+        "They become much harder for forecasters to see",
+        "They grow bigger and reach many more countries",
+        "They lose their energy and turn into heavy snow"
+      ],
+      "answer": 0,
+      "why": "He says a storm in the same area for longer means stronger winds and rain for longer, and more flooding."
+    },
+    {
+      "q": "How are mudslides different from landslides, according to Sarah?",
+      "options": [
+        "They only happen near the sea",
+        "They move more slowly and are drier",
+        "They never damage buildings",
+        "They are usually quicker and more liquid"
+      ],
+      "answer": 3,
+      "why": "Sarah says mudslides tend to be faster and more liquid than landslides."
+    },
+    {
+      "q": "Why does Darren mention that seas are warming and sea levels are rising?",
+      "options": [
+        "To explain why storms are slowing down so much",
+        "To show that tropical storms are becoming rarer",
+        "To explain why storm surges may get more dangerous",
+        "To describe what causes landslides near the coast"
+      ],
+      "answer": 2,
+      "why": "He links rising seas to storm surges, which 'could become even more dangerous'."
+    },
+    {
+      "q": "What does Sarah say about the size of storm surges?",
+      "options": [
+        "They are rarely more than one metre high",
+        "They can reach up to 10 metres high",
+        "They are only dangerous in rivers",
+        "They are smaller than they used to be"
+      ],
+      "answer": 1,
+      "why": "Sarah says storm surges can be up to 10 metres high and can destroy buildings."
+    }
+  ]
+}

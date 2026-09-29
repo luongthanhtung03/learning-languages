@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to stop feeling sad when things go wrong",
+        "Why Germans and Americans don't get on well",
+        "Why older people complain more than the young",
+        "Optimism, pessimism and what affects them"
+      ],
+      "answer": 3,
+      "why": "Neil says being optimistic or pessimistic may depend more on your birthplace and age than attitude."
+    },
+    {
+      "q": "How do Sam and Neil see themselves?",
+      "options": [
+        "Sam's an optimist; Neil says he's a realist",
+        "Both of them are very optimistic about life",
+        "Neil is an optimist; Sam is a pessimist",
+        "Both of them are quite pessimistic"
+      ],
+      "answer": 0,
+      "why": "Sam tries to see the positive side; Neil says, 'Call me a pessimist… but I'm just being realistic.'"
+    },
+    {
+      "q": "According to Hannah, what are Germans really like?",
+      "options": [
+        "They are much happier than people think",
+        "They are more optimistic than Americans",
+        "They're careful and plan for bad things",
+        "They don't care about the future at all"
+      ],
+      "answer": 2,
+      "why": "She says Germans are avid planners for negative eventualities – 'actually being cautious'."
+    },
+    {
+      "q": "What has Hannah always admired about Americans?",
+      "options": [
+        "They plan carefully for problems",
+        "They make everything sound better",
+        "They are very honest about bad news",
+        "They work harder than Germans do"
+      ],
+      "answer": 1,
+      "why": "She says, 'I've always admired how Americans tend to be able to sugarcoat everything.'"
+    },
+    {
+      "q": "According to Professor Tali Sharot, how optimistic are children and teenagers?",
+      "options": [
+        "Not optimistic about anything at all",
+        "Less optimistic than old people",
+        "About the same as adults in midlife",
+        "Quite optimistic about everything"
+      ],
+      "answer": 3,
+      "why": "She says the optimism bias is quite high in kids and teenagers, who think 'everything's going to be fine'."
+    },
+    {
+      "q": "What surprising finding does Tali Sharot describe about older people?",
+      "options": [
+        "They are the most pessimistic group",
+        "Their optimism stays at rock bottom",
+        "Their optimism rises again",
+        "They stop caring about the future"
+      ],
+      "answer": 2,
+      "why": "She says optimism climbs again and is quite high in the elderly, against the 'grumpy old man' image."
+    },
+    {
+      "q": "According to Neil, why does optimism often fall in middle age?",
+      "options": [
+        "Because of pressures from work and family",
+        "Because people start to lose their memory",
+        "Because people have too much free time",
+        "Because people move to other countries"
+      ],
+      "answer": 0,
+      "why": "He says it's often because of work pressures, family responsibilities or caring for elderly parents."
+    },
+    {
+      "q": "Why does Neil say he'll stay a pessimist?",
+      "options": [
+        "Because pessimists live longer, healthier lives",
+        "If he expects problems, he isn't disappointed",
+        "Because most British people are pessimists",
+        "Because Sam's optimism annoys him"
+      ],
+      "answer": 1,
+      "why": "He says, 'If I anticipate things going wrong I don't get disappointed when they do!'"
+    }
+  ]
+}

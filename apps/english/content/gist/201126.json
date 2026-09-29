@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make new friends in a big city",
+        "Why people choose to live on islands",
+        "Loneliness, and whether it is a new idea",
+        "The history of the English novel"
+      ],
+      "answer": 2,
+      "why": "Neil says they'll explore whether loneliness is a new idea or something humans have always experienced."
+    },
+    {
+      "q": "What example of loneliness does Rob give?",
+      "options": [
+        "Moving to a new country",
+        "Feeling you don't fit in somewhere",
+        "Working from home every day",
+        "Losing a pet"
+      ],
+      "answer": 1,
+      "why": "Rob says you might feel lonely because friends go out without you or because you don't fit in."
+    },
+    {
+      "q": "What has research found about long periods of social isolation?",
+      "options": [
+        "They help people become more creative",
+        "They only affect older people",
+        "They mostly harm physical health",
+        "They are bad for us, especially mentally"
+      ],
+      "answer": 3,
+      "why": "Rob says research has found prolonged social isolation is bad for us, particularly mentally."
+    },
+    {
+      "q": "What does Fay Bound Alberti say about Robinson Crusoe?",
+      "options": [
+        "It never mentions loneliness",
+        "It is the loneliest novel ever written",
+        "It was written in the 19th century",
+        "It is about a woman looking for love"
+      ],
+      "answer": 0,
+      "why": "She says in an 18th-century novel like Robinson Crusoe there's not a single reference to loneliness."
+    },
+    {
+      "q": "According to Fay, what were many women in Victorian novels searching for?",
+      "options": [
+        "Solitude so they could write",
+        "Work outside the home",
+        "A partner, to feel complete and happy",
+        "Adventure on desert islands"
+      ],
+      "answer": 2,
+      "why": "She says Victorian fiction is full of women in search of 'the significant other' to find happiness."
+    },
+    {
+      "q": "Why did writers like Virginia Woolf look for solitude?",
+      "options": [
+        "It helped them be creative",
+        "They disliked other writers",
+        "They were ill and needed rest",
+        "Their families sent them away"
+      ],
+      "answer": 0,
+      "why": "Rob says some female authors looked for solitude because it helped them be creative."
+    },
+    {
+      "q": "According to Fay, when does loneliness become a real problem?",
+      "options": [
+        "When it happens after a wedding",
+        "When it affects young people",
+        "When it happens more than once",
+        "When it becomes long-lasting"
+      ],
+      "answer": 3,
+      "why": "She says pinch points cause temporary loneliness, and it's a problem when it becomes chronic."
+    },
+    {
+      "q": "Why does Neil suggest checking in with friends and family?",
+      "options": [
+        "It stops people from feeling bored at home",
+        "Others can't always see that someone is lonely",
+        "It is polite to call everyone at least once a week",
+        "It helps you get over a painful break-up faster"
+      ],
+      "answer": 1,
+      "why": "Neil says loneliness isn't always obvious, so it's good to ask people if they're OK."
+    }
+  ]
+}

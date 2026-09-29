@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of heart transplants",
+        "Whether you can really die from a broken heart",
+        "How to recover when a long relationship comes to an end",
+        "Why junk food is bad for you"
+      ],
+      "answer": 1,
+      "why": "Neil says 'That is today's topic - can you die from a broken heart?'"
+    },
+    {
+      "q": "How does Rob react when Neil mentions a cheeseburger?",
+      "options": [
+        "He admits he eats junk food every day",
+        "He offers Neil some",
+        "He says Neil is making it up",
+        "He says it was a healthy one"
+      ],
+      "answer": 2,
+      "why": "Rob says 'Fake news! You're making that up, Neil!'"
+    },
+    {
+      "q": "What is Dr Nikki Stamp's short answer to whether you can die from a broken heart?",
+      "options": [
+        "Yes, but it's more complicated than that",
+        "No, it is just an expression",
+        "Only if you already have heart disease",
+        "Scientists don't know yet"
+      ],
+      "answer": 0,
+      "why": "She says 'short answer is yes. It's a little bit more nuanced than that.'"
+    },
+    {
+      "q": "According to Dr Stamp, what happens to most people with a broken heart?",
+      "options": [
+        "They become seriously ill",
+        "They need to see a doctor",
+        "They never fully recover from it, even after many years",
+        "They get through it in the end"
+      ],
+      "answer": 3,
+      "why": "She says 'we will be fine. We'll muddle our way through it'."
+    },
+    {
+      "q": "Which two situations does Dr Stamp give as causes of a broken heart?",
+      "options": [
+        "Losing a job and having to move to a new house",
+        "Someone close dying and a relationship ending",
+        "Failing an exam and losing money",
+        "Illness and old age"
+      ],
+      "answer": 1,
+      "why": "She mentions bereavement or 'a relationship coming to an end'."
+    },
+    {
+      "q": "In which group does Dr Stamp say dying of a broken heart is sometimes seen?",
+      "options": [
+        "Teenagers",
+        "Young parents",
+        "Elderly people",
+        "Heart surgeons"
+      ],
+      "answer": 2,
+      "why": "She says 'We do tend to see that in elderly people', like a grandad dying soon after grandma."
+    },
+    {
+      "q": "Why are many people becoming overweight, according to Dr Stamp?",
+      "options": [
+        "They have less free time, so exercise less and eat badly",
+        "They eat too much fruit",
+        "They sleep too much",
+        "They are always sad and eat more to feel better"
+      ],
+      "answer": 0,
+      "why": "She says we are increasingly time-poor, which leads to less exercise and more convenience food."
+    },
+    {
+      "q": "What does Dr Stamp mean when she says we aren't prioritising our health?",
+      "options": [
+        "We see doctors too often",
+        "We spend too much on medicine",
+        "We worry far too much about our weight and how we look",
+        "We don't treat our health as important enough"
+      ],
+      "answer": 3,
+      "why": "Rob explains we are not thinking of our health as being as important as we should."
+    }
+  ]
+}

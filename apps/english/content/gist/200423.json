@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How sad films are made to make audiences cry",
+        "Why young babies cry so often during the night",
+        "Why we cry, and differences in who cries and where",
+        "How to stop yourself crying at work or in meetings"
+      ],
+      "answer": 2,
+      "why": "Neil says they'll investigate why we cry and differences between men and women, public and private."
+    },
+    {
+      "q": "When did Sam last cry?",
+      "options": [
+        "At work last month after a meeting",
+        "Watching a dramatic film last week",
+        "Listening to sad music in the car",
+        "Cutting onions for dinner at home"
+      ],
+      "answer": 1,
+      "why": "Sam says he burst out crying last week watching a really dramatic film."
+    },
+    {
+      "q": "What does Sam think of Neil's claim that “men don't cry”?",
+      "options": [
+        "He agrees completely",
+        "He thinks it is scientifically proven",
+        "He thinks it's funny but true",
+        "He thinks it's a stereotype"
+      ],
+      "answer": 3,
+      "why": "Sam says, “That's a bit stereotypical, isn't it?”"
+    },
+    {
+      "q": "Apart from pain, what else can make people cry, according to Sam?",
+      "options": [
+        "Joy, or being moved by beautiful music or art",
+        "Feeling hungry or thirsty after a long day",
+        "Being very tired after not sleeping enough",
+        "Hearing a joke that is funny but also sad"
+      ],
+      "answer": 0,
+      "why": "Sam says we also cry to show joy and when moved by something beautiful like music or a painting."
+    },
+    {
+      "q": "What seems to be true about men and crying in public?",
+      "options": [
+        "They never do it",
+        "They do it more often than women",
+        "They feel less embarrassed about it",
+        "They only do it at work"
+      ],
+      "answer": 2,
+      "why": "Neil says while men cry less often, they seem to feel less embarrassed about crying in public."
+    },
+    {
+      "q": "According to Joanna Cross, what is the risk of crying regularly at work?",
+      "options": [
+        "You may lose your job immediately without warning",
+        "Your colleagues may start crying in the office too",
+        "You may be given more work to keep you busy",
+        "You may not be taken seriously or may get a label"
+      ],
+      "answer": 3,
+      "why": "She says they might not be taken so seriously when something matters, or they get a label."
+    },
+    {
+      "q": "Why does Joanna Cross mention being asked to make a cup of tea?",
+      "options": [
+        "To show that a cup of tea helps people calm down",
+        "A small request can be the last straw after problems",
+        "As an example of bosses treating women unfairly",
+        "To show that crying is always about big problems"
+      ],
+      "answer": 1,
+      "why": "She says after built-up resentments, a simple request can make you weep; it's a backlog of situations."
+    },
+    {
+      "q": "What does Sam jokingly say used to make him cry at work?",
+      "options": [
+        "Neil's onion sandwiches",
+        "Neil's quiz questions",
+        "Sad news stories",
+        "Long meetings"
+      ],
+      "answer": 0,
+      "why": "He says the only time he cries at work is when Neil used to bring in onion sandwiches."
+    }
+  ]
+}

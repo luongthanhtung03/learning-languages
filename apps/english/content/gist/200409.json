@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to bake a traditional pasty in your own kitchen",
+        "Famous foods from Italy and New York and their history",
+        "The annual pasty competition in Cornwall and its winners",
+        "The history of the Cornish pasty and how it spread"
+      ],
+      "answer": 3,
+      "why": "Neil says they'll hear how the pasty went from humble beginnings to spread around the world."
+    },
+    {
+      "q": "What is the game Neil and Rob play at the start?",
+      "options": [
+        "Naming the first food that comes to mind for a place",
+        "Guessing which country a famous food comes from",
+        "Naming as many different pies as possible in a minute",
+        "Guessing all the ingredients of a dish from its name"
+      ],
+      "answer": 0,
+      "why": "Neil names a place and Rob says the first food that comes to mind."
+    },
+    {
+      "q": "How does Rob describe a pasty?",
+      "options": [
+        "A kind of pizza with meat and cheese on top",
+        "A small, sweet cake filled with fruit and cream",
+        "Between a pie and a sandwich, with folded pastry",
+        "A type of soft bread roll with butter inside"
+      ],
+      "answer": 2,
+      "why": "He says it's somewhere between a pie and a sandwich, with pastry turned over and crimped."
+    },
+    {
+      "q": "According to Polly Russell's early source, who were pasties made for?",
+      "options": [
+        "Rich families in the city",
+        "Farm workers at harvest time",
+        "Fishermen at sea",
+        "Children at school"
+      ],
+      "answer": 1,
+      "why": "She says they were made specifically for labourers on a farm at harvest time."
+    },
+    {
+      "q": "According to Ruth Huxley, why did pasties become so important in Cornwall?",
+      "options": [
+        "They were cheap to buy in shops",
+        "They were eaten at religious festivals",
+        "The fishing industry depended on them",
+        "They were perfect for eating down the mines"
+      ],
+      "answer": 3,
+      "why": "She says it just worked perfectly down mines, and Cornwall became the world capital of mining."
+    },
+    {
+      "q": "How did the pasty spread around the world?",
+      "options": [
+        "Cornish chefs opened lots of restaurants abroad",
+        "Cornish miners emigrated and took the recipe along",
+        "Tourists took the recipes home after their holidays",
+        "A big company exported frozen pasties by ship"
+      ],
+      "answer": 1,
+      "why": "Ruth Huxley says the mining community went all over the world and took the pasty with them."
+    },
+    {
+      "q": "Which places does Polly Russell mention where similar foods are found?",
+      "options": [
+        "Mexico, Minnesota, Canada and Australia",
+        "France, Spain, Italy and Portugal",
+        "China, Japan, India and Thailand",
+        "Only other parts of England and Wales"
+      ],
+      "answer": 0,
+      "why": "She mentions Mexico, America, Minnesota, Canada and Australia."
+    },
+    {
+      "q": "Why does Neil mention empanadas and Jamaican patties?",
+      "options": [
+        "They are much older than the Cornish pasty itself",
+        "They won the World Pasty Championships last year",
+        "They are pasty-inspired foods from around the world",
+        "They are Rob's favourite foods to eat for lunch"
+      ],
+      "answer": 2,
+      "why": "He calls them other pasty-inspired ideas, showing the pasty is still going strong worldwide."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to polish leather shoes quickly and well",
+        "Why more men are wearing sandals in the office",
+        "Whether high heels are about fashion, power or oppression",
+        "Health problems caused by wearing trainers every day"
+      ],
+      "answer": 2,
+      "why": "Neil says they'll discuss whether high heels are a fashion statement or a sign of oppression."
+    },
+    {
+      "q": "What have studies suggested about wearing high heels?",
+      "options": [
+        "They can damage muscles and the skeleton",
+        "They improve balance and help you stand up straight",
+        "They make walking faster over short distances",
+        "They are good for posture and strengthen the back"
+      ],
+      "answer": 0,
+      "why": "Neil says studies suggest they can damage the muscles and skeleton."
+    },
+    {
+      "q": "Why are high heels still worn, despite the risks?",
+      "options": [
+        "They are cheap and easy to buy",
+        "They are comfortable for long days",
+        "Doctors recommend them for bad backs",
+        "To look professional at work or glamorous"
+      ],
+      "answer": 3,
+      "why": "Neil says they're worn to look professional in the workplace or for glamour."
+    },
+    {
+      "q": "How does Tim Edwards describe women's high heels?",
+      "options": [
+        "As boring, old-fashioned and uncomfortable",
+        "As having an almost magical, transforming quality",
+        "As only really useful for parties and weddings",
+        "As no different from men's smart shoes"
+      ],
+      "answer": 1,
+      "why": "He says they have 'this kind of transformative or even magical quality'."
+    },
+    {
+      "q": "According to Tim Edwards, how do high heels change a woman's experience?",
+      "options": [
+        "They make her taller and change her balance",
+        "They make her walk more slowly",
+        "They make her feel less important",
+        "They make her feet warmer"
+      ],
+      "answer": 0,
+      "why": "He says you're raised several inches higher and your balance is altered."
+    },
+    {
+      "q": "What does Tim Edwards say about men's shoes compared with women's?",
+      "options": [
+        "Men have many special styles to choose from",
+        "Men's shoes are more glamorous and exciting",
+        "It's hard to find anything similar for men",
+        "Men also often wear heels at work in offices"
+      ],
+      "answer": 2,
+      "why": "He says it's difficult to draw parallels with men's shoes."
+    },
+    {
+      "q": "How might a man wearing flamboyant shoes be seen, according to Tim Edwards?",
+      "options": [
+        "As very fashionable, confident and successful at work",
+        "With suspicion about his sexuality, work or morals",
+        "As someone who works hard and cares about details",
+        "As a sportsman or someone who likes to dance"
+      ],
+      "answer": 1,
+      "why": "He says such a man is viewed with suspicion about his sexuality, work ethic or morals."
+    },
+    {
+      "q": "What is Rob's opinion of this view of men's shoes?",
+      "options": [
+        "He completely agrees with it",
+        "He thinks it's a modern idea",
+        "He wants to wear high heels",
+        "He thinks it's quite old-fashioned"
+      ],
+      "answer": 3,
+      "why": "He says, 'It sounds like quite an old-fashioned view.'"
+    }
+  ]
+}

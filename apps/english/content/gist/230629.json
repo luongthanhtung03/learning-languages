@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why vegetarians are healthier than meat eaters",
+        "Whether it's right to eat such clever plants",
+        "How to grow plants in dark places at home",
+        "Plants that catch and eat insects"
+      ],
+      "answer": 1,
+      "why": "Neil asks: given the amazing things plants do, is it right to eat them?"
+    },
+    {
+      "q": "What is Rob's opinion at the start?",
+      "options": [
+        "Eating plants is as bad as eating animals",
+        "Nobody should eat fruit",
+        "Plants can think and feel pain",
+        "Plants aren't alive in the same way as animals"
+      ],
+      "answer": 3,
+      "why": "Rob says plants aren't alive in the same way as animals, and can't think or feel pain."
+    },
+    {
+      "q": "According to some scientists, which of these can plants do?",
+      "options": [
+        "Learn, remember and know their 'family'",
+        "Feel pain in the same way as animals",
+        "Move slowly from one place to another",
+        "Make loud sounds to warn nearby animals"
+      ],
+      "answer": 0,
+      "why": "Neil says plants can learn and remember, solve problems and recognise other plants in their family."
+    },
+    {
+      "q": "What does Professor Rick Karban say about plants' senses?",
+      "options": [
+        "They can only sense light and nothing else",
+        "They sense much less than most animals",
+        "They sense as much as humans, and more",
+        "They need something like eyes to see light"
+      ],
+      "answer": 2,
+      "why": "He agrees plants perceive most human senses 'and then some'."
+    },
+    {
+      "q": "Why does Professor Karban mention dogs?",
+      "options": [
+        "Because dogs often eat plants in gardens",
+        "To compare plants' chemical sense to dogs' noses",
+        "Because dogs were used in his experiments",
+        "To show that animals are cleverer than plants"
+      ],
+      "answer": 1,
+      "why": "He says dogs have a much keener sense of smell than humans, and plants respond strongly to chemicals."
+    },
+    {
+      "q": "What did the experiment with pea seedlings show?",
+      "options": [
+        "They grew faster when music was played",
+        "They could talk to each other using roots",
+        "They needed less water than scientists expected",
+        "They learned and remembered the way to light"
+      ],
+      "answer": 3,
+      "why": "They were trained to find the quickest route to light through a maze, and remember it."
+    },
+    {
+      "q": "How did the lined-up potted plants pass information to each other?",
+      "options": [
+        "Through their roots",
+        "Through their leaves",
+        "By releasing smells into the air",
+        "Through insects"
+      ],
+      "answer": 0,
+      "why": "They passed information about water and air temperature through their roots."
+    },
+    {
+      "q": "What is Professor Michael Marder's view?",
+      "options": [
+        "Eating plants is always wrong",
+        "We should only eat plants we grow ourselves",
+        "It's fine, but think about which parts we take",
+        "Plants are not intelligent, so it doesn't matter"
+      ],
+      "answer": 2,
+      "why": "He says it's not wrong in itself, but we should consider whether we destroy the whole plant or take parts like fruit."
+    }
+  ]
+}

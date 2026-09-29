@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How fast food spread around the world from 1950s America",
+        "Why fast food is bad for your health",
+        "How to open a restaurant in Iceland",
+        "The best burger recipes in the world"
+      ],
+      "answer": 0,
+      "why": "They discuss the global spread of fast food from its beginnings in 1950s America."
+    },
+    {
+      "q": "Is Beth a fan of fast food?",
+      "options": [
+        "Yes, she eats it every week and loves burgers",
+        "Yes, but only burgers",
+        "No, she never eats it",
+        "Not really, although it can be convenient"
+      ],
+      "answer": 3,
+      "why": "Beth says 'not really', though sometimes it can be convenient because it's quick."
+    },
+    {
+      "q": "According to author Adam Chandler, what was special about many fast food company founders?",
+      "options": [
+        "They came from rich families",
+        "They had all studied business at top universities before starting",
+        "They had few qualifications or money but could still succeed",
+        "They had worked as chefs in Europe"
+      ],
+      "answer": 2,
+      "why": "He says many didn't have degrees or come from money, giving a sense that 'anyone can do this'."
+    },
+    {
+      "q": "According to Beth, what did the rise of fast food reflect?",
+      "options": [
+        "The rise of farming in America",
+        "The growth of America's economic power after the Second World War",
+        "The growing popularity of American films and music around the world",
+        "A fall in the price of meat"
+      ],
+      "answer": 1,
+      "why": "She says it reflected the rise of American economic power after the Second World War."
+    },
+    {
+      "q": "What did brands like KFC and McDonald's symbolise for many people?",
+      "options": [
+        "Unhealthy modern lifestyles",
+        "The idea that anyone can succeed through hard work",
+        "The end of family meals",
+        "Cheap food that only poor families would choose to eat"
+      ],
+      "answer": 1,
+      "why": "Beth says they symbolised the American dream – success through hard work and determination."
+    },
+    {
+      "q": "Why does Phil mention visiting two McDonald's on opposite sides of the planet?",
+      "options": [
+        "To say the food is better abroad",
+        "To complain about long queues",
+        "To show that the same meal is now available all over the world",
+        "To explain why the prices of meals are so different in each country"
+      ],
+      "answer": 2,
+      "why": "He says you can eat 'exactly the same meal' there, showing success wasn't limited to America."
+    },
+    {
+      "q": "According to editor Andie Sophia Fontaine, why did McDonald's struggle in Iceland?",
+      "options": [
+        "Icelanders don't eat meat",
+        "The government banned it immediately after the first restaurant opened",
+        "It was too far from the capital",
+        "Iceland already had its own long burger tradition"
+      ],
+      "answer": 3,
+      "why": "She says Iceland had 'a long-standing burger culture' with its own version, the shop burger."
+    },
+    {
+      "q": "What finally caused McDonald's to fail in Iceland?",
+      "options": [
+        "The global financial crisis of 2008–2009",
+        "A new tax on burgers",
+        "A shortage of cucumbers",
+        "Strong competition from KFC and other brands"
+      ],
+      "answer": 0,
+      "why": "She says the final nail in the coffin was the global financial crisis in 2008/2009."
+    }
+  ]
+}

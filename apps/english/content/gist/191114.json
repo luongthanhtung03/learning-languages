@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to find a less stressful job",
+        "Mental health problems at work and their cost",
+        "The history of World Mental Health Day",
+        "How the royal family works with charities"
+      ],
+      "answer": 1,
+      "why": "Neil says they're focusing on the topic of mental health at work."
+    },
+    {
+      "q": "According to Georgina, why can mental health issues be hard to understand?",
+      "options": [
+        "They are very rare",
+        "Doctors don't agree about them",
+        "There is no physical sign of them",
+        "People never talk about them"
+      ],
+      "answer": 2,
+      "why": "She says unlike a broken leg, with mental health issues there's no physical sign."
+    },
+    {
+      "q": "Why has mental health been getting more publicity recently?",
+      "options": [
+        "Members of the British royal family have talked about it",
+        "A new law was passed to protect workers with mental illness",
+        "Businesses have started paying for therapy for their staff",
+        "A famous film about depression was released last year"
+      ],
+      "answer": 0,
+      "why": "Neil says members of the British royal family have been talking about it."
+    },
+    {
+      "q": "How much does Paul Farmer say poor mental health costs UK businesses each year?",
+      "options": [
+        "About £3 billion",
+        "Around £300,000",
+        "More than £100 billion",
+        "Between £33 and £42 billion"
+      ],
+      "answer": 3,
+      "why": "He says it costs between 33 and 42 billion pounds a year."
+    },
+    {
+      "q": "How many people stop working each year because of poor mental health, according to Paul Farmer?",
+      "options": [
+        "About 30,000",
+        "About 3 million",
+        "About 300,000",
+        "About 50,000"
+      ],
+      "answer": 2,
+      "why": "He says 'round about 300,000 people fall out of work every year'."
+    },
+    {
+      "q": "Why is losing these workers a problem for companies, according to Georgina?",
+      "options": [
+        "New staff cost money to train, and experience is lost",
+        "The workers take important company secrets with them",
+        "The government fines the companies for every worker lost",
+        "Customers stop buying their products and use competitors"
+      ],
+      "answer": 0,
+      "why": "She says it costs more to recruit and train new staff, and experience can't always be replaced."
+    },
+    {
+      "q": "According to Geoff McDonald, what has really changed things?",
+      "options": [
+        "Better medicine",
+        "More money for charities",
+        "Shorter working hours",
+        "People sharing their own stories"
+      ],
+      "answer": 3,
+      "why": "He says what's really changed is people telling their stories."
+    },
+    {
+      "q": "What does Geoff McDonald mean by comparing each story to a lifeboat?",
+      "options": [
+        "Stories are dangerous for the people who hear them",
+        "Stories help silent sufferers see they're not alone",
+        "Sufferers should take a relaxing holiday by the sea",
+        "Only a small number of people can ever be helped"
+      ],
+      "answer": 1,
+      "why": "People suffering in silence 'cling on to that lifeboat and they realise they're not alone'."
+    }
+  ]
+}

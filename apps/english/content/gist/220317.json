@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How the Romans studied the stars and planets",
+        "Mars: why it's red and if it could support life",
+        "Famous songs and films about outer space",
+        "How to see planets at night without a telescope"
+      ],
+      "answer": 1,
+      "why": "They discuss what gives Mars its colour and the biggest question: is there life on Mars?"
+    },
+    {
+      "q": "What does Neil give as examples of art inspired by Mars?",
+      "options": [
+        "Ancient Roman paintings and statues",
+        "Maya poems about the night sky",
+        "Photographs taken by NASA scientists",
+        "A David Bowie song and several films"
+      ],
+      "answer": 3,
+      "why": "He mentions David Bowie's 'Life on Mars?' and films like 'Mars Attacks!' and 'The Martian'."
+    },
+    {
+      "q": "What did ancient civilisations like the Maya do?",
+      "options": [
+        "Watched Mars and recorded its movements",
+        "Sent people to explore the surface of Mars",
+        "Believed that Mars was covered in water",
+        "Named Mars after their own god of fire"
+      ],
+      "answer": 0,
+      "why": "Sam says the Maya observed the planet's colour and recorded its movements, like modern astronomers."
+    },
+    {
+      "q": "According to Dr Michael Meyer, why does Mars look red?",
+      "options": [
+        "It is very hot, like fire",
+        "Light from the Sun is red there",
+        "There is rust on its surface",
+        "Its clouds are full of red dust"
+      ],
+      "answer": 2,
+      "why": "He says it looks red because of rust – iron oxide on the surface."
+    },
+    {
+      "q": "What happened to Mars's appearance in 2018?",
+      "options": [
+        "It looked much bigger in the night sky",
+        "It disappeared from view for several months",
+        "It turned completely white because of ice",
+        "It looked a little orange after a dust storm"
+      ],
+      "answer": 3,
+      "why": "He says in 2018 there was a global dust storm and Mars looked a little orange instead of red."
+    },
+    {
+      "q": "Why might Mars's changing colour have worried ancient civilisations?",
+      "options": [
+        "They thought it meant a war was coming",
+        "They thought the night sky never changed",
+        "They thought Mars was moving closer to Earth",
+        "They believed it would destroy their crops"
+      ],
+      "answer": 1,
+      "why": "Dr Meyer says they may have been uneasy to see something 'immutable' in the night sky changing colour."
+    },
+    {
+      "q": "According to Dr Meyer, why is finding water on Mars so important?",
+      "options": [
+        "Life can adapt, but it still needs water",
+        "Water could be used as fuel for rockets",
+        "Water would change the planet's colour",
+        "Astronauts need water to grow food there"
+      ],
+      "answer": 0,
+      "why": "He says life is amazingly adaptable 'but it still needs water', so water means a possibly habitable place."
+    },
+    {
+      "q": "What does Sam suggest about humans going to Mars?",
+      "options": [
+        "Humans have already walked on Mars several times",
+        "Scientists have decided it is far too dangerous",
+        "Businessmen like Elon Musk plan to send people",
+        "Only robots will ever be able to go there"
+      ],
+      "answer": 2,
+      "why": "She says billionaire businessmen like Elon Musk are planning manned missions to space."
+    }
+  ]
+}

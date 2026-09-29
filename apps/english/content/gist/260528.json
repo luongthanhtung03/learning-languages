@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "What life is like for people living with debt in the UK",
+        "How to get a loan to buy a house",
+        "Why British people save more than other countries",
+        "How banks decide who can borrow money"
+      ],
+      "answer": 0,
+      "why": "They discuss how common debt is in the UK and hear about people on a low-income estate living with it."
+    },
+    {
+      "q": "What does Neil say about saving and spending?",
+      "options": [
+        "He never saves any money and spends it all",
+        "He counts every penny he spends each week",
+        "He does both, and saves mainly for his children",
+        "He only spends money on his children's needs"
+      ],
+      "answer": 2,
+      "why": "Neil says he's a bit of both and tries to save, mainly because he's got children."
+    },
+    {
+      "q": "What does Pippa say about the UK Citizens Advice Bureau in 2025?",
+      "options": [
+        "It closed many of its offices across the country",
+        "Over 1,000 people a day contacted it about debt",
+        "It helped about 1,000 people in the whole year",
+        "It gave small loans to people who were in debt"
+      ],
+      "answer": 1,
+      "why": "She says over 1,000 people contacted it every single day of 2025 for help with debt."
+    },
+    {
+      "q": "Why does Jason say he has taken out loans?",
+      "options": [
+        "To pay for a family holiday abroad",
+        "To start his own small building business",
+        "To buy a new car so he could get to work",
+        "The jobs available don't pay enough for a family"
+      ],
+      "answer": 3,
+      "why": "He says whatever jobs there are aren't enough to provide for a family, so sometimes you need loans."
+    },
+    {
+      "q": "Why does Jason mention winning the lottery?",
+      "options": [
+        "To show he can see almost no realistic way out of debt",
+        "Because he recently won some money",
+        "To explain how he plans to pay his debts next year",
+        "Because he spends a lot on lottery tickets"
+      ],
+      "answer": 0,
+      "why": "He says you can't see a way out, 'other than winning the lottery or something'."
+    },
+    {
+      "q": "How did sociologist Ryan Davey do his research?",
+      "options": [
+        "He sent long questionnaires to high-street banks",
+        "He studied government figures on household debt",
+        "He lived on a poor housing estate and talked to people",
+        "He interviewed people who work for debt charities"
+      ],
+      "answer": 2,
+      "why": "Ryan spent months living on a low-income estate, talking with residents about their money worries."
+    },
+    {
+      "q": "What did Ryan find about debt in Woldham?",
+      "options": [
+        "Most people there had no debt at all",
+        "Only young people there were really in debt",
+        "People were far too ashamed to talk about it",
+        "Debt and late payments were a normal part of life"
+      ],
+      "answer": 3,
+      "why": "He says debt was an ordinary feature of daily life, and being in arrears was too."
+    },
+    {
+      "q": "What happened to Jason and his partner over the months Ryan knew them?",
+      "options": [
+        "They slowly paid off all their debts together",
+        "Their money problems grew, and they lost internet",
+        "They moved to a bigger house on the estate",
+        "They both found better, well-paid jobs"
+      ],
+      "answer": 1,
+      "why": "Ryan says the financial strain increased; they missed bills and their internet was disconnected."
+    }
+  ]
+}

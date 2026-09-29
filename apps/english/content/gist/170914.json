@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to stop arguing with colleagues at work in a polite way",
+        "How to ask for directions politely in a foreign city",
+        "How gestures and showing feelings differ between cultures",
+        "Why British people rarely argue in public places"
+      ],
+      "answer": 2,
+      "why": "They discuss gestures, faux pas and how people from other cultures can misunderstand behaviour."
+    },
+    {
+      "q": "What happened between Neil and Tim before the show?",
+      "options": [
+        "They had an argument, but they are still friends",
+        "They got lost on the way to the studio",
+        "They argued and stopped speaking",
+        "Tim offended a guest"
+      ],
+      "answer": 0,
+      "why": "They had an argument, but Neil asks 'no hard feelings?' and Tim says 'None'."
+    },
+    {
+      "q": "What kind of things do Neil and Tim often fall out over?",
+      "options": [
+        "How much money each of them is paid for the show",
+        "Politics and the news stories of the week",
+        "Which country to visit for their next holiday",
+        "Who presents the show or picks the quiz question"
+      ],
+      "answer": 3,
+      "why": "They mention silly things like who introduces the show or chooses the quiz question."
+    },
+    {
+      "q": "What does Neil notice about Tim when he argues?",
+      "options": [
+        "He speaks very quietly",
+        "He waves his arms around a lot",
+        "He shakes his head",
+        "He refuses to look at people"
+      ],
+      "answer": 1,
+      "why": "Neil says Tim waves his arms around a lot when arguing, which 'isn't very British'."
+    },
+    {
+      "q": "Which everyday gesture does Tim say might offend people from the Middle East?",
+      "options": [
+        "Shaking your head",
+        "Waving goodbye",
+        "Nodding",
+        "The thumbs-up sign"
+      ],
+      "answer": 3,
+      "why": "Tim says our everyday use of the thumbs-up signal might offend people from the Middle East."
+    },
+    {
+      "q": "What did Erin Meyer think was happening in Dubai?",
+      "options": [
+        "Her student had crashed the car",
+        "Her student and a man were having a big fight",
+        "The man was trying to sell cloth",
+        "Her student was lost and asking for help"
+      ],
+      "answer": 1,
+      "why": "She thought 'they're having a huge fight' and even that he might hit her student."
+    },
+    {
+      "q": "What was really happening?",
+      "options": [
+        "The man was giving directions to Erin's hotel",
+        "The man was complaining about the traffic",
+        "The student was buying cloth from the man",
+        "They were old friends saying hello"
+      ],
+      "answer": 0,
+      "why": "The student said, 'we weren't fighting, he was giving me directions to your hotel'."
+    },
+    {
+      "q": "Why does Erin Meyer tell this story?",
+      "options": [
+        "To warn people about driving in Dubai during rush hour",
+        "To show that her students are good and careful drivers",
+        "To show emotion can be mistaken for anger in other cultures",
+        "To explain why she got lost on her first visit abroad"
+      ],
+      "answer": 2,
+      "why": "She says it shows how someone from another culture may misunderstand being expressive as a fight."
+    }
+  ]
+}

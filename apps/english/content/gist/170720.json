@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "New technology that can make objects invisible",
+        "Famous stories about invisible people",
+        "Our false belief that other people don't notice us much",
+        "Why people read on crowded trains"
+      ],
+      "answer": 2,
+      "why": "They discuss the 'invisibility cloak illusion': people think others don't observe them much."
+    },
+    {
+      "q": "What does Dan admit about himself?",
+      "options": [
+        "He watches other people a lot",
+        "He hates crowded trains",
+        "He never looks at other passengers",
+        "He always reads on the train"
+      ],
+      "answer": 0,
+      "why": "Dan says he people-watches: 'I do it a lot, if I'm honest!'"
+    },
+    {
+      "q": "What did the survey of people in a canteen find?",
+      "options": [
+        "People rarely watched anyone else while they were eating",
+        "They thought they watched others more than others watched them",
+        "People thought everyone in the room was staring at them",
+        "Men watched other people much more than women did"
+      ],
+      "answer": 1,
+      "why": "Dr Loveday says people always thought they were more observational than the people watching them."
+    },
+    {
+      "q": "In the waiting room experiment, what was usually true?",
+      "options": [
+        "Both lists were about the same length and very similar",
+        "People refused to write the second list about themselves",
+        "The list of what the other person noticed was longer",
+        "The list of what they noticed about the other was longer"
+      ],
+      "answer": 3,
+      "why": "Neil says list one, what they noticed about the other person, was always longer than list two."
+    },
+    {
+      "q": "According to Dr Catherine Loveday, how do people usually observe us?",
+      "options": [
+        "Very critically",
+        "Only when we look strange",
+        "Very quickly, without remembering anything",
+        "In a kind, non-judgemental way"
+      ],
+      "answer": 3,
+      "why": "She says they do it 'in a non-judgemental, fairly empathic way'."
+    },
+    {
+      "q": "What does Dr Loveday say about the things we feel self-conscious about?",
+      "options": [
+        "Everyone notices them immediately",
+        "Other people usually don't notice them",
+        "We should try to hide them",
+        "Others notice them but are too polite to say"
+      ],
+      "answer": 1,
+      "why": "She says if you're self-conscious about a spot or clothes, 'that won't be what they're noticing'."
+    },
+    {
+      "q": "What is Dan's point when he mentions needing a haircut?",
+      "options": [
+        "Others are probably noticing something else about him",
+        "He will get a haircut straight after the show",
+        "Neil also needs a haircut, even more than he does",
+        "People always notice bad hair before anything else"
+      ],
+      "answer": 0,
+      "why": "Dan says while he's thinking about his hair, 'the other person is probably noticing something completely different'."
+    },
+    {
+      "q": "How does Dan say he feels when he sees 'Simone'?",
+      "options": [
+        "Angry and judgemental",
+        "Bored",
+        "Nervous and self-conscious",
+        "Completely relaxed"
+      ],
+      "answer": 2,
+      "why": "Dan says he gets 'all nervous and self-conscious' when he sees her."
+    }
+  ]
+}

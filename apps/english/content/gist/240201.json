@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to find a job working from home",
+        "Predictions about the future of work and how reliable they are",
+        "Why robots have already replaced most workers",
+        "The life, companies and ideas of the tech billionaire Elon Musk"
+      ],
+      "answer": 1,
+      "why": "They ask what work will be like in the future and hear experts doubt many predictions."
+    },
+    {
+      "q": "Why does Beth mention smell-o-vision and a miracle pill?",
+      "options": [
+        "To describe new inventions coming soon",
+        "To show how technology changed work",
+        "To explain what daily life was like in the 1930s",
+        "To show predictions often don't come true"
+      ],
+      "answer": 3,
+      "why": "She says these were predicted in the 1930s but so far haven't come true."
+    },
+    {
+      "q": "What did Elon Musk recently predict?",
+      "options": [
+        "Everyone will work a four-day week",
+        "Robots will be banned from offices",
+        "AI will eventually mean nobody has to work",
+        "People will stop working from home after Covid"
+      ],
+      "answer": 2,
+      "why": "Neil says Musk predicted AI will eventually mean that no one will have to work."
+    },
+    {
+      "q": "Which prediction about work came true during Covid?",
+      "options": [
+        "Millions of people worked from home",
+        "Robots took over most jobs",
+        "Working hours fell by half",
+        "Everyone moved to a four-day working week"
+      ],
+      "answer": 0,
+      "why": "Beth says during Covid millions were forced to work from home."
+    },
+    {
+      "q": "What is Professor Brendan Burchell's attitude to predictions about work?",
+      "options": [
+        "He doubts them, as past predictions were often wrong",
+        "He believes most of them",
+        "He thinks only economists are able to make good predictions",
+        "He thinks Elon Musk is right"
+      ],
+      "answer": 0,
+      "why": "He says “we have to be sceptical” because the track record isn't good."
+    },
+    {
+      "q": "What does Burchell say about predictions of much shorter working hours?",
+      "options": [
+        "They came true in the 1930s",
+        "Working hours have actually gone up a lot over recent years",
+        "They have finally come true since Covid",
+        "We're slowly moving that way, but big changes haven't come"
+      ],
+      "answer": 3,
+      "why": "He says we're heading very gradually in that direction, but the large changes haven't come to pass."
+    },
+    {
+      "q": "What does Andrew Palmer think about AI and jobs?",
+      "options": [
+        "AI will get rid of all jobs",
+        "AI will affect some jobs, but won't remove them all",
+        "AI will have no effect on jobs",
+        "AI will only create new jobs and never remove any old ones"
+      ],
+      "answer": 1,
+      "why": "He says he doesn't think AI will get rid of all jobs, though some professions are at risk."
+    },
+    {
+      "q": "What is Palmer's main worry?",
+      "options": [
+        "Workers won't want to do the new jobs that AI creates",
+        "Economists will stop studying jobs",
+        "New jobs may not appear as quickly as old ones go",
+        "Companies won't be able to afford AI"
+      ],
+      "answer": 2,
+      "why": "He worries about a sequencing risk – new jobs won't necessarily come at the same time."
+    }
+  ]
+}

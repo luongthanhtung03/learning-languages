@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to stop feeling tired at work",
+        "Why sleep is so important and what happens without it",
+        "Why some animals sleep in the day",
+        "How to fall asleep quickly"
+      ],
+      "answer": 1,
+      "why": "They find out more about the benefits of sleep and what happens when you get too little."
+    },
+    {
+      "q": "Why doesn't Phil answer Georgie at the start?",
+      "options": [
+        "He is on the phone",
+        "He has gone home early because he isn't feeling very well today",
+        "He can't hear her",
+        "He is asleep because he slept badly the night before"
+      ],
+      "answer": 3,
+      "why": "Phil admits he was sleeping because he didn't sleep well last night."
+    },
+    {
+      "q": "What does Georgie say about people who get enough sleep?",
+      "options": [
+        "They live about five years longer",
+        "They earn more money because they work better",
+        "They never get ill",
+        "They need less food"
+      ],
+      "answer": 0,
+      "why": "She says they live about five years longer than people who don't."
+    },
+    {
+      "q": "Why does Georgie mention that sleeping leaves us vulnerable to danger?",
+      "options": [
+        "To warn people not to sleep outside",
+        "To explain why people have nightmares",
+        "To suggest that the benefits of sleep must be huge",
+        "To show that humans need much less sleep than most other animals"
+      ],
+      "answer": 2,
+      "why": "She says going unconscious every night can only make sense if the benefits are huge."
+    },
+    {
+      "q": "According to science journalist Ginny Smith, what happens after a bad night's sleep?",
+      "options": [
+        "We remember new things better because we're more relaxed",
+        "We feel more creative",
+        "We find it hard to concentrate and learn new things",
+        "We need to eat more"
+      ],
+      "answer": 2,
+      "why": "She says you just can't concentrate, and your brain isn't ready to take in new information."
+    },
+    {
+      "q": "What does the brain do with new information while we sleep?",
+      "options": [
+        "It moves it from short-term to long-term memory",
+        "It deletes most of it",
+        "It turns it into dreams and then forgets it by the morning",
+        "It stops working completely"
+      ],
+      "answer": 0,
+      "why": "Ginny says the brain consolidates it, taking it 'from short-term storage to long-term storage'."
+    },
+    {
+      "q": "What does Ginny say about the advice to 'sleep on' a problem?",
+      "options": [
+        "It's just an old saying that has no scientific truth in it at all",
+        "It only works for children",
+        "It makes problems worse",
+        "It's true – the brain can work out problems during the night"
+      ],
+      "answer": 3,
+      "why": "She says your brain works on things during the night, and you can wake up having solved the problem."
+    },
+    {
+      "q": "What can long-term lack of sleep lead to, according to Ginny?",
+      "options": [
+        "Better survival skills",
+        "A weaker immune system and other health problems",
+        "Stronger muscles",
+        "Needing less and less sleep as your body gets used to it"
+      ],
+      "answer": 1,
+      "why": "She says chronic sleep deprivation can mean a damped-down immune system and knock-on problems."
+    }
+  ]
+}

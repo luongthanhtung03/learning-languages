@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook tasty meals with fewer ingredients",
+        "Why food is becoming cheaper in the UK",
+        "How farmers grow vegetables in glasshouses",
+        "Food shortages and the future food supply"
+      ],
+      "answer": 3,
+      "why": "They discuss recent food shortages and ask how much longer a stable, affordable supply will continue."
+    },
+    {
+      "q": "What caused the recent shortages of eggs, tomatoes and cucumbers in the UK?",
+      "options": [
+        "Cold weather and rising energy prices",
+        "A long strike by farmers and drivers",
+        "A very hot and dry summer in Europe",
+        "New rules on imports from abroad"
+      ],
+      "answer": 0,
+      "why": "Rob says the problems were caused by unusually cold weather combined with rising energy prices."
+    },
+    {
+      "q": "Why are some UK farmers selling their apple orchards?",
+      "options": [
+        "Because apples are no longer popular",
+        "Because of climate change",
+        "Because production costs are rising",
+        "Because the government asked them to"
+      ],
+      "answer": 2,
+      "why": "They sell to housing developers rather than struggle with increasing production costs."
+    },
+    {
+      "q": "Why does Adam Leyland find the forecast 'extraordinary'?",
+      "options": [
+        "Because production is rising so fast",
+        "Output is falling despite big investment",
+        "Because records began only a few years ago",
+        "Because food prices will fall sharply"
+      ],
+      "answer": 1,
+      "why": "He notes the huge investment in glasshouses and polytunnels, yet production is forecast to be the lowest on record."
+    },
+    {
+      "q": "What does Professor Charles Godfrey mean by 'de-globalising'?",
+      "options": [
+        "Countries are less connected and buy food nearer",
+        "Countries are importing more food than ever",
+        "People are eating less food to save money",
+        "Farmers are moving abroad to find cheaper land"
+      ],
+      "answer": 0,
+      "why": "He says we live in a less connected world, and deglobalisation means sourcing food nearer home."
+    },
+    {
+      "q": "What worries Professor Godfrey about deglobalisation?",
+      "options": [
+        "It will make food taste worse than before",
+        "It will cost farmers too much to change",
+        "It will stop people eating local food",
+        "It may be harder to feed places short of food"
+      ],
+      "answer": 3,
+      "why": "He worries it makes it harder to supply food to parts of the world that can't produce enough."
+    },
+    {
+      "q": "How much does Professor Godfrey think global demand for food will rise in 30 to 40 years?",
+      "options": [
+        "By 10 to 20 percent",
+        "By 30 to 50 percent",
+        "It will double",
+        "It will stay the same"
+      ],
+      "answer": 1,
+      "why": "He says global demand will probably rise 30 to 50 percent."
+    },
+    {
+      "q": "What is Professor Godfrey's own view about UK land use?",
+      "options": [
+        "The UK should stop farming and focus on nature",
+        "The UK should only grow food for itself",
+        "Smart planning can boost food and nature",
+        "The UK should import almost all of its food"
+      ],
+      "answer": 2,
+      "why": "He says if we plan land use in a canny way, we can produce more food and increase biodiversity."
+    }
+  ]
+}

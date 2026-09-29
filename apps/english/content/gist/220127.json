@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of the Summer Olympic Games",
+        "How to take part in dangerous winter sports",
+        "Why tennis is not part of the Winter Olympics",
+        "Preparations and problems for Beijing 2022"
+      ],
+      "answer": 3,
+      "why": "They discuss the Beijing Winter Olympics, its controversies and how organisers are preparing."
+    },
+    {
+      "q": "How does Sam describe herself when asked if she's sporty?",
+      "options": [
+        "She plays ice hockey every single weekend",
+        "She likes running and watches some TV sport",
+        "She never does or watches any sport",
+        "She has competed in the Winter Olympics"
+      ],
+      "answer": 1,
+      "why": "Sam says she likes to go running and might watch some sport on TV."
+    },
+    {
+      "q": "What makes Beijing special as a host city?",
+      "options": [
+        "It's the first to host Summer and Winter Games",
+        "It has hosted the Winter Olympics three times",
+        "It is the coldest city ever to host the Games",
+        "It is the first Asian city to host any Olympics"
+      ],
+      "answer": 0,
+      "why": "Sam says Beijing will become the first city to have hosted both the Winter and Summer Games."
+    },
+    {
+      "q": "How many events are planned for these Winter Olympics?",
+      "options": [
+        "Seven events in fifteen sports",
+        "Fifteen events in seven sports",
+        "A record 109 events",
+        "Exactly 24 events"
+      ],
+      "answer": 2,
+      "why": "Neil says a record 109 events over 15 disciplines in seven sports are scheduled."
+    },
+    {
+      "q": "Which problem does Stephen McDonell mention for the organisers?",
+      "options": [
+        "Not enough athletes have agreed to take part",
+        "The new stadiums are not yet finished",
+        "Tickets have been far too expensive to sell",
+        "Covid and claims of human rights abuses"
+      ],
+      "answer": 3,
+      "why": "He mentions 'coronavirus headaches', 'alleged human rights abuses' and allegations from a tennis star."
+    },
+    {
+      "q": "Why is Covid-19 a 'headache' for the organisers, according to Sam?",
+      "options": [
+        "Many athletes have refused to be vaccinated",
+        "It's hard to manage visitors from everywhere",
+        "The organisers themselves have been very ill",
+        "The events have to be held without any snow"
+      ],
+      "answer": 1,
+      "why": "She says it makes it difficult to plan, particularly managing people travelling from all parts of the world."
+    },
+    {
+      "q": "Why does a lot of snow have to be made for the Games?",
+      "options": [
+        "The Games are being held in the summer",
+        "Real snow is too dangerous for athletes",
+        "The area is freezing but mostly dry",
+        "The mountains outside Beijing are too low"
+      ],
+      "answer": 2,
+      "why": "McDonell says the Games will be held in a freezing, mostly dry area, so 'a mountain of snow making is required'."
+    },
+    {
+      "q": "What do athletes think of the conditions?",
+      "options": [
+        "They'll make for fast, high-quality competition",
+        "They are too dangerous for the skeleton event",
+        "The artificial snow will slow them down",
+        "They would prefer to compete in Europe"
+      ],
+      "answer": 0,
+      "why": "The snow can make for 'quick, dynamic runs', and athletes said the sites will make for high-quality competition."
+    }
+  ]
+}

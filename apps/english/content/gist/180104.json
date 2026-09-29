@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "What Bitcoin is and how people get it",
+        "How banks print new money",
+        "The history of coins and notes",
+        "How to save money for the future"
+      ],
+      "answer": 0,
+      "why": "Dan explains the crypto-currency Bitcoin: how it differs from normal money and how new bitcoins are made."
+    },
+    {
+      "q": "What is the first way Bitcoin is different from normal currencies?",
+      "options": [
+        "Its value never changes",
+        "It can only be used in one country",
+        "It is controlled by the big banks",
+        "It isn't issued by governments or banks"
+      ],
+      "answer": 3,
+      "why": "Dan says it's not printed by governments or banks, so it's not legal tender."
+    },
+    {
+      "q": "Because Bitcoin isn't official money, what can't you do with it?",
+      "options": [
+        "Buy things online",
+        "Pay your taxes",
+        "Sell it to other people",
+        "Watch its value change"
+      ],
+      "answer": 1,
+      "why": "Neil says that means we can't use it to pay taxes or settle debts, and Dan agrees."
+    },
+    {
+      "q": "What is the second difference between Bitcoin and other money?",
+      "options": [
+        "It is made of a special metal",
+        "It is only used by criminals",
+        "It exists almost only online",
+        "It is worth the same everywhere"
+      ],
+      "answer": 2,
+      "why": "Dan says it's a digital currency that, apart from a few tokens, largely exists online only."
+    },
+    {
+      "q": "Why can't Neil just say he has a million bitcoins?",
+      "options": [
+        "Because a bank checks every account at the end of each day",
+        "Because there are only a million bitcoins in the world in total",
+        "Because a system stops cheating: you must trade or 'mine' them",
+        "Because the government would arrest him for lying about money"
+      ],
+      "answer": 2,
+      "why": "Dan says Bitcoin has a process to stop cheating; you either trade for them or go mining."
+    },
+    {
+      "q": "What does 'mining' for bitcoins involve?",
+      "options": [
+        "Using your computer to check other Bitcoin payments",
+        "Digging underground for special metal tokens",
+        "Buying bitcoins from a bank at a lower price",
+        "Guessing the future value of Bitcoin each week"
+      ],
+      "answer": 0,
+      "why": "Neil explains your computer runs calculations to verify other transactions, and you're rewarded with bitcoins."
+    },
+    {
+      "q": "According to Rory Cellan-Jones, what do investors believe?",
+      "options": [
+        "Bitcoin will soon be worth less than $1,000",
+        "The big banks will start using Bitcoin",
+        "Bitcoin will lose value very quickly",
+        "Bitcoin will keep rising, though more slowly"
+      ],
+      "answer": 3,
+      "why": "He says investors believe it will continue to rise in value, 'albeit at a slower rate'."
+    },
+    {
+      "q": "How does Neil feel about Bitcoin by the end?",
+      "options": [
+        "He wants to start mining bitcoins at home immediately",
+        "He thinks it's probably better not to get involved",
+        "He plans to invest all his savings in it next week",
+        "He is sure it will replace normal money soon"
+      ],
+      "answer": 1,
+      "why": "After hearing about the banks' doubts, Neil says 'maybe it's best I don't get involved'."
+    }
+  ]
+}

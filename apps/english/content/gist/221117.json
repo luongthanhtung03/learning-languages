@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best teams in World Cup history",
+        "Whether Qatar should host the World Cup",
+        "How the new football stadiums were built",
+        "Why football fans travel abroad so often"
+      ],
+      "answer": 1,
+      "why": "Beth says they'll ask: is it right for Qatar to host the World Cup?"
+    },
+    {
+      "q": "Why is the 2022 World Cup taking place in winter?",
+      "options": [
+        "Summer temperatures in Qatar are over 45 degrees",
+        "The stadiums weren't ready in summer",
+        "Players asked for a change",
+        "There were too many other events in summer"
+      ],
+      "answer": 0,
+      "why": "Beth says because temperatures exceed 45 degrees in summer, the competition was moved to winter."
+    },
+    {
+      "q": "Which criticism of Qatar is mentioned?",
+      "options": [
+        "It has too many noisy football fans",
+        "It is too far from Europe to travel to",
+        "It has no football tradition, just money",
+        "It has too few hotels for all the visitors"
+      ],
+      "answer": 2,
+      "why": "Neil says Qatar has no tradition of playing football and some criticise the focus on money."
+    },
+    {
+      "q": "What share of Qatar's workforce are foreigners?",
+      "options": [
+        "About half",
+        "Around 25%",
+        "About 75%",
+        "95%"
+      ],
+      "answer": 3,
+      "why": "Beth says 95% of the total workforce are foreigners."
+    },
+    {
+      "q": "According to Rothna Begum, what happened to some workers?",
+      "options": [
+        "They paid huge fees but got short visas",
+        "They were paid much more than promised",
+        "They were given free housing and flights",
+        "They were allowed to bring their families"
+      ],
+      "answer": 0,
+      "why": "She says workers paid exorbitant recruitment fees for two-year contracts, then got three-month visas."
+    },
+    {
+      "q": "Why did many workers go home in debt?",
+      "options": [
+        "They spent all their money on football tickets",
+        "They couldn't earn back what they had paid",
+        "Their families asked them for too much money",
+        "They lost their money in accidents at work"
+      ],
+      "answer": 1,
+      "why": "They couldn't recoup the price they'd paid for the job, so many returned home in debt."
+    },
+    {
+      "q": "According to James Dawsey, why is Qatar hosting the World Cup?",
+      "options": [
+        "Mainly to make a lot of money",
+        "To improve its national football team",
+        "To attract new workers from Asia",
+        "To increase its influence as a small state"
+      ],
+      "answer": 3,
+      "why": "He says it's not about economics; Qatar's policy is geared towards soft power."
+    },
+    {
+      "q": "Why does James Dawsey mention Saudi Arabia and Iran?",
+      "options": [
+        "Because they will also host the World Cup",
+        "Because they are Qatar's main trading partners",
+        "They are huge neighbours around small Qatar",
+        "Because their teams are the favourites to win"
+      ],
+      "answer": 2,
+      "why": "He says Qatar is sandwiched between these two regional behemoths."
+    }
+  ]
+}

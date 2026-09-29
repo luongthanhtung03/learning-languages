@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people love biscuits",
+        "Lying: why we do it and how to spot it",
+        "How to win a lying competition",
+        "Why lawyers are good at their jobs"
+      ],
+      "answer": 1,
+      "why": "Rob says the topic is lying and how to detect it."
+    },
+    {
+      "q": "Why does Rob say the programme is about biscuits?",
+      "options": [
+        "It was the original topic",
+        "He was hungry",
+        "To demonstrate a lie at the start",
+        "Sam asked him to"
+      ],
+      "answer": 2,
+      "why": "He says he was lying 'simply to demonstrate our topic'."
+    },
+    {
+      "q": "How did Sam know Rob was lying?",
+      "options": [
+        "From the smirk on his face",
+        "His face turned red",
+        "He paused before answering",
+        "He shuffled his feet"
+      ],
+      "answer": 0,
+      "why": "Sam says, 'I could tell by the smirk on your face.'"
+    },
+    {
+      "q": "According to Sophie Scott, why is normal conversation often not completely truthful?",
+      "options": [
+        "Most people secretly want to cheat others for money",
+        "People often forget what they really think about things",
+        "People are afraid of being punished for being honest",
+        "We stay polite by not saying exactly what we think"
+      ],
+      "answer": 3,
+      "why": "She says cooperation is at the heart of social interaction, making conversation polite and not truthful."
+    },
+    {
+      "q": "What is the difference between deceiving someone and telling a white lie, according to the presenters?",
+      "options": [
+        "A white lie is not meant to gain an advantage",
+        "A white lie is always bigger",
+        "Deceiving is only done with actions, not words",
+        "There is no real difference"
+      ],
+      "answer": 0,
+      "why": "Sam says white lies avoid upsetting someone and aren't intended to give you an advantage."
+    },
+    {
+      "q": "According to Richard Wiseman, which is a sign someone might be lying?",
+      "options": [
+        "They talk much more than usual",
+        "They answer very quickly",
+        "They take longer to start answering",
+        "They use 'I' and 'my' a lot"
+      ],
+      "answer": 2,
+      "why": "He says liars tend to have a longer response latency before answering."
+    },
+    {
+      "q": "What else does Richard Wiseman say about the words liars use?",
+      "options": [
+        "They use many more emotional words than usual",
+        "They repeat the question before they answer it",
+        "They speak much more formally and slowly",
+        "Words like 'me', 'my' and 'I' tend to disappear"
+      ],
+      "answer": 3,
+      "why": "He says there's emotional distance, so 'me', 'my', 'I' tend to drop away."
+    },
+    {
+      "q": "What does Sam think of Rob's summary of Richard Wiseman's advice?",
+      "options": [
+        "It is completely correct and clear",
+        "It is only partly right; there's more to it",
+        "It is a lie that Rob made up himself",
+        "It is far too long and hard to follow"
+      ],
+      "answer": 1,
+      "why": "Sam says 'Sort of' and adds that there's probably more to it than that."
+    }
+  ]
+}

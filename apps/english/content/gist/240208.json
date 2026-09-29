@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "A Dutch project that tackles loneliness with soup",
+        "How to make healthy soup at home",
+        "Why students in the Netherlands have so much free time",
+        "How pets can help people feel less lonely"
+      ],
+      "answer": 0,
+      "why": "They discuss loneliness and hear about Oma's Soup, a project in the Netherlands."
+    },
+    {
+      "q": "Why is Beth feeling sad at the start?",
+      "options": [
+        "Her cat is ill",
+        "She has too much work",
+        "She has been feeling lonely",
+        "She has moved to a new city"
+      ],
+      "answer": 2,
+      "why": "She's been spending lots of time with her cat and house plants and feels a bit lonely."
+    },
+    {
+      "q": "What has research shown about loneliness?",
+      "options": [
+        "It mostly affects young people who live in cities",
+        "It raises the risk of illnesses like dementia",
+        "It only lasts a short time",
+        "It is less common in cities"
+      ],
+      "answer": 1,
+      "why": "Beth says it puts people at greater risk of health issues including dementia and heart disease."
+    },
+    {
+      "q": "What point does Neil make about being alone?",
+      "options": [
+        "People who live alone are always lonely",
+        "Being alone is bad for everyone",
+        "Loneliness only ever happens to elderly people who live alone",
+        "You can feel lonely even when surrounded by people"
+      ],
+      "answer": 3,
+      "why": "He says some people are surrounded by people but still feel disconnected."
+    },
+    {
+      "q": "How does Myra Anubi describe loneliness?",
+      "options": [
+        "Enjoying time on your own",
+        "Being too busy to see friends",
+        "Wanting company but finding it hard to connect",
+        "Living a long way away from your family and old friends"
+      ],
+      "answer": 2,
+      "why": "She says it's when you crave people's company and find it hard to connect."
+    },
+    {
+      "q": "Why did Bep de Bruin's story shock the Netherlands?",
+      "options": [
+        "Nobody noticed she had died for about 10 years",
+        "She was the oldest woman living in the whole of Rotterdam",
+        "She started the first soup kitchen",
+        "She had lost all her money"
+      ],
+      "answer": 0,
+      "why": "She was found dead in 2013, but she had been dead for 10 years."
+    },
+    {
+      "q": "Why did Max and Martijn start Oma's Soup?",
+      "options": [
+        "They wanted to open their own soup restaurant in Rotterdam",
+        "Their university asked them to",
+        "They needed jobs for the summer",
+        "Older people were lonely, and students had free time"
+      ],
+      "answer": 3,
+      "why": "Claire Bates says they were concerned about their grandparents' generation and had friends with free time."
+    },
+    {
+      "q": "Why does Beth mention that the project has spread to Rotterdam?",
+      "options": [
+        "To show that the project is in trouble",
+        "To show Bep's death led to something hopeful",
+        "To explain where the soup is made",
+        "To say that Rotterdam has the most lonely people"
+      ],
+      "answer": 1,
+      "why": "She says Rotterdam was Bep's hometown, making her death the spark for something more hopeful."
+    }
+  ]
+}

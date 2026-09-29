@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to learn a new language quickly",
+        "The history of the English language in modern Australia",
+        "Endangered languages, and how one came back to life",
+        "Why missionaries wrote dictionaries"
+      ],
+      "answer": 2,
+      "why": "They discuss what can be done to save languages, and how Barngarla came back to life."
+    },
+    {
+      "q": "What do the greetings Phil plays at the start have in common?",
+      "options": [
+        "They are all from Europe",
+        "They are all very easy to learn",
+        "They all come from one family of languages",
+        "They are all endangered languages"
+      ],
+      "answer": 3,
+      "why": "Phil says the one thing uniting these languages is that they're all endangered."
+    },
+    {
+      "q": "What did the study by the Australian National University find?",
+      "options": [
+        "Half of the world's 7,000 languages are under threat",
+        "Most languages are growing",
+        "Only 200 languages are still spoken",
+        "Australia has more languages than any other country in the world"
+      ],
+      "answer": 0,
+      "why": "It found that out of the world's 7000 languages, half are under threat."
+    },
+    {
+      "q": "Why did many Aboriginal languages die out?",
+      "options": [
+        "People chose to speak English instead because it was useful",
+        "Children were taken away and made to learn English",
+        "There were no written dictionaries",
+        "The languages were too difficult to learn"
+      ],
+      "answer": 1,
+      "why": "Neil says children were removed from their mothers and sent to schools far away to learn English."
+    },
+    {
+      "q": "What is true about the Barngarla language today?",
+      "options": [
+        "It has no speakers at all",
+        "Parents and children speak it, and it's taught in school",
+        "It is only used by a few older people in church services",
+        "It is only written, never spoken"
+      ],
+      "answer": 1,
+      "why": "Phil says today it's spoken between parents and children, and even learned in school."
+    },
+    {
+      "q": "How did Professor Ghil'ad Zuckermann help bring Barngarla back?",
+      "options": [
+        "Using a dictionary written by a missionary in 1844",
+        "Recording the last native speaker",
+        "Inventing new words for it",
+        "Translating the whole Bible into Barngarla for schools"
+      ],
+      "answer": 0,
+      "why": "He used a dictionary with up to 3500 words written by a German missionary in 1844."
+    },
+    {
+      "q": "Why does Professor Zuckermann say “heathens” in quotation marks?",
+      "options": [
+        "Because it is a Barngarla word for visitors",
+        "Because he is reading from the Bible",
+        "Because he can't remember the right word",
+        "Because he doesn't think the word is fair"
+      ],
+      "answer": 3,
+      "why": "Neil says he's questioning the word and doesn't think Aboriginals are heathens at all."
+    },
+    {
+      "q": "Why does Professor Zuckermann call the situation “topsy-turvy”?",
+      "options": [
+        "The dictionary was printed upside down",
+        "The missionaries spoke Barngarla very badly and made mistakes",
+        "A tool once used against the language is now saving it",
+        "The language was saved by accident"
+      ],
+      "answer": 2,
+      "why": "He's using a tool written for one goal to achieve the diametrically opposite goal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The invention of the telephone",
+        "Why Stephen Fry finds phone calls embarrassing",
+        "How to make cheap long-distance calls",
+        "Why British people love technology"
+      ],
+      "answer": 1,
+      "why": "They discuss Stephen Fry's view that talking on the phone is embarrassing and awkward."
+    },
+    {
+      "q": "What is Stephen Fry known for, according to Sam?",
+      "options": [
+        "Being very intelligent and knowledgeable",
+        "Inventing new phones and mobile apps",
+        "Hating all technology, even computers",
+        "Being a famous singer in the 1980s"
+      ],
+      "answer": 0,
+      "why": "Sam says he's known for being extremely intelligent and very knowledgeable."
+    },
+    {
+      "q": "Why is it surprising that Stephen Fry doesn't like the telephone?",
+      "options": [
+        "He works for a phone company",
+        "He talks a lot on the radio",
+        "He loves technology",
+        "He lives abroad"
+      ],
+      "answer": 2,
+      "why": "Neil says he's a technophile, 'but he's not a fan of the phone!'"
+    },
+    {
+      "q": "What point does the George Bernard Shaw quote make?",
+      "options": [
+        "English people are very polite on the phone",
+        "English people talk far too much about the weather",
+        "English people love long phone calls with friends",
+        "English people judge each other harshly by speech"
+      ],
+      "answer": 3,
+      "why": "As soon as one English person speaks, another despises them."
+    },
+    {
+      "q": "What can people guess about you from your voice, according to Stephen Fry?",
+      "options": [
+        "Your age, class and education",
+        "Your job and salary",
+        "Your height and weight",
+        "Your favourite hobbies"
+      ],
+      "answer": 0,
+      "why": "He says age, class, education and vocabulary all come into play."
+    },
+    {
+      "q": "Why does the fact that calls happen in real time make it worse?",
+      "options": [
+        "Calls are too expensive to last very long",
+        "You have no time to think about what you say",
+        "The line is often bad and hard to hear",
+        "Other people nearby can listen to you talking"
+      ],
+      "answer": 1,
+      "why": "Sam says they happen live, so you have no time to really think about it."
+    },
+    {
+      "q": "Who does Stephen Fry especially hate talking to on the phone?",
+      "options": [
+        "His family, especially his parents",
+        "Journalists who want an interview",
+        "Strangers, for example in shops",
+        "Other comedians he has worked with"
+      ],
+      "answer": 2,
+      "why": "He says 'especially strangers in shops and things like that'."
+    },
+    {
+      "q": "What is Sam's opinion?",
+      "options": [
+        "Class is more important now than it was in the past",
+        "Stephen Fry is completely wrong about phone calls",
+        "She loves talking to strangers on the phone every day",
+        "We still judge people by how they speak, often wrongly"
+      ],
+      "answer": 3,
+      "why": "She says we still make judgements based on how people speak, which can be completely false."
+    }
+  ]
+}

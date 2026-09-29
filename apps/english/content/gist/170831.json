@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to tell a good joke to a large audience",
+        "Why children laugh much more often than adults",
+        "Famous comedians and their most popular TV shows",
+        "How laughing affects the body, in good and bad ways"
+      ],
+      "answer": 3,
+      "why": "Neil says they're talking about laughter and how it could kill you, and Tim argues it's good for you."
+    },
+    {
+      "q": "Why is Tim laughing at the start of the show?",
+      "options": [
+        "Neil told him a joke before the show",
+        "Something the producer said made him laugh",
+        "He was watching a funny video on his phone",
+        "He choked on his water and started coughing"
+      ],
+      "answer": 1,
+      "why": "Tim says it was 'something our producer said before I came into the studio'."
+    },
+    {
+      "q": "How does Tim react when Neil says laughing could kill you?",
+      "options": [
+        "He agrees and immediately stops laughing",
+        "He thinks it's a great joke and laughs even more",
+        "He says everyone knows laughing is good for you",
+        "He asks Neil for scientific proof of the idea"
+      ],
+      "answer": 2,
+      "why": "Tim says 'That's not funny! Laughing is good for you – everyone knows that!'"
+    },
+    {
+      "q": "According to Sophie Scott, why can laughter be dangerous?",
+      "options": [
+        "It squeezes air out and doesn't let you breathe in",
+        "It makes your heart beat much too fast for too long",
+        "It raises your blood pressure to a dangerous level",
+        "It makes you forget to eat and drink properly"
+      ],
+      "answer": 0,
+      "why": "She says laughter squeezes the muscles so air goes out, and 'it does not want to let you breathe in'."
+    },
+    {
+      "q": "What benefits of laughing does Tim mention?",
+      "options": [
+        "It helps you sleep and lose weight",
+        "It makes you more intelligent",
+        "It releases happy hormones and reduces pain",
+        "It makes your lungs stronger"
+      ],
+      "answer": 2,
+      "why": "Tim says the body releases happy hormones and people feel less pain after a good laugh."
+    },
+    {
+      "q": "What did the research on laughter and pain find?",
+      "options": [
+        "Any kind of laugh reduces pain",
+        "Laughing makes pain worse",
+        "Only children feel less pain after laughing",
+        "Big laughs reduce pain, but small chuckles don't"
+      ],
+      "answer": 3,
+      "why": "Tim says a small chuckle doesn't act as a painkiller, but laughing a lot does."
+    },
+    {
+      "q": "Why does Tim want to pinch Neil after his big laugh?",
+      "options": [
+        "To test if the laugh made him feel less pain",
+        "To stop him laughing so loudly in the studio",
+        "Because Neil annoyed him with his silly joke",
+        "To wake him up because he looks very tired"
+      ],
+      "answer": 0,
+      "why": "Tim asks to pinch Neil 'and test whether you feel any pain' after his guffaw."
+    },
+    {
+      "q": "What does Tim conclude at the end?",
+      "options": [
+        "Laughing is too dangerous for adults",
+        "We all need to laugh more",
+        "Children should laugh less",
+        "Neil is right about laughter"
+      ],
+      "answer": 1,
+      "why": "Tim says 'we all need to laugh more' and Neil shouldn't say laughing is dangerous."
+    }
+  ]
+}

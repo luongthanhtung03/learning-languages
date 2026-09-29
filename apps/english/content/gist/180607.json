@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How virtual assistants change the way we use technology",
+        "How to fix a broken smartphone",
+        "Why people are losing their watches",
+        "The best smart speakers and phones to buy for your home"
+      ],
+      "answer": 0,
+      "why": "They discuss virtual assistants and how they are changing the way we interact with technology."
+    },
+    {
+      "q": "Why did Rob ask Dan the time at the start?",
+      "options": [
+        "His watch was broken",
+        "He wanted to make a joke",
+        "He was trying to introduce the topic",
+        "He was late for a meeting"
+      ],
+      "answer": 2,
+      "why": "Rob says 'I was trying to introduce today's topic which is all about virtual assistants'."
+    },
+    {
+      "q": "According to Tom Hewitson, how have we mostly thought of computers until now?",
+      "options": [
+        "As friends",
+        "As tools, like an advanced calculator",
+        "As dangerous machines",
+        "As toys"
+      ],
+      "answer": 1,
+      "why": "He says we've thought of them largely as tools, 'just an advanced version of a calculator'."
+    },
+    {
+      "q": "How does Hewitson say virtual assistants are changing computers?",
+      "options": [
+        "They are making them cheaper",
+        "They are making them smaller, so they fit in our pockets and homes",
+        "They are making them slower",
+        "They are making them active participants that guide us"
+      ],
+      "answer": 3,
+      "why": "He says they are becoming 'an active participant in the interaction and in guiding you'."
+    },
+    {
+      "q": "What does Rob joke his virtual assistant would tell him?",
+      "options": [
+        "He spends too much time in fast food restaurants",
+        "He talks too much",
+        "He spends too much time in the gym",
+        "He needs a new watch"
+      ],
+      "answer": 2,
+      "why": "Rob says 'Mine would be telling me I spend too much time in the gym!'"
+    },
+    {
+      "q": "According to Hewitson, what won't we need to do when talking to machines?",
+      "options": [
+        "Speak clearly",
+        "Make small talk so the machine likes us",
+        "Ask short, direct questions without any extra words",
+        "Use our own language"
+      ],
+      "answer": 1,
+      "why": "He says 'you don't need to make the machine like you' or make random chit-chat."
+    },
+    {
+      "q": "How does Hewitson think our language with machines will be?",
+      "options": [
+        "More polite than with people",
+        "Exactly the same as with people",
+        "Full of jokes",
+        "More direct and less polite"
+      ],
+      "answer": 3,
+      "why": "He says it can be 'much more brusque and to the point'."
+    },
+    {
+      "q": "Why does Dan mention that the IBM Shoebox recognised 16 words?",
+      "options": [
+        "To joke that Rob knows about as many words",
+        "To show computers were very clever then",
+        "To explain how bots learn",
+        "To say it was better than modern assistants"
+      ],
+      "answer": 0,
+      "why": "Dan says 'That's nearly as many as you!' and Rob replies 'Cheeky!'"
+    }
+  ]
+}

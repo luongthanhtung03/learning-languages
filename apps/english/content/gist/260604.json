@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to write poems that rhyme and are easy to learn",
+        "How poetry helps emotionally and explains big ideas",
+        "Why poetry is no longer taught at many schools",
+        "The life and work of a famous English poet"
+      ],
+      "answer": 1,
+      "why": "They discuss the positive power of poetry: healing emotions and explaining global issues like climate change."
+    },
+    {
+      "q": "How does Neil feel about poetry?",
+      "options": [
+        "He writes a new poem every week for his family",
+        "He thinks poetry is really only for children",
+        "He goes to open mic nights in London quite often",
+        "He'd like to read more, but doesn't get it"
+      ],
+      "answer": 3,
+      "why": "Neil says he would love to read more poetry, but he just doesn't get it."
+    },
+    {
+      "q": "What is Maria's poem 'Stroke' about?",
+      "options": [
+        "A friend she loves who had a stroke",
+        "Learning to swim in the sea as an adult",
+        "Her own long time in hospital last year",
+        "Painting a picture of her garden"
+      ],
+      "answer": 0,
+      "why": "Maria says she wrote it about a friend she loves dearly, who suffered a stroke."
+    },
+    {
+      "q": "What does Maria say about going to an open mic night?",
+      "options": [
+        "It makes her feel too nervous to perform",
+        "It's mainly for professional, published poets",
+        "It can make life feel better, even on a bad day",
+        "It's usually too noisy to hear the poems"
+      ],
+      "answer": 2,
+      "why": "She says even if you're having a bad day, life can feel so much better after one."
+    },
+    {
+      "q": "What does the group Hot Poets do?",
+      "options": [
+        "Teach poetry to young children in primary schools",
+        "Publish books of love poems by new writers",
+        "Organise climate protests in big cities",
+        "Hear science talks, then perform poems about them"
+      ],
+      "answer": 3,
+      "why": "They go to meetings like the UN Climate Conference, listen to papers, then write and perform poems."
+    },
+    {
+      "q": "What is Liv Torc's poem based on?",
+      "options": [
+        "A study about biodiversity",
+        "A true murder case at sea",
+        "A trip to see whales",
+        "Her childhood by the sea"
+      ],
+      "answer": 0,
+      "why": "Pippa says Liv's poem is based on a study into biodiversity."
+    },
+    {
+      "q": "According to Liv, what is the problem with how science is communicated?",
+      "options": [
+        "Scientists refuse to talk to the public about it",
+        "There are not enough scientific studies being done",
+        "The jargon is hard to follow, so people lose interest",
+        "Science is only published in English journals"
+      ],
+      "answer": 2,
+      "why": "She says the jargon is hard to understand and the science is impenetrable, 'so it's instantly a turn-off'."
+    },
+    {
+      "q": "What does scientist Kat Bruce suggest about Liv's poem?",
+      "options": [
+        "It made her research sound much too simple",
+        "It says what she wished she could say herself",
+        "It contained some serious scientific mistakes",
+        "She didn't really understand what it meant"
+      ],
+      "answer": 1,
+      "why": "Kat says it still gives her goosebumps and is 'everything that I wish I could say'."
+    }
+  ]
+}

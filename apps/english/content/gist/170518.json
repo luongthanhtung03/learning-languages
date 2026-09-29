@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to look after a goldfish in a small bowl at home",
+        "Whether our ability to focus is really getting shorter",
+        "Why smartphones are becoming cheaper every year",
+        "How newspapers report science stories to the public"
+      ],
+      "answer": 1,
+      "why": "Neil says they're talking about attention spans and asking if they are shrinking."
+    },
+    {
+      "q": "What did the Microsoft report claim?",
+      "options": [
+        "Attention spans rose from 8 seconds to 12 seconds since 2000",
+        "Goldfish can focus for 12 seconds, longer than most people",
+        "People look at their phones for 12 hours a day on average",
+        "Attention spans fell from 12 seconds in 2000 to 8 seconds"
+      ],
+      "answer": 3,
+      "why": "Neil says the average attention span was 12 seconds in 2000 and has fallen to eight."
+    },
+    {
+      "q": "What do many people blame for this change?",
+      "options": [
+        "Digital media and smartphones",
+        "Watching too much television",
+        "Not getting enough sleep",
+        "Working longer hours"
+      ],
+      "answer": 0,
+      "why": "Catherine says 2000 was just before the boom in digital media and smartphones, which many blame."
+    },
+    {
+      "q": "What attention span are goldfish said to have?",
+      "options": [
+        "Three seconds",
+        "Eight seconds",
+        "Nine seconds",
+        "Twelve seconds"
+      ],
+      "answer": 2,
+      "why": "Neil says goldfish reportedly have an attention span of nine seconds, one more than humans."
+    },
+    {
+      "q": "What did the BBC programme More or Less discover about the Microsoft claim?",
+      "options": [
+        "It was completely correct and based on good research",
+        "The research only studied children in American schools",
+        "It couldn't find the research the report was based on",
+        "Microsoft had tested goldfish in its own laboratory"
+      ],
+      "answer": 2,
+      "why": "They couldn't find evidence of the research Microsoft quoted in its report."
+    },
+    {
+      "q": "What did the psychologist tell More or Less about 'attention span'?",
+      "options": [
+        "It is a common term but hard to measure scientifically",
+        "It is easy to measure with a simple test on a computer",
+        "It is only important for students who are taking exams",
+        "It is the same for everyone, whatever their age"
+      ],
+      "answer": 0,
+      "why": "Neil says there are problems with measuring attention spans; the term is 'not very scientific'."
+    },
+    {
+      "q": "What is Dr Gemma Briggs's view?",
+      "options": [
+        "Smartphones have seriously damaged our brains and memory",
+        "People can no longer focus on one single task for very long",
+        "Attention spans are exactly the same as they were before",
+        "We may switch attention more, but can still focus when needed"
+      ],
+      "answer": 3,
+      "why": "She says switching ability may have developed, but that doesn't mean we can't sustain attention on another task."
+    },
+    {
+      "q": "What conclusion does Catherine reach?",
+      "options": [
+        "Humans really are worse at paying attention than goldfish now",
+        "Our attention may be fine; we just choose to look at phones more",
+        "We should all stop using smartphones for a few hours a day",
+        "Multitasking is bad for us and makes us much less productive"
+      ],
+      "answer": 1,
+      "why": "She says maybe attention spans aren't getting shorter, 'we just choose to look at our phones a lot more'."
+    }
+  ]
+}

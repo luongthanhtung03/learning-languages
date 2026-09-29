@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to keep cool in hot weather without air conditioning",
+        "Why people buy bottled water when tap water is free",
+        "Which fizzy drinks are the healthiest for children",
+        "How plastic bottles are collected and recycled"
+      ],
+      "answer": 1,
+      "why": "Rob asks why people don't just drink tap water, and they discuss bottled water and its marketing."
+    },
+    {
+      "q": "Why does Neil say he prefers his bottled water?",
+      "options": [
+        "It is cheaper than other drinks",
+        "It is colder than tap water",
+        "It has added salts and minerals and tastes better",
+        "It comes in a bottle that can be reused"
+      ],
+      "answer": 2,
+      "why": "Neil says it's enriched with salts and minerals and 'tastes better'."
+    },
+    {
+      "q": "What change in the UK does Neil mention?",
+      "options": [
+        "Bottled water is now more popular than cola",
+        "People now drink more tap water than before",
+        "Cola sales have doubled",
+        "Supermarkets have stopped selling bottled water"
+      ],
+      "answer": 0,
+      "why": "He says 'for the first time in the UK, bottled water is more popular than cola'."
+    },
+    {
+      "q": "What does Natalie Fee's organisation, City to Sea, campaign against?",
+      "options": [
+        "Fizzy drinks",
+        "Dirty tap water",
+        "Expensive supermarkets",
+        "Plastic pollution"
+      ],
+      "answer": 3,
+      "why": "Rob says City to Sea campaigns against plastic pollution, which bottled water causes a lot of."
+    },
+    {
+      "q": "According to Natalie Fee, what did bottled water companies do?",
+      "options": [
+        "Made tap water cleaner by paying for new pipes",
+        "Spent millions on adverts making people fear tap water",
+        "Lowered their prices to beat cola and other fizzy drinks",
+        "Paid for taste tests in schools to attract children"
+      ],
+      "answer": 1,
+      "why": "She says they spent millions on adverts 'scaring us off of tap water'."
+    },
+    {
+      "q": "What does Natalie Fee say about tap water?",
+      "options": [
+        "It's better controlled than bottled water and wins taste tests",
+        "It is less healthy than bottled water because of chemicals",
+        "It needs added minerals to be as good as bottled water",
+        "It tastes worse than bottled water, but it is much cheaper"
+      ],
+      "answer": 0,
+      "why": "She says tap water is more regulated and 'comes up trumps' in taste tests most times."
+    },
+    {
+      "q": "What does Rob mean when he says 'As cheap as that?' about the £80 iceberg water?",
+      "options": [
+        "He thinks it is a good price",
+        "He wants to buy some for Neil",
+        "He thinks Neil has got the price wrong",
+        "He is joking, because it is very expensive"
+      ],
+      "answer": 3,
+      "why": "Rob is being sarcastic; £80 a bottle is a very high price for water."
+    },
+    {
+      "q": "What happens in the taste test at the end?",
+      "options": [
+        "Neil can't tell the two waters apart and gives up",
+        "Rob prefers the bottled water because it tastes softer",
+        "Neil says the tap water tastes better without knowing it",
+        "Neil refuses to try the tap water from the kitchen"
+      ],
+      "answer": 2,
+      "why": "Neil says the second one tastes 'definitely' better, and Rob reveals it's the tap water."
+    }
+  ]
+}

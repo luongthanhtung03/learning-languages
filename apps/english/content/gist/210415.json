@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Naturism and why some people enjoy being naked outdoors",
+        "How to stay warm while walking in winter",
+        "The laws about clothing in different countries",
+        "Why people swim in cold seas for charity"
+      ],
+      "answer": 0,
+      "why": "They discuss naturists and why being naked in nature might be good for us."
+    },
+    {
+      "q": "How does Neil feel about being naked in public?",
+      "options": [
+        "He does it every summer",
+        "He'd like to try it one day",
+        "It's not his idea of fun",
+        "He thinks it should be illegal"
+      ],
+      "answer": 2,
+      "why": "Neil says stripping off publicly 'is not my idea of fun'."
+    },
+    {
+      "q": "What does Donna Price say it feels like to be naked in nature?",
+      "options": [
+        "Cold and uncomfortable, especially in the wind",
+        "A lovely feeling of freedom and connection with nature",
+        "Embarrassing at first, and then rather boring",
+        "Exciting, because it feels a little bit dangerous"
+      ],
+      "answer": 1,
+      "why": "She talks about being at one with nature and a great feeling of liberation and freedom."
+    },
+    {
+      "q": "What does Donna Price advise people who are new to naturism?",
+      "options": [
+        "Go for a long naked walk in the countryside straight away",
+        "Join a large naturist group before trying it alone",
+        "Only try it on holiday, far away from where you live",
+        "Start at home or in the garden until it feels normal"
+      ],
+      "answer": 3,
+      "why": "She says she'd never advise a naked walk first; do it at home or in your garden to get comfortable."
+    },
+    {
+      "q": "What does Georgina ask after hearing Donna talk about being at one with nature?",
+      "options": [
+        "Whether it's actually legal to walk around naked",
+        "Whether it's too cold to do it in the British winter",
+        "Whether you could feel that with your clothes on",
+        "Whether Neil would like to try naked rambling himself"
+      ],
+      "answer": 2,
+      "why": "Georgina asks, 'couldn't you do that with your clothes on?'"
+    },
+    {
+      "q": "What does Neil say about the law in the UK?",
+      "options": [
+        "It's generally not against the law to be naked in public",
+        "Being naked outdoors is only allowed on special beaches",
+        "Naturists must get a special licence from the council",
+        "It is illegal everywhere outdoors, even in your garden"
+      ],
+      "answer": 0,
+      "why": "Neil says in the UK it's generally not against the law to be naked in public."
+    },
+    {
+      "q": "According to Donna Price, how do most members of the public react when they meet naked walkers?",
+      "options": [
+        "They call the police",
+        "They are shocked and angry",
+        "They ignore them completely",
+        "They are mostly encouraging"
+      ],
+      "answer": 3,
+      "why": "She says the majority of responses are actually very encouraging."
+    },
+    {
+      "q": "Why won't Georgina be trying naked rambling soon?",
+      "options": [
+        "Her friends and family would laugh at her",
+        "It's too cold and she doesn't want insect bites",
+        "She lives in a big city, far from the countryside",
+        "She thinks it is wrong to be naked in public"
+      ],
+      "answer": 1,
+      "why": "She says it's too cold and she doesn't want to be bitten by bugs in the countryside."
+    }
+  ]
+}

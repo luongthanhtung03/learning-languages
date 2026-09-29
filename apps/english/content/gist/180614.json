@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How football teams prepare for a tournament",
+        "Different feelings people have about the World Cup",
+        "Why Russia was chosen to host the World Cup",
+        "The history of the World Cup mascot"
+      ],
+      "answer": 1,
+      "why": "They hear from people with different viewpoints, some excited and some not, about the World Cup."
+    },
+    {
+      "q": "How do Neil and Rob feel about the World Cup?",
+      "options": [
+        "Both are very excited",
+        "Both are completely uninterested",
+        "Neil is very excited, but Rob is only a little interested",
+        "Rob is very excited about it, but Neil isn't really interested"
+      ],
+      "answer": 2,
+      "why": "Neil says he's very excited, while Rob will 'just be taking a passing interest'."
+    },
+    {
+      "q": "Who won the previous World Cup in 2014, according to Rob?",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "Iceland",
+        "Germany"
+      ],
+      "answer": 3,
+      "why": "Rob says it was Germany, and they beat Lionel Messi's Argentina in the final."
+    },
+    {
+      "q": "Apart from the football itself, what does Keith enjoy about the World Cup?",
+      "options": [
+        "Learning about teams and stories from around the world",
+        "Meeting famous players",
+        "Travelling to other countries to watch the matches",
+        "Winning money on bets"
+      ],
+      "answer": 0,
+      "why": "He says you get to know about teams in other parts of the world and the stories off the pitch."
+    },
+    {
+      "q": "What does Jane enjoy seeing in the tournament?",
+      "options": [
+        "The favourites winning easily",
+        "Weaker teams doing surprisingly well",
+        "Her own team winning",
+        "Famous players scoring goals"
+      ],
+      "answer": 1,
+      "why": "Jane says it's great 'to see the underdogs that are going to come through'."
+    },
+    {
+      "q": "Why is Jeff not excited about the World Cup?",
+      "options": [
+        "He thinks football lacks fair play and is too corporate",
+        "He can't afford the tickets",
+        "His team isn't playing",
+        "The matches are on too late at night for him to watch them"
+      ],
+      "answer": 0,
+      "why": "He says there's not a lot of sportsmanship, it's very corporate and there's cheating."
+    },
+    {
+      "q": "What is Inga's view of the World Cup?",
+      "options": [
+        "It is the best event in the world",
+        "It is too expensive to watch on TV or at the stadium",
+        "It is too long",
+        "There is too much excitement about nothing"
+      ],
+      "answer": 3,
+      "why": "Inga says 'It's just too much hype about nothing really.'"
+    },
+    {
+      "q": "Why does Rob call Jeff and Inga 'sensible people'?",
+      "options": [
+        "Because they know a lot about football and the players",
+        "Because they support England",
+        "Like him, they aren't excited about the World Cup",
+        "Because they gave the right quiz answer"
+      ],
+      "answer": 2,
+      "why": "Rob isn't very interested in the World Cup, so he agrees with the people who aren't bothered."
+    }
+  ]
+}

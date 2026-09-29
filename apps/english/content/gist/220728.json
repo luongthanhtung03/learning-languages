@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why old-fashioned idioms are better than new ones",
+        "How sports have changed the English language",
+        "New idioms and where they come from",
+        "Why young people don't use idioms any more"
+      ],
+      "answer": 2,
+      "why": "Sam says they'll learn modern idioms that have come into English through the internet, TV and social media."
+    },
+    {
+      "q": "Why is Rob confused at the start of the programme?",
+      "options": [
+        "He thinks Sam wants to go shopping",
+        "He thinks Sam wants to borrow some money",
+        "He doesn't know that the programme has started",
+        "He can't hear what Sam is saying"
+      ],
+      "answer": 0,
+      "why": "When Sam says she has to 'spend a penny', Rob asks, 'You're going shopping now, are you?'"
+    },
+    {
+      "q": "What does Rob think about the phrase 'spend a penny'?",
+      "options": [
+        "It is a new phrase that came from social media",
+        "It is still used by most young people today",
+        "It is only used in very formal situations",
+        "It is old, and young people wouldn't know it"
+      ],
+      "answer": 3,
+      "why": "Rob says Sam is 'showing her age' and most young people today wouldn't know what it meant."
+    },
+    {
+      "q": "Why did Dr Gareth Carrol become interested in modern idioms?",
+      "options": [
+        "He wanted to write a book about famous films",
+        "He didn't know many phrases his students used",
+        "His students asked him to explain old idioms",
+        "He was asked to teach a course on social media"
+      ],
+      "answer": 1,
+      "why": "Sam says he realised he didn't know many of the expressions his students used in everyday speech."
+    },
+    {
+      "q": "What surprised Gareth Carrol about the phrase 'Groundhog Day'?",
+      "options": [
+        "Very few people used it in everyday speech",
+        "It had a completely different meaning in the film",
+        "Some students knew it but not that it was a film",
+        "It was invented by one of his students"
+      ],
+      "answer": 2,
+      "why": "He says a number of students knew the phrase but 'had no idea it was a film'."
+    },
+    {
+      "q": "What does Michael Rosen say about the phrase 'go viral'?",
+      "options": [
+        "It has now completely disappeared from use",
+        "It was first used in a famous film",
+        "It is only used by doctors and scientists",
+        "It came early in the internet age and stayed"
+      ],
+      "answer": 3,
+      "why": "Michael Rosen says, 'In the early days we had go viral which has stayed with us.'"
+    },
+    {
+      "q": "According to Gareth Carrol, where did 'first-world problems' begin?",
+      "options": [
+        "As a hashtag on Twitter",
+        "In a popular TV comedy",
+        "In a newspaper article",
+        "In a famous movie title"
+      ],
+      "answer": 0,
+      "why": "He says the phrase 'started life as Twitter hashtag'."
+    },
+    {
+      "q": "Why does Rob tell listeners not to worry if they don't know these idioms?",
+      "options": [
+        "Because most of these idioms will soon disappear",
+        "Native speakers only fully know idioms at 30 to 40",
+        "Because idioms are never used in exams or at work",
+        "Because the classic idioms are no longer used"
+      ],
+      "answer": 1,
+      "why": "He says a native speaker's full knowledge of idioms develops at around the age of thirty to forty."
+    }
+  ]
+}

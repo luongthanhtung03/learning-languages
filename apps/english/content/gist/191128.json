@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The dangers of swimming in cold lakes in winter",
+        "A record-breaking free diver and his experiences",
+        "How air pressure changes as you climb high mountains",
+        "How to learn to scuba dive safely as a beginner"
+      ],
+      "answer": 1,
+      "why": "They talk about Herbert Nitsch, who holds the world record for the deepest free dive."
+    },
+    {
+      "q": "What is free diving?",
+      "options": [
+        "Diving with air tanks in the ocean",
+        "Jumping into water from a great height",
+        "Diving deep while only holding your breath",
+        "Diving without paying for lessons"
+      ],
+      "answer": 2,
+      "why": "Georgina says divers go as deep as they can without air tanks, just holding their breath."
+    },
+    {
+      "q": "How deep did Herbert Nitsch dive in 2012?",
+      "options": [
+        "253 metres",
+        "100 metres",
+        "10 metres",
+        "523 metres"
+      ],
+      "answer": 0,
+      "why": "Neil says in 2012 he reached a depth of 253 metres."
+    },
+    {
+      "q": "Why does Nitsch train with empty lungs?",
+      "options": [
+        "It helps him swim faster and go deeper each time",
+        "It is much safer than training with full lungs",
+        "Full lungs make him float back up to the surface",
+        "The urge to breathe comes sooner, so he fights it"
+      ],
+      "answer": 3,
+      "why": "He says the real training is only the time you have the urge to breathe and fight against it."
+    },
+    {
+      "q": "According to Georgina, why is taking a big breath a waste of time in training?",
+      "options": [
+        "Holding your breath is easy when you don't need air",
+        "It makes you feel dizzy and you might pass out",
+        "Your lungs can't physically hold that much extra air",
+        "It uses up too much energy before the dive starts"
+      ],
+      "answer": 0,
+      "why": "She says holding your breath when you don't need to breathe isn't difficult."
+    },
+    {
+      "q": "How did Nitsch feel when he first dived in lakes?",
+      "options": [
+        "Excited and relaxed",
+        "Bored because it was too quiet",
+        "Scared and uneasy",
+        "Too cold to continue"
+      ],
+      "answer": 2,
+      "why": "He says it was 'very spooky' and 'quite intimidating' at the beginning."
+    },
+    {
+      "q": "What did Nitsch learn to appreciate about lake diving?",
+      "options": [
+        "The beautiful fish swimming all around him",
+        "How warm the water was compared with the sea",
+        "The bright colours of the plants on the lake bed",
+        "The total silence, so he can hear his heartbeat"
+      ],
+      "answer": 3,
+      "why": "He appreciates that it's so quiet you hear your own heart beat."
+    },
+    {
+      "q": "Would the presenters like to try deep free diving?",
+      "options": [
+        "Only Georgina would",
+        "Neither of them would",
+        "Both would like to try",
+        "Only Neil would"
+      ],
+      "answer": 1,
+      "why": "Neil says 'Rather him than me' and Georgina says 'no thank you!'"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to train a dog",
+        "How British attitudes to pets have changed",
+        "Why cats are more popular than dogs",
+        "Pets that have become famous on social media"
+      ],
+      "answer": 1,
+      "why": "Neil says they'll hear how our relationship with pets has changed over the centuries."
+    },
+    {
+      "q": "Why does Neil say he is a “dog person”?",
+      "options": [
+        "Dogs are cheaper and easier to keep than cats",
+        "He grew up with dogs",
+        "He is allergic to cats",
+        "He wants a friendly pet that loves him"
+      ],
+      "answer": 3,
+      "why": "He wants a pet that's friendly and loves him, not a lazy cat waiting for food."
+    },
+    {
+      "q": "What happened in the UK for the first time in 2021?",
+      "options": [
+        "More homes had a pet than didn't",
+        "Cats became more popular than dogs",
+        "Half of all pets joined social media",
+        "Owners stopped keeping pets indoors"
+      ],
+      "answer": 0,
+      "why": "18 million homes had a pet, so for the first time there were more households with one than without."
+    },
+    {
+      "q": "What changed in the 1800s?",
+      "options": [
+        "Pets were banned from homes in most of the big cities in Britain",
+        "People stopped keeping dogs",
+        "People began using the word “pet” and keeping pets indoors",
+        "Pets were first used for hunting"
+      ],
+      "answer": 2,
+      "why": "Neil says people started using the word “pet” and gradually it became normal to keep pets indoors."
+    },
+    {
+      "q": "What practical reason does Professor Jane Hamlett give for more people keeping pets?",
+      "options": [
+        "Living standards rose, so people had more money to spare",
+        "Pets became cheaper to buy",
+        "The government gave people pets",
+        "People needed animals like big dogs to protect their homes"
+      ],
+      "answer": 0,
+      "why": "She says living standards increased, and it became possible with more disposable income."
+    },
+    {
+      "q": "What cultural reason does Professor Hamlett give?",
+      "options": [
+        "People wanted to show off their pets to their neighbours",
+        "Families became more important, and pets joined them",
+        "Churches encouraged people to keep animals",
+        "Children demanded pets"
+      ],
+      "answer": 1,
+      "why": "She says home and family were celebrated, and animals became part of the family."
+    },
+    {
+      "q": "Why does Georgie mention Charles Dickens?",
+      "options": [
+        "He wrote the very first book about keeping pets at home",
+        "He hated dogs",
+        "He is an example of a Victorian with an unusual pet",
+        "He started the phrase “nation of dog lovers”"
+      ],
+      "answer": 2,
+      "why": "After mentioning exotic Victorian pets, she says even Dickens owned a pet raven."
+    },
+    {
+      "q": "According to Professor Hamlett, why were dogs the top pet for the Victorians?",
+      "options": [
+        "Dogs were easier to feed than cats",
+        "Dogs were brought back to Britain from all over the empire",
+        "Queen Victoria owned many dogs",
+        "Dogs had qualities, like loyalty, that Victorians admired"
+      ],
+      "answer": 3,
+      "why": "She says loyalty, trustfulness and steadfastness were key parts of the Victorian manly character."
+    }
+  ]
+}

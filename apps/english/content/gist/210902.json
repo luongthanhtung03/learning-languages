@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "English expressions that compare people to animals",
+        "Why gorillas are cleverer than chimpanzees",
+        "How scientists teach chimps to use tools",
+        "How chimpanzee politics is similar to human politics"
+      ],
+      "answer": 3,
+      "why": "Sam says chimps have their own politics which is surprisingly similar to human politics."
+    },
+    {
+      "q": "Why does Sam find it strange that nobody says 'as clever as a chimpanzee'?",
+      "options": [
+        "Because chimps are our close cousins and very like us",
+        "Because chimps are the cleverest animals of all",
+        "Because the expression exists in other languages",
+        "Because bees are not very clever"
+      ],
+      "answer": 0,
+      "why": "He says it's strange because chimpanzees are our close cousins who are most like us."
+    },
+    {
+      "q": "What surprising fact does Neil mention about chimps?",
+      "options": [
+        "They live alone most of the time",
+        "They have no leaders",
+        "They are more like humans than like gorillas",
+        "They are less intelligent than horses"
+      ],
+      "answer": 2,
+      "why": "Neil asks, 'Did you know that a chimp is more like a human than like a gorilla?'"
+    },
+    {
+      "q": "According to Professor Frans de Waal, what do older males who can't be leaders any more do?",
+      "options": [
+        "They leave the group and live alone in the forest",
+        "They help a young male become leader",
+        "They fight the alpha male together",
+        "They look after the babies"
+      ],
+      "answer": 1,
+      "why": "He says they start grooming a young male with a future and may make him the alpha male."
+    },
+    {
+      "q": "Why do these older males help the young male?",
+      "options": [
+        "Because he is their son",
+        "Because they are afraid of him",
+        "Because they want more food for the group",
+        "So they can keep their own power and influence"
+      ],
+      "answer": 3,
+      "why": "Neil says older chimps control younger males to maintain their own power and influence."
+    },
+    {
+      "q": "According to Professor Simon Hicks, what should two small parties in a parliament often do?",
+      "options": [
+        "Join the biggest party to share its power",
+        "Unite if together they have a majority",
+        "Stay in opposition",
+        "Hold a new election"
+      ],
+      "answer": 1,
+      "why": "He says the two smaller ones should get together if together they can reach more than 50% of the seats."
+    },
+    {
+      "q": "Why does Professor Hicks think small parties should avoid joining a big party?",
+      "options": [
+        "The big party would dominate and they'd get few benefits",
+        "The big party would refuse to share its voters with them",
+        "It is against the law in most countries with elections",
+        "Voters always prefer big parties to small ones in the end"
+      ],
+      "answer": 0,
+      "why": "He says the big party would dominate and they wouldn't get many of the spoils."
+    },
+    {
+      "q": "What behaviour do alpha chimps and human politicians both have, according to Neil?",
+      "options": [
+        "Giving long speeches to large crowds",
+        "Hiding food from others in their group",
+        "Kissing babies to show their softer side",
+        "Avoiding older and stronger males"
+      ],
+      "answer": 2,
+      "why": "Neil says both like to show their softer side by kissing babies."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to choose the best smartphone for children",
+        "Why adults spend too long on email",
+        "Whether children are better off without smartphones",
+        "How social media companies make money"
+      ],
+      "answer": 2,
+      "why": "They ask whether kids are better off without a phone."
+    },
+    {
+      "q": "Why does Beth not answer Neil at the start?",
+      "options": [
+        "She is on a phone call",
+        "She is busy checking her social media and email",
+        "She can't hear him",
+        "She is reading an interesting article in a magazine"
+      ],
+      "answer": 1,
+      "why": "She was checking Instagram and Facebook and sending an email, so Neil thinks she's addicted."
+    },
+    {
+      "q": "What do studies show about smartphones and young people?",
+      "options": [
+        "Girls who use social media more are more often anxious or depressed",
+        "Smartphones help children sleep better",
+        "Children who use phones every day do much better at school than others",
+        "Boys are more affected than girls"
+      ],
+      "answer": 0,
+      "why": "Neil says girls who spend more time on social media are more likely to be anxious or depressed."
+    },
+    {
+      "q": "How many British eight-to-eleven-year-olds have a smartphone?",
+      "options": [
+        "About 10%",
+        "About 30%",
+        "Almost all of them",
+        "Around 60%"
+      ],
+      "answer": 3,
+      "why": "Beth says around 60% of British eight-to-eleven-year-olds have a smartphone."
+    },
+    {
+      "q": "What worries journalist Myra Anubi about giving her daughter a phone?",
+      "options": [
+        "How much time she'll spend on it and what she might see",
+        "The cost of the phone",
+        "That she might lose it or break it at school during the day",
+        "That she'll stop doing homework"
+      ],
+      "answer": 0,
+      "why": "She's worried about how much time her daughter will spend on it and what she might see."
+    },
+    {
+      "q": "How does Myra feel about the decision?",
+      "options": [
+        "Sure that her daughter should have a phone",
+        "Sure that her daughter should never have one until she is much older",
+        "Not worried at all",
+        "Torn, because she doesn't want her daughter to feel left out"
+      ],
+      "answer": 3,
+      "why": "She says she's 'torn', because some of her daughter's friends already have smartphones."
+    },
+    {
+      "q": "What did Daisy Greenwell and Clare Fernyhough's WhatsApp group encourage parents to do?",
+      "options": [
+        "Buy their children phones earlier",
+        "Wait until 14 for a smartphone and 16 for social media",
+        "Ban phones in all schools",
+        "Only let children use phones at weekends and never after school"
+      ],
+      "answer": 1,
+      "why": "It encouraged no smartphone until 14 and no social media access until 16."
+    },
+    {
+      "q": "What happened after Daisy posted about the group on social media?",
+      "options": [
+        "Most parents criticised the idea, so the group soon stopped meeting at all",
+        "The group was closed",
+        "It spread quickly, and now over 100,000 people in the UK are involved",
+        "Only a few local families joined"
+      ],
+      "answer": 2,
+      "why": "She says it went viral, groups sprang up all over the country, and there are now over 100,000 people."
+    }
+  ]
+}

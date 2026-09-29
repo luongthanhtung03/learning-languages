@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to train as a war reporter for the BBC",
+        "A war reporter's addictions and mental illness",
+        "The history of wars in Africa since the 1990s",
+        "How soldiers recover after coming home from war"
+      ],
+      "answer": 1,
+      "why": "They hear about BBC war correspondent Fergal Keane, who worried he was addicted to war and lived with PTSD."
+    },
+    {
+      "q": "What did reporting from war zones give Fergal Keane?",
+      "options": [
+        "A huge rush of adrenaline found nowhere else",
+        "A lot of money and a quiet life",
+        "A feeling of calm and inner peace",
+        "Many famous friends around the world"
+      ],
+      "answer": 0,
+      "why": "Neil says it gave him a massive rush of adrenaline, something he couldn't get anywhere else."
+    },
+    {
+      "q": "Where did Fergal first see violence in his career?",
+      "options": [
+        "In Iraq",
+        "In Rwanda",
+        "In Belfast",
+        "In Lebanon"
+      ],
+      "answer": 2,
+      "why": "He had seen violence since the early days of his career covering the fighting in Belfast."
+    },
+    {
+      "q": "What did Fergal do after he began having nightmares of Rwanda?",
+      "options": [
+        "He went to see a psychiatrist at once",
+        "He stopped working for the BBC",
+        "He moved back to Ireland",
+        "He kept working and turned to alcohol"
+      ],
+      "answer": 3,
+      "why": "He says he didn't go to a psychiatrist; he kept doing the job and turned to booze."
+    },
+    {
+      "q": "What does Fergal say about his drinking before Rwanda?",
+      "options": [
+        "He was already an alcoholic, but coping",
+        "He never drank at all before Rwanda",
+        "He only drank a little at parties",
+        "He had stopped drinking years before"
+      ],
+      "answer": 0,
+      "why": "He says he was an alcoholic long before Rwanda, but a 'functioning' one."
+    },
+    {
+      "q": "How does Fergal describe the way his mental health got worse?",
+      "options": [
+        "It happened suddenly after one event",
+        "It got worse only when he stopped working",
+        "It was a slow, steady wearing away",
+        "It was caused by a single nightmare"
+      ],
+      "answer": 2,
+      "why": "He says 'it's not dramatic, it's a slow, steady erosion' that ended in a breakdown."
+    },
+    {
+      "q": "How did Fergal feel when he was diagnosed with PTSD?",
+      "options": [
+        "Angry with his doctors for waiting",
+        "Relieved that it had a name",
+        "Ashamed and embarrassed about it",
+        "Surprised and confused by the news"
+      ],
+      "answer": 1,
+      "why": "He says, 'Relief, I think. You know, there's a name to this.'"
+    },
+    {
+      "q": "What does Mobeen Azhar suggest about Fergal after the diagnosis?",
+      "options": [
+        "He retired from reporting immediately",
+        "He was cured almost straight away",
+        "He started a new career in teaching",
+        "His addiction kept pulling him back"
+      ],
+      "answer": 3,
+      "why": "He says you might expect Fergal to stop, but 'that's not how addiction works'."
+    }
+  ]
+}

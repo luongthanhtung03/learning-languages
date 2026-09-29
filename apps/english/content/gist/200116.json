@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of New Year celebrations around the world",
+        "Why people drink, and trying to stop drinking for a month",
+        "How to run a successful campaign on social media",
+        "The best ways to cure a hangover"
+      ],
+      "answer": 1,
+      "why": "Sam and Rob discuss Dry January and why it is hard to give up alcohol."
+    },
+    {
+      "q": "How did Rob do with his New Year's resolutions?",
+      "options": [
+        "He kept all of them",
+        "He kept the running one but not the others",
+        "He didn't make any this year",
+        "He broke all of them after a few days"
+      ],
+      "answer": 3,
+      "why": "Rob says he failed on all of them and only lasted a few days."
+    },
+    {
+      "q": "What does 'dry' mean in 'Dry January'?",
+      "options": [
+        "Not drinking alcohol",
+        "Having no rain in January",
+        "Eating no sweet food",
+        "Spending no money"
+      ],
+      "answer": 0,
+      "why": "Rob explains that 'dry' refers to not drinking alcohol, not the weather."
+    },
+    {
+      "q": "Who is Millie Gooch?",
+      "options": [
+        "A doctor who studies the effects of alcohol on health",
+        "A journalist who presents a health show on BBC Radio 4",
+        "The founder of a group called The Sober Girl Society",
+        "A shop owner who sells Christmas jumpers in London"
+      ],
+      "answer": 2,
+      "why": "Rob introduces her as the founder of The Sober Girl Society."
+    },
+    {
+      "q": "According to Millie, why is it hard to stop drinking?",
+      "options": [
+        "Alcohol is cheaper than soft drinks in most pubs and bars",
+        "Friends expect it, and alcohol is on products everywhere",
+        "Doctors say a small glass of wine a day is good for you",
+        "Bars stay open very late in the UK, even on weeknights"
+      ],
+      "answer": 1,
+      "why": "She mentions peer pressure and alcohol jokes on jumpers and birthday cards."
+    },
+    {
+      "q": "Why did Millie finally decide to give up alcohol?",
+      "options": [
+        "It made her anxious and affected her daily life",
+        "Her friends and family kept asking her to stop",
+        "She was drinking every single day, even at work",
+        "She could no longer afford to buy drinks when out"
+      ],
+      "answer": 0,
+      "why": "She says alcohol was affecting her mental health, with hangover anxiety spreading into everyday life."
+    },
+    {
+      "q": "How does Millie describe her own drinking?",
+      "options": [
+        "She drank a small amount every evening",
+        "She only drank at work events",
+        "She drank heavily now and then, not every day",
+        "She drank only at Christmas"
+      ],
+      "answer": 2,
+      "why": "She says she was a binge drinker rather than an everyday drinker."
+    },
+    {
+      "q": "Why does Millie mention the Christmas jumpers and birthday cards?",
+      "options": [
+        "To recommend them as gifts",
+        "To show that she makes this merchandise",
+        "To complain that they are too expensive",
+        "To show how common jokes about drinking are"
+      ],
+      "answer": 3,
+      "why": "She uses them as examples of how alcohol is 'absolutely everywhere' and hard to avoid."
+    }
+  ]
+}

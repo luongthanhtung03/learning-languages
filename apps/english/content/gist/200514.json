@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of an Australian rock band",
+        "How electrical systems differ between countries",
+        "How to become an electrician",
+        "Why lightning is dangerous"
+      ],
+      "answer": 1,
+      "why": "Neil says they'll find out how electricity differs across the world and why some systems are more complicated."
+    },
+    {
+      "q": "What does Georgina first think Neil means by 'AC DC'?",
+      "options": [
+        "A type of battery",
+        "A laptop brand",
+        "A science programme",
+        "A rock band"
+      ],
+      "answer": 3,
+      "why": "She thinks he means the Australian rock'n'roll band."
+    },
+    {
+      "q": "What has Georgina noticed when she travels abroad?",
+      "options": [
+        "She needs a converter plug for her laptop",
+        "Her phone charges faster",
+        "Electricity is more expensive",
+        "Her laptop stops working completely"
+      ],
+      "answer": 0,
+      "why": "She says she needs a converter plug to connect her laptop in another country."
+    },
+    {
+      "q": "According to Keith Bell, what is unusual about Japan?",
+      "options": [
+        "It has no standard frequency for its electricity",
+        "It uses only direct current in homes and offices",
+        "Part of it uses 60 hertz and part uses 50 hertz",
+        "It uses exactly the same system as the UK does"
+      ],
+      "answer": 2,
+      "why": "He says one of the main islands is at 60 hertz and the other half of Japan is at 50 hertz."
+    },
+    {
+      "q": "What does Keith Bell say about the mainland US?",
+      "options": [
+        "It uses exactly 50 hertz everywhere in the country",
+        "It has three separate areas with slightly different frequencies",
+        "It changed its whole electrical system quite recently",
+        "Its frequency is exactly the same as Japan's"
+      ],
+      "answer": 1,
+      "why": "He says there are three synchronous areas which, not being connected, run at slightly different frequencies."
+    },
+    {
+      "q": "What problem does Gareth Mitchell have in the United States?",
+      "options": [
+        "His laptop won't turn on at all over there",
+        "His phone gets very hot when he charges it",
+        "He can't find the right plug adaptor anywhere",
+        "His electric toothbrush doesn't charge properly"
+      ],
+      "answer": 3,
+      "why": "He says his electric toothbrush doesn't charge up there, but his laptop still works."
+    },
+    {
+      "q": "Why does Gareth's laptop still work in the US, according to Keith Bell?",
+      "options": [
+        "American laptops are built to be much stronger",
+        "He always uses a special cable from the UK",
+        "It has a converter that doesn't care about frequency",
+        "Laptops don't really need electricity to charge"
+      ],
+      "answer": 2,
+      "why": "He says laptop power supplies have a little converter designed not to care what frequency the input is."
+    },
+    {
+      "q": "According to Neil, what is happening to these electrical anomalies?",
+      "options": [
+        "They're becoming less common thanks to modern technology",
+        "They are getting worse and worse every year",
+        "They only affect old toothbrushes and clocks",
+        "Countries are finally agreeing on one frequency"
+      ],
+      "answer": 0,
+      "why": "Neil says with modern technology these anomalies are becoming less and less commonplace."
+    }
+  ]
+}

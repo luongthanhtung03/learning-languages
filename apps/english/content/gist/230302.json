@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to learn Czech quickly as an adult",
+        "A refugee child losing her first language",
+        "Life in Czechoslovakia during the Cold War",
+        "Why Canada accepts so many refugees each year"
+      ],
+      "answer": 1,
+      "why": "They hear about Julie Sedivy, whose learning of English started to replace her native Czech."
+    },
+    {
+      "q": "What was Julie's situation when her family arrived in Canada?",
+      "options": [
+        "They spoke fluent English",
+        "They had lived in Canada before",
+        "They were political refugees who spoke no English",
+        "They came on holiday and decided to stay"
+      ],
+      "answer": 2,
+      "why": "They arrived as political refugees with no English."
+    },
+    {
+      "q": "How does Julie remember starting at an English-speaking school?",
+      "options": [
+        "It was very frightening",
+        "It wasn't especially difficult for her",
+        "She refused to go",
+        "Her teachers spoke Czech to her"
+      ],
+      "answer": 1,
+      "why": "She says her memory is that it was not particularly difficult or traumatic."
+    },
+    {
+      "q": "Why wasn't Julie worried at school?",
+      "options": [
+        "She had changed languages before and trusted it",
+        "Her older brothers and sisters helped her every day",
+        "She already spoke quite a lot of English",
+        "The school gave her a Czech translator"
+      ],
+      "answer": 0,
+      "why": "She had been dunked into unfamiliar languages many times and had faith it would sort itself out."
+    },
+    {
+      "q": "Which languages had Julie been exposed to before Canada?",
+      "options": [
+        "Spanish and German",
+        "Russian and Polish",
+        "Only Czech",
+        "Italian and French"
+      ],
+      "answer": 3,
+      "why": "Sam says she had been exposed to several languages including Italian and French."
+    },
+    {
+      "q": "What sad result of losing Czech does Rob mention?",
+      "options": [
+        "She couldn't get a good job in Canada",
+        "She had no friends at school for years",
+        "She lost the chance to speak Czech with her dad",
+        "She couldn't go back to the Czech Republic"
+      ],
+      "answer": 2,
+      "why": "She forgot her native language, and with it the chance to speak Czech with her dad before he passed away."
+    },
+    {
+      "q": "What does Julie believe about speaking several languages?",
+      "options": [
+        "It makes you forget who you are",
+        "It is only useful for work",
+        "It confuses children",
+        "It gives you a greater sense of tolerance"
+      ],
+      "answer": 3,
+      "why": "She believes speaking more languages means we gain a sense of tolerance."
+    },
+    {
+      "q": "Why does Julie mention a Spanish-speaking American of Mexican background?",
+      "options": [
+        "To show you can keep your language and belong",
+        "To show immigrants should stop speaking Spanish",
+        "To compare life in Mexico and Canada",
+        "To explain why she learned Spanish at school"
+      ],
+      "answer": 0,
+      "why": "She says you can be of Mexican ancestry, speak Spanish, and be a full-fledged American."
+    }
+  ]
+}

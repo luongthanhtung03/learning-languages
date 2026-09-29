@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Swedish firms that make repairing easier",
+        "How to fix a broken computer by yourself at home",
+        "Why Sweden has so much rubbish",
+        "The history of denim jeans"
+      ],
+      "answer": 0,
+      "why": "They visit companies in Sweden making it easier to mend things instead of replacing them."
+    },
+    {
+      "q": "Why does Sam say his day has been a nightmare?",
+      "options": [
+        "He lost his job and his flat",
+        "He missed an important lecture",
+        "Several of his things broke",
+        "His bike was stolen from outside the office"
+      ],
+      "answer": 2,
+      "why": "Sam says he ripped his jeans, his computer stopped working and his car wouldn't start."
+    },
+    {
+      "q": "How successful was Fixi at the beginning?",
+      "options": [
+        "It closed after only six months because of poor sales",
+        "It had only a few customers, mostly friends and family",
+        "It fixed six thousand bikes in its first year of business",
+        "It took more than six hundred orders in six months"
+      ],
+      "answer": 3,
+      "why": "Rob says Fixi took more than six hundred orders in its first six months."
+    },
+    {
+      "q": "What do Nudie Jeans offer their customers?",
+      "options": [
+        "A cheaper price for students",
+        "Free repairs for life",
+        "A new pair every year",
+        "Jeans made from recycled bottles"
+      ],
+      "answer": 1,
+      "why": "Rob says the jeans aren't cheap but they promise free repairs for life."
+    },
+    {
+      "q": "Why did Fabia decide to buy Nudie Jeans?",
+      "options": [
+        "She really liked the way they looked",
+        "They were cheaper than other jeans",
+        "Her brother told her to",
+        "She wanted to help the environment"
+      ],
+      "answer": 0,
+      "why": "Fabia says she really liked the way they looked, so it was worth paying more."
+    },
+    {
+      "q": "What do the innovators behind these companies say about their grandparents' time?",
+      "options": [
+        "People bought new things more often",
+        "Nobody knew how to repair things",
+        "Repair shops were too expensive",
+        "Repairing broken things was normal"
+      ],
+      "answer": 3,
+      "why": "Rob says they all say that in their grandparents' day it was normal to repair, fix and mend things."
+    },
+    {
+      "q": "According to Jessika Richter, how will repairing become normal again?",
+      "options": [
+        "Through new government laws that make repairs cheaper",
+        "As more people repair things and influence others",
+        "By making new products much more expensive to buy",
+        "By teaching repair skills to children in schools"
+      ],
+      "answer": 1,
+      "why": "She says it's a peer effect: the more people repair, the more it will go mainstream."
+    },
+    {
+      "q": "Why does Jessika Richter feel positive?",
+      "options": [
+        "Because Swedes already buy very little",
+        "Because big companies have stopped making new products",
+        "Because repairing was once normal, so it's a return to the past",
+        "Because recycling is now easy"
+      ],
+      "answer": 2,
+      "why": "She says it used to be mainstream, 'so that's what makes me positive too'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best museums to visit in London",
+        "The history of dinosaurs and fossils",
+        "How big national museums are built",
+        "The debate over objects taken by empires"
+      ],
+      "answer": 3,
+      "why": "Beth says they'll discuss the controversial role of museums, which are criticised for stealing ancient treasures."
+    },
+    {
+      "q": "What surprising fact about London tourists does Neil mention?",
+      "options": [
+        "Most prefer shopping to sightseeing",
+        "Many tourists' top destination is a museum",
+        "Few tourists visit Big Ben",
+        "Most tourists go to fashion shows"
+      ],
+      "answer": 1,
+      "why": "He asks if it would surprise you that many tourists' top destination is actually a museum."
+    },
+    {
+      "q": "What criticism of museums does Beth mention?",
+      "options": [
+        "They are too expensive for families to visit",
+        "They have too few visitors on weekdays",
+        "They took treasures during imperial times",
+        "They only show British history and art"
+      ],
+      "answer": 2,
+      "why": "She says many museums are criticised for stealing ancient treasures during imperial times."
+    },
+    {
+      "q": "According to Professor Adam Kuper, what did the imperial ideology believe?",
+      "options": [
+        "Societies progress, and Europe should lead others",
+        "All cultures are equal and should be left alone",
+        "Hunter-gatherers were the most advanced people",
+        "Religion is always better than science"
+      ],
+      "answer": 0,
+      "why": "He describes the idea of 'onwards and upwards', helping other people 'up the ladder with us'."
+    },
+    {
+      "q": "What did the opposing 19th-century view say?",
+      "options": [
+        "Only European culture should be protected",
+        "There are no better or worse cultures",
+        "Museums should close",
+        "Farming was a mistake"
+      ],
+      "answer": 1,
+      "why": "It said, 'There are no better or worse cultures, there are just national cultures.'"
+    },
+    {
+      "q": "Why does Beth say returning stolen objects is complicated?",
+      "options": [
+        "Because museums don't know where they are",
+        "Because the objects are too fragile to move",
+        "Because nobody wants them back",
+        "Because they're very old and their history is complex"
+      ],
+      "answer": 3,
+      "why": "She asks to whom centuries-old objects should go, and says their history is complicated."
+    },
+    {
+      "q": "Why does Beth mention the Benin bronzes?",
+      "options": [
+        "To show that local leaders' actions can also be questioned",
+        "To show that they have already been returned",
+        "To say they are the museum's most popular objects",
+        "To explain how bronze is made"
+      ],
+      "answer": 0,
+      "why": "She says questions can be asked about the actions of local leaders as well as European powers."
+    },
+    {
+      "q": "What kind of exhibitions does Professor Kuper want to see more of?",
+      "options": [
+        "Permanent exhibitions about one tradition",
+        "Exhibitions only about European art",
+        "Short shows about links between cultures",
+        "Exhibitions without any historical objects"
+      ],
+      "answer": 2,
+      "why": "He wants more temporary exhibitions about the relationships between different cultural traditions."
+    }
+  ]
+}

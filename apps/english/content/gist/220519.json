@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of the first people to travel into space",
+        "How to use a map and compass when walking",
+        "How to find your way in space",
+        "Why GPS apps on phones are often wrong"
+      ],
+      "answer": 2,
+      "why": "Rob says they'll hear that navigation at sea is easy compared to finding your way in outer space."
+    },
+    {
+      "q": "What does Rob say about reading maps?",
+      "options": [
+        "People use GPS and phone apps now",
+        "He is very good at reading all kinds of maps",
+        "He always carries a map when he travels",
+        "Maps are more accurate than mobile phones"
+      ],
+      "answer": 0,
+      "why": "Rob says, 'this is the 21st century! Everyone uses GPS and mobile phone apps.'"
+    },
+    {
+      "q": "How did sailors find their way at sea in the past?",
+      "options": [
+        "By following the coast and asking other ships",
+        "By using radio signals from the land",
+        "By watching the direction of the wind and waves",
+        "By using the stars and the Sun"
+      ],
+      "answer": 3,
+      "why": "Sam says sailors used the stars and Sun to navigate."
+    },
+    {
+      "q": "According to Ethan Siegal, why does a compass point north?",
+      "options": [
+        "Because the Sun always rises in the north",
+        "Earth acts like it has a huge magnet inside",
+        "Because north is the highest point on Earth",
+        "Because the needle is pulled by the Moon"
+      ],
+      "answer": 1,
+      "why": "He says Earth behaves like it has a giant bar magnet in it, and the needle points to the magnetic pole."
+    },
+    {
+      "q": "What does Ethan say about calling north 'up'?",
+      "options": [
+        "It's based on how the Earth moves in space",
+        "It was decided by early sailors for safety",
+        "There's no real reason for it",
+        "It's the only correct way to draw a map"
+      ],
+      "answer": 2,
+      "why": "He says 'we've arbitrarily defined north' as up – decided by chance, not for a reason."
+    },
+    {
+      "q": "Why does Sam mention Australia and South America being 'at the top'?",
+      "options": [
+        "To show that maps in those countries are different",
+        "To explain why the southern hemisphere is colder",
+        "To say that most astronauts come from there",
+        "To show Earth can be seen either way up"
+      ],
+      "answer": 3,
+      "why": "She says from space Earth can just as easily be seen the other way up, and 'both views are equally true'."
+    },
+    {
+      "q": "Why is magnetism not a good guide in space, according to Ethan?",
+      "options": [
+        "The magnetic field keeps changing direction",
+        "The black hole's magnetic field is too strong",
+        "Compasses stop working in zero gravity",
+        "Space has no magnetic fields at all"
+      ],
+      "answer": 0,
+      "why": "He says the magnetic field 'flips irregularly' every few hundred or thousand light years."
+    },
+    {
+      "q": "How do spacecraft find their way?",
+      "options": [
+        "They follow signals sent from mission control",
+        "They sense the Sun's heat to find its position",
+        "They use very powerful magnetic compasses",
+        "They measure their distance from the Moon"
+      ],
+      "answer": 1,
+      "why": "Sam says they use specialised heat sensors to detect the position of the Sun."
+    }
+  ]
+}

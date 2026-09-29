@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How charity shops raise money by selling people's old clothes",
+        "Paying a lot to look like you wear second-hand clothes",
+        "Why teenagers dress badly",
+        "The history of the Oxfam charity"
+      ],
+      "answer": 1,
+      "why": "They discuss 'scumbro', which is about buying expensive designer brands that look like charity shop clothes."
+    },
+    {
+      "q": "What does Rob say about charity shops?",
+      "options": [
+        "He never goes into them",
+        "They have become far too expensive for most people",
+        "He finds bargains there and gives things too",
+        "They only sell old clothes"
+      ],
+      "answer": 2,
+      "why": "Rob says they're a great place to pick up a bargain and he donates items to them too."
+    },
+    {
+      "q": "What does Rob find strange about the scumbro style?",
+      "options": [
+        "Expensive brands that look like charity shop clothes",
+        "It is only worn by women",
+        "It uses very bright colours",
+        "It was invented by a charity to help raise more money"
+      ],
+      "answer": 0,
+      "why": "Rob says it's about buying expensive designer brands that look like they're from a charity shop. 'Very odd!'"
+    },
+    {
+      "q": "According to Amber Graafland, how did the trend spread?",
+      "options": [
+        "Through charity shop adverts",
+        "Through school uniforms",
+        "Through a popular TV fashion show about second-hand clothes",
+        "Celebrities started it, then everyone copied"
+      ],
+      "answer": 3,
+      "why": "She says trends like this are started by celebrities and then picked up by everybody."
+    },
+    {
+      "q": "Where did the name 'scumbro' come from, according to Amber Graafland?",
+      "options": [
+        "A song by Justin Bieber",
+        "An article in Vanity Fair",
+        "The Daily Mirror newspaper",
+        "A charity shop in Oxford"
+      ],
+      "answer": 1,
+      "why": "She says 'I think the name came from a Vanity Fair article'."
+    },
+    {
+      "q": "How does Amber Graafland describe the clothes?",
+      "options": [
+        "Oversized and very expensive",
+        "Small and tight-fitting",
+        "Cheap and colourful",
+        "Old-fashioned and formal"
+      ],
+      "answer": 0,
+      "why": "She says it's about 'wearing these oversized clothes that are overpriced'."
+    },
+    {
+      "q": "What is the secret to the scumbro look?",
+      "options": [
+        "Buying everything from charity shops",
+        "Making sure your clothes are clean",
+        "Wearing your parents' old clothes from the 1970s and 1980s",
+        "Looking like you made no effort, while showing you did"
+      ],
+      "answer": 3,
+      "why": "Catherine says the trick is to look like you've made no effort but at the same time show you have."
+    },
+    {
+      "q": "What irony does Catherine point out?",
+      "options": [
+        "Charity shops are selling designer brands",
+        "Celebrities are buying cheap clothes",
+        "People pay a lot to look poor, and charities get nothing",
+        "Fashion victims give all their clothes to charity"
+      ],
+      "answer": 2,
+      "why": "She says some pay lots to look like they wear second-hand clothes, but charity shops make no money from it."
+    }
+  ]
+}

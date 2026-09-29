@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How octopuses catch their food",
+        "A famous octopus that predicted the results of football matches",
+        "How intelligent the octopus is",
+        "Why octopuses are becoming endangered"
+      ],
+      "answer": 2,
+      "why": "Neil says the programme is about the octopus, 'which apparently is a pretty clever animal'."
+    },
+    {
+      "q": "What does Catherine first think a cephalopod is?",
+      "options": [
+        "A new kind of iPod",
+        "A kind of fish",
+        "A type of plant",
+        "A medical test"
+      ],
+      "answer": 0,
+      "why": "She jokes 'It's a new kind of ipod, isn't it?'"
+    },
+    {
+      "q": "What is Catherine's opinion of Paul the octopus?",
+      "options": [
+        "He really could see the future",
+        "He was the cleverest octopus that has ever lived in a zoo",
+        "He was a fake animal",
+        "He wasn't psychic; it was a publicity stunt"
+      ],
+      "answer": 3,
+      "why": "She says 'I don't think he was really psychic' and it was a publicity stunt by the zoo."
+    },
+    {
+      "q": "How accurate were Paul's predictions?",
+      "options": [
+        "He got every match right",
+        "He got 12 out of 14 right",
+        "He got about half right",
+        "He got only 6 out of 14 matches right"
+      ],
+      "answer": 1,
+      "why": "Neil says he correctly predicted the result of 12 matches out of 14."
+    },
+    {
+      "q": "According to Peter Godfrey-Smith, when did our common ancestor with the octopus live?",
+      "options": [
+        "About 6 million years ago",
+        "About 60 million years ago, with the dinosaurs",
+        "About 600 million years ago",
+        "About 6 billion years ago"
+      ],
+      "answer": 2,
+      "why": "He says it lived 'about 600 million years ago or actually even a bit longer'."
+    },
+    {
+      "q": "Why does Godfrey-Smith compare the octopus's nervous system with vertebrates'?",
+      "options": [
+        "To show it is large, which is a sign of intelligence",
+        "To show that octopuses have a backbone",
+        "To explain why octopuses are so small",
+        "To say octopuses are closely related to humans"
+      ],
+      "answer": 0,
+      "why": "He says it's in a range comparable to vertebrates, and Neil says a large nervous system is a sign of intelligence."
+    },
+    {
+      "q": "Which parts of the octopus's world are easy for us to understand?",
+      "options": [
+        "Its hearing and smell",
+        "Its vision and taste",
+        "Its soft, changing body",
+        "Its way of living alone"
+      ],
+      "answer": 1,
+      "why": "He says they're very visual and taste-oriented animals, and 'those things make sense to us'."
+    },
+    {
+      "q": "Why is it hard for us to think about the octopus, according to Godfrey-Smith?",
+      "options": [
+        "It lives too deep in the sea",
+        "It is too small to study",
+        "It has no senses that work in the same way as ours",
+        "It has no hard parts and can change shape"
+      ],
+      "answer": 3,
+      "why": "He says the absence of hard parts and the protean nature of the body make it hard to think about."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people blush when they are shy",
+        "How to become a doctor",
+        "Funny stories about meeting parents",
+        "How embarrassment can stop people getting medical help"
+      ],
+      "answer": 3,
+      "why": "They discuss medical embarrassment, when people feel too embarrassed to see a doctor."
+    },
+    {
+      "q": "What was Neil's embarrassing moment?",
+      "options": [
+        "He forgot where he had parked his parents' car in a big car park",
+        "He waved excitedly at a couple he thought were his parents",
+        "He answered the phone in a silly voice",
+        "He fell over in front of his friends"
+      ],
+      "answer": 1,
+      "why": "He waved his hands in a silly way at a car, then discovered it was another couple."
+    },
+    {
+      "q": "Why was Beth embarrassed when she answered the phone?",
+      "options": [
+        "She forgot her best friend's name when she answered the phone",
+        "Her dad was listening",
+        "She used a silly voice, but the caller wasn't her friend",
+        "She was talking to a doctor"
+      ],
+      "answer": 2,
+      "why": "She said hello in a silly voice thinking it was her best friend, but they asked to speak to her dad."
+    },
+    {
+      "q": "According to Beth, when do people usually feel embarrassed?",
+      "options": [
+        "When they feel different from others, especially physically",
+        "When they are spending time with close friends and members of their family",
+        "Only when they are ill",
+        "When they are very tired"
+      ],
+      "answer": 0,
+      "why": "She says we get embarrassed if we feel different from others, especially if the difference is physical."
+    },
+    {
+      "q": "What does Dr Vanessa Apea say happens because of embarrassment?",
+      "options": [
+        "People delay treatment, so problems are found much later",
+        "People visit the doctor too often",
+        "Doctors refuse to see some patients who are too embarrassed to speak",
+        "Patients ask for too many tests"
+      ],
+      "answer": 0,
+      "why": "She says people delay seeking treatment and could have been diagnosed much earlier."
+    },
+    {
+      "q": "Which idea for patients does Dr Apea NOT recommend?",
+      "options": [
+        "Writing the problem down",
+        "Going with a friend",
+        "Searching online instead of seeing a doctor",
+        "Seeing a doctor that you already know well and trust"
+      ],
+      "answer": 2,
+      "why": "Her ideas are writing it down, going with a friend and visiting a doctor you trust."
+    },
+    {
+      "q": "Why does Dr Apea tell patients in advance that she'll ask personal questions?",
+      "options": [
+        "To save time",
+        "To help them feel relaxed and safe by being open",
+        "Because the law says she must",
+        "So they can prepare written answers before the appointment starts"
+      ],
+      "answer": 1,
+      "why": "She brings transparency and assures them it's a confidential, safe, non-judgmental space."
+    },
+    {
+      "q": "What else does Dr Apea use to help patients relax?",
+      "options": [
+        "Relaxing music in her office",
+        "A friendly nurse who stays in the room during the examination",
+        "Short, simple medical words",
+        "Her facial expressions, gestures and tone of voice"
+      ],
+      "answer": 3,
+      "why": "She uses non-verbal cues – her face, hand movements and tone of voice."
+    }
+  ]
+}

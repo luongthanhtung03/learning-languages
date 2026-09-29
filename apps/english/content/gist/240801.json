@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Famous love stories from English literature",
+        "How to find the right partner online",
+        "What happens in our brains and bodies when we fall in love",
+        "Why people today are getting married later in life than before"
+      ],
+      "answer": 2,
+      "why": "They spend the programme finding out what's going on inside our bodies and brains when we fall in love."
+    },
+    {
+      "q": "According to Beth, falling in love is mostly about what?",
+      "options": [
+        "Romantic words and gestures",
+        "Chemicals in the brain and body",
+        "Meeting someone at the right time",
+        "Having similar interests"
+      ],
+      "answer": 1,
+      "why": "She says it's more about brain chemistry than romance – specifically hormones."
+    },
+    {
+      "q": "How does Neil react to Beth's scientific explanation?",
+      "options": [
+        "He jokes that she has ruined his romantic ideas",
+        "He says he already knew all about hormones from school",
+        "He disagrees and says science is wrong",
+        "He admits he has never been in love"
+      ],
+      "answer": 0,
+      "why": "Neil says, “Thanks for ruining my romantic ideas, Beth!”"
+    },
+    {
+      "q": "What health benefit of being in love does Beth mention?",
+      "options": [
+        "Better sleep and a stronger heart",
+        "Faster growth in young people and teenagers",
+        "Less need for food",
+        "Less stress and possibly a longer life"
+      ],
+      "answer": 3,
+      "why": "She says being in love reduces stress and may even lengthen your life."
+    },
+    {
+      "q": "What does Helen Fisher say about lust?",
+      "options": [
+        "It always comes after attraction and after dopamine is released",
+        "It is caused mainly by dopamine",
+        "It often comes first, but some people don't experience it",
+        "It is the least important part of love"
+      ],
+      "answer": 2,
+      "why": "She says lust often comes first, but not always, and for asexual people may not happen at all."
+    },
+    {
+      "q": "According to Helen Fisher, what is the real purpose of lust?",
+      "options": [
+        "To reduce stress",
+        "To help people make friends",
+        "To make romantic relationships last for the rest of our lives",
+        "To make us have children and pass on our DNA"
+      ],
+      "answer": 3,
+      "why": "She says it's about the urge to mate and pass on your DNA via offspring."
+    },
+    {
+      "q": "Why can strong attraction feel like an addiction?",
+      "options": [
+        "Because it raises body temperature",
+        "Because dopamine makes us want to repeat it",
+        "Because testosterone makes people act without thinking",
+        "Because people stop eating and sleeping"
+      ],
+      "answer": 1,
+      "why": "Fisher says dopamine gives a feel-good hit that pushes us to repeat the behaviour."
+    },
+    {
+      "q": "What is Fisher implying about people who always want a new relationship?",
+      "options": [
+        "They are chasing the exciting feeling that dopamine gives",
+        "They have very high levels of oestrogen and testosterone in their bodies",
+        "They are asexual and not interested in love",
+        "They are the most romantic people"
+      ],
+      "answer": 0,
+      "why": "She says some people get stuck in a loop, chasing the dopamine excitement of a new relationship."
+    }
+  ]
+}

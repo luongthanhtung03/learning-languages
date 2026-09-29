@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to deal with a difficult or unfair boss at work",
+        "Why managers in big companies are paid so much",
+        "How tomatoes are grown and packed in California",
+        "Companies without managers, and the pros and cons"
+      ],
+      "answer": 3,
+      "why": "They hear from companies that got rid of managers and discuss the possible problems."
+    },
+    {
+      "q": "According to Neil, why do people often have problems with a boss?",
+      "options": [
+        "Bosses are usually paid too much",
+        "Workers feel managers don't listen to them",
+        "Bosses change jobs too often",
+        "Workers don't want to work in teams"
+      ],
+      "answer": 1,
+      "why": "Neil says this often happens because workers feel they aren't listened to by managers."
+    },
+    {
+      "q": "What was the first principle at Morning Star, according to Doug Kirkpatrick?",
+      "options": [
+        "Nobody should use force or pressure on anyone else",
+        "Everyone must work exactly the same number of hours",
+        "Managers make all of the big decisions for the team",
+        "Workers should compete with each other for bonuses"
+      ],
+      "answer": 0,
+      "why": "He says the first principle was that people should not use force or coercion against others."
+    },
+    {
+      "q": "How do employees at Morning Star get things done?",
+      "options": [
+        "They follow orders from senior members of staff",
+        "They hold a vote on every single task they do",
+        "They ask others to act, and those people respond",
+        "They hire outside managers to organise the work"
+      ],
+      "answer": 2,
+      "why": "Neil says employees can't tell others what to do; everything is based on requesting and responding."
+    },
+    {
+      "q": "What concern does Dina Newman raise?",
+      "options": [
+        "The company may lose money without proper control",
+        "Customers may be unhappy with the slower service",
+        "Workers may earn less than at other companies",
+        "It may help strong workers and leave weak ones behind"
+      ],
+      "answer": 3,
+      "why": "She asks if it empowers people who are already good and leaves behind those who are not."
+    },
+    {
+      "q": "How does Doug Kirkpatrick respond to that concern?",
+      "options": [
+        "He rejects it: everyone benefits from being heard",
+        "He agrees that it is a big and serious problem",
+        "He says weaker workers are politely asked to leave",
+        "He says it doesn't really matter to the business"
+      ],
+      "answer": 0,
+      "why": "He isn't sure he accepts 'left behind' and says everyone benefits because their voice is respected."
+    },
+    {
+      "q": "What downside of having no bosses does Neil mention?",
+      "options": [
+        "Workers become lazy when nobody is watching them",
+        "Extra responsibility can mean more work and stress",
+        "Big decisions are often made far too quickly",
+        "Nobody keeps their promises to their colleagues"
+      ],
+      "answer": 1,
+      "why": "Neil says the extra responsibility can create more work and stress."
+    },
+    {
+      "q": "What does Georgina imply about working without a boss?",
+      "options": [
+        "It always makes people happier",
+        "It is only suitable for small companies",
+        "If things go wrong, you can only blame yourself",
+        "It makes it easier to avoid mistakes"
+      ],
+      "answer": 2,
+      "why": "She says if things go wrong, 'there's no-one to blame but yourself!'"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why solar power is more expensive than fossil fuels",
+        "Unusual projects that put solar panels in new places",
+        "How ancient people used the sun in war",
+        "Why electric cars are becoming cheaper"
+      ],
+      "answer": 1,
+      "why": "Beth says they'll explore two surprising solar projects to build panels in weird and wonderful places."
+    },
+    {
+      "q": "What problem with solar panels do the presenters describe?",
+      "options": [
+        "They don't work well in cold, cloudy countries",
+        "They are too heavy for most houses' roofs",
+        "Rooftop space for them is running out",
+        "People think they look ugly on old houses"
+      ],
+      "answer": 2,
+      "why": "Beth says as rooftops fill up with solar panels, finding space for them becomes difficult."
+    },
+    {
+      "q": "What does Joshua Pearce want Walmart to do?",
+      "options": [
+        "Put solar-panel covers over all its car parks",
+        "Sell solar panels to its customers",
+        "Build solar farms outside cities",
+        "Stop customers driving to its shops"
+      ],
+      "answer": 0,
+      "why": "He wants Walmart to introduce solar canopies in all their car parks."
+    },
+    {
+      "q": "How could the solar canopies help drivers?",
+      "options": [
+        "They would make parking free",
+        "They would reduce the price of petrol",
+        "They would help drivers find parking spaces",
+        "They would let drivers charge electric cars for free"
+      ],
+      "answer": 3,
+      "why": "The electricity can be given to customers to charge their electric cars for free."
+    },
+    {
+      "q": "What does Joshua Pearce expect to happen soon?",
+      "options": [
+        "A huge increase in projects like this",
+        "Walmart will reject the idea",
+        "Electric cars will become less popular",
+        "The cost of solar panels will rise"
+      ],
+      "answer": 0,
+      "why": "He says in the very near future we're going to see an enormous increase."
+    },
+    {
+      "q": "Why would solar panels in space produce more electricity?",
+      "options": [
+        "The sun is much closer there",
+        "There is no night and no change of seasons",
+        "The panels are much bigger than on Earth",
+        "There is no dust to cover them"
+      ],
+      "answer": 1,
+      "why": "Neil says with no night or changing seasons, space panels would generate 13 times as much electricity."
+    },
+    {
+      "q": "According to Martin Soltau, why is space solar possible only now?",
+      "options": [
+        "NASA has finally started building it in orbit",
+        "Scientists only recently came up with the idea",
+        "Sending things into space is much cheaper",
+        "Governments have agreed to pay for all of it"
+      ],
+      "answer": 2,
+      "why": "He says the cost of getting things into space has tumbled by over 90%."
+    },
+    {
+      "q": "What does Neil mean by saying 'a good idea is a good idea'?",
+      "options": [
+        "Only brand-new ideas are worth paying for",
+        "Space solar is a bad idea that won't work",
+        "Most solar projects fail after a few years",
+        "Sun power works, in ancient times or the future"
+      ],
+      "answer": 3,
+      "why": "He says a good idea is a good idea 'whether it's thousands of years ago or in the near future'."
+    }
+  ]
+}

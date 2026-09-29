@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why air conditioning is becoming cheaper in India",
+        "How the human body cools itself down",
+        "The hottest cities in the world",
+        "A simple way of keeping poor families' homes cool in India"
+      ],
+      "answer": 3,
+      "why": "Neil says they'll hear about an innovative idea for keeping houses cool in India."
+    },
+    {
+      "q": "How does Beth feel about hot weather?",
+      "options": [
+        "She loves it, though it can get too hot",
+        "She hates it and stays indoors all day",
+        "She only enjoys it when she's on holiday",
+        "She is afraid of getting badly sunburnt"
+      ],
+      "answer": 0,
+      "why": "Beth says she loves hot weather, but sometimes it gets too hot, even for her."
+    },
+    {
+      "q": "What does the Mahila Housing Trust do?",
+      "options": [
+        "It builds new houses for construction workers",
+        "It helps poor women heat-proof their homes",
+        "It gives families free air conditioning units",
+        "It trains women to work on building sites"
+      ],
+      "answer": 1,
+      "why": "It is an NGO helping poor Indian women to heat-proof their houses."
+    },
+    {
+      "q": "Which of these does Roshni Diwakar NOT mention about the typical house?",
+      "options": [
+        "It has no windows",
+        "It often has a tin roof",
+        "It has a garden for sitting outside",
+        "Electricity is not available all day"
+      ],
+      "answer": 2,
+      "why": "She mentions no windows, power cuts and tin roofs, but not a garden."
+    },
+    {
+      "q": "Why does the heat cause money problems for these families?",
+      "options": [
+        "Sick workers can't work, so they earn nothing",
+        "They have to pay high electricity bills for fans",
+        "They must buy expensive medicine every week",
+        "Their rent goes up sharply every summer"
+      ],
+      "answer": 0,
+      "why": "They are daily wage earners: 'if you don't work you don't earn'."
+    },
+    {
+      "q": "What can white anti-solar roof paint do?",
+      "options": [
+        "Make houses completely cool",
+        "Lower room temperatures by up to 4 degrees",
+        "Produce electricity for the house",
+        "Stop power cuts in the summer"
+      ],
+      "answer": 1,
+      "why": "Neil says reflective white paint can reduce room temperatures by up to 4 degrees."
+    },
+    {
+      "q": "What does Neil suggest about a drop of 4 degrees?",
+      "options": [
+        "It is too small to make any real difference",
+        "It is only really useful at night, when people sleep",
+        "It works only in dry desert cities like Delhi",
+        "It sounds small, but families can live inside"
+      ],
+      "answer": 3,
+      "why": "He says it may not sound like much, but it allows families to work, cook and even sleep inside."
+    },
+    {
+      "q": "How much of the paint's price do communities usually pay?",
+      "options": [
+        "All of it",
+        "About half",
+        "Only 15 to 20%",
+        "Nothing at all"
+      ],
+      "answer": 2,
+      "why": "The trust subsidises the paint, so communities only pay 15 to 20% of the price."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook healthy meals quickly",
+        "The history of popcorn and crisps",
+        "Why snacks are unhealthy for children",
+        "Why snacking has become so popular around the world"
+      ],
+      "answer": 3,
+      "why": "They find out why people around the world are so in love with snack food."
+    },
+    {
+      "q": "According to Beth, how much is spent on snacks around the world each year?",
+      "options": [
+        "About $1.5 billion",
+        "About $1.5 trillion",
+        "Just over $15 trillion",
+        "About $150 million"
+      ],
+      "answer": 1,
+      "why": "Beth says an estimated $1.5 trillion a year is spent globally on snacking."
+    },
+    {
+      "q": "What is food historian Annie Gray's favourite snack?",
+      "options": [
+        "Salted peanuts and a banana, eaten together",
+        "A small round cheese bread made with cassava",
+        "A chocolate sandwich",
+        "A bag of crisps"
+      ],
+      "answer": 0,
+      "why": "She likes salted peanuts and bananas, 'preferably together'."
+    },
+    {
+      "q": "What is 'chipa', chef Barbara Oievari's favourite snack?",
+      "options": [
+        "A sweet cake made with bananas",
+        "A type of salty crisp",
+        "A small round bun made with cassava and cheese",
+        "A cheese sandwich that is popular in Florida and Argentina"
+      ],
+      "answer": 2,
+      "why": "She describes it as a small, round bun made with cassava, cheese, butter, milk and salt."
+    },
+    {
+      "q": "What do Neil and Beth say about their own favourite snack?",
+      "options": [
+        "Both love crisps, though Neil wishes he could say something healthy",
+        "Neil prefers fresh fruit, but Beth prefers crisps and chocolate bars",
+        "They both prefer chocolate to anything salty",
+        "Neither of them eats snacks between meals"
+      ],
+      "answer": 0,
+      "why": "Neil wants to say something healthy but loves crisps, and Beth says 'me too'."
+    },
+    {
+      "q": "According to Christine Cochran, why do snacks stay popular when money is tight?",
+      "options": [
+        "They are healthier and more filling than a full sit-down meal",
+        "Shops give them away for free",
+        "They last longer than fresh food",
+        "They are a small treat that people can afford"
+      ],
+      "answer": 3,
+      "why": "She calls a snack 'an affordable luxury' you can turn to when money is tight."
+    },
+    {
+      "q": "What else does Christine Cochran say consumers want?",
+      "options": [
+        "Bigger packets to share with family",
+        "Snacks made only from traditional recipes that their grandparents used",
+        "Small, easy portions with ingredients for things like gut health",
+        "Snacks that replace breakfast"
+      ],
+      "answer": 2,
+      "why": "She says people want smaller, convenient portions and specific functional ingredients like gut health."
+    },
+    {
+      "q": "Why does Barbara say it is ironic that her son likes baked cheddar snacks?",
+      "options": [
+        "Because he usually refuses to eat cheese",
+        "Because they are similar to her own favourite, just more modern",
+        "Because they are much more expensive than the chipa she makes at home",
+        "Because she makes them for him at home"
+      ],
+      "answer": 1,
+      "why": "She says they are baked with cheese, 'similar to what I enjoy – it's just the modern twist'."
+    }
+  ]
+}

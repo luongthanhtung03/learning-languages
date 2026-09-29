@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why famous people are often rejected many times before they finally succeed",
+        "An online trend of asking strangers for favours to get used to rejection",
+        "How therapists help socially anxious patients learn to talk to strangers",
+        "Why young people are spending much less time on social media than before"
+      ],
+      "answer": 1,
+      "why": "They discuss 'rejection therapy', a social media trend where people film themselves asking strangers for favours."
+    },
+    {
+      "q": "What is Neil's opinion of rejection at the start?",
+      "options": [
+        "It gets easier with age, and it can even be a good thing",
+        "It is always harmful, so people should try to avoid it completely",
+        "It only really matters to people who are very shy by nature",
+        "He has never really experienced it himself in his life"
+      ],
+      "answer": 0,
+      "why": "Neil says nobody likes it, but you get used to it as you get older and it's probably quite a good thing."
+    },
+    {
+      "q": "Which of these did Hannah NOT ask a stranger?",
+      "options": [
+        "To sit down at their table",
+        "To drive a taxi",
+        "To borrow some money",
+        "To take a nap in a bed in a shop"
+      ],
+      "answer": 2,
+      "why": "She asked to sit at a table, to drive a cab and to try out a bed. She never asked for money."
+    },
+    {
+      "q": "How did Hannah feel as she did more of these requests?",
+      "options": [
+        "More nervous each time",
+        "Bored, because nobody said yes",
+        "Less worried each time, until the answer didn't matter to her",
+        "Angry at the people who refused"
+      ],
+      "answer": 2,
+      "why": "The first one scared her, then each one 'came easier', and by the fourth she didn't mind if they said yes or no."
+    },
+    {
+      "q": "How does Hannah describe herself?",
+      "options": [
+        "As a very shy person who hates talking to strangers",
+        "As a confident person who still felt scared at first",
+        "As a psychologist who studies rejection",
+        "As someone who films social media videos every day"
+      ],
+      "answer": 1,
+      "why": "She says she isn't socially anxious and thinks she's really confident, but the first request really scared her."
+    },
+    {
+      "q": "What criticism of rejection therapy videos do the presenters mention?",
+      "options": [
+        "They are too long and boring to watch",
+        "They make people less confident",
+        "They are expensive to make",
+        "They film strangers, who might not want to be filmed"
+      ],
+      "answer": 3,
+      "why": "Georgie says the videos involve filming interactions with strangers, which people might not want."
+    },
+    {
+      "q": "According to psychologist Claudia Hammond, why might young people try this trend?",
+      "options": [
+        "They are more worried about how others judge them",
+        "Their friends pay them to do it",
+        "Doctors recommend it as an official treatment",
+        "They want to become famous online"
+      ],
+      "answer": 0,
+      "why": "She says perfectionism is increasing and young people worry more about how others judge them, so this may feel like a positive step."
+    },
+    {
+      "q": "What did Hannah discover in the end?",
+      "options": [
+        "Most people refused her requests",
+        "Rejection therapy is now a recognised treatment",
+        "Most strangers were friendly and happy to help",
+        "She became too nervous to finish the experiment"
+      ],
+      "answer": 2,
+      "why": "Georgie says most strangers were friendly and happy to help, so Hannah hardly experienced rejection at all."
+    }
+  ]
+}

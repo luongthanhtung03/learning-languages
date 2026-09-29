@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Which cooking oils are healthy and whether expensive ones are worth it",
+        "How to fry fish without oil",
+        "Why butter is better than olive oil",
+        "How olive oil is produced in Europe"
+      ],
+      "answer": 0,
+      "why": "They find out whether expensive oils are worth the money and can help us eat more healthily."
+    },
+    {
+      "q": "What does Georgie usually cook with?",
+      "options": [
+        "Avocado oil for everything",
+        "Sesame oil for Asian food, and coconut oil for everything else",
+        "Olive oil for everyday meals, and butter for rich dishes",
+        "Coconut oil and butter"
+      ],
+      "answer": 2,
+      "why": "She uses butter when she wants food rich and creamy, but usually olive oil for everyday meals."
+    },
+    {
+      "q": "When does Neil sometimes use sesame oil?",
+      "options": [
+        "When he bakes cakes",
+        "When he cooks East Asian food",
+        "When he roasts vegetables for dinner",
+        "When he makes salads"
+      ],
+      "answer": 1,
+      "why": "Neil says for East Asian food he might sometimes use sesame oil."
+    },
+    {
+      "q": "According to Neil, where does a lot of the fat we eat come from?",
+      "options": [
+        "Chocolate, cake and other treats",
+        "Fast food restaurants",
+        "Milk and cheese",
+        "The oils we cook with"
+      ],
+      "answer": 3,
+      "why": "He says lots of the fat we eat comes from the oils we use to cook with."
+    },
+    {
+      "q": "What does listener Alastair's email show?",
+      "options": [
+        "That advice about cooking oils is confusing and keeps changing",
+        "That most people fry food too often",
+        "That the YouTube doctor experts all agree with each other about oils",
+        "That sunflower oil is the healthiest choice"
+      ],
+      "answer": 0,
+      "why": "He was told to use sunflower oil for years, but now online experts say seed oils are harmful."
+    },
+    {
+      "q": "What has Alastair heard about extra-virgin olive oil?",
+      "options": [
+        "It is much too expensive for most people to use in everyday cooking",
+        "It has no health benefits at all",
+        "It is the best oil for frying",
+        "It isn't good for frying and may become harmful when very hot"
+      ],
+      "answer": 3,
+      "why": "He writes it's not suitable for frying fish and that over a certain temperature it turns harmful."
+    },
+    {
+      "q": "What does Professor Nita Forouhi say about avocado oil?",
+      "options": [
+        "It is bad for your health",
+        "It is the only oil that people should use if they want to stay healthy",
+        "It is good, but buy it only if you love the taste and can afford it",
+        "It is cheaper than olive oil"
+      ],
+      "answer": 2,
+      "why": "She says it's good, but if you like the taste and have the money, 'knock yourself out'."
+    },
+    {
+      "q": "What is Nita's opinion of claims about 'wonder oils'?",
+      "options": [
+        "They are mostly true",
+        "They are mostly nonsense",
+        "They are true only for coconut oil",
+        "They need more research"
+      ],
+      "answer": 1,
+      "why": "She says there are lots of myths about wonder oils and 'it's just all… hogwash'."
+    }
+  ]
+}

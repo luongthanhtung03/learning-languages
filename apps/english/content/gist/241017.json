@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of home computers",
+        "How to repair old technology",
+        "Why new gadgets are so expensive",
+        "Old technology that is still used today, and why"
+      ],
+      "answer": 3,
+      "why": "They hear about old tech which continues to be used today."
+    },
+    {
+      "q": "Which example of old technology still being used is NOT mentioned?",
+      "options": [
+        "Floppy disks used by the Japanese government",
+        "Fax machines used by banks",
+        "Music cassettes making a comeback",
+        "Magnetic tape used at CERN"
+      ],
+      "answer": 1,
+      "why": "Phil mentions Japan's floppy disks, cassettes and CERN's tape reels, but not banks using fax machines."
+    },
+    {
+      "q": "What reasons does Georgie give for some old technology refusing to die?",
+      "options": [
+        "It is cheaper and lighter",
+        "Governments make people use it",
+        "People still love it, or it still works fine",
+        "New technology is too hard to find and too expensive to buy"
+      ],
+      "answer": 2,
+      "why": "She says maybe people still love it, or because 'if it ain't broke, don't fix it'."
+    },
+    {
+      "q": "What is HAR-V, designed by NASA engineer Jonathan Sauder?",
+      "options": [
+        "A clockwork rover powered by the wind on Venus",
+        "A solar-powered robot designed to explore the surface of Mars",
+        "A computer for the space station",
+        "A new type of rocket engine"
+      ],
+      "answer": 0,
+      "why": "He describes it as a mechanical clockwork rover powered by Venus's winds."
+    },
+    {
+      "q": "Why did Jonathan use clockwork for the rover?",
+      "options": [
+        "Because ordinary electronics won't work in Venus's conditions",
+        "Because it was cheaper",
+        "Because clockwork is faster and stronger than any electric motor",
+        "Because NASA had no batteries"
+      ],
+      "answer": 0,
+      "why": "Georgie says conditions on Venus mean ordinary electronics simply won't work."
+    },
+    {
+      "q": "Why does Phil mention electrical plugs?",
+      "options": [
+        "To show how dangerous old plugs are",
+        "To explain how the rover gets power",
+        "To give an example of tech that would be too much work to change",
+        "To say that all countries around the world now use the same kind of plug"
+      ],
+      "answer": 2,
+      "why": "He says standardising plugs would be better, 'but imagine the work involved!'"
+    },
+    {
+      "q": "What does presenter Chris Vallance say about the QWERTY keyboard?",
+      "options": [
+        "It is the fastest layout ever made",
+        "It may not be the best layout for typing quickly",
+        "It was invented especially for court reporters who type very fast",
+        "It is no longer used"
+      ],
+      "answer": 1,
+      "why": "He says it is 'perhaps not the most efficient layout in terms of the speed of typing'."
+    },
+    {
+      "q": "Why will Dr Tacye Phillipson keep using a QWERTY keyboard?",
+      "options": [
+        "She types faster than court reporters",
+        "Her museum doesn't allow staff to use any other kind of keyboard",
+        "Special keyboards are too expensive",
+        "She's used to it and doesn't want to learn a complicated one"
+      ],
+      "answer": 3,
+      "why": "She says it's the layout we're all used to, and she doesn't want to learn a complicated one."
+    }
+  ]
+}

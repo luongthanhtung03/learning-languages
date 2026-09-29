@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Whether we can reduce harm from disasters",
+        "A park ranger who survived being hit by lightning",
+        "How climate change is causing more earthquakes",
+        "Why disasters are reported so often in the news"
+      ],
+      "answer": 0,
+      "why": "Neil asks if anything can be done to stop natural disasters, or if they are beyond our control."
+    },
+    {
+      "q": "Why do the presenters say Roy Sullivan was lucky or unlucky?",
+      "options": [
+        "He lost his job as a park ranger",
+        "He was hit by lightning seven times and survived",
+        "He lived through a huge earthquake",
+        "He escaped a hurricane with his family"
+      ],
+      "answer": 1,
+      "why": "Roy was struck by lightning on seven different occasions and survived them all."
+    },
+    {
+      "q": "Why do the presenters expect things to get worse in the future?",
+      "options": [
+        "Because countries are spending less on safety",
+        "Because there are more earthquakes each year",
+        "Because of climate change and growing populations",
+        "Because people ignore warnings"
+      ],
+      "answer": 2,
+      "why": "Neil says things will get worse due to climate change and increasing populations."
+    },
+    {
+      "q": "Why does Professor Lucy Easthope dislike the phrase 'natural disaster'?",
+      "options": [
+        "It is too difficult for the public to understand",
+        "It blames people for the disaster",
+        "It is a new phrase that nobody uses",
+        "It suggests nothing can be done, so people give up"
+      ],
+      "answer": 3,
+      "why": "She says 'natural' implies fatalism and a sense of 'let's give up now'."
+    },
+    {
+      "q": "What does Beth say about the 'additional harm' after a disaster?",
+      "options": [
+        "It is often worse than the disaster itself",
+        "It is impossible to prevent",
+        "It only affects roads and buildings",
+        "It happens only in poor countries"
+      ],
+      "answer": 0,
+      "why": "She says this additional harm, like disease or destroyed buildings, is often worse than the disaster."
+    },
+    {
+      "q": "Why does Neil say an earthquake in the ocean is 'less of a disaster'?",
+      "options": [
+        "Because ocean earthquakes are always smaller",
+        "Because computers can stop them",
+        "Because fewer people live there than in a city",
+        "Because they never cause tsunamis"
+      ],
+      "answer": 2,
+      "why": "He compares it with an earthquake in a populated city, where more people are at risk."
+    },
+    {
+      "q": "What has happened in Bangladesh since its new warning system started?",
+      "options": [
+        "Cyclones have become less frequent",
+        "Deaths from cyclones have fallen a hundred times",
+        "People have moved away from danger zones",
+        "The system has been replaced by computers"
+      ],
+      "answer": 1,
+      "why": "Beth says Bangladesh has seen a hundred-fold decrease in cyclone deaths."
+    },
+    {
+      "q": "According to Professor Ilan Kelman, what is the most important thing for people in the danger zones?",
+      "options": [
+        "Having bicycles so they can escape quickly",
+        "Buying their own megaphones to warn others",
+        "Receiving money from the government",
+        "Being able to return to their homes and jobs"
+      ],
+      "answer": 3,
+      "why": "He says most importantly they can return afterwards to their homes and their livelihoods."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people who keep secrets are often unhappy and stressed",
+        "How some secrets can have a positive effect on us",
+        "The secret recipe of a famous soft drink",
+        "How to find out if someone is lying"
+      ],
+      "answer": 1,
+      "why": "Neil says they'll be discussing the advantages of keeping secrets."
+    },
+    {
+      "q": "What does Neil admit about keeping secrets?",
+      "options": [
+        "He can never keep any secrets",
+        "He tells his friends everything",
+        "He's good at it, except with the endings of films",
+        "He doesn't like it when people tell him their secrets"
+      ],
+      "answer": 2,
+      "why": "He's pretty good at it, “unless it's giving away the ending of a movie”."
+    },
+    {
+      "q": "What do new psychological studies suggest about keeping good news to yourself?",
+      "options": [
+        "It can energise you, especially if you'll share it later",
+        "It usually damages your relationships with family and friends",
+        "It makes people feel guilty and ashamed",
+        "It only works for very small secrets"
+      ],
+      "answer": 0,
+      "why": "Neil says it can make you feel more alive, especially if you plan to share it later."
+    },
+    {
+      "q": "Which is an example of a secret whose purpose is to be revealed?",
+      "options": [
+        "A guilty pleasure",
+        "A lie that hurts another person",
+        "A family problem",
+        "A surprise marriage proposal"
+      ],
+      "answer": 3,
+      "why": "Dr Slepian lists the surprising marriage proposal and the pregnancy announcement."
+    },
+    {
+      "q": "Why do positive secrets give us energy, according to the research?",
+      "options": [
+        "They make other people like and trust us more",
+        "They help us sleep better",
+        "They stop us feeling hungry",
+        "They make us feel in control of our emotions"
+      ],
+      "answer": 3,
+      "why": "Neil says positive secrets give us the feeling we are in control of our emotions."
+    },
+    {
+      "q": "Why does Neil mention that Dr Slepian's research comes from the United States?",
+      "options": [
+        "To show that it is the most reliable study",
+        "To question whether the results apply to other cultures",
+        "To explain why Coca-Cola is so popular",
+        "To say that Americans keep more secrets than other people do"
+      ],
+      "answer": 1,
+      "why": "He asks, “Would the results be the same in other cultures and countries?”"
+    },
+    {
+      "q": "What does Devina Gupta say happens in some cultures?",
+      "options": [
+        "People wait to share pregnancy news in case it brings bad luck",
+        "People in most cultures announce a pregnancy as early as possible",
+        "Pregnancy is never discussed at all",
+        "Only grandparents are told about a pregnancy"
+      ],
+      "answer": 0,
+      "why": "She says people don't share it until it's safe, fearing negative vibes or the evil eye."
+    },
+    {
+      "q": "What does Dr Slepian think about pregnancy secrets?",
+      "options": [
+        "They are always negative secrets",
+        "They are exactly the same in every culture around the world",
+        "Early on they feel like a burden, later more positive",
+        "They should be shared immediately"
+      ],
+      "answer": 2,
+      "why": "He says earlier it looks more like a burdensome secret, later more like a positive one."
+    }
+  ]
+}

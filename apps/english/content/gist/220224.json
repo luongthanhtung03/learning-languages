@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Eating insects and changing people's attitudes",
+        "How to cook traditional Italian pasta at home",
+        "Why insects are dangerous pests on farms",
+        "The best fusion restaurants around the world"
+      ],
+      "answer": 0,
+      "why": "Neil says they're discussing food made from bugs, and experts explain how to change attitudes to it."
+    },
+    {
+      "q": "How does Sam feel about eating food made from bugs at first?",
+      "options": [
+        "She has eaten it many times and loves it",
+        "She wants to try a tarantula doughnut",
+        "She doesn't like the idea",
+        "She thinks it's healthier than meat"
+      ],
+      "answer": 2,
+      "why": "Sam says 'Maybe not' – the idea of eating bugs and creepy crawlies 'doesn't appeal'."
+    },
+    {
+      "q": "What benefits of eating insects does Neil mention?",
+      "options": [
+        "They are cheaper than any other kind of food",
+        "They're nutritious and could fight hunger",
+        "They taste better than meat and fish",
+        "They help people lose weight quickly"
+      ],
+      "answer": 1,
+      "why": "He says they're full of nutrients like protein and could help fight world hunger and reduce pollution."
+    },
+    {
+      "q": "According to Andy Holcroft, why is it hard to get Western people to eat insects?",
+      "options": [
+        "Insects are too expensive in Western shops",
+        "It's against the law in many Western countries",
+        "There aren't enough insect farms yet",
+        "People think they'll taste awful before trying"
+      ],
+      "answer": 3,
+      "why": "He says 'we already think before we've even tried them, they're going to taste disgusting or gross'."
+    },
+    {
+      "q": "What does Andy find is the easiest way to get people to try insects?",
+      "options": [
+        "Cookies made with cricket powder",
+        "Whole spiders cooked in oil",
+        "Insect tapas served with wine",
+        "Worms mixed into pasta dishes"
+      ],
+      "answer": 0,
+      "why": "He suggests a chocolate-chip cricket cookie made with cricket powder, so you don't see any insects."
+    },
+    {
+      "q": "How does chef Joseph Yoon react when people say 'urghh' about insects?",
+      "options": [
+        "He argues with them until they agree",
+        "He tells them they are being silly",
+        "He is understanding and doesn't argue",
+        "He stops talking to them about food"
+      ],
+      "answer": 2,
+      "why": "He says, 'I don't get confrontational… I understand that you can feel that way.'"
+    },
+    {
+      "q": "How does Joseph want people to think of insects?",
+      "options": [
+        "As pests that bite and carry disease",
+        "As a cheap food only for poor countries",
+        "As animals that should be protected",
+        "As food farmed sustainably for people"
+      ],
+      "answer": 3,
+      "why": "He wants to change perceptions from pests to edible insects, 'sustainably farmed… for human consumption'."
+    },
+    {
+      "q": "Why does Neil mention cows and sheep near the end?",
+      "options": [
+        "To say that meat is better for you than insects",
+        "To suggest eating insects is no different",
+        "To explain how insects are farmed",
+        "To show that farming animals is bad for the planet"
+      ],
+      "answer": 1,
+      "why": "He says we kill animals such as cows and sheep to eat, 'so why not insects or spiders?'"
+    }
+  ]
+}

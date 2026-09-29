@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The life of Charles Darwin and his famous voyage",
+        "How to cure anxiety with medicine and therapy",
+        "The idea that anxiety evolved for a good reason",
+        "Why smoke alarms go off too often in kitchens"
+      ],
+      "answer": 2,
+      "why": "Rob says anxiety may be a result of natural selection, and Dr Nesse explains why."
+    },
+    {
+      "q": "Does Neil experience anxiety?",
+      "options": [
+        "Not really, but he knows it's serious for some",
+        "Yes, every day, especially at work",
+        "Only before exams and job interviews",
+        "He refuses to talk about it on air"
+      ],
+      "answer": 0,
+      "why": "He says 'Well not really, but I know for some people it can be quite a serious problem.'"
+    },
+    {
+      "q": "What puzzles Neil about anxiety and evolution?",
+      "options": [
+        "Why animals don't feel anxiety",
+        "Why Darwin didn't write about it",
+        "Why it has become more common",
+        "Why such a negative feeling would develop"
+      ],
+      "answer": 3,
+      "why": "He asks why develop anxiety when it 'seems like a negative rather than a positive thing'."
+    },
+    {
+      "q": "How long did Dr Nesse treat patients at the University of Michigan?",
+      "options": [
+        "20 years",
+        "40 years",
+        "10 years",
+        "50 years"
+      ],
+      "answer": 1,
+      "why": "He says, 'I treated patients with anxiety disorders for 40 years.'"
+    },
+    {
+      "q": "When did Dr Nesse realise anxiety exists for a good reason?",
+      "options": [
+        "At the start of his career",
+        "At the very end of his career",
+        "About halfway through his career",
+        "When he read Darwin's work"
+      ],
+      "answer": 2,
+      "why": "He says 'It was only half way through that I started realising.'"
+    },
+    {
+      "q": "According to Dr Nesse, what is anxiety?",
+      "options": [
+        "A normal emergency response that helps in real danger",
+        "A disease caused by the stress of modern city life",
+        "A sign of weakness that people should learn to hide",
+        "A feeling that only humans have, not other animals"
+      ],
+      "answer": 0,
+      "why": "He calls it 'a normal kind of emergency response which is great in life-threatening situations'."
+    },
+    {
+      "q": "Why does Dr Nesse compare too much anxiety to a smoke detector when you burn toast?",
+      "options": [
+        "Anxiety is often caused by cooking and kitchens",
+        "Smoke is very bad for our mental health",
+        "The alarm should simply be switched off",
+        "It is a warning when there is no real danger"
+      ],
+      "answer": 3,
+      "why": "He says for these patients it's 'a false alarm like a smoke detector'."
+    },
+    {
+      "q": "How did many patients react to Dr Nesse's explanation?",
+      "options": [
+        "They became more worried about their health",
+        "They felt they might not need his help after all",
+        "They asked him for stronger medicine instead",
+        "They didn't believe him and found other doctors"
+      ],
+      "answer": 1,
+      "why": "They said, 'that makes perfect sense, I think I won't need your help after all.'"
+    }
+  ]
+}

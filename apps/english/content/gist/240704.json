@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to stop toddlers having tantrums",
+        "Why toddlers need more sleep than adults",
+        "What adults can learn from toddlers' self-talk",
+        "How toddlers learn to walk and dress themselves"
+      ],
+      "answer": 2,
+      "why": "They ask what adults can learn from toddlers, and the answer is positive self-talk."
+    },
+    {
+      "q": "Why do toddlers often have tantrums, according to Neil?",
+      "options": [
+        "They feel frustrated when they can't do what they want",
+        "They are usually tired or hungry",
+        "They are copying the angry behaviour of the adults around them",
+        "They want to be left alone"
+      ],
+      "answer": 0,
+      "why": "He says when toddlers can't do the things they want, their frustration leads to tantrums."
+    },
+    {
+      "q": "Why does Neil say it seems strange that adults could learn from toddlers?",
+      "options": [
+        "Because toddlers can't talk yet",
+        "Because adults are too busy to watch them",
+        "Because toddlers are always angry",
+        "Because toddlers depend on their parents"
+      ],
+      "answer": 3,
+      "why": "He says they depend on mum or dad to feed, clothe and care for them."
+    },
+    {
+      "q": "Who is Dr Hasan Merali?",
+      "options": [
+        "A teacher at a primary school",
+        "A book author and a father of a toddler",
+        "A presenter on Woman's Hour",
+        "A scientist who studies how young children sleep"
+      ],
+      "answer": 1,
+      "why": "Beth says he is the author of a new book and father to his own toddler."
+    },
+    {
+      "q": "What did the little boy Coltan do?",
+      "options": [
+        "He asked an adult to help with his boots",
+        "He cried because he couldn't find his gloves anywhere",
+        "He told Julie she was doing it wrong",
+        "He said out loud that he'd put his boots on wrongly"
+      ],
+      "answer": 3,
+      "why": "Looking at his boots on the wrong way, he said, “Oh, Coltan did this wrong!”"
+    },
+    {
+      "q": "According to Dr Merali, what does self-talk help toddlers do?",
+      "options": [
+        "Learn new words more quickly than other children",
+        "Make friends with other children",
+        "Feel less stressed in worrying situations",
+        "Get their parents' attention"
+      ],
+      "answer": 2,
+      "why": "He says self-talk is a way to decrease stress in anxiety-provoking situations."
+    },
+    {
+      "q": "How does our self-talk often change as we grow up?",
+      "options": [
+        "It becomes quieter but kinder",
+        "It becomes less encouraging and more critical",
+        "It stops completely",
+        "It becomes more positive, loving and encouraging"
+      ],
+      "answer": 1,
+      "why": "Neil says as we grow up, our self-talk often becomes less encouraging and more critical."
+    },
+    {
+      "q": "What does Dr Merali advise adults who are angry with themselves?",
+      "options": [
+        "Talk to yourself as if you were a good friend",
+        "Stop talking to yourself altogether",
+        "Ask a toddler for advice",
+        "Write all your negative thoughts down in a diary"
+      ],
+      "answer": 0,
+      "why": "He suggests thinking about talking to yourself as a good friend instead."
+    }
+  ]
+}

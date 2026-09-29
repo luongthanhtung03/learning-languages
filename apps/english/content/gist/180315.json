@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why languages are dying out",
+        "How to learn Japanese quickly",
+        "Why British people don't learn languages as much as others do",
+        "Reasons to learn a language, and a useful tip"
+      ],
+      "answer": 3,
+      "why": "They discuss the benefits of learning a language and Professor Webb's advice on which words to learn first."
+    },
+    {
+      "q": "What is Neil's main tip for learning a language?",
+      "options": [
+        "Practise a lot and don't be afraid of mistakes",
+        "Learn all the grammar first",
+        "Only study with a teacher",
+        "Live in the country where the language is spoken for a year"
+      ],
+      "answer": 0,
+      "why": "Neil says 'practise, practise, practise – and don't be afraid of making mistakes'."
+    },
+    {
+      "q": "According to a British Council survey, how many Britons made learning a language a New Year's resolution for 2018?",
+      "options": [
+        "About half",
+        "About one in five",
+        "About one in ten",
+        "Almost everyone"
+      ],
+      "answer": 1,
+      "why": "Neil says it was a new year's resolution for about one in five Britons in 2018."
+    },
+    {
+      "q": "What did a study of people who speak one or two languages suggest?",
+      "options": [
+        "Bilingual people earn more",
+        "Children always learn new languages much faster than adults do",
+        "Speaking two languages can slow the brain's decline",
+        "Learning two languages at once is confusing"
+      ],
+      "answer": 2,
+      "why": "Neil says speaking two languages 'can help slow down the brain's decline with age'."
+    },
+    {
+      "q": "According to Neil, what makes a second language easier to learn?",
+      "options": [
+        "Being similar to your own language and culture",
+        "Having a very small vocabulary",
+        "Being spoken in many different countries around the world",
+        "Having a simple writing system"
+      ],
+      "answer": 0,
+      "why": "He says the closer the language is to your native tongue and culture, the easier it will be."
+    },
+    {
+      "q": "What did the study in Taiwan show, according to Professor Stuart Webb?",
+      "options": [
+        "Most students learned more than 3,000 new words every single year",
+        "Students knew only the most common words",
+        "Students learned faster than expected",
+        "After nine years, half hadn't learned the top 1,000 words"
+      ],
+      "answer": 3,
+      "why": "He says after nine years about half the students had failed to learn the most frequent 1,000 words."
+    },
+    {
+      "q": "What does Professor Webb recommend learning first in English?",
+      "options": [
+        "The 3,000 most difficult words",
+        "Words for travelling",
+        "The 800 most frequent word forms",
+        "Words with the most syllables"
+      ],
+      "answer": 2,
+      "why": "He suggests learning 'the 800 most frequent lemmas' first."
+    },
+    {
+      "q": "Why does Webb recommend this?",
+      "options": [
+        "Because they are the easiest to spell",
+        "They cover about 75% of English and give a foundation",
+        "Because they are used in exams",
+        "Because other, less frequent words are not important at all"
+      ],
+      "answer": 1,
+      "why": "He says they account for about 75 per cent of English and provide the foundation for other words."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How soap is made in factories from oils and fats",
+        "Riddles and puzzles about everyday objects at home",
+        "The history of Hungarian medicine in the 1800s",
+        "Why handwashing matters and how to explain it"
+      ],
+      "answer": 3,
+      "why": "They discuss the importance of handwashing and the lessons from Dr Semmelweiss."
+    },
+    {
+      "q": "What is the answer to Neil's riddle, “so big I'm everywhere but so small you can't see me”?",
+      "options": [
+        "Air",
+        "Germs",
+        "Your breath",
+        "Water"
+      ],
+      "answer": 1,
+      "why": "Neil says the answer is germs."
+    },
+    {
+      "q": "Why was Dr Ignaz Semmelweiss called the 'saviour of mothers'?",
+      "options": [
+        "He kept maternity wards free of germs",
+        "He invented a new medicine for mothers",
+        "He built the first children's hospital",
+        "He trained thousands of midwives"
+      ],
+      "answer": 0,
+      "why": "Neil says he was known as the 'saviour of mothers' for keeping maternity wards germ-free."
+    },
+    {
+      "q": "Where has Val Curtis mostly worked to improve hygiene?",
+      "options": [
+        "In London hospitals",
+        "In schools in Hungary",
+        "In developing countries",
+        "In soap factories"
+      ],
+      "answer": 2,
+      "why": "She says she's spent thirty years trying to improve hygiene, mostly in developing countries."
+    },
+    {
+      "q": "Why does Val Curtis call Semmelweiss her 'patron saint'?",
+      "options": [
+        "He was her teacher at university in London",
+        "He was a religious man, and so is she",
+        "He saved the lives of people in her family",
+        "He inspired her life's work on handwashing"
+      ],
+      "answer": 3,
+      "why": "She says handwashing has been her life, and he was the first to see the importance of clean hands."
+    },
+    {
+      "q": "What made people start to take handwashing seriously, according to Val Curtis?",
+      "options": [
+        "A 2003 paper showing it could save a million lives",
+        "The coronavirus outbreak",
+        "A government advertising campaign",
+        "The work of Semmelweiss in the 19th century"
+      ],
+      "answer": 0,
+      "why": "She says it wasn't until their 2003 paper showed it could save a million lives that people took it seriously."
+    },
+    {
+      "q": "What lesson does Val Curtis take from Semmelweiss?",
+      "options": [
+        "Shout loudly so that people finally listen to you",
+        "Keep your research secret until it is finished",
+        "Share the data patiently and tell your story well",
+        "Blame the people who don't wash their hands"
+      ],
+      "answer": 2,
+      "why": "She says don't scream and shout, but patiently get the data out and tell your story positively."
+    },
+    {
+      "q": "What does Georgina say happens if you scream and shout at people?",
+      "options": [
+        "They change their behaviour quickly",
+        "They don't listen and think you're strange",
+        "They become angry and shout back",
+        "They ask for more evidence"
+      ],
+      "answer": 1,
+      "why": "She says people don't listen if you scream and shout at them; they just think you're strange."
+    }
+  ]
+}

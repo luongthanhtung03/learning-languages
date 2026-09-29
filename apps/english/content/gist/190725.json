@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How banks make their profits from customers' savings",
+        "How to pay for a TV licence online or by phone",
+        "How to choose a strong password for your accounts",
+        "How criminals trick people out of money, often online"
+      ],
+      "answer": 3,
+      "why": "Sam and Rob discuss fraud and the methods criminals use, much of it online."
+    },
+    {
+      "q": "What did thousands of people in the UK fall for this year?",
+      "options": [
+        "A fake email about paying their TV licence",
+        "A phone call from a fake bank manager",
+        "A letter about winning a prize",
+        "A fake online shop"
+      ],
+      "answer": 0,
+      "why": "Rob mentions a fraudulent email asking people to update their TV licence direct debit."
+    },
+    {
+      "q": "What does Shari Vahl say about the fake email she has?",
+      "options": [
+        "It had lots of spelling mistakes and odd grammar",
+        "It was rude and threatening, asking for money fast",
+        "It looked real, with the right logos and fonts",
+        "It asked for a very large payment within a day"
+      ],
+      "answer": 2,
+      "why": "She says it looks completely convincing, with all the right logos and fonts."
+    },
+    {
+      "q": "What does Shari Vahl mean by 'look over there whilst they rifle your pockets'?",
+      "options": [
+        "Criminals steal from people in crowds",
+        "Criminals distract you while they steal from you",
+        "People should always check their pockets",
+        "Criminals work in pairs"
+      ],
+      "answer": 1,
+      "why": "Rob says she means it metaphorically, as a sleight of hand trick."
+    },
+    {
+      "q": "What is 'phishing', as explained in the programme?",
+      "options": [
+        "Stealing money from a cash machine using a hidden camera",
+        "Hacking into someone's computer with a dangerous virus",
+        "Emailing as if from your bank to get private details",
+        "Calling people at home to sell them products they don't need"
+      ],
+      "answer": 2,
+      "why": "Sam says it's sending an email that looks like it came from your bank."
+    },
+    {
+      "q": "According to Jenny Radcliffe, what do criminals look for?",
+      "options": [
+        "A small piece of personal information to build on",
+        "People with a lot of money in their savings accounts",
+        "Old computers that are easy to hack into from abroad",
+        "Bank staff who are willing to help them for a fee"
+      ],
+      "answer": 0,
+      "why": "She says they look for 'a key that unlocks just a small part' of someone's identity."
+    },
+    {
+      "q": "How does Jenny Radcliffe describe what happens in a good fraud?",
+      "options": [
+        "It is over very quickly, usually in minutes",
+        "It only takes small amounts of money each time",
+        "It is easy to spot if you are careful",
+        "It keeps building until the results are devastating"
+      ],
+      "answer": 3,
+      "why": "She says it will 'build and build and build' until the consequences are devastating."
+    },
+    {
+      "q": "What advice do banks give, according to Rob?",
+      "options": [
+        "Only use cash, and avoid cards and online banking",
+        "Don't give bank details online; change passwords often",
+        "Never open any emails from people you don't know",
+        "Keep your savings at home instead of in a bank account"
+      ],
+      "answer": 1,
+      "why": "Rob says banks warn us not to give away details online and to change passwords regularly."
+    }
+  ]
+}

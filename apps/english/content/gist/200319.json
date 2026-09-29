@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The life and teachings of the Dalai Lama in India",
+        "How to relax by watching films before bed",
+        "Research showing meditation can change the brain",
+        "Why Tibetan monks choose to live in monasteries"
+      ],
+      "answer": 1,
+      "why": "They discuss experiments proving for the first time that meditation can actually change the brain."
+    },
+    {
+      "q": "What is Sam's first idea of meditation?",
+      "options": [
+        "A kind of exercise class at the local gym",
+        "A religious ceremony that takes place in a temple",
+        "A way of sleeping during the day to rest the mind",
+        "Sitting cross-legged on the floor thinking of nothing"
+      ],
+      "answer": 3,
+      "why": "Sam asks if it's just people sitting cross-legged on the floor, thinking of nothing."
+    },
+    {
+      "q": "What did the Dalai Lama challenge Richard Davidson to do?",
+      "options": [
+        "Use neuroscience to study kindness and compassion",
+        "Stop studying depression and anxiety in patients",
+        "Become a Buddhist monk and live in a monastery",
+        "Write a best-selling book about meditation"
+      ],
+      "answer": 0,
+      "why": "He asked why Davidson couldn't use the same tools to study kindness and compassion."
+    },
+    {
+      "q": "What did the monks do during the test?",
+      "options": [
+        "They tried to think of nothing",
+        "They solved difficult puzzles",
+        "They sent loving thoughts to everyone equally",
+        "They focused only on their breathing"
+      ],
+      "answer": 2,
+      "why": "Sam says they sent loving thoughts to friends, enemies, strangers and themselves."
+    },
+    {
+      "q": "What was surprising about the monks' gamma waves?",
+      "options": [
+        "They were much lower than in normal people",
+        "They lasted minutes instead of under a second",
+        "They only appeared while the monks were sleeping",
+        "They disappeared completely after meditation"
+      ],
+      "answer": 1,
+      "why": "Neil says for us a flash of insight might last under a second, but for the monks the waves lasted minutes."
+    },
+    {
+      "q": "According to Richard Davidson, which brain circuits can meditation change?",
+      "options": [
+        "Those that control attention and emotion",
+        "Those that control movement",
+        "Those that control memory only",
+        "Those that control sleep"
+      ],
+      "answer": 0,
+      "why": "He says the circuits include those important for regulating attention and regulating emotion."
+    },
+    {
+      "q": "Why is Sam doubtful at first that meditation could help him?",
+      "options": [
+        "He thinks it is boring and a waste of his time",
+        "He doesn't really believe in science or scientists",
+        "He thinks he is too old to learn something new",
+        "He works and can't spend thousands of hours on it"
+      ],
+      "answer": 3,
+      "why": "He says the monks spend thousands of hours meditating, but he has to go to work."
+    },
+    {
+      "q": "What did the experiment show about new meditators?",
+      "options": [
+        "They saw no change at all, even after two weeks",
+        "They needed at least three hours a day to see results",
+        "30 minutes a day increased their loving kindness",
+        "They became more upset and anxious at first"
+      ],
+      "answer": 2,
+      "why": "Neil says 30 minutes of meditation a day significantly increased loving kindness in new meditators."
+    }
+  ]
+}

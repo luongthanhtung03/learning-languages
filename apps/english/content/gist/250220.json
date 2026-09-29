@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The good and bad sides of social media, especially for young women",
+        "How to become a famous travel blogger",
+        "Why TikTok is so popular in the US",
+        "A new law banning social media in India"
+      ],
+      "answer": 0,
+      "why": "They discuss the positives and negatives of social media and hear from young women in different countries."
+    },
+    {
+      "q": "Why is this topic in the news, according to Beth?",
+      "options": [
+        "Because of the US presidential election",
+        "Because a new app has been launched",
+        "Because Australia is debating a law limiting social media for under-16s",
+        "Because cyber-bullying has just been made illegal in many different countries"
+      ],
+      "answer": 2,
+      "why": "She says a new law in Australia to limit under 16-year-olds' access is being debated."
+    },
+    {
+      "q": "What good and bad things does Neil say about social media?",
+      "options": [
+        "It helps him work, but it's expensive",
+        "It helps him meet lots of new people, but it can also be dangerous",
+        "It's fun, but it's full of false news",
+        "He can see what distant friends do, but it wastes lots of time"
+      ],
+      "answer": 3,
+      "why": "He can see what friends far away are doing, but it's 'really addictive and a massive waste of time'."
+    },
+    {
+      "q": "Why does Beth say it's interesting to hear a man's perspective?",
+      "options": [
+        "Because men use social media more",
+        "Because young women are often most affected by things like cyber-bullying",
+        "Because Neil is an expert on social media",
+        "Because men usually refuse to talk honestly about their use of social media"
+      ],
+      "answer": 1,
+      "why": "She says that with issues like cyber-bullying, 'it's often young women who are most affected'."
+    },
+    {
+      "q": "According to student Haleigh Hurst, what is one benefit of social media?",
+      "options": [
+        "It helps young people find jobs and internships in politics",
+        "It teaches young voters about policies and starts debates",
+        "It stops people arguing about politics",
+        "It makes elections cheaper"
+      ],
+      "answer": 1,
+      "why": "She says it has played a huge role in educating young voters and has sparked more debates."
+    },
+    {
+      "q": "What does Haleigh say about Donald Trump?",
+      "options": [
+        "He has said he is fond of TikTok",
+        "He wants to ban TikTok in the United States",
+        "He never uses social media",
+        "He criticised young voters"
+      ],
+      "answer": 0,
+      "why": "She says Trump said he has 'a soft spot in his heart for TikTok'."
+    },
+    {
+      "q": "What problem does model Maanvi Sharma describe?",
+      "options": [
+        "Her followers copy her clothes",
+        "She has lost a lot of money and some modelling work because of Instagram",
+        "Partners may leave her because they feel uneasy about her online fame",
+        "Her family won't let her use social media"
+      ],
+      "answer": 2,
+      "why": "She says the person you're dating might leave because of social media and feel intimidated."
+    },
+    {
+      "q": "What does travel blogger Kemi Adeyemi say some people want her to do?",
+      "options": [
+        "Post many more photos and videos of her travels",
+        "Stop travelling abroad",
+        "Speak up more about politics",
+        "Make herself smaller so they can feel bigger"
+      ],
+      "answer": 3,
+      "why": "She says some people 'want you to shrink yourself so that they can… be the bigger person'."
+    }
+  ]
+}

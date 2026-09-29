@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How Germany chooses a new chancellor",
+        "The history of Germany's first chancellors",
+        "Angela Merkel, her nicknames and how people see her",
+        "Why European leaders often meet at summits"
+      ],
+      "answer": 2,
+      "why": "They talk about Angela Merkel, where her nickname 'mutti' came from and who she really is."
+    },
+    {
+      "q": "How long was Angela Merkel in power?",
+      "options": [
+        "16 years",
+        "6 years",
+        "10 years",
+        "21 years"
+      ],
+      "answer": 0,
+      "why": "Sam says she was in office for 16 years, from 2005 until 2021."
+    },
+    {
+      "q": "According to Damien McGuinness, who first used the nickname 'mutti'?",
+      "options": [
+        "German newspapers that admired her leadership",
+        "Voters who saw her as a caring mother figure",
+        "Other European leaders at international summits",
+        "Conservative rivals in her mostly male party"
+      ],
+      "answer": 3,
+      "why": "He says it started as an insult from hardline conservatives in her predominantly male party."
+    },
+    {
+      "q": "Why was the nickname meant to be ironic?",
+      "options": [
+        "Because she was very young when she became chancellor",
+        "Because her style was dry and academic, not warm and cuddly",
+        "Because she often talked about her own children",
+        "Because she disliked being called by nicknames"
+      ],
+      "answer": 1,
+      "why": "He says that given her 'dry academic distinctly un-cuddly style', it was meant to be ironic."
+    },
+    {
+      "q": "What fact makes the nickname possibly hurtful, according to the report?",
+      "options": [
+        "She had lost several elections",
+        "She came from a poor family",
+        "She has no children",
+        "She did not speak English well"
+      ],
+      "answer": 2,
+      "why": "He says it may have been meant to be hurtful, given that in reality she has no children."
+    },
+    {
+      "q": "Which more positive name has the media also given her?",
+      "options": [
+        "The Mother of Germany",
+        "The Queen of Europe",
+        "The Iron Chancellor",
+        "The Leader of the World"
+      ],
+      "answer": 1,
+      "why": "Neil says the media has also labelled her 'The Queen of Europe'."
+    },
+    {
+      "q": "What does Sam suggest about Merkel's successor?",
+      "options": [
+        "They will not have her experience and authority",
+        "They will be more popular than she was",
+        "They will keep the nickname 'mutti'",
+        "They have been in politics even longer than her"
+      ],
+      "answer": 0,
+      "why": "Sam says her successor will lack the experience and gravitas she gained over 16 years."
+    },
+    {
+      "q": "What does Damien McGuinness conclude about Merkel?",
+      "options": [
+        "Everyone agrees she was a caring leader",
+        "She showed her emotions too often",
+        "She was mainly interested in fame",
+        "People still don't really know who she is"
+      ],
+      "answer": 3,
+      "why": "He says she is discreet and people are still not really sure they know who she is."
+    }
+  ]
+}

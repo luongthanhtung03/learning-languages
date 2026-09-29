@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "What trust is and how to decide who deserves it",
+        "How fake news is made and shared online",
+        "The life of a famous American financier",
+        "Why presidents often tell lies"
+      ],
+      "answer": 0,
+      "why": "Rob says they'll discuss what trust is and who we should place our trust in."
+    },
+    {
+      "q": "What has the coronavirus epidemic led to, according to Neil?",
+      "options": [
+        "Much more trust in governments and scientists",
+        "People spending less time online than before",
+        "More misinformation and conspiracy theories online",
+        "Fewer news programmes on TV and the radio"
+      ],
+      "answer": 2,
+      "why": "Neil says it has led to an increase in misinformation, lies and conspiracy theories on the internet."
+    },
+    {
+      "q": "According to philosopher Onora O'Neill, what is the real problem?",
+      "options": [
+        "People no longer trust anyone, even their families",
+        "There is far too little reliable information available",
+        "Trusting others makes life slower and more difficult",
+        "Not trust itself, but whether people are trustworthy"
+      ],
+      "answer": 3,
+      "why": "Neil says she believes the problem is not about trust itself but about trustworthiness."
+    },
+    {
+      "q": "What does Onora O'Neill say about trusting people without judging them first?",
+      "options": [
+        "It is the best way to make friends",
+        "It is gullible and probably not a virtue",
+        "It makes society work better",
+        "It is only a problem in business"
+      ],
+      "answer": 1,
+      "why": "She says placing trust indiscriminately is 'gullible' and 'probably not a virtue'."
+    },
+    {
+      "q": "Why do the presenters mention Bernie Madoff?",
+      "options": [
+        "As an example of people trusting without judgement",
+        "As an example of an honest, trustworthy businessman",
+        "To explain how the Trojan Horse trick really worked",
+        "To show that prison sentences for fraud are too long"
+      ],
+      "answer": 0,
+      "why": "Rob says Madoff tricked people because they were gullible and trusted him indiscriminately."
+    },
+    {
+      "q": "What three ingredients of trustworthiness does O'Neill identify?",
+      "options": [
+        "Kindness, honesty and patience",
+        "Wealth, power and competence",
+        "Luck, honesty and friendship",
+        "Honesty, competence and reliability"
+      ],
+      "answer": 3,
+      "why": "Rob says she identifies honesty, competence and reliability."
+    },
+    {
+      "q": "Why does Neil talk about a car mechanic and a dentist?",
+      "options": [
+        "To show that some jobs are more honest than others",
+        "To show that dentists earn much more than mechanics",
+        "To say we trust people only for what they're good at",
+        "To show that mechanics are more reliable than dentists"
+      ],
+      "answer": 2,
+      "why": "He says you'd trust a mechanic to fix your car but not to remove a tooth, as they're not competent."
+    },
+    {
+      "q": "How does O'Neill describe reliability?",
+      "options": [
+        "The most exciting ingredient of the three",
+        "Something only large companies really need to worry about",
+        "Less important than honesty in most situations",
+        "The boring one: being honest and competent every time"
+      ],
+      "answer": 1,
+      "why": "She calls it 'the boring one', meaning being honest and competent each time."
+    }
+  ]
+}

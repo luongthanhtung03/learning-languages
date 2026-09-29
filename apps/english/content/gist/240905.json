@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook with less oil and sugar",
+        "How much salt people eat and why too much is harmful",
+        "The long history of salt as a valuable product traded around the world",
+        "Why processed food is becoming cheaper"
+      ],
+      "answer": 1,
+      "why": "Neil says they'll be asking “how much salt is too much?” and explains the health risks."
+    },
+    {
+      "q": "What does the WHO recommend as a daily salt intake?",
+      "options": [
+        "Less than 5g, about a teaspoon",
+        "At least 1g, the minimum to survive",
+        "Around 6g, like in Australia",
+        "About 17g for active adults"
+      ],
+      "answer": 0,
+      "why": "Neil says the WHO recommends less than 5g a day, about the same as a teaspoon."
+    },
+    {
+      "q": "How much salt do people in Kazakhstan eat on average?",
+      "options": [
+        "Exactly the amount the WHO recommends",
+        "Slightly less than people in Britain",
+        "About twice the recommended amount",
+        "Over three times the WHO amount"
+      ],
+      "answer": 3,
+      "why": "They eat about 17g a day, which is more than three times the WHO amount."
+    },
+    {
+      "q": "Why does Marian mention dairy products?",
+      "options": [
+        "To show that even milk foods were salted to keep them",
+        "To explain that Kazakhs rarely eat meat",
+        "To suggest dairy is a healthy alternative to salt",
+        "To say that dairy products are the saltiest foods in the whole world"
+      ],
+      "answer": 0,
+      "why": "She says dairy products are also very salty “for the same reasons” – salt preserved food."
+    },
+    {
+      "q": "According to Georgie, what happens when we eat too much salt?",
+      "options": [
+        "The body loses water and becomes dry",
+        "The stomach stops digesting food properly and the body feels weak",
+        "The body keeps water, so the heart has to work harder",
+        "Our sense of taste slowly disappears"
+      ],
+      "answer": 2,
+      "why": "The body retains water to dilute the salt, so the heart works harder, causing high blood pressure."
+    },
+    {
+      "q": "What has the British government done about salt?",
+      "options": [
+        "Raised its recommended intake to 6g",
+        "Banned food companies from adding any salt to processed food",
+        "Made laws forcing food companies to use less salt",
+        "Put a special tax on salty snacks"
+      ],
+      "answer": 2,
+      "why": "Neil says Britain passed laws forcing food companies to reduce the salt they use."
+    },
+    {
+      "q": "What is Professor Clare Collins' view?",
+      "options": [
+        "Australia's 6g limit is clearly better than 5g",
+        "Salt is only a problem in a few countries",
+        "Every country should follow exactly the same rules",
+        "Arguing over 5g or 6g misses the bigger problem"
+      ],
+      "answer": 3,
+      "why": "She says to look at the bigger picture instead of arguing whether it should be 5g or 6g."
+    },
+    {
+      "q": "What does Neil suggest for people who don't like unsalted food?",
+      "options": [
+        "Eat more processed food instead",
+        "Add herbs and spices",
+        "Use salt only at breakfast",
+        "Drink more water with meals"
+      ],
+      "answer": 1,
+      "why": "He says, “try adding herbs and spices instead.”"
+    }
+  ]
+}

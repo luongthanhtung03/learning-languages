@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of the vacuum cleaner and cleaning at home",
+        "How to fix broken things at home instead of buying new",
+        "Why people are buying bigger houses with more storage",
+        "The popularity of getting rid of extra possessions"
+      ],
+      "answer": 3,
+      "why": "Rob and Neil discuss the decluttering trend, how to do it and why."
+    },
+    {
+      "q": "What is Neil's 'floordrobe'?",
+      "options": [
+        "The pile of clothes he leaves on the floor",
+        "A new type of wardrobe with no doors",
+        "A secret cupboard hidden under the floor",
+        "A tidy shelf for his shoes by the door"
+      ],
+      "answer": 0,
+      "why": "He says he just dumps a lot of his clothes on the floor."
+    },
+    {
+      "q": "What is Neil's problem with decluttering?",
+      "options": [
+        "He has no time",
+        "He hates throwing things away",
+        "He doesn't own many things",
+        "He finds it boring"
+      ],
+      "answer": 1,
+      "why": "He says, 'I love a good declutter - trouble is, I hate throwing things away.'"
+    },
+    {
+      "q": "According to Lesley Spellman, what does the Marie Kondo method start with?",
+      "options": [
+        "Books",
+        "Paperwork",
+        "Clothes",
+        "Kitchens"
+      ],
+      "answer": 2,
+      "why": "She says, 'You have to start with your clothes.'"
+    },
+    {
+      "q": "What do you tackle last in the Marie Kondo method?",
+      "options": [
+        "Garages and lofts",
+        "Sentimental things",
+        "Books",
+        "Bathrooms"
+      ],
+      "answer": 1,
+      "why": "She says, 'And then finally you tackle sentimental things.'"
+    },
+    {
+      "q": "What does Rob find most difficult to get rid of?",
+      "options": [
+        "Old letters and photos",
+        "Clothes",
+        "Kitchen equipment",
+        "Books"
+      ],
+      "answer": 0,
+      "why": "He says sentimental things like old letters and photos are hardest because he's sentimental."
+    },
+    {
+      "q": "How did Lesley Spellman's parents' generation live?",
+      "options": [
+        "They bought lots of cheap clothes",
+        "They threw things away quickly",
+        "They moved house often",
+        "They used what they had and repaired things"
+      ],
+      "answer": 3,
+      "why": "She says they came from the 'make do and mend' era after the war."
+    },
+    {
+      "q": "Why does Lesley Spellman mention 'five tops for five pounds each'?",
+      "options": [
+        "To recommend a good shop on the high street",
+        "To complain about the poor quality of clothes",
+        "To show how cheap goods made people buy too much",
+        "To compare today's prices with prices in the past"
+      ],
+      "answer": 2,
+      "why": "She uses it to show things became affordable and consumerism went crazy."
+    }
+  ]
+}

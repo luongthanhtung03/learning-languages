@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The most popular baby names in the UK today",
+        "How parents should choose a name for their child",
+        "A writer whose names tell her family's story",
+        "Why people change their names when they marry"
+      ],
+      "answer": 2,
+      "why": "They meet Sheela Banerjee, whose name combines her English and Indian identity and family history."
+    },
+    {
+      "q": "What does Beth say happens when someone shouts your name in the street?",
+      "options": [
+        "You feel embarrassed",
+        "You turn to look without thinking",
+        "You pretend not to hear",
+        "You shout back"
+      ],
+      "answer": 1,
+      "why": "Beth says if you hear someone shout your name, you automatically turn to look."
+    },
+    {
+      "q": "Where did Sheela's parents come from?",
+      "options": [
+        "Bengal, in east India",
+        "Hayes, in West London",
+        "The south of India",
+        "Pakistan"
+      ],
+      "answer": 0,
+      "why": "She was born in Hayes to parents from the east Indian state of Bengal."
+    },
+    {
+      "q": "Why did Sheela's parents give her a typical English first name?",
+      "options": [
+        "It was easier to spell",
+        "It was her grandmother's name",
+        "They wanted to hide their Indian roots",
+        "They wanted her to feel safe in London"
+      ],
+      "answer": 3,
+      "why": "Neil says her parents wanted their daughter to feel safe in London."
+    },
+    {
+      "q": "What led Sheela to investigate her family story?",
+      "options": [
+        "She wanted to understand her culture more",
+        "Her parents asked her to write a book",
+        "Her teacher gave her a school project",
+        "She wanted to change her name"
+      ],
+      "answer": 0,
+      "why": "Beth says, wanting to find out more about her culture, Sheela started to pull the threads behind her family story."
+    },
+    {
+      "q": "What happened to Sheela's original surname?",
+      "options": [
+        "Her parents shortened it when they moved to London",
+        "The British changed it, not wanting to say it",
+        "She changed it herself to sound more English",
+        "It was changed when her family changed caste"
+      ],
+      "answer": 1,
+      "why": "She says the British changed 'Bandyopadhyay' because they couldn't be bothered to pronounce it, or couldn't."
+    },
+    {
+      "q": "How does Sheela feel about the name Banerjee?",
+      "options": [
+        "Proud, because it shows her high caste",
+        "Happy, because it's easy for English people to say",
+        "Mixed, because it is a reminder of colonial rule",
+        "Angry, and she plans to change it"
+      ],
+      "answer": 2,
+      "why": "She says it's a very mixed name because it shows they were colonial subjects, so it's tricky to carry around."
+    },
+    {
+      "q": "What does Beth find ironic?",
+      "options": [
+        "That Sheela doesn't look or sound very English",
+        "That most Indian names are now anglicised",
+        "That Sheela's book is mostly about politics",
+        "That the Empire's capital became home to migrants"
+      ],
+      "answer": 3,
+      "why": "She says ironically London, capital of the British Empire, became the destination for migrants from all over the world."
+    }
+  ]
+}

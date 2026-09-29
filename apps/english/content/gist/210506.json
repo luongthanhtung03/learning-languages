@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why so many people believe in ghosts and spirits",
+        "The making of a famous Disney movie about the sea",
+        "Different stories about mermaids around the world",
+        "How frogs are able to live on land and in water"
+      ],
+      "answer": 2,
+      "why": "They discuss mermaids, which feature in myths and legends of many cultures."
+    },
+    {
+      "q": "What did the Sirens do in the ancient Greek story?",
+      "options": [
+        "Their singing led to a shipwreck",
+        "They saved Odysseus from drowning in a storm",
+        "They married sailors",
+        "They protected the water kingdom"
+      ],
+      "answer": 0,
+      "why": "Georgina says their seductive singing shipwrecked Odysseus and his sailors."
+    },
+    {
+      "q": "How is Disney's Ariel different from the Sirens?",
+      "options": [
+        "She is dangerous and seductive like them",
+        "She can't sing",
+        "She lives on land",
+        "She is defenceless, not dangerous"
+      ],
+      "answer": 3,
+      "why": "Neil says Ariel seems the total opposite of the seductive, dangerous Sirens."
+    },
+    {
+      "q": "According to Marcelle Mateki, what role does Mami Wata usually have?",
+      "options": [
+        "She attacks fishermen",
+        "She protects the water kingdom",
+        "She teaches children to swim",
+        "She brings rain to farmers"
+      ],
+      "answer": 1,
+      "why": "She says Mami Wata is commonly seen as the protector of the water kingdom."
+    },
+    {
+      "q": "What can Selkies from the Orkney Islands do?",
+      "options": [
+        "Become human, marry, then return to the sea",
+        "Fly between the islands at night looking for food",
+        "Sing beautiful songs to sink passing ships",
+        "Turn fishermen into fish with a magic spell"
+      ],
+      "answer": 0,
+      "why": "Georgina says Selkies can take human form and marry men, but return to the sea now and then."
+    },
+    {
+      "q": "According to Cristina Bacchilega, what do these different mermaid stories make us think about?",
+      "options": [
+        "How to catch more fish from the sea",
+        "Which culture has the best stories",
+        "Our link with nature and ourselves",
+        "Why children like fairy tales"
+      ],
+      "answer": 2,
+      "why": "Neil says they force us to question our relationship to water and nature and how we see ourselves."
+    },
+    {
+      "q": "What does Cristina Bacchilega suggest humans should show towards the natural world?",
+      "options": [
+        "Fear",
+        "Humility",
+        "Control",
+        "Pride"
+      ],
+      "answer": 1,
+      "why": "She asks whether we approach this world with humility or with a human-centred view."
+    },
+    {
+      "q": "What does Georgina mean when she compares mermaids to electricity?",
+      "options": [
+        "Mermaids are dangerous like electricity",
+        "She has seen both of them",
+        "Electricity was discovered by the sea",
+        "Not seeing something doesn't prove it isn't real"
+      ],
+      "answer": 3,
+      "why": "She says she's never seen a mermaid, but she's never seen electricity either, and believes in that."
+    }
+  ]
+}

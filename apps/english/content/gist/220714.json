@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Whether animals can evolve to cope with climate change",
+        "Darwin's life and his long journey around the world",
+        "Why the Galapagos Islands have so many colourful birds",
+        "How scientists protect animals from dangerous hurricanes"
+      ],
+      "answer": 0,
+      "why": "Sam says they'll be asking 'can animals evolve to deal with climate change?'"
+    },
+    {
+      "q": "According to Kiyoko Gotanda, what did Darwin first think of the finches?",
+      "options": [
+        "He thought they were the most beautiful birds he'd seen",
+        "He was surprised by how loudly they sang",
+        "He wasn't very interested because they looked dull",
+        "He thought they were a kind of parrot"
+      ],
+      "answer": 2,
+      "why": "She says he 'wasn't that interested' – they were a drab colour and didn't have an interesting song."
+    },
+    {
+      "q": "What did Darwin notice when he looked at the finches back in England?",
+      "options": [
+        "They all had exactly the same shape and size",
+        "Their beaks varied from island to island",
+        "They had changed colour during the journey",
+        "They could only live on one of the islands"
+      ],
+      "answer": 1,
+      "why": "He looked at variation in beak shape and size, and recalled certain finches were found on certain islands."
+    },
+    {
+      "q": "Which finches were more likely to survive and have babies?",
+      "options": [
+        "Those with the most colourful feathers",
+        "Those with the loudest and nicest song",
+        "Those that flew to other islands",
+        "Those whose beaks got them more food"
+      ],
+      "answer": 3,
+      "why": "Sam says finches born with a beak that could help them get more food were more likely to survive."
+    },
+    {
+      "q": "What have studies of birds in Brazil and red deer in Scotland shown?",
+      "options": [
+        "Warmer weather has made their bodies smaller",
+        "They have grown bigger to survive colder winters",
+        "They have moved to new areas to find food",
+        "They are not affected by climate change at all"
+      ],
+      "answer": 0,
+      "why": "Sam says warmer temperatures have caused them to evolve smaller bodies – it's easier to keep cool."
+    },
+    {
+      "q": "What is Thor Hanson trying to find out about anole lizards?",
+      "options": [
+        "Why they have become more colourful",
+        "How they find food in the Caribbean forests",
+        "How hurricanes are affecting them",
+        "Why they are moving to colder islands"
+      ],
+      "answer": 2,
+      "why": "Rob says he wants to see how hurricanes, an effect of climate change, are affecting the lizards."
+    },
+    {
+      "q": "Which lizards survived the hurricanes?",
+      "options": [
+        "Those with long back legs and very small toe pads",
+        "The largest and heaviest lizards",
+        "Those that hid under the ground",
+        "Those with strong front legs and big toe pads"
+      ],
+      "answer": 3,
+      "why": "Large toe pads and strong front legs gave a tighter grip, and smaller back legs reduced the drag."
+    },
+    {
+      "q": "Why does Sam think the lizard changes would have surprised Darwin?",
+      "options": [
+        "The lizards changed colour very quickly",
+        "They happened in only about forty years",
+        "The lizards did not pass on their traits",
+        "They happened only on one small island"
+      ],
+      "answer": 1,
+      "why": "She says evolution usually takes hundreds of years, but these changes happened in around forty years."
+    }
+  ]
+}

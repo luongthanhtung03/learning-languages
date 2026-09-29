@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "A popular meal of seafood and steak",
+        "How to find the cheapest prices online",
+        "Why shops are closing on the high street",
+        "People filling online shopping baskets but not paying"
+      ],
+      "answer": 3,
+      "why": "Rob explains 'surf and turf' as putting things in a virtual basket but not completing the purchase."
+    },
+    {
+      "q": "How does Neil misunderstand 'surf and turf' at first?",
+      "options": [
+        "He thinks it's a water sport",
+        "He thinks Rob means a meal of lobster and steak",
+        "He thinks it's a type of garden",
+        "He thinks it's the name of a new shopping website"
+      ],
+      "answer": 1,
+      "why": "Neil talks about 'some lobster, a juicy steak', and Rob says he's got the wrong end of the stick."
+    },
+    {
+      "q": "According to the research, how many people abandoned an online basket in the last year?",
+      "options": [
+        "About 40%",
+        "About 18%",
+        "About 70%",
+        "About 10%"
+      ],
+      "answer": 0,
+      "why": "Rob says approximately 40% of people have abandoned an online shopping basket in the last year."
+    },
+    {
+      "q": "What does Rob think about the figure of 18 billion pounds of lost sales?",
+      "options": [
+        "It is too low",
+        "It is exactly right",
+        "He doubts it, as people don't plan to buy everything",
+        "He thinks the shops should get all of that money back from customers"
+      ],
+      "answer": 2,
+      "why": "Rob says he's sceptical, because 'we don't always intend to buy everything we put in our baskets'."
+    },
+    {
+      "q": "Why does Neil agree that some of the money was never really lost?",
+      "options": [
+        "Some people buy the same things in another shop",
+        "Most people come back the next day and buy everything",
+        "Shops have insurance",
+        "People buy the items by phone"
+      ],
+      "answer": 0,
+      "why": "Neil says you might check another store for cheaper items, so some money would have gone to other stores."
+    },
+    {
+      "q": "Which of these is a reason for not finishing a purchase that Rob and Neil mention?",
+      "options": [
+        "The website is too colourful",
+        "The items they want are often out of stock",
+        "The shop is closed",
+        "High delivery costs or complicated payment"
+      ],
+      "answer": 3,
+      "why": "Rob mentions high delivery costs or paying being very complicated, and Neil agrees."
+    },
+    {
+      "q": "What did retail expert Clare Bailey find about over 70% of retailers?",
+      "options": [
+        "They had stopped selling online",
+        "They hadn't improved their payment process in two years",
+        "They charged their customers far too much for delivery",
+        "They had too few customers"
+      ],
+      "answer": 1,
+      "why": "She says over 70% 'hadn't invested in the payment process in the last two years'."
+    },
+    {
+      "q": "What mistake does Clare Bailey suggest retailers make?",
+      "options": [
+        "They spend far too much money on advertising and not enough on products",
+        "They don't have enough products",
+        "They invest in getting us to the checkout, but not in it",
+        "They make their websites too slow"
+      ],
+      "answer": 2,
+      "why": "She says they invested in getting us to that page 'and then they fell foul'."
+    }
+  ]
+}

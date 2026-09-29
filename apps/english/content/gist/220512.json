@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to choose the best VR headset for video games",
+        "Why VR can be harmful for people with fears",
+        "How prisons in Spain are designed and run",
+        "How VR is being used to help with serious problems"
+      ],
+      "answer": 3,
+      "why": "Rob says they'll hear how VR is tackling problems like domestic violence and helping people overcome phobias."
+    },
+    {
+      "q": "Why do scientists and therapists find VR useful, according to Sam?",
+      "options": [
+        "It is cheap and easy for anyone to use",
+        "The experience feels very intense and real",
+        "It lets people forget their problems completely",
+        "It works without any help from a therapist"
+      ],
+      "answer": 1,
+      "why": "Sam says users describe VR as intense, and it's this intensity that therapists use to help people."
+    },
+    {
+      "q": "How does Sam feel about heights?",
+      "options": [
+        "She isn't very comfortable with them",
+        "She loves climbing tall buildings",
+        "She has never been afraid of them",
+        "She only fears them when flying"
+      ],
+      "answer": 0,
+      "why": "Sam says, 'if like me, you're not very good with heights…'"
+    },
+    {
+      "q": "How does the Oxford VR 'Fear of Heights' system work?",
+      "options": [
+        "Users visit a clinic and climb a real rope",
+        "A therapist takes users to tall buildings",
+        "Users do tasks at home, going ever higher",
+        "Users watch videos of other people climbing"
+      ],
+      "answer": 2,
+      "why": "At home you put on a headset and are guided through tasks moving you higher, like a lift, then a rope."
+    },
+    {
+      "q": "According to Professor Daniel Freeman, why does VR help people drop their defences?",
+      "options": [
+        "Because the headset makes them feel sleepy",
+        "They know the height isn't really there",
+        "Because a doctor stays with them the whole time",
+        "Because they forget that it's a simulation"
+      ],
+      "answer": 1,
+      "why": "He says a person is more able to drop their defences 'because they know there's no real height there'."
+    },
+    {
+      "q": "Who uses the 'virtual embodiment' project in Barcelona?",
+      "options": [
+        "Victims of crime who want to feel safer",
+        "Police officers learning to arrest people",
+        "Children who are afraid of the dark",
+        "Prisoners convicted of domestic violence"
+      ],
+      "answer": 3,
+      "why": "Rob says it's used in prisons with men convicted of domestic violence."
+    },
+    {
+      "q": "What does the Barcelona VR project make the prisoners experience?",
+      "options": [
+        "What it's like to be a prison guard",
+        "What life will be like after prison",
+        "Abuse from their victims' point of view",
+        "What it's like to be a famous person"
+      ],
+      "answer": 2,
+      "why": "It gives the men the experience of abuse in the first person – their insults turned back on them."
+    },
+    {
+      "q": "What results does Dr Mavi Sanchez-Vives report?",
+      "options": [
+        "More prisoners fit back into society after prison",
+        "Prisoners refuse to use the VR headsets at all",
+        "The project has now closed because it failed",
+        "Prisoners say they enjoy the experience very much"
+      ],
+      "answer": 0,
+      "why": "She reports more and more prisoners successfully reintegrating into their communities after release."
+    }
+  ]
+}

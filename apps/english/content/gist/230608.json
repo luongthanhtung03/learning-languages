@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to learn a language by watching TV",
+        "The work of subtitling, including sounds",
+        "Funny mistakes made on live television",
+        "Why deaf people watch less television"
+      ],
+      "answer": 1,
+      "why": "They meet subtitler Karli Witkowska to find out more about subtitling."
+    },
+    {
+      "q": "What does Beth say about dramatic, action-packed scenes?",
+      "options": [
+        "They don't need any subtitles at all",
+        "They have the most dialogue of any scene",
+        "No one may speak, but sounds need describing",
+        "They are the easiest scenes to subtitle"
+      ],
+      "answer": 2,
+      "why": "She says there might be no-one speaking, but all the sounds need to be described as well."
+    },
+    {
+      "q": "Why is subtitling live TV harder?",
+      "options": [
+        "It must be done as the person speaks",
+        "It must be translated into many languages",
+        "It uses more difficult and technical words",
+        "It is written months before the show airs"
+      ],
+      "answer": 0,
+      "why": "Beth says live TV subtitling has to be done in the moment, as the person is speaking."
+    },
+    {
+      "q": "How can subtitles help language learners?",
+      "options": [
+        "They correct the learner's grammar mistakes",
+        "They slow down the speech so it's clearer",
+        "They show only easy words and phrases",
+        "You can read a word and hear it at once"
+      ],
+      "answer": 3,
+      "why": "They let you read a word and hear how it's pronounced at the same time."
+    },
+    {
+      "q": "What does Karli base her choice of words on?",
+      "options": [
+        "The age of the audience",
+        "The genre and style of the show",
+        "The length of the scene",
+        "What the director tells her"
+      ],
+      "answer": 1,
+      "why": "She says 'it depends on the genre and depends on the shows'."
+    },
+    {
+      "q": "What has changed since the growth of streaming services like Netflix?",
+      "options": [
+        "Subtitles are no longer needed",
+        "Subtitles are now written by computers",
+        "Subtitling has become something of an art",
+        "Only foreign films have subtitles"
+      ],
+      "answer": 2,
+      "why": "Neil says since the growth of streaming, subtitling has become something of an art."
+    },
+    {
+      "q": "Why did Karli love the description 'gobsmacked silence'?",
+      "options": [
+        "It was short, clear and easy to read",
+        "It was her own idea, not her boss's",
+        "It described a loud scream in the scene",
+        "It showed shock, though there was no sound"
+      ],
+      "answer": 3,
+      "why": "She says people were on the verge of a gasp, 'but there wasn't actually a sound'."
+    },
+    {
+      "q": "How did Karli feel when her colleague thought of it?",
+      "options": [
+        "She wanted to congratulate him",
+        "She was jealous",
+        "She wanted to change it",
+        "She was surprised it went viral"
+      ],
+      "answer": 0,
+      "why": "She says she wanted to give him a virtual high five."
+    }
+  ]
+}

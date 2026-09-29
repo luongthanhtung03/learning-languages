@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The worst foods in Britain and why",
+        "How to become a chef in France",
+        "People who translate recipes into English",
+        "Why British vegetables are always overboiled"
+      ],
+      "answer": 2,
+      "why": "Rob says they'll be meeting the recipe translators."
+    },
+    {
+      "q": "What does Rob think about Britain's reputation for bad food?",
+      "options": [
+        "It is completely true",
+        "It is no longer really true",
+        "It is only true in Scotland",
+        "It has never been true"
+      ],
+      "answer": 1,
+      "why": "He says he doesn't think the reputation is still true, because of big changes in the last twenty years."
+    },
+    {
+      "q": "What change in British eating does Rob describe?",
+      "options": [
+        "Brits have started eating more black pudding",
+        "Brits now eat only French and Italian food",
+        "Brits are eating less food than they used to",
+        "Brits love international and vegan food now"
+      ],
+      "answer": 3,
+      "why": "He says Brits have fallen in love with foods like Indian curry, Asian rice dishes and vegan food."
+    },
+    {
+      "q": "What does a recipe translator need besides a dictionary?",
+      "options": [
+        "Knowing ingredients and techniques",
+        "A restaurant of their own to test food",
+        "A degree in chemistry or biology",
+        "Experience as a food journalist"
+      ],
+      "answer": 0,
+      "why": "Sam says they need to know vocabulary for ingredients and techniques while keeping the heart of the recipe."
+    },
+    {
+      "q": "How did Rosa Llopis start her career?",
+      "options": [
+        "As a chef in a Spanish restaurant",
+        "As a teacher of English in Madrid",
+        "As an interpreter at a cooking school",
+        "As a food writer for a newspaper"
+      ],
+      "answer": 2,
+      "why": "She began working as an interpreter for Le Cordon Bleu, the French cuisine school."
+    },
+    {
+      "q": "What did Rosa realise about Spain?",
+      "options": [
+        "There were too many recipe translators",
+        "No one specialised in cooking translation",
+        "Spanish food wasn't popular abroad",
+        "Spanish recipes were too difficult"
+      ],
+      "answer": 1,
+      "why": "She realised there was no such specialisation in gastronomy or cooking translation in Spain."
+    },
+    {
+      "q": "Why does Rosa say readers must be able to replicate her recipes?",
+      "options": [
+        "Otherwise they won't buy the book",
+        "Because her publisher requires it",
+        "So that restaurants can use them",
+        "Because the recipes are very old"
+      ],
+      "answer": 0,
+      "why": "She says, 'If my readers can't replicate those recipes, they won't buy the book.'"
+    },
+    {
+      "q": "What does Rosa do when an ingredient is hard to find?",
+      "options": [
+        "She removes the recipe from the book",
+        "She tells readers to buy it online",
+        "She leaves it out without explanation",
+        "She suggests a similar alternative"
+      ],
+      "answer": 3,
+      "why": "She always tries to offer an alternative so readers can mimic the flavour or results."
+    }
+  ]
+}

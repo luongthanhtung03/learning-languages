@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to design a successful dating app that people want to use",
+        "Why marriages last longer today",
+        "How to find the perfect partner",
+        "What happens in our brains when we use dating apps"
+      ],
+      "answer": 3,
+      "why": "Dan says they are looking at what our brains are doing when we use dating apps."
+    },
+    {
+      "q": "What does Rob say about using dating apps?",
+      "options": [
+        "He would never use one",
+        "He uses them every day",
+        "He met his partner on one",
+        "He is thinking of trying one"
+      ],
+      "answer": 0,
+      "why": "Rob says 'No way, I would never use one.'"
+    },
+    {
+      "q": "According to Alice Gray, how is choosing a partner on an app different from meeting in person?",
+      "options": [
+        "It takes much longer online",
+        "Online we choose more carefully",
+        "It is actually very similar in our brain",
+        "Our brains don't react at all online"
+      ],
+      "answer": 2,
+      "why": "She says it's easy to think it would be very different, 'when actually it's really similar'."
+    },
+    {
+      "q": "According to Dan, what happens once you swipe left on someone?",
+      "options": [
+        "They get a message from you",
+        "You will never see them again",
+        "They can still ask to meet you",
+        "They appear again the next day"
+      ],
+      "answer": 1,
+      "why": "Dan says once you've swiped left you will never see that person again."
+    },
+    {
+      "q": "What advantage of meeting someone in real life does Dan point out?",
+      "options": [
+        "You can get to know them and start to like them",
+        "It is much cheaper than paying to use a dating app",
+        "You never get rejected",
+        "You can meet more people"
+      ],
+      "answer": 0,
+      "why": "Dan says you might not find someone attractive at first but then get to know and like them."
+    },
+    {
+      "q": "According to Alice Gray, what is the main difference with rejection on dating apps?",
+      "options": [
+        "It doesn't hurt at all",
+        "It hurts much more each time",
+        "It happens far more often",
+        "It only happens to men"
+      ],
+      "answer": 2,
+      "why": "She says the patterns are similar, but the amount of rejection on dating apps is a lot higher."
+    },
+    {
+      "q": "Why is rejection in real life easier to deal with, according to Alice Gray?",
+      "options": [
+        "Friends are there to help you",
+        "You have time to recover before the next one",
+        "People are much kinder when they reject you face to face",
+        "You forget about it straight away"
+      ],
+      "answer": 1,
+      "why": "She says in real life you have time to compute the rejection, get over it and dust yourself off."
+    },
+    {
+      "q": "Why does Dan describe someone falling over on the ground?",
+      "options": [
+        "To tell a funny story about a date",
+        "To warn about using phones while walking",
+        "To show how painful rejection is",
+        "To explain the idea of recovering and carrying on"
+      ],
+      "answer": 3,
+      "why": "He explains 'dust yourself off' as getting up and making yourself ready again before carrying on."
+    }
+  ]
+}

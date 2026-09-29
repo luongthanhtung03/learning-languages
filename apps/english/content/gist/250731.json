@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Online content with harmful ideas about masculinity and its effect on a young man",
+        "How young men can find jobs using social media",
+        "Why boys should learn ballet and poetry",
+        "A new website created to help young men"
+      ],
+      "answer": 0,
+      "why": "They discuss 'the manosphere' and hear from Will Adolphy, who followed it until he had a breakdown."
+    },
+    {
+      "q": "According to Anita Rani's definition, what does the manosphere say makes a man valuable?",
+      "options": [
+        "Kindness, patience and caring for his wife and children",
+        "Being creative and artistic",
+        "Being honest about his feelings",
+        "Control, money, looks and dominance over women"
+      ],
+      "answer": 3,
+      "why": "She lists emotional control, material wealth, physical appearance and dominance over women."
+    },
+    {
+      "q": "Where, according to Phil, can the manosphere be found?",
+      "options": [
+        "On one popular website",
+        "Mainly in newspapers, magazines and on television programmes",
+        "In social media posts, videos and other online content",
+        "In books written by psychologists"
+      ],
+      "answer": 2,
+      "why": "He says there's no manosphere website, but its ideas appear in social media posts and TikTok videos."
+    },
+    {
+      "q": "Why does Will Adolphy mention that he did ballet, acting and poetry?",
+      "options": [
+        "To show he was very popular at school",
+        "To explain why he didn't fit in and was easily picked on",
+        "To say what he does for a job now",
+        "To show the kind of activities that the manosphere tells boys to do"
+      ],
+      "answer": 1,
+      "why": "He says he 'didn't quite fit in the box' and was 'an easy target'."
+    },
+    {
+      "q": "What does Will say about photos of himself at 14?",
+      "options": [
+        "He looked happy and relaxed",
+        "He looked much younger than he was",
+        "He was always smiling and laughing with his friends",
+        "He can see he was hiding behind a mask"
+      ],
+      "answer": 3,
+      "why": "He says in pictures of him at 14 'you can see bravado, you can see a mask'."
+    },
+    {
+      "q": "What problems did Will have behind his confident image?",
+      "options": [
+        "He found it hard to get a girlfriend or keep a job",
+        "He failed all his school exams",
+        "He lost contact with his family",
+        "He spent all of his money on expensive online courses about success"
+      ],
+      "answer": 0,
+      "why": "Georgie says he struggled to get a girlfriend or hold down a job."
+    },
+    {
+      "q": "How did the message 'The world hates men' affect Will?",
+      "options": [
+        "He thought it was a joke",
+        "He started to see the world as men against everyone else",
+        "He decided to stop going online",
+        "He reported the influencer to the police and to the social media company"
+      ],
+      "answer": 1,
+      "why": "He says it felt true and distorted his worldview, so 'it was an us versus them'."
+    },
+    {
+      "q": "What does Will do now?",
+      "options": [
+        "He makes videos as an online influencer to help other young men like him",
+        "He works as an actor in London",
+        "He visits schools, telling young people to question online content",
+        "He writes poetry about mental health"
+      ],
+      "answer": 2,
+      "why": "Phil says he visits UK schools telling his story and reminding young people to question online content."
+    }
+  ]
+}

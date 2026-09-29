@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Animals that have become extinct because of humans",
+        "How floods damage people's homes and businesses",
+        "Climate worry, and how to reduce it",
+        "Why newspapers only ever report bad news"
+      ],
+      "answer": 2,
+      "why": "The programme is about eco-anxiety: grief, fear or hopelessness about the planet's future."
+    },
+    {
+      "q": "According to the Institute of Psychiatrists, what can cause stress and anxiety?",
+      "options": [
+        "Just reading news about the planet",
+        "Only living through a flood or a fire",
+        "Working in a green job for many years",
+        "Travelling by plane too often for work"
+      ],
+      "answer": 0,
+      "why": "Beth says just reading about the planet in the news is causing stress and anxiety."
+    },
+    {
+      "q": "How does Judy Ling Wong feel about young people today?",
+      "options": [
+        "Angry that they don't do enough",
+        "Worried that they don't understand the science",
+        "Sure that they are too anxious to act",
+        "Very sympathetic, because older generations left a mess"
+      ],
+      "answer": 3,
+      "why": "She says she has tremendous compassion for them because of the mess her generation left."
+    },
+    {
+      "q": "Why is Judy optimistic?",
+      "options": [
+        "Because the climate is getting better",
+        "Because we now have exact science and know what to do",
+        "Because governments have solved the problem",
+        "Because fewer people are worried now"
+      ],
+      "answer": 1,
+      "why": "She says now we have the exact science, and 'we actually know what to do now'."
+    },
+    {
+      "q": "According to a paper Judy mentions, what helps people feel better?",
+      "options": [
+        "Avoiding the news completely for a few weeks",
+        "Talking to a psychiatrist about their fears",
+        "Feeling part of a movement for change",
+        "Moving from the city to the countryside"
+      ],
+      "answer": 2,
+      "why": "The paper said if you feel part of the movement to change things, you feel much better."
+    },
+    {
+      "q": "What has the UK government promised, according to Judy?",
+      "options": [
+        "To stop using all fossil fuels by 2030",
+        "To pay young activists",
+        "To plant 2 million trees",
+        "To create 2 million new green jobs"
+      ],
+      "answer": 3,
+      "why": "She says they committed to creating 2 million new green jobs."
+    },
+    {
+      "q": "Why does Judy mention green jobs?",
+      "options": [
+        "Working for a green future helps your mind",
+        "They are much better paid than other jobs",
+        "Young people don't really want to do them",
+        "They are easy to find in most big cities"
+      ],
+      "answer": 0,
+      "why": "She says dedicating your working life to a green future has a huge effect on your psychology."
+    },
+    {
+      "q": "What did recent polls show?",
+      "options": [
+        "Most people don't care about climate change",
+        "Most people are worried and ready to make changes",
+        "Only young people are worried",
+        "Most people think it's too late to act"
+      ],
+      "answer": 1,
+      "why": "Beth says the majority are worried about climate change and prepared to make changes."
+    }
+  ]
+}

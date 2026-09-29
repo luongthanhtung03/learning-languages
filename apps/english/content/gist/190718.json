@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How non-stick pans were invented by accident",
+        "Why politicians use social media to win votes",
+        "How to stop feeling embarrassed in public",
+        "The feeling of shame and whether it can be useful"
+      ],
+      "answer": 3,
+      "why": "Neil and Sam discuss shame and whether it's always a bad thing."
+    },
+    {
+      "q": "How has social media changed the idea of shame, according to the presenters?",
+      "options": [
+        "It is now common to shame people publicly online",
+        "People feel much less shame than they did in the past",
+        "Shaming people is now banned on most social media sites",
+        "Only famous people and politicians feel shame now"
+      ],
+      "answer": 0,
+      "why": "Sam says publicly shaming people is something we see a lot on social media."
+    },
+    {
+      "q": "What does Hetta Howes think about shame?",
+      "options": [
+        "It is always harmful and should be avoided",
+        "It is never useful in modern society",
+        "Too much is bad, but the right amount helps",
+        "Only young people should feel it at school"
+      ],
+      "answer": 2,
+      "why": "She says too much is crippling, but the right amount can be really positive."
+    },
+    {
+      "q": "Why can some shame be positive, according to Hetta Howes?",
+      "options": [
+        "It makes people more popular",
+        "It can make people change their behaviour",
+        "It makes people work harder",
+        "It helps people forget mistakes"
+      ],
+      "answer": 1,
+      "why": "She says it 'effects change', so publicly shaming someone may bring positive change."
+    },
+    {
+      "q": "Which group does Neil suggest has to accept public shaming more than others?",
+      "options": [
+        "Teachers",
+        "Journalists",
+        "Scientists",
+        "Politicians"
+      ],
+      "answer": 3,
+      "why": "Sam guesses politicians, and Neil goes on to talk about them."
+    },
+    {
+      "q": "What does Tiffany Watt-Smith mean by a 'Teflon-coated politician'?",
+      "options": [
+        "A politician who criticism and shame don't affect",
+        "A politician who works in the cooking industry",
+        "A politician who is very popular",
+        "A politician who always tells the truth"
+      ],
+      "answer": 0,
+      "why": "Sam explains criticism and shame just don't stick to some politicians."
+    },
+    {
+      "q": "How does Tiffany Watt-Smith feel about someone who never feels shame?",
+      "options": [
+        "She admires them",
+        "She thinks it's frightening",
+        "She finds it funny",
+        "She thinks it's normal"
+      ],
+      "answer": 1,
+      "why": "She calls it 'a kind of frightening image'."
+    },
+    {
+      "q": "Why does Neil ask about non-stick cooking pans at the start?",
+      "options": [
+        "Sam asked him to at the start of the show",
+        "The programme was going to be about cooking",
+        "It links to the Teflon image of politicians",
+        "It was a random question with no real link"
+      ],
+      "answer": 2,
+      "why": "He promised 'all will become clear', and Teflon later describes some politicians."
+    }
+  ]
+}

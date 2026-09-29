@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to collect and sell Pokemon trading cards",
+        "Why video games are bad for children",
+        "Why the game Super Mario became so popular",
+        "How to become a famous streamer on YouTube"
+      ],
+      "answer": 2,
+      "why": "Rob says they're talking about the iconic video game character Super Mario, and why the game is so popular."
+    },
+    {
+      "q": "What does Georgina remember about her childhood?",
+      "options": [
+        "Playing Super Mario or Sonic for hours",
+        "Never being allowed to play video games",
+        "Working in a shop that sold video games",
+        "Winning money in video game competitions"
+      ],
+      "answer": 0,
+      "why": "She says she spent many hours playing Nintendo's Super Mario or Sega's Sonic the Hedgehog."
+    },
+    {
+      "q": "What do the presenters say about video games today?",
+      "options": [
+        "Only young children really play them now",
+        "They are much less popular than before",
+        "Most games are too expensive to buy",
+        "Gamers can win prizes and become stars"
+      ],
+      "answer": 3,
+      "why": "They mention e-sports with considerable money, and streamers who have become celebrities."
+    },
+    {
+      "q": "What was the video game market like in the early 1980s, especially in the US?",
+      "options": [
+        "It was growing faster than ever",
+        "It was struggling",
+        "It was controlled by Sega",
+        "It had only a few games"
+      ],
+      "answer": 1,
+      "why": "Georgina says in the 1980s the console market was struggling, particularly in the US."
+    },
+    {
+      "q": "According to Keza MacDonald, what happened to the game ET on the Atari?",
+      "options": [
+        "It became the best-selling game in America",
+        "It was only ever sold in Europe",
+        "It was so bad copies were buried",
+        "It was the first game to feature Mario"
+      ],
+      "answer": 2,
+      "why": "She says it was so bad 'they ended up burying thousands of copies of it in the desert'."
+    },
+    {
+      "q": "What does Keza say rescued the video game industry in the US?",
+      "options": [
+        "The game ET",
+        "Cheaper consoles",
+        "Sonic the Hedgehog",
+        "Nintendo"
+      ],
+      "answer": 3,
+      "why": "She says the video game boom was falling off a cliff 'and Nintendo is what rescued' it in the US."
+    },
+    {
+      "q": "According to Keza, what makes Super Mario Bros. so enjoyable?",
+      "options": [
+        "The joy of running and jumping",
+        "Its long and exciting story",
+        "Its realistic modern graphics",
+        "The chance to win real money"
+      ],
+      "answer": 0,
+      "why": "She says 'it's running and jumping, and it's the joy of movement'."
+    },
+    {
+      "q": "What does Rob think of the original game now?",
+      "options": [
+        "It's too old and difficult to play today",
+        "It's still as good as it was back then",
+        "It's only fun for young children",
+        "It was never as good as people say"
+      ],
+      "answer": 1,
+      "why": "He says he played it recently and 'it's still as good now as it was then'."
+    }
+  ]
+}

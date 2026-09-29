@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to be a good parent to teenagers",
+        "Why men become fathers and how fatherhood has changed",
+        "Why fewer people are having children",
+        "How mothers and fathers share the housework and childcare"
+      ],
+      "answer": 1,
+      "why": "Neil says they're talking about fathers and how being a father has changed over the years."
+    },
+    {
+      "q": "How does Catherine tease Neil at the start?",
+      "options": [
+        "She says his grey hair and wrinkles are just his age",
+        "She says he is a bad father",
+        "She says he looks too young to be a dad",
+        "She says he talks about his children far too much at work"
+      ],
+      "answer": 0,
+      "why": "When Neil mentions his grey hair and wrinkles, Catherine says 'I thought that was just your age.'"
+    },
+    {
+      "q": "What is one reason men become fathers, according to Dr Anna Machin?",
+      "options": [
+        "Their parents want grandchildren",
+        "They want someone to look after them when they are old",
+        "They have a house and a job, so a family is the next stage",
+        "Their friends all have children"
+      ],
+      "answer": 2,
+      "why": "She says for some it's a stage in life: 'They've got the house, they've got the job'."
+    },
+    {
+      "q": "What do some men admit, according to Dr Machin?",
+      "options": [
+        "They are afraid of babies",
+        "They don't really get on well with their partners any more",
+        "They want many children",
+        "They aren't keen, but their partner wants a baby"
+      ],
+      "answer": 3,
+      "why": "She says some admit they're not that keen, but their partner wants a baby, so they go along with it."
+    },
+    {
+      "q": "Why do a reasonable number of men want to be fathers?",
+      "options": [
+        "To be better fathers than their own fathers were",
+        "To copy what their fathers did",
+        "To earn more respect from their colleagues at work",
+        "To make their mothers happy"
+      ],
+      "answer": 0,
+      "why": "She says they want to undo what their father did to them and be a better father than he was."
+    },
+    {
+      "q": "How does Dr Machin describe a typical '1950s father'?",
+      "options": [
+        "Kind and playful",
+        "Always at home looking after the children and helping with homework",
+        "Distant, strict and not involved in daily care",
+        "Busy with housework"
+      ],
+      "answer": 2,
+      "why": "She says a 1950s father was distant, disciplinarian and not involved in their children's daily life."
+    },
+    {
+      "q": "What has Dr Machin seen in the 10 years she has studied fathers?",
+      "options": [
+        "Fathers spend less time with their children",
+        "Fathers are much more involved with their children",
+        "More fathers are absent from home",
+        "Fathers have become stricter"
+      ],
+      "answer": 1,
+      "why": "She says there has been 'a massive evolution in how hands-on fathers are'."
+    },
+    {
+      "q": "Why does Neil say 'it serves you right' to Catherine?",
+      "options": [
+        "Because she guessed the quiz answer",
+        "Because she was late",
+        "Because she laughed at the grey hair in his beard earlier",
+        "Because she ate his biscuit, which had been on the floor"
+      ],
+      "answer": 3,
+      "why": "Catherine admits she ate his biscuit, and Neil says it had been on the floor."
+    }
+  ]
+}

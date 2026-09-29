@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why modern life is stressful and how to manage it",
+        "How to pass important exams without studying",
+        "Why young people work too many hours a week",
+        "The health benefits of listening to music daily"
+      ],
+      "answer": 0,
+      "why": "They discuss what makes us stressed and how to manage stress to feel happier and healthier."
+    },
+    {
+      "q": "What makes Neil feel stressed?",
+      "options": [
+        "Taking important exams",
+        "Watching the news every evening",
+        "Not having enough time to do something",
+        "Meeting lots of new people at parties"
+      ],
+      "answer": 2,
+      "why": "Neil says not having enough time to do something really makes him stressed out."
+    },
+    {
+      "q": "What makes Becca feel stressed, and how does Neil respond?",
+      "options": [
+        "Being late for work; Neil says he never is",
+        "Working alone at home; Neil prefers it",
+        "Loud noise at night; Neil doesn't mind it",
+        "Trying new things she's bad at; Neil agrees"
+      ],
+      "answer": 3,
+      "why": "Becca is stressed trying something new she isn't good at, and Neil says 'I find that stressful, too.'"
+    },
+    {
+      "q": "How does Neil cope with stressful situations?",
+      "options": [
+        "He goes for a long run in the park to relax",
+        "He slows down, breathes and says it'll be OK",
+        "He makes a detailed to-do list for the day",
+        "He calls his friends and talks about it"
+      ],
+      "answer": 1,
+      "why": "He tries to slow down, pause, take a breath and think everything will be OK again later."
+    },
+    {
+      "q": "According to Claudia Hammond, what can happen if overwhelm continues for a long time?",
+      "options": [
+        "It can lead to burnout",
+        "It always goes away by itself",
+        "It makes people work faster",
+        "It improves memory"
+      ],
+      "answer": 0,
+      "why": "She says if it becomes chronic stress, 'that might lead to burnout in the end'."
+    },
+    {
+      "q": "What does Claudia say about feeling stressed during an exam?",
+      "options": [
+        "You should leave the exam room and take a break",
+        "It always makes your final results much worse",
+        "You should try hard not to think about it at all",
+        "It may help you think clearly and do better"
+      ],
+      "answer": 3,
+      "why": "She says you may well perform better while stressed, as nerves sharpen your thinking."
+    },
+    {
+      "q": "Which of these is another tip from Claudia for reducing stress?",
+      "options": [
+        "Always aim for perfection",
+        "Accept that being 'good enough' is fine",
+        "Work faster to finish everything",
+        "Avoid all difficult tasks"
+      ],
+      "answer": 1,
+      "why": "Neil says her tips include slowing down and accepting it's OK to be 'good enough'."
+    },
+    {
+      "q": "Why does Claudia say we should accept that our to-do list will never end?",
+      "options": [
+        "Because to-do lists are a complete waste of time",
+        "Because we should all do much less work",
+        "Because a list that never ends is just normal life",
+        "Because other people should do some of our tasks"
+      ],
+      "answer": 2,
+      "why": "She says there will always be something new on it, 'and that's just life'."
+    }
+  ]
+}

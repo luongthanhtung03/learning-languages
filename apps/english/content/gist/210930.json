@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The menopause and why it should be discussed openly",
+        "How doctors treat hot flushes and night sweats at home",
+        "Why women in Britain are having children later in life",
+        "Michelle Obama's life and career after leaving the White House"
+      ],
+      "answer": 0,
+      "why": "They discuss the menopause and women trying to make it more visible in society."
+    },
+    {
+      "q": "According to Georgina, how can going through the menopause feel?",
+      "options": [
+        "Exciting, because life becomes easier",
+        "The same for every woman",
+        "Lonely, both at home and at work",
+        "Painful only for a few days"
+      ],
+      "answer": 2,
+      "why": "She says living through it can be isolating, both personally and professionally."
+    },
+    {
+      "q": "Why does Georgina mention Michelle Obama?",
+      "options": [
+        "She is a doctor who studies the menopause",
+        "She is a famous woman who has started talking about it",
+        "She writes a newsletter about healthy ageing",
+        "She thinks the subject should stay private"
+      ],
+      "answer": 1,
+      "why": "Georgina says high-profile women like Michelle Obama have started speaking up."
+    },
+    {
+      "q": "Why, according to Dr Nighat Arif, is there silence around the menopause?",
+      "options": [
+        "Because doctors don't really understand what causes it",
+        "Because it only affects a small number of women",
+        "Because it is a new medical condition",
+        "Because it is about getting older"
+      ],
+      "answer": 3,
+      "why": "She says menopause is about getting old, something no one wants to be reminded of."
+    },
+    {
+      "q": "What point does Dr Arif make about older women today?",
+      "options": [
+        "Most of them stop working after having their children",
+        "They are less productive than younger women",
+        "Many work hard, care for others and earn money",
+        "They should rely more on their grown-up children"
+      ],
+      "answer": 2,
+      "why": "She says women are becoming more productive at work, are caregivers and sometimes the financial providers."
+    },
+    {
+      "q": "Who is Barbara Hannah Grufferman?",
+      "options": [
+        "An American writer with a newsletter on healthy ageing",
+        "A British doctor specialising in women's health",
+        "A BBC presenter of The Conversation",
+        "A scientist who studies hormones"
+      ],
+      "answer": 0,
+      "why": "She is an American writer who publishes 'The Menopause Cheat Sheet' about healthy ageing."
+    },
+    {
+      "q": "According to Barbara Hannah Grufferman, what is one of the biggest problems for women over 45?",
+      "options": [
+        "Finding a doctor who understands the menopause",
+        "Paying for medicine",
+        "Getting enough sleep at night",
+        "Unfair treatment because of their age"
+      ],
+      "answer": 3,
+      "why": "She says 'one of the biggest complications, I think, is ageism'."
+    },
+    {
+      "q": "What does she mean by a 'double whammy' for women going through the menopause?",
+      "options": [
+        "They have to work full-time and look after young children",
+        "They face age discrimination and physical symptoms at once",
+        "They suffer from hot flushes and night sweats at the same time",
+        "They lose their job and their pension in the same year"
+      ],
+      "answer": 1,
+      "why": "She says ageism plus physical symptoms that affect work and home together make a double whammy."
+    }
+  ]
+}

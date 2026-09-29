@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to learn useful ancient Greek words",
+        "How British people often don't say what they mean",
+        "Why British people apologise less than Americans",
+        "The long history of English grammar rules"
+      ],
+      "answer": 1,
+      "why": "Beth says what we say and what we mean are sometimes two very different things in English."
+    },
+    {
+      "q": "According to Beth, why do people often exaggerate when they speak?",
+      "options": [
+        "To add emphasis or to be funny",
+        "To tell lies",
+        "To sound more formal",
+        "Because they don't know the right word"
+      ],
+      "answer": 0,
+      "why": "She says we often use exaggeration 'for emphasis or for humour'."
+    },
+    {
+      "q": "When Derek Bousfield's daughters say they've had a 'mare' at work, what has usually happened?",
+      "options": [
+        "Something truly terrible and upsetting",
+        "They lost their job after an argument",
+        "They had a very bad dream the night before",
+        "Something small, annoying and a bit funny"
+      ],
+      "answer": 3,
+      "why": "Derek says it means they've had 'a mild and potentially slightly humorous occurrence at work'."
+    },
+    {
+      "q": "What do Beth and Pippa say about the greeting 'Hi, y'alright?'",
+      "options": [
+        "It is rude to say it to people you don't know",
+        "People expect a long, honest answer to it",
+        "It just means hello; nobody wants your news",
+        "Only young people in big cities use it"
+      ],
+      "answer": 2,
+      "why": "Beth says 'we don't really want to hear the answer', and Pippa's friend just means 'Hello.'"
+    },
+    {
+      "q": "Which example of understatement does Pippa give?",
+      "options": [
+        "Saying an awful meal was 'less than perfect'",
+        "Saying 'I could eat a horse' when hungry",
+        "Calling a bad day 'an absolute nightmare'",
+        "Saying 'No worries' to a friend who is late"
+      ],
+      "answer": 0,
+      "why": "She imagines an awful meal and saying, 'It was less than perfect.'"
+    },
+    {
+      "q": "According to Derek, why is understatement popular in British culture?",
+      "options": [
+        "Because most British people are very shy",
+        "Because it is taught in schools from an early age",
+        "Because taking yourself too seriously is a no-no",
+        "Because it makes conversations shorter"
+      ],
+      "answer": 2,
+      "why": "He says taking yourself too seriously is 'a no-no in British culture'."
+    },
+    {
+      "q": "Why does Michael Rosen say 'It's all good' when a stranger steps on his toe?",
+      "options": [
+        "Because it didn't hurt at all",
+        "Because he wants the stranger to apologise again",
+        "Because he's happy about it",
+        "Because he's a bit annoyed but doesn't want an argument"
+      ],
+      "answer": 3,
+      "why": "He says he's a bit miffed, but doesn't want a barney with a stranger, so he says it's all good."
+    },
+    {
+      "q": "What advice does Beth give English learners?",
+      "options": [
+        "Avoid using British phrases until you're sure",
+        "Don't be shy; talk, and carry on after mistakes",
+        "Only speak English with your teachers at first",
+        "Always ask people what they really mean"
+      ],
+      "answer": 1,
+      "why": "Beth says don't be shy, get talking, and if you make a mistake say 'No worries!' and carry on."
+    }
+  ]
+}

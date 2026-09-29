@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a zookeeper",
+        "Why pandas are disappearing",
+        "The most popular zoos in the world",
+        "The arguments for and against keeping animals in zoos"
+      ],
+      "answer": 3,
+      "why": "They debate the pros and cons of keeping animals in zoos."
+    },
+    {
+      "q": "What is Neil's opinion of zoos at the start?",
+      "options": [
+        "He thinks they should all close because keeping animals locked up is cruel",
+        "He sees good reasons for them but also finds them a bit sad",
+        "He loves visiting them",
+        "He has never thought about it"
+      ],
+      "answer": 1,
+      "why": "He says there are good scientific reasons, but it seems 'a little bit sad and cruel'."
+    },
+    {
+      "q": "How many people visit zoos every year?",
+      "options": [
+        "Around 700 million",
+        "Around 70 million",
+        "Around 7 billion",
+        "Around 17 million people"
+      ],
+      "answer": 0,
+      "why": "Georgie mentions an estimated 700 million visitors every year."
+    },
+    {
+      "q": "According to reporter William Lee Adams, what is the main reason zoos give for existing?",
+      "options": [
+        "Making money for cities",
+        "Giving animals medical care",
+        "Education",
+        "Entertainment for families"
+      ],
+      "answer": 2,
+      "why": "He says education is the primary reason zoos give for why they should exist."
+    },
+    {
+      "q": "Why does William mention his visits to Zoo Atlanta as a child?",
+      "options": [
+        "To say that lowland gorillas have always been his favourite animal",
+        "To complain that the trips were boring",
+        "To show how school trips introduce children to conservation",
+        "To explain why he became a reporter"
+      ],
+      "answer": 2,
+      "why": "He saw the gorillas every year, and 'the point of this was to introduce us to conservation'."
+    },
+    {
+      "q": "Why does William talk about pandas?",
+      "options": [
+        "Because they often escape from zoos",
+        "Because they are the most popular animal with visitors in every zoo",
+        "Because they are dangerous to visitors",
+        "Because zoos spend money on research to help them breed"
+      ],
+      "answer": 3,
+      "why": "He says pandas are reluctant to mate and a lot of zoo money goes to encouraging them."
+    },
+    {
+      "q": "What are animal-rights activist Nikita Dhawan's reasons against zoos?",
+      "options": [
+        "Zoos are too expensive to visit",
+        "Zoos harm animals' health and can't copy their natural homes",
+        "Zoos teach children the wrong facts about how wild animals live",
+        "Zoos don't have enough visitors"
+      ],
+      "answer": 1,
+      "why": "She mentions harm to animals' physical and psychological health and says zoos can't mimic natural habitats."
+    },
+    {
+      "q": "Has Neil changed his opinion by the end?",
+      "options": [
+        "No, he still isn't sure because both sides are strong",
+        "Yes, after hearing Nikita he now thinks all zoos are cruel",
+        "Yes, he now fully supports zoos",
+        "He refuses to give an opinion"
+      ],
+      "answer": 0,
+      "why": "Neil says there are strong arguments on both sides, 'so I'm still not sure'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How the film 'Jaws' was made in the 1970s",
+        "Sharks' scary image, the facts, and human threats",
+        "How to stay safe when swimming in the sea",
+        "Why sharks are becoming more dangerous to humans"
+      ],
+      "answer": 1,
+      "why": "They explain that sharks' fearsome reputation isn't based on facts, and that humans kill millions of sharks."
+    },
+    {
+      "q": "According to Sam, why do most shark attacks on humans happen?",
+      "options": [
+        "Sharks are very hungry in the summer months",
+        "Sharks want revenge on people who hunt them",
+        "Swimmers go too far away from the beach",
+        "The shark thinks the swimmer is a fish"
+      ],
+      "answer": 3,
+      "why": "Sam says most attacks are cases of mistaken identity, where the shark mistakes a swimmer for fish."
+    },
+    {
+      "q": "In recent years, how many people a year have died from shark bites worldwide, on average?",
+      "options": [
+        "About four hundred",
+        "About forty",
+        "About four",
+        "About four thousand"
+      ],
+      "answer": 2,
+      "why": "Sam says the average annual number of deaths from shark bites was as low as four."
+    },
+    {
+      "q": "How many sharks are caught and killed by humans each year?",
+      "options": [
+        "Over 100 million",
+        "About 530",
+        "Around 400,000",
+        "Over 100,000"
+      ],
+      "answer": 0,
+      "why": "Sam says over 100 million sharks are caught and killed each year."
+    },
+    {
+      "q": "What does George Burgess think of the shark in 'Jaws'?",
+      "options": [
+        "It shows quite well how great whites behave",
+        "It is completely unlike real sharks",
+        "It is realistic, but the attacks are too bloody",
+        "It helped people understand sharks better"
+      ],
+      "answer": 1,
+      "why": "He says the idea of a shark with a grudge chasing humans – 'nothing could be further from the truth'."
+    },
+    {
+      "q": "What does Rob say about how long sharks have existed?",
+      "options": [
+        "They appeared after the dinosaurs died out",
+        "They have changed a lot in the last million years",
+        "They first appeared about 4 million years ago",
+        "They're older than dinosaurs, almost unchanged"
+      ],
+      "answer": 3,
+      "why": "Rob says they have hardly changed in 400 million years, making them older than the dinosaurs."
+    },
+    {
+      "q": "According to Oliver Crimmin, what is special about a shark's skeleton?",
+      "options": [
+        "It has no bone, so it's light and flexible",
+        "It is made of very heavy and strong bones",
+        "It is larger than any other fish's skeleton",
+        "It grows back quickly when it is damaged"
+      ],
+      "answer": 0,
+      "why": "He says there's no bone in the skeleton, and this flexible material makes sharks agile and lightweight."
+    },
+    {
+      "q": "Why does Sam tell listeners to feel the fold of their ear?",
+      "options": [
+        "To show how sharks are able to hear sounds",
+        "To explain how sharks lose their fins",
+        "So they can feel what cartilage is like",
+        "To show that humans have no cartilage"
+      ],
+      "answer": 2,
+      "why": "After Rob explains cartilage, Sam says to feel the fold of your ear – 'that's cartilage'."
+    }
+  ]
+}

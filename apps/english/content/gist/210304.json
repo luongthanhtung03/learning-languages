@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The world's happiest countries and why they're happy",
+        "Amsterdam's 'doughnut' model for a better city",
+        "How to make delicious doughnuts at home",
+        "Why designer jeans are so expensive to buy"
+      ],
+      "answer": 1,
+      "why": "They discuss how Amsterdam uses the idea of a ring doughnut as a model for sustainability."
+    },
+    {
+      "q": "Does Rob think utopia really exists?",
+      "options": [
+        "Yes, he thinks it already exists in Amsterdam",
+        "Yes, he believes it exists in Finland",
+        "He is sure it will exist within a few years",
+        "Probably not, but it's something people aim for"
+      ],
+      "answer": 3,
+      "why": "Rob says 'probably not, but it's something we aspire to create'."
+    },
+    {
+      "q": "In the doughnut model, what does the hole in the middle represent?",
+      "options": [
+        "People who don't have the basic things they need",
+        "Too much pressure on the planet's natural resources",
+        "Cities that are growing too fast for their transport",
+        "Money that is wasted by governments on big projects"
+      ],
+      "answer": 0,
+      "why": "Rob says the idea is not to leave anyone in the hole, falling short on the essentials of life."
+    },
+    {
+      "q": "What happens if we go beyond the outer ring of the doughnut?",
+      "options": [
+        "Everyone becomes richer",
+        "People lose their jobs",
+        "The planet is put under too much pressure",
+        "Cities become too small for everyone"
+      ],
+      "answer": 2,
+      "why": "Rob says beyond the outer ring we put so much pressure on the planet it can cause climate change."
+    },
+    {
+      "q": "How does Kate Raworth say Amsterdam wants to change how it builds?",
+      "options": [
+        "By importing cheaper building materials from abroad",
+        "By reusing construction materials already in the city",
+        "By building much taller buildings in the city centre",
+        "By stopping all new building work for ten years"
+      ],
+      "answer": 1,
+      "why": "She says instead of new raw materials, they ask how to reuse materials already in the city."
+    },
+    {
+      "q": "What is good about Mud Jeans' recycled jeans, according to the presenters?",
+      "options": [
+        "They save cotton, chemicals and water",
+        "They are cheap enough for everyone to buy",
+        "They are made only from new cotton",
+        "They never wear out"
+      ],
+      "answer": 0,
+      "why": "Rob says they may not be affordable for all, but reduce cotton, chemicals and water and create jobs."
+    },
+    {
+      "q": "What point does Bert van Son make about making jeans?",
+      "options": [
+        "Machines make better and cheaper jeans than people do",
+        "Jeans should always be made as fast as possible",
+        "Workers in jeans factories don't really need medical care",
+        "You can't make nice jeans if the workers are treated badly"
+      ],
+      "answer": 3,
+      "why": "He says if you mistreat the people making your jeans, 'you will never be able to make nice jeans'."
+    },
+    {
+      "q": "What does Bert van Son mean when he says making clothing 'has to become human again'?",
+      "options": [
+        "Clothes should all be made slowly by hand at home",
+        "Clothes should look more natural and be less colourful",
+        "It should involve compassion and respect for workers",
+        "Only people, not computers, should design new clothes"
+      ],
+      "answer": 2,
+      "why": "Georgina explains he means being someone with compassion, feelings and respect for others."
+    }
+  ]
+}

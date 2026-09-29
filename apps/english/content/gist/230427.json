@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why women face special difficulties in politics",
+        "How to become a prime minister",
+        "The history of the Conservative party",
+        "Why men are better political leaders"
+      ],
+      "answer": 0,
+      "why": "Neil says they'll be asking: why is life so hard for women in politics?"
+    },
+    {
+      "q": "What percentage of the world's politicians are women?",
+      "options": [
+        "Over half",
+        "About 45%",
+        "Only 26%",
+        "About 10%"
+      ],
+      "answer": 2,
+      "why": "Beth says only 26% of the world's politicians are women."
+    },
+    {
+      "q": "What was partly behind Jacinda Ardern's resignation, according to Neil?",
+      "options": [
+        "A scandal about how her party spent money",
+        "Online abuse aimed at her as a woman",
+        "Losing an election to the other party",
+        "Arguments with her own party about taxes"
+      ],
+      "answer": 1,
+      "why": "He says it was partly because of the misogynistic abuse she received online."
+    },
+    {
+      "q": "According to Professor Rosie Campbell, how was Margaret Thatcher coached?",
+      "options": [
+        "To dress and walk like a man in parliament",
+        "To speak more softly and kindly to voters",
+        "To avoid speaking in public whenever possible",
+        "To act more like a man but dress like a woman"
+      ],
+      "answer": 3,
+      "why": "She was coached to change her voice and behave more masculine, while dressing in a very feminine way."
+    },
+    {
+      "q": "What does Neil say about how women in politics are treated today?",
+      "options": [
+        "Their clothes and manners are judged more",
+        "They are treated in exactly the same way as men",
+        "The internet has made things much easier for them",
+        "Nobody comments on their clothes or appearance"
+      ],
+      "answer": 0,
+      "why": "He says the way women behave or dress is commented on and criticised far more than men."
+    },
+    {
+      "q": "Why is it described as a paradox?",
+      "options": [
+        "Women vote more often but win fewer elections",
+        "Men are usually more caring than women",
+        "Politics needs 'female' qualities but has few women",
+        "Most politicians don't like empathy or kindness"
+      ],
+      "answer": 2,
+      "why": "Beth says empathy and understanding, often linked with women, are most needed in politics today."
+    },
+    {
+      "q": "What leadership style does Helen Clark link with women?",
+      "options": [
+        "Strict, top-down and not open to other views",
+        "Working together and open to debate",
+        "Fast, emotional and unpredictable",
+        "Quiet, careful and avoiding hard decisions"
+      ],
+      "answer": 1,
+      "why": "She says women are known for more collaborative styles and are more open to evidenced debate."
+    },
+    {
+      "q": "What does Beth suggest about leaders like Margaret Thatcher and Liz Truss?",
+      "options": [
+        "They were too collaborative with other parties",
+        "They were forced out by men in their own party",
+        "They were the most successful leaders in history",
+        "Their very strict style helped end their time"
+      ],
+      "answer": 3,
+      "why": "She says adopting dictatorial approaches has been the end of many leaders, including them."
+    }
+  ]
+}

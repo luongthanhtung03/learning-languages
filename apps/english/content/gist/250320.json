@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The world's most expensive restaurants",
+        "How to cook traditional Indian food",
+        "Why food prices are rising around the world",
+        "A project that helps people cook healthy food cheaply"
+      ],
+      "answer": 3,
+      "why": "They discuss 'Bags of Taste', which helps people save money on food and improve their diet."
+    },
+    {
+      "q": "How does Pippa save money on her food shopping?",
+      "options": [
+        "She only buys food on sale",
+        "She shops online",
+        "She plans what she's going to cook",
+        "She eats at restaurants much less than she used to"
+      ],
+      "answer": 2,
+      "why": "Pippa says she plans what she likes to cook so she doesn't waste money."
+    },
+    {
+      "q": "What does Pippa think of Georgie's shopping habit?",
+      "options": [
+        "It's a terrible idea to shop when hungry",
+        "It's a good way to save money",
+        "It's the same as her own habit",
+        "It's healthy because snacks are cheaper than proper meals"
+      ],
+      "answer": 0,
+      "why": "Georgie shops when hungry and buys snacks, and Pippa says, 'that's a terrible idea'."
+    },
+    {
+      "q": "What worried Alicia Weston, the founder of Bags of Taste?",
+      "options": [
+        "Supermarkets were wasting too much food",
+        "People with less money had the worst diets and got ill younger",
+        "Children were no longer learning how to cook healthy food at school",
+        "Restaurants were becoming too expensive"
+      ],
+      "answer": 1,
+      "why": "She says people in poverty are eating the worst diets and 'getting sicker younger'."
+    },
+    {
+      "q": "Which problem did Alicia find that stopped people cooking healthy meals?",
+      "options": [
+        "They didn't have kitchens",
+        "They couldn't afford to risk wasting ingredients by cooking badly",
+        "They didn't like vegetables",
+        "They preferred eating at restaurants or buying cheap fast food instead"
+      ],
+      "answer": 1,
+      "why": "People didn't know how to cook the meals and couldn't afford to experiment and waste food."
+    },
+    {
+      "q": "Why does Bags of Taste deliver ingredients to people's homes?",
+      "options": [
+        "Because most people say they don't have enough time to go shopping",
+        "Because supermarkets are far away",
+        "To make the ingredients cheaper",
+        "Because Alicia believes change begins with behaviour at home"
+      ],
+      "answer": 3,
+      "why": "She says 'behaviour change starts with actually changing your behaviour at home'."
+    },
+    {
+      "q": "What does the mentor in each WhatsApp group do?",
+      "options": [
+        "Delivers the food bags",
+        "Checks how much money people spend",
+        "Shares cooking tips and advice",
+        "Cooks the meals for participants"
+      ],
+      "answer": 2,
+      "why": "Each group has a mentor who shares cooking tips and advice."
+    },
+    {
+      "q": "What happened when participant Ally made her chana masala?",
+      "options": [
+        "She used too much chilli and will use less next time",
+        "She burned it and had to start again",
+        "Her husband said it wasn't nearly spicy enough and added more chilli",
+        "She couldn't find the onion in her bag"
+      ],
+      "answer": 0,
+      "why": "She was 'a bit too heavy-handed with the chilli' and would reduce it next time."
+    }
+  ]
+}

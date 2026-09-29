@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "A new event where athletes may take performance drugs",
+        "How the Olympics test athletes for banned drugs",
+        "The history of professional cycling in America",
+        "Why top athletes earn so much money from sponsors"
+      ],
+      "answer": 0,
+      "why": "They discuss The Enhanced Games, where banned performance-enhancing drugs are allowed."
+    },
+    {
+      "q": "Which sports are part of The Enhanced Games, according to Asma Khalid?",
+      "options": [
+        "Cycling, running and boxing",
+        "Swimming, sprinting and weightlifting",
+        "Football, tennis and golf",
+        "Only swimming"
+      ],
+      "answer": 1,
+      "why": "She says it's like the Olympics but only for swimming, sprinting and weightlifting."
+    },
+    {
+      "q": "What is the main aim of the competition?",
+      "options": [
+        "To find new Olympic champions",
+        "To test new medicines",
+        "To break world records",
+        "To raise money for charity"
+      ],
+      "answer": 2,
+      "why": "Asma Khalid says 'The aim is to break world records.'"
+    },
+    {
+      "q": "Why wouldn't Neil enjoy watching The Enhanced Games?",
+      "options": [
+        "He thinks the events are far too short to enjoy",
+        "He doesn't like Las Vegas, where it takes place",
+        "He isn't really interested in any kind of sport",
+        "He thinks athletes should start at the same level"
+      ],
+      "answer": 3,
+      "why": "Neil says it isn't fair; all athletes should start and compete from the same level."
+    },
+    {
+      "q": "How is Pippa's attitude to sport different from Neil's?",
+      "options": [
+        "She rarely watches sport, so might not notice",
+        "She thinks doping should be allowed everywhere",
+        "She is a much bigger sports fan than Neil",
+        "She has competed as a professional athlete"
+      ],
+      "answer": 0,
+      "why": "Pippa says she doesn't watch many sports, so she wouldn't notice the difference."
+    },
+    {
+      "q": "What do the organisers say makes their event safer?",
+      "options": [
+        "All athletes must be under 30 and very fit",
+        "Drugs are approved and taken openly with doctors",
+        "Only a few very mild drugs are allowed at all",
+        "The events are held indoors in cool stadiums"
+      ],
+      "answer": 1,
+      "why": "They say drugs are FDA-approved and taken openly under medical supervision, unlike secret doping."
+    },
+    {
+      "q": "According to Dan Roan, what is one worry of the critics?",
+      "options": [
+        "The prize money is far too small to attract stars",
+        "The events will be too boring for fans to watch",
+        "It may make doping seem normal and acceptable",
+        "Too few famous athletes will agree to take part"
+      ],
+      "answer": 2,
+      "why": "Critics say it sets a dreadful example because it risks normalising doping."
+    },
+    {
+      "q": "What does Neil suggest when he asks 'what's the point?' at the end?",
+      "options": [
+        "He has changed his mind about the Games",
+        "Athletes should be paid more",
+        "He wants to learn more before deciding",
+        "Sport has no value if it is not fair"
+      ],
+      "answer": 3,
+      "why": "He says 'if you're not fair in sport, what's the point?', showing he still opposes the Games."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to write a funny advert for a newspaper",
+        "Why fewer people now use online dating apps",
+        "The language of online dating and its dangers",
+        "How psychologists help people after a break-up"
+      ],
+      "answer": 2,
+      "why": "Sam says they will learn new words used by people looking for love online, and they discuss lies in profiles."
+    },
+    {
+      "q": "Why did people use abbreviations like GSOH in old newspaper dating adverts?",
+      "options": [
+        "They paid per word, so they kept it short",
+        "Newspapers did not allow long descriptions of people",
+        "They wanted to keep their real identity secret",
+        "It was a fashionable way of writing at the time"
+      ],
+      "answer": 0,
+      "why": "Roy says they paid a price per word, so they described themselves in as few words as possible."
+    },
+    {
+      "q": "What does Roy say happened to the abbreviation GSOH?",
+      "options": [
+        "It was banned from newspapers",
+        "It is now only used on dating apps",
+        "People stopped using it after the internet came",
+        "It became part of everyday English"
+      ],
+      "answer": 3,
+      "why": "Roy says, 'Eventually, GSOH became a part of everyday English.'"
+    },
+    {
+      "q": "According to Dr Nicola Fox Hamilton, when does a dating profile become very deceptive?",
+      "options": [
+        "When someone says they enjoy an activity they do sometimes",
+        "When they say they love going out with friends but have none",
+        "When someone uses an old photo from many years ago",
+        "When someone writes a very short and boring description"
+      ],
+      "answer": 1,
+      "why": "She says if you have no friends but say your favourite thing is hanging out with friends, that's very deceptive."
+    },
+    {
+      "q": "What does Nicola say many people do in their profiles?",
+      "options": [
+        "Tell the complete truth about their lives",
+        "Pretend to be a completely different person",
+        "Refuse to say anything about their hobbies",
+        "Make things sound a bit better"
+      ],
+      "answer": 3,
+      "why": "She says a lot of people exaggerate things about themselves to seem more attractive."
+    },
+    {
+      "q": "What balance are people trying to find, according to Nicola?",
+      "options": [
+        "Seeming attractive without disappointing",
+        "Being funny without seeming silly or rude",
+        "Meeting people online and also in real life",
+        "Talking about work and talking about hobbies"
+      ],
+      "answer": 0,
+      "why": "She says they are balancing 'between being attractive and not completely disappointing'."
+    },
+    {
+      "q": "How is wokefishing different from catfishing, according to Nicola?",
+      "options": [
+        "The person creates a totally false identity",
+        "The person is real but lies about their views",
+        "The person lies about their job and how much they earn",
+        "The person uses someone else's photos and name"
+      ],
+      "answer": 1,
+      "why": "She says in wokefishing the person is generally who they say, but claims to be more liberal than they are."
+    },
+    {
+      "q": "What does Roy imply with his final advice to listeners?",
+      "options": [
+        "Online dating is too dangerous to try",
+        "You should exaggerate a little to find love",
+        "It is better to be honest about who you are",
+        "Newspaper adverts work better than apps"
+      ],
+      "answer": 2,
+      "why": "He says 'there's probably someone out there interested in the real you'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Tattoos, why people get them and why they're popular",
+        "How to remove unwanted tattoos safely with lasers",
+        "The health risks of tattoos and the inks they use",
+        "Famous footballers and their fashion and hairstyles"
+      ],
+      "answer": 0,
+      "why": "Sam and Rob discuss tattoos, why people have them and the recent trend."
+    },
+    {
+      "q": "What are the presenters' feelings about tattoos at the start?",
+      "options": [
+        "Both of them love tattoos and have several each",
+        "Rob likes them, but Sam thinks they look cheap",
+        "Sam finds them impressive, but Rob isn't keen",
+        "Both think they are ugly and a waste of money"
+      ],
+      "answer": 2,
+      "why": "Sam says they can be impressive works of art; Rob says he's not that keen."
+    },
+    {
+      "q": "Why does Lucie Parfitt like tattoos?",
+      "options": [
+        "All her friends at university have them too",
+        "She sees them as a creative way to show who she is",
+        "She wants to look like her favourite celebrity",
+        "She works as an artist in a tattoo parlour"
+      ],
+      "answer": 1,
+      "why": "She says they're a cool way of expressing yourself and her personality creatively."
+    },
+    {
+      "q": "What does Sam suggest if you want to express something different later?",
+      "options": [
+        "Have the old tattoo removed",
+        "Cover it with clothes",
+        "Stop getting tattoos",
+        "Get a new tattoo"
+      ],
+      "answer": 3,
+      "why": "Sam says, 'Well, then it's time for a new tattoo!'"
+    },
+    {
+      "q": "How many people now have a tattoo, according to Rob?",
+      "options": [
+        "One in ten",
+        "One in five",
+        "One in two",
+        "One in twenty"
+      ],
+      "answer": 1,
+      "why": "Rob says he's heard that one in five people now have a tattoo."
+    },
+    {
+      "q": "According to tattoo artist Lee Clements, what has changed in the last ten years?",
+      "options": [
+        "Tattoos have become cheaper",
+        "Tattoo artists are better trained",
+        "Many celebrities have tattoos, so people copy them",
+        "Young people have stopped getting tattoos"
+      ],
+      "answer": 2,
+      "why": "He says you see a lot of celebrities getting tattooed and people want to copy them."
+    },
+    {
+      "q": "What does Lee Clements think is a negative side of this trend?",
+      "options": [
+        "Tattoos feel less special and individual",
+        "Parlours are too busy",
+        "Tattoo designs are getting worse",
+        "People regret their tattoos more often"
+      ],
+      "answer": 0,
+      "why": "He says it 'dilutes that value a little bit' when tattoos become a fashion thing."
+    },
+    {
+      "q": "Has Rob changed his mind about getting a tattoo by the end?",
+      "options": [
+        "Yes, he wants one on his back",
+        "Yes, he booked an appointment",
+        "He is still thinking about it",
+        "No, he's not getting one soon"
+      ],
+      "answer": 3,
+      "why": "He says, 'I'm not going to get one anytime soon.'"
+    }
+  ]
+}

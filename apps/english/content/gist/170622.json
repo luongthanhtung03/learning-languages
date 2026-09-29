@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Whether gadgets are built not to last and why we throw them out",
+        "How to repair your own mobile phone at home with basic tools",
+        "The best new gadgets to buy this year and where to find them",
+        "How electronic waste is collected and recycled in Europe"
+      ],
+      "answer": 0,
+      "why": "Neil asks if technology is built to fail and if we're throwing away too much and harming the planet."
+    },
+    {
+      "q": "How old are Catherine's TV and mobile phone?",
+      "options": [
+        "Both are brand new",
+        "Her TV is two and a half; her phone is five",
+        "Both are about ten years old",
+        "Her TV is five; her phone is about two and a half"
+      ],
+      "answer": 3,
+      "why": "Catherine says her TV just had its fifth birthday and her phone is about two and a half."
+    },
+    {
+      "q": "Why do people throw away so many gadgets, according to Neil?",
+      "options": [
+        "They are too heavy and big to keep in the house",
+        "Recycling them is too difficult and takes too long",
+        "It often costs more to fix them than buy new ones",
+        "Shops refuse to repair them after the first year"
+      ],
+      "answer": 2,
+      "why": "Neil says technology gets cheaper and many gadgets are more expensive to fix than replace."
+    },
+    {
+      "q": "According to Professor Tim Cooper, what is the problem with mobile phone screens?",
+      "options": [
+        "They are made of cheap plastic that scratches easily",
+        "They're glued in, so they can't easily be replaced",
+        "They are too big to fit comfortably in a pocket",
+        "They use too much battery when the light is bright"
+      ],
+      "answer": 1,
+      "why": "He says screens are glued in; with a screw, consumers could replace a cracked screen themselves."
+    },
+    {
+      "q": "Why does Professor Cooper think phone makers do this?",
+      "options": [
+        "It makes the phones much cheaper to produce in factories",
+        "They want people to buy a new phone every year or two",
+        "Customers prefer phones with no screws on the back",
+        "It makes the phones stronger if they are dropped"
+      ],
+      "answer": 1,
+      "why": "He says makers know screws would help phones last, but 'they want you to replace your mobile phone every year or two'."
+    },
+    {
+      "q": "What example does Professor Cooper give about washing machines?",
+      "options": [
+        "Modern ones last much longer than the old ones did",
+        "His own one broke down after just one year of use",
+        "They are now too expensive for most families to buy",
+        "His parents' lasted 37 years, but now they last 5–10"
+      ],
+      "answer": 3,
+      "why": "He says his parents' washing machine lasted 37 years; these days they last between five and ten."
+    },
+    {
+      "q": "What does Professor Cooper suggest?",
+      "options": [
+        "Buying better goods and labelling how long products should last",
+        "Banning cheap electronic products from shops across Europe",
+        "Only buying second-hand gadgets from friends and family",
+        "Keeping every phone for at least ten years before recycling"
+      ],
+      "answer": 0,
+      "why": "He suggests buying higher quality if we can, and labels saying how long products are designed to last."
+    },
+    {
+      "q": "What does Catherine plan to do with her phone?",
+      "options": [
+        "Buy the latest model as soon as it comes out",
+        "Recycle it straight away at the local shop",
+        "Keep it and look after the screen carefully",
+        "Give it to Neil because he needs a new one"
+      ],
+      "answer": 2,
+      "why": "She says she's happy with it but will protect the screen very carefully."
+    }
+  ]
+}

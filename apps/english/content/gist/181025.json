@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The life and work of the artist Banksy",
+        "How to become a scriptwriter",
+        "Why creativity matters for future jobs",
+        "Why the BBC is such a good and creative place to work"
+      ],
+      "answer": 2,
+      "why": "They discuss why creativity is important for future jobs and how we can be more creative."
+    },
+    {
+      "q": "What does the World Economic Forum forecast?",
+      "options": [
+        "Creativity will be a top-three skill for future jobs",
+        "Creative industries like music and TV will disappear by 2020",
+        "Young people will find jobs more easily",
+        "Most jobs will be in art and music"
+      ],
+      "answer": 0,
+      "why": "It forecasts that by 2020 creativity will be in the top three most important skills for future jobs."
+    },
+    {
+      "q": "According to Bernadette Duffy, what is the problem with how schools teach?",
+      "options": [
+        "They teach too much art",
+        "They don't teach important subjects like maths and reading",
+        "Teachers have too little time",
+        "They teach skills in ways that are easy to measure"
+      ],
+      "answer": 3,
+      "why": "She says we teach important things 'in a way that makes them easier to measure'."
+    },
+    {
+      "q": "What does Bernadette Duffy want schools to focus on more?",
+      "options": [
+        "Gaining more skills",
+        "Using skills in a creative way",
+        "Passing more tests",
+        "Learning about computers"
+      ],
+      "answer": 1,
+      "why": "She wants less focus purely on gaining skills and 'far far more on actually using them in a creative way'."
+    },
+    {
+      "q": "Why does Rob mention one of the BBC's values?",
+      "options": [
+        "To show his organisation sees creativity as essential",
+        "To complain about his job",
+        "To explain how the BBC trains its new staff to be creative",
+        "To advertise a new programme"
+      ],
+      "answer": 0,
+      "why": "He says the value states that 'creativity is the lifeblood of our organisation'."
+    },
+    {
+      "q": "What does Nick Skillicorn suggest everyone should do each day?",
+      "options": [
+        "Work at a desk for longer",
+        "Read a book for an hour before starting work",
+        "Take 15 minutes of unfocused time",
+        "Write down all their ideas"
+      ],
+      "answer": 2,
+      "why": "He says everyone should take fifteen minutes of unfocused time, not looking at any screen."
+    },
+    {
+      "q": "Where does Rob say he gets his headspace?",
+      "options": [
+        "At his desk in the office",
+        "Watching TV",
+        "Talking to colleagues",
+        "In the bath or riding his bike"
+      ],
+      "answer": 3,
+      "why": "Rob says he has headspace when lying in the bath or out riding his bike."
+    },
+    {
+      "q": "Why does Neil say creativity will be vital for children starting school now?",
+      "options": [
+        "Because they will be too busy with technology to learn",
+        "They may do jobs that don't exist yet",
+        "Because schools are closing",
+        "Because art is more popular than ever"
+      ],
+      "answer": 1,
+      "why": "He says they will grow up to do a job that doesn't yet exist, facing challenges like AI."
+    }
+  ]
+}

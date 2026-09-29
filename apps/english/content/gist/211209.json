@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become more confident at school",
+        "How body language works in video meetings",
+        "Why Zoom is better than meeting in person",
+        "How to give a good speech at work"
+      ],
+      "answer": 1,
+      "why": "Neil says they'll be asking how body language has changed in the world of online video meetings."
+    },
+    {
+      "q": "How are Sam and Neil recording this programme?",
+      "options": [
+        "On Zoom from their homes",
+        "On Skype from different countries",
+        "By phone from their offices",
+        "Face-to-face in the BBC studio"
+      ],
+      "answer": 3,
+      "why": "Sam says they're recording face-to-face in the studio, 'which, I am happy to say, we are doing right now'."
+    },
+    {
+      "q": "Why do online meetings often feel more distant?",
+      "options": [
+        "It's almost impossible to make eye contact",
+        "People speak much more quietly online",
+        "Meetings online are always much shorter",
+        "People can't hear each other clearly"
+      ],
+      "answer": 0,
+      "why": "Neil says making eye contact through a web camera is almost impossible, creating a 'distancing' effect."
+    },
+    {
+      "q": "What is Erica Dhawan's final piece of advice?",
+      "options": [
+        "Always keep your microphone on mute",
+        "Smile as much as possible on camera",
+        "Slow down and wait before speaking",
+        "Look directly at other people's faces"
+      ],
+      "answer": 2,
+      "why": "She says 'last but not least, slow down' and suggests waiting five seconds before speaking."
+    },
+    {
+      "q": "According to Erica, why should we wait five seconds before speaking?",
+      "options": [
+        "To check that everyone's camera is on",
+        "To stop people from interrupting the leader",
+        "To make the meeting finish more quickly",
+        "To give people time to think about ideas"
+      ],
+      "answer": 3,
+      "why": "She says it makes sure individuals have time to process the ideas, especially with technology issues."
+    },
+    {
+      "q": "What is Michael Rosen worried about?",
+      "options": [
+        "People laugh and smile less on video calls",
+        "People laugh too much during online meetings",
+        "People no longer want to meet in person",
+        "People spend too long in online meetings"
+      ],
+      "answer": 0,
+      "why": "He asks if video calls are 'killing off people laughing and smiling' as we do in live situations."
+    },
+    {
+      "q": "According to Erica, why do we laugh less on camera?",
+      "options": [
+        "Because people are more serious at work now",
+        "Because nobody tells jokes in online meetings",
+        "Screen delays stop us laughing together",
+        "Because cameras make people look unattractive"
+      ],
+      "answer": 2,
+      "why": "She says laughing often happens in unison, and screen delays and seeing our own camera make it less likely."
+    },
+    {
+      "q": "What does Erica suggest to solve this problem?",
+      "options": [
+        "Turning off all cameras during meetings",
+        "Planning time for informal chat in meetings",
+        "Having fewer online meetings each week",
+        "Showing funny videos at the start of meetings"
+      ],
+      "answer": 1,
+      "why": "She suggests 'creating intentional moments in our meetings for the water cooler effect' – informal chat."
+    }
+  ]
+}

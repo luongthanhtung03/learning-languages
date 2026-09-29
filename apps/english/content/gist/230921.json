@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a professional football player",
+        "The culture of fan communities and the words they use",
+        "Why people stop supporting their favourite teams",
+        "The history of Hollywood movie stars"
+      ],
+      "answer": 1,
+      "why": "Beth says they are taking a trip into the world of fandoms, which has started to develop its own language."
+    },
+    {
+      "q": "According to Neil, what helped create the idea of 'fandom'?",
+      "options": [
+        "The internet, which lets fans meet and share",
+        "TV shows that brought sports fans together",
+        "New books and magazines written by fans",
+        "Football clubs selling tickets online"
+      ],
+      "answer": 0,
+      "why": "Neil says that thanks to the internet, fans around the world can meet online, and this led to the word 'fandom'."
+    },
+    {
+      "q": "Why can being a fan on your own be difficult, according to Michael Bond?",
+      "options": [
+        "Buying fan items alone costs a lot of money",
+        "Nobody around you wants to talk about it",
+        "It can look odd and people may laugh at you",
+        "Fan clubs don't accept single members"
+      ],
+      "answer": 2,
+      "why": "He says fan pursuits can look quirky, odd or obsessive, and you often get mocked."
+    },
+    {
+      "q": "What example does Michael Bond give of something hard to do alone in public?",
+      "options": [
+        "Singing football songs in the street",
+        "Dressing as a Harry Potter character at work",
+        "Watching Disney cartoons in a cinema",
+        "Wearing Regency-era clothes as a Jane Austen fan"
+      ],
+      "answer": 3,
+      "why": "He says a Jane Austen fan dressing in a bonnet and gown would find it hard to do alone in public."
+    },
+    {
+      "q": "Who, according to Michael Bond, likes to invent terms such as BIRGing and CORFing?",
+      "options": [
+        "Football players",
+        "Academics who study fandoms",
+        "Sports journalists",
+        "Young fans on social media"
+      ],
+      "answer": 1,
+      "why": "He says academics who study fandoms love to use acronyms to describe football fans' behaviour."
+    },
+    {
+      "q": "What do football fans typically do when their team loses and they are CORFing?",
+      "options": [
+        "Celebrate in the streets anyway",
+        "Say that they personally lost the game",
+        "Buy more tickets for the next match",
+        "Distance themselves and blame the players"
+      ],
+      "answer": 3,
+      "why": "Neil says instead of saying “WE won!”, they say “THEY played rubbish!”"
+    },
+    {
+      "q": "What does Beth say about 'true fans'?",
+      "options": [
+        "They never distance themselves from their team",
+        "They only support teams that win",
+        "They usually stop watching after many losses",
+        "They prefer online fandoms to real matches"
+      ],
+      "answer": 0,
+      "why": "Beth says, “Of course, true fans never CORF.”"
+    },
+    {
+      "q": "Why does Beth mention fans whose team loses week after week?",
+      "options": [
+        "To show that fans always prefer winning teams",
+        "To explain why football is becoming less popular",
+        "To show some fans oddly enjoy their team losing",
+        "To suggest that those fans should change teams"
+      ],
+      "answer": 2,
+      "why": "She says some fans take a kind of strange pessimistic pleasure when their team loses."
+    }
+  ]
+}

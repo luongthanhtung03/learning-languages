@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why high heels are back in fashion for men and women",
+        "Why comfortable shoes like trainers have become popular",
+        "The history of the Nike company and its famous logo",
+        "How to treat common foot problems at home"
+      ],
+      "answer": 1,
+      "why": "Dan says the topic is the rise in popularity of the comfy shoe."
+    },
+    {
+      "q": "Why was Neil wearing high heels?",
+      "options": [
+        "He lost a bet with Dan the week before",
+        "His other shoes were broken and at the menders",
+        "He wanted to look fashionable and cool",
+        "A podiatrist told him to for his back"
+      ],
+      "answer": 2,
+      "why": "He says, 'I wanted to look fashionable and cool!'"
+    },
+    {
+      "q": "What was Neil always told about trainers?",
+      "options": [
+        "They weren't suitable for work or smart places",
+        "They were bad for your feet and your back",
+        "They were only for children and teenagers",
+        "They were too expensive for everyday use"
+      ],
+      "answer": 0,
+      "why": "He was told trainers weren't appropriate for work and formal or social places."
+    },
+    {
+      "q": "According to Victoria Moss, has the popularity of trainers happened suddenly?",
+      "options": [
+        "Yes, it has all happened in the last year",
+        "Yes, after one famous fashion show in Paris",
+        "No, it started in the 1970s with jogging",
+        "No, it has been developing over about 10 years"
+      ],
+      "answer": 3,
+      "why": "She says it's been 'coming on for a while', with casualisation over the last 10 years."
+    },
+    {
+      "q": "What trend does Victoria Moss say has gradually spread into fashion?",
+      "options": [
+        "Sportswear designed for older people",
+        "Casual streetwear worn by young city people",
+        "Formal office wear with a sporty look",
+        "Expensive designer shoes worn by celebrities"
+      ],
+      "answer": 1,
+      "why": "She says there's been a big streetwear trend, which has filtered through."
+    },
+    {
+      "q": "Why does Neil say fashion alone doesn't explain the trend?",
+      "options": [
+        "Not everyone follows fashion",
+        "Trainers are too expensive",
+        "Fashion changes every year",
+        "Fashion editors don't wear trainers"
+      ],
+      "answer": 0,
+      "why": "He says, 'Not everyone follows fashion, you know.'"
+    },
+    {
+      "q": "According to Emma Supple, what are people doing more these days?",
+      "options": [
+        "Running marathons and long races",
+        "Going to parties and dancing",
+        "Walking more for their health",
+        "Buying more shoes online"
+      ],
+      "answer": 2,
+      "why": "She says people are walking more and doing more for wellness."
+    },
+    {
+      "q": "How have trainers changed to be more comfortable?",
+      "options": [
+        "They have higher heels to improve posture",
+        "They are made of harder plastic that lasts longer",
+        "They are much bigger and heavier than before",
+        "They're made of fabric that fits around the foot"
+      ],
+      "answer": 3,
+      "why": "She says there are lots of fabric trainers that wrap around knobbly bits."
+    }
+  ]
+}

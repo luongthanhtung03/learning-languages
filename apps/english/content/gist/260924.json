@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to stop insect bites from becoming painful",
+        "Why we feel itchy and whether itching can spread between people",
+        "Which clothes are best for people with sensitive skin",
+        "How doctors treat serious skin diseases"
+      ],
+      "answer": 1,
+      "why": "They hear from experts about why we itch and whether you can 'catch' an itch from others."
+    },
+    {
+      "q": "Why is Georgie feeling itchy at the start of the programme?",
+      "options": [
+        "She was bitten by a mosquito on the way to work",
+        "She has a skin allergy to a new soap she used",
+        "She has just been sitting out in the hot sun",
+        "She is wearing a jumper that makes her itch"
+      ],
+      "answer": 3,
+      "why": "Georgie says she's wearing quite an itchy jumper that makes her want to scratch."
+    },
+    {
+      "q": "What happened to Neil recently?",
+      "options": [
+        "An insect bit him and he scratched a lot",
+        "He got a rash from a new jumper",
+        "He caught a cold from a colleague",
+        "He hurt his skin by scratching too hard"
+      ],
+      "answer": 0,
+      "why": "Neil says he was bitten by a mosquito and had to scratch 'loads and loads'."
+    },
+    {
+      "q": "According to Sonja Ständer, what is the purpose of scratching?",
+      "options": [
+        "To make the skin warmer",
+        "To help the skin grow faster",
+        "To remove things from the skin that could harm it",
+        "To show other people that we feel uncomfortable"
+      ],
+      "answer": 2,
+      "why": "She says scratching removes parasites, plants or anything that doesn't belong on the skin."
+    },
+    {
+      "q": "Why does Neil find it interesting that talking about itching makes Georgie feel itchy?",
+      "options": [
+        "Because it is exactly what one researcher wanted to study",
+        "Because he feels the opposite way",
+        "Because it proves she is allergic to her jumper",
+        "Because Sonja Ständer said it never happens"
+      ],
+      "answer": 0,
+      "why": "Neil says Henning Holle wanted to study whether just thinking about itching makes us itchier."
+    },
+    {
+      "q": "What did Henning Holle's team ask people to do in their study?",
+      "options": [
+        "Wear itchy clothes for a whole day",
+        "Stop scratching for as long as possible",
+        "Listen to experts talking about skin",
+        "Watch videos of people itching and scratching"
+      ],
+      "answer": 3,
+      "why": "Henning and his team studied what happened when people watched videos of itching and scratching."
+    },
+    {
+      "q": "What did the study find about the people who watched the videos?",
+      "options": [
+        "They felt much less itchy than they did before",
+        "They felt itchier and scratched without thinking",
+        "They only scratched when someone asked them to",
+        "They could not tell which body part was scratched"
+      ],
+      "answer": 1,
+      "why": "Henning says the videos made people feel itchier and they scratched themselves 'more spontaneously'."
+    },
+    {
+      "q": "What does Henning conclude from his research?",
+      "options": [
+        "Scratching is always bad for the skin, so stop",
+        "Only people with very hairy skin feel itchy",
+        "An itch can pass between people, like an illness",
+        "Itching is caused mainly by tiny skin parasites"
+      ],
+      "answer": 2,
+      "why": "He says 'you can catch a scratch', and Georgie compares it to catching an illness."
+    }
+  ]
+}

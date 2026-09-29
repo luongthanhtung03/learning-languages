@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook tasty meals using insects",
+        "Why we dislike some foods and if we can change",
+        "The healthiest foods for growing children",
+        "Why Japanese food is becoming popular abroad"
+      ],
+      "answer": 1,
+      "why": "They hear from food experts about why we hate some foods and whether we can learn to love them."
+    },
+    {
+      "q": "What does Neil say about umeboshi?",
+      "options": [
+        "He has never tried it, but he wants to",
+        "He has always loved it, since he was a child",
+        "He still can't eat it, even after many tries",
+        "He didn't like it at first, but now loves it"
+      ],
+      "answer": 3,
+      "why": "He really didn't like it at first, but got used to it and now really loves it."
+    },
+    {
+      "q": "What food did Becca learn to love as she got older?",
+      "options": [
+        "Prawns",
+        "Coriander",
+        "Olives",
+        "Chocolate"
+      ],
+      "answer": 2,
+      "why": "Becca says she used to hate olives but has grown to love them."
+    },
+    {
+      "q": "According to Dr Dana Small, where do food dislikes come from?",
+      "options": [
+        "Both our genes and what we learn",
+        "Only our genes",
+        "Only what our parents taught us",
+        "Mostly from the country we live in"
+      ],
+      "answer": 0,
+      "why": "Asked if dislikes are learned or genetic, she says 'Ah, both!'"
+    },
+    {
+      "q": "What example of a genetic difference does Dana give?",
+      "options": [
+        "Some people can't eat nuts without getting ill",
+        "Some people are born loving sweets and sugar",
+        "Some people can't taste salt in their food",
+        "Some people smell or taste coriander differently"
+      ],
+      "answer": 3,
+      "why": "She says you could, via genetics, smell or taste coriander differently."
+    },
+    {
+      "q": "What is the 'masking' technique that Claire Thornton Wood uses?",
+      "options": [
+        "Hiding food so children can't see it",
+        "Dipping a food you dislike into one you like",
+        "Eating with your eyes closed",
+        "Cooking food until it has no taste"
+      ],
+      "answer": 1,
+      "why": "She says masking is where you dip a food you don't like into something you do like."
+    },
+    {
+      "q": "Why does Claire offer chocolate-covered insects to parents?",
+      "options": [
+        "To show the idea of a food can put us off",
+        "To prove that insects are healthier than meat",
+        "To make them feel sick as part of a test",
+        "To sell more of her own chocolate products"
+      ],
+      "answer": 0,
+      "why": "People find there's nothing 'inherently unpleasant' about them; it's the concept of an insect."
+    },
+    {
+      "q": "According to Claire, what can cause a fear of a certain food?",
+      "options": [
+        "Seeing it on television cooking shows",
+        "Never having tried it as a child",
+        "Having been ill after eating it before",
+        "Eating it far too often for many years"
+      ],
+      "answer": 2,
+      "why": "She says if a dodgy prawn made you unwell, you might avoid prawns: fear-based avoidance."
+    }
+  ]
+}

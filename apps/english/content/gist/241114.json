@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Famous sisters in British politics",
+        "How to stop sisters from arguing",
+        "Why younger sisters are spoiled",
+        "The relationship between sisters and some common beliefs about it"
+      ],
+      "answer": 3,
+      "why": "They discuss the connection between sisters, hear from three Irish sisters and a psychotherapist."
+    },
+    {
+      "q": "How does Georgie get on with her sister?",
+      "options": [
+        "Very well now as adults, though they didn't before",
+        "They have always got on very well",
+        "They rarely speak to each other",
+        "They argue much more now than they did when they were children"
+      ],
+      "answer": 0,
+      "why": "Georgie says they didn't used to get on, but now that they're adults they get on well."
+    },
+    {
+      "q": "What do we learn about presenter Nuala McGovern and her sisters?",
+      "options": [
+        "All three sisters now work together as journalists for the BBC in London",
+        "Nuala is the oldest of the three",
+        "Nuala moved abroad for work, while her sisters stayed in Ireland",
+        "Her sisters live in New York"
+      ],
+      "answer": 2,
+      "why": "Nuala moved to New York then London to work, while her two sisters stayed in Ireland."
+    },
+    {
+      "q": "What was Nuala a little worried about?",
+      "options": [
+        "The video call not working",
+        "What her sisters might say about her on the radio",
+        "Her sisters arguing on air",
+        "Forgetting her sisters' names in front of the listeners"
+      ],
+      "answer": 1,
+      "why": "Georgie says Nuala was a little worried what her sisters would say about her."
+    },
+    {
+      "q": "How does Eileen describe the sisters' relationship?",
+      "options": [
+        "Difficult but improving",
+        "Very connected, and they get on well",
+        "Distant, because they live in different countries",
+        "Competitive, like a game"
+      ],
+      "answer": 1,
+      "why": "Eileen says 'Very connected… we do get on very well'."
+    },
+    {
+      "q": "How does Vera describe Nuala?",
+      "options": [
+        "Shy and quiet",
+        "Bossy and spoiled",
+        "Independent and liking to be in control",
+        "The peacemaker who stops the family from arguing"
+      ],
+      "answer": 2,
+      "why": "Vera says Nuala marches to her own drum, agrees she's independent and likes to control the situation."
+    },
+    {
+      "q": "What does psychotherapist Jennifer Gledhill say about stereotypes like the 'bossy older sister'?",
+      "options": [
+        "They are true in most families",
+        "They only apply to large families",
+        "They are mostly true for brothers, but they don't really apply to sisters",
+        "People like labels, but science has found no proof of these roles"
+      ],
+      "answer": 3,
+      "why": "She says we love giving people labels, but scientists find no proof of these roles."
+    },
+    {
+      "q": "Why does Georgie disagree with the stereotypes?",
+      "options": [
+        "In her family, the younger sister is the bossy one",
+        "She has no sisters",
+        "She is the bossy older sister and always tells her sister what to do",
+        "Her sister is the peacemaker"
+      ],
+      "answer": 0,
+      "why": "She says the older sister is meant to be bossy, 'but my younger sister is the bossy one'."
+    }
+  ]
+}

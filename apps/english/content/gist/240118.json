@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to win at Monopoly",
+        "The history and religious meaning of the seven deadly sins",
+        "The psychology of greed and how wealth can change people",
+        "Why expensive gifts make people happy"
+      ],
+      "answer": 2,
+      "why": "They discuss greed, a psychology experiment with Monopoly, and how wealth affects empathy."
+    },
+    {
+      "q": "Do Neil and Beth agree about greed at the start?",
+      "options": [
+        "Yes, they both think greed is bad",
+        "No – Neil says greed is good, but Beth isn't so sure",
+        "Yes, they both think greed is natural and good",
+        "No – Beth says greed is good, but Neil strongly disagrees"
+      ],
+      "answer": 1,
+      "why": "Neil says “Greed is good!” and Beth replies, “I'm not so sure” and mentions the deadly sins."
+    },
+    {
+      "q": "According to Neil, how does greed work in the brain?",
+      "options": [
+        "It's in the reward centre, mostly unconscious",
+        "It is controlled by careful, logical thinking",
+        "It only happens when we are tired",
+        "It happens in the part of the brain that controls memory"
+      ],
+      "answer": 0,
+      "why": "He says greed is controlled by the reward centre, at the unconscious, emotional level."
+    },
+    {
+      "q": "How was Professor Paul Piff's Monopoly game made unfair?",
+      "options": [
+        "The poor player was not allowed to buy houses",
+        "The rich player was allowed to look at the other player's cards",
+        "The game was played without any money",
+        "The rich player rolled two dice and got double money at Go"
+      ],
+      "answer": 3,
+      "why": "The rich player rolled two dice and collected twice as much when passing Go."
+    },
+    {
+      "q": "How did the “rich” players explain why they won?",
+      "options": [
+        "They said the game was unfair",
+        "They said their own decisions had led to their success",
+        "They said they were just lucky",
+        "They thanked the poor player and said the game was close"
+      ],
+      "answer": 1,
+      "why": "Piff says they took credit, talking about how their decisions led to victory."
+    },
+    {
+      "q": "Why does Professor Piff mention “that flip of a coin”?",
+      "options": [
+        "To explain how the game started each time",
+        "To show that the poor players had been cheating during the game",
+        "To stress that the players' advantage came from pure chance",
+        "To suggest a new rule for Monopoly"
+      ],
+      "answer": 2,
+      "why": "He contrasts their claims with the random coin flip that gave them privilege."
+    },
+    {
+      "q": "What does Piff admit about real life?",
+      "options": [
+        "Everyone who is rich was simply lucky",
+        "The experiment shows perfectly how wealth works in real life",
+        "Poor people never work hard",
+        "Some people really do succeed through their own hard work"
+      ],
+      "answer": 3,
+      "why": "He says some people have worked themselves up and get what they have because they worked hard."
+    },
+    {
+      "q": "According to Piff, why might wealthy people have less empathy?",
+      "options": [
+        "They depend less on other people",
+        "They work too many hours",
+        "They spend too much time playing games",
+        "They are always worried about money"
+      ],
+      "answer": 0,
+      "why": "He says well-off people don't need others as much, so their empathy might suffer."
+    }
+  ]
+}

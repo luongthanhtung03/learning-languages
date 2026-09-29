@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "What we've learnt about Covid after a year",
+        "The history of the Spanish flu in 1918",
+        "How to wash your hands properly",
+        "Why flu is more dangerous than Covid"
+      ],
+      "answer": 0,
+      "why": "Georgina says it's good to take stock a year on and see how our knowledge has changed."
+    },
+    {
+      "q": "When did reports of a new flu-like infection first come from China?",
+      "options": [
+        "In early 2021",
+        "In the summer of 2019",
+        "At the end of December 2019",
+        "In 1918"
+      ],
+      "answer": 2,
+      "why": "Neil says reports first came out of China at the end of December 2019."
+    },
+    {
+      "q": "How did ordinary people help stop the virus spreading, according to Georgina?",
+      "options": [
+        "By helping to make vaccines in local factories",
+        "By washing hands, wearing masks and staying home",
+        "By travelling much less to China and other countries",
+        "By sharing genetic information about the virus online"
+      ],
+      "answer": 1,
+      "why": "She says we played our part by washing our hands, wearing masks and staying at home."
+    },
+    {
+      "q": "Why did Jenny Rohn say the new virus looked 'wimpy' at first?",
+      "options": [
+        "Because it only seemed to affect young and healthy people",
+        "Because scientists already had a vaccine ready to use",
+        "Because it didn't seem to spread between people at all",
+        "Because seasonal flu infects many more people every year"
+      ],
+      "answer": 3,
+      "why": "She says flu makes the Wuhan virus look wimpy because of the sheer number of people it infects."
+    },
+    {
+      "q": "What was Jenny Rohn worried about?",
+      "options": [
+        "That if the virus spread like flu, many people would die",
+        "That seasonal flu would disappear from the world completely",
+        "That testing for the virus would be too expensive for most",
+        "That people would soon get tired and stop wearing masks"
+      ],
+      "answer": 0,
+      "why": "She says if it spread like flu all over the world, 'you would see a lot of people dead'."
+    },
+    {
+      "q": "What does Dr Peter Daszak say about China's early response?",
+      "options": [
+        "It was very slow to react to the virus",
+        "It kept the information secret",
+        "It had no system for finding new illnesses",
+        "It acted quite quickly"
+      ],
+      "answer": 3,
+      "why": "He says the system kicked in within a couple of months of the first case: 'that's quite quick'."
+    },
+    {
+      "q": "According to Dr Daszak, what helped scientists develop tests and vaccines quickly?",
+      "options": [
+        "Money from governments around the world",
+        "Studying the Spanish flu",
+        "Publishing the virus's genetic code",
+        "Testing animals in zoos"
+      ],
+      "answer": 2,
+      "why": "He says getting the full genome and making it publicly available helped rapidly develop tests and vaccines."
+    },
+    {
+      "q": "What do the presenters hope vaccines will do?",
+      "options": [
+        "Replace the need for tests",
+        "Be our way out of the pandemic",
+        "Stop seasonal flu",
+        "Make masks unnecessary in hospitals"
+      ],
+      "answer": 1,
+      "why": "Georgina says the vaccines are 'hopefully our way out of this pandemic'."
+    }
+  ]
+}

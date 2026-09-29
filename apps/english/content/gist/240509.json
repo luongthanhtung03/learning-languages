@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How bitter foods may be good for our health",
+        "Why children don't like vegetables",
+        "How to cook with grapefruit",
+        "The dangers of eating far too much sugar every day"
+      ],
+      "answer": 0,
+      "why": "Phil says they'll be finding out how bitter foods can benefit our health."
+    },
+    {
+      "q": "How does Phil feel about grapefruit?",
+      "options": [
+        "It's his favourite fruit",
+        "He's allergic to it, so he has never been able to eat it",
+        "He doesn't like it much because it's too bitter",
+        "He has never tried it"
+      ],
+      "answer": 2,
+      "why": "He says he's not that keen on grapefruit because they're too bitter for him."
+    },
+    {
+      "q": "Why does Beth say “maybe you should take my grapefruit”?",
+      "options": [
+        "Because she doesn't want to eat it herself",
+        "Because it has gone bad",
+        "Because it's very sweet",
+        "Because bitter food could be good for him"
+      ],
+      "answer": 3,
+      "why": "She has just said bitter food has been linked to a number of health benefits."
+    },
+    {
+      "q": "According to Leyla Kazim, what can bitter foods do?",
+      "options": [
+        "Make us feel hungrier",
+        "Reduce feelings of hunger",
+        "Increase inflammation in the body",
+        "Make food taste sweeter"
+      ],
+      "answer": 1,
+      "why": "She says they can suppress feelings of hunger, as well as control glucose release."
+    },
+    {
+      "q": "What role does the gut microbiome play, according to Beth?",
+      "options": [
+        "It helps us digest food",
+        "It makes food taste bitter",
+        "It protects our teeth",
+        "It controls how we sleep"
+      ],
+      "answer": 0,
+      "why": "She says microorganisms in our gut play an important role in the digestive process."
+    },
+    {
+      "q": "What does chef Alexina Anatole say about bitter food?",
+      "options": [
+        "Most people eat very little of it",
+        "It should only ever be eaten in very small amounts",
+        "People eat much more of it than they realise",
+        "It is too expensive for most people"
+      ],
+      "answer": 2,
+      "why": "She says people are exposed to bitters way more than they think they are."
+    },
+    {
+      "q": "Why does Alexina think people dislike the idea of bitterness?",
+      "options": [
+        "Because doctors say it's unhealthy",
+        "Because it is linked with negative feelings as well as food",
+        "Because bitter food is hard to find",
+        "Because children are always taught by their parents to avoid it"
+      ],
+      "answer": 1,
+      "why": "She says there's a perception of bitter and negativity, in emotions and in food."
+    },
+    {
+      "q": "Which common bitter things does Alexina mention?",
+      "options": [
+        "Grapefruit, lemons and green limes",
+        "Broccoli, cabbage and kale",
+        "Tea, beer and olives",
+        "Chocolate, coffee and alcohol"
+      ],
+      "answer": 3,
+      "why": "When asked for examples, she says, “Chocolate, coffee, alcohol.”"
+    }
+  ]
+}

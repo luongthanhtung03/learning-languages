@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to write good headlines",
+        "Why people stop using social media",
+        "How to go fishing",
+        "Online content made to make people angry so that creators earn money"
+      ],
+      "answer": 3,
+      "why": "They explore rage bait – online content designed to make you angry – and how it makes money."
+    },
+    {
+      "q": "What is clickbait used for, according to Phil?",
+      "options": [
+        "To give people true news quickly",
+        "To grab people's attention and make them read more",
+        "To stop people from reading too many stories about celebrities",
+        "To sell computer software"
+      ],
+      "answer": 1,
+      "why": "Phil says headlines like these are used to grab your attention and make you read more."
+    },
+    {
+      "q": "How does rage bait make money for its creator?",
+      "options": [
+        "People pay to read the content",
+        "The creator sells the angry comments",
+        "Angry reactions and sharing increase traffic, which earns money",
+        "Advertisers pay the creator only when people leave positive comments"
+      ],
+      "answer": 2,
+      "why": "People comment angrily or share it, which increases internet traffic and makes money for the creator."
+    },
+    {
+      "q": "According to marketing strategist Andrea Jones, why do some creators do anything for views?",
+      "options": [
+        "Because more views mean more pay, even if the reactions are negative",
+        "Because they enjoy making people angry",
+        "Because their clients force them to",
+        "Because positive views are much too hard to get on today's social media"
+      ],
+      "answer": 0,
+      "why": "She says the more views they get, the more they get paid, 'even if those views are negative'."
+    },
+    {
+      "q": "What is the difference between a 'hook' and rage bait, according to Andrea?",
+      "options": [
+        "A hook is longer than rage bait",
+        "Rage bait is more honest than a hook because it shows real feelings",
+        "A hook shows the content honestly, but rage bait is manipulative",
+        "There is no real difference"
+      ],
+      "answer": 2,
+      "why": "She says a hook accurately reflects the content and comes from trust, while rage bait is manipulative."
+    },
+    {
+      "q": "According to Dr William Brady, how do influencers get more people to see their content?",
+      "options": [
+        "By paying for adverts",
+        "By posting only at night",
+        "By making calm, balanced videos that people are happy to share with friends",
+        "By using the biases in our psychology, which algorithms then boost"
+      ],
+      "answer": 3,
+      "why": "He says they exploit our psychological biases, and algorithms amplify that content."
+    },
+    {
+      "q": "Why, according to Beth, does emotional content grab our attention?",
+      "options": [
+        "Because listening to emotions has been important in human evolution",
+        "Because we are all addicted to phones",
+        "Because emotional content online is almost always true and trustworthy",
+        "Because we can't control what we read"
+      ],
+      "answer": 0,
+      "why": "She says listening to our emotions has been vital to the evolution of the human species."
+    },
+    {
+      "q": "What does Phil suggest about sharing outrageous content?",
+      "options": [
+        "It helps stop the creator",
+        "It can make things worse and make the creator richer",
+        "It is the best way to complain and to make the creator stop posting",
+        "It has no effect at all"
+      ],
+      "answer": 1,
+      "why": "He says by sharing it you might be making things worse while also making the creator richer."
+    }
+  ]
+}

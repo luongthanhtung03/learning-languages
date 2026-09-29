@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of apple orchards in England",
+        "How to bake the perfect apple crumble",
+        "Whether apples are really good for us",
+        "Why many doctors don't like old proverbs"
+      ],
+      "answer": 2,
+      "why": "Sam asks if eating an apple a day can actually have significant health benefits."
+    },
+    {
+      "q": "What does the proverb “Don't judge a book by its cover” advise?",
+      "options": [
+        "Read more books, even ones that look boring",
+        "Don't judge people by their looks",
+        "Actions matter much more than words",
+        "Always buy books with a good cover"
+      ],
+      "answer": 1,
+      "why": "Sam says it advises people not to form opinions about people based on how they look."
+    },
+    {
+      "q": "According to new research, which part of the apple is especially healthy?",
+      "options": [
+        "The seeds",
+        "The juice",
+        "The core",
+        "The skin"
+      ],
+      "answer": 3,
+      "why": "Neil says there are benefits especially with the skins on, which are full of fibre, vitamins and flavonoids."
+    },
+    {
+      "q": "What can flavonoids do?",
+      "options": [
+        "Lower blood pressure and help brain and heart",
+        "Make apples taste sweeter and juicier",
+        "Stop apples going bad for several weeks",
+        "Give you more energy late at night"
+      ],
+      "answer": 0,
+      "why": "They are known to reduce blood pressure and improve brain and heart health."
+    },
+    {
+      "q": "Why does Dr Michael Mosley say an apple is 'not some exotic superfood'?",
+      "options": [
+        "Because apples are too expensive for most",
+        "Because apples have no real health benefits",
+        "To show an ordinary fruit can be healthy",
+        "Because he much prefers eating blueberries"
+      ],
+      "answer": 2,
+      "why": "He lists big benefits, then says it's not an exotic superfood: 'it's an apple'."
+    },
+    {
+      "q": "Which of these is NOT a way Dr Mosley eats apples?",
+      "options": [
+        "Grated into porridge",
+        "Sliced with yoghurt",
+        "Baked",
+        "Made into juice"
+      ],
+      "answer": 3,
+      "why": "He mentions snacking, porridge, yoghurt and baked apples, but not juice."
+    },
+    {
+      "q": "What does Sam say about cooking apples?",
+      "options": [
+        "It doesn't damage the healthy flavonoids",
+        "It removes all the vitamins",
+        "It makes them too sweet",
+        "It is the least healthy way to eat them"
+      ],
+      "answer": 0,
+      "why": "She says cooking or baking apples doesn't damage those healthy flavonoids."
+    },
+    {
+      "q": "How does Neil feel about apple crumble with custard being healthy?",
+      "options": [
+        "He completely agrees",
+        "He's doubtful it helps you get in good shape",
+        "He thinks it's the healthiest dessert",
+        "He says he never eats it"
+      ],
+      "answer": 1,
+      "why": "He says, 'I'm not so sure that's a way to get in good shape'."
+    }
+  ]
+}

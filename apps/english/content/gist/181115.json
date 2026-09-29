@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to keep chickens at home",
+        "What chickens can teach us about hierarchies at work",
+        "Why managers have too many meetings",
+        "How farmers can get more eggs from each of their chickens"
+      ],
+      "answer": 1,
+      "why": "They discuss hierarchies and an experiment with chickens that Margaret Heffernan links to the workplace."
+    },
+    {
+      "q": "What joke does Catherine make about managers?",
+      "options": [
+        "They are paid too much",
+        "They never come to work",
+        "They are always late",
+        "Their meetings stop the workers from working"
+      ],
+      "answer": 3,
+      "why": "She says the managers 'have meetings that stop the workers doing the work!'"
+    },
+    {
+      "q": "In the experiment, what two groups of chickens were compared?",
+      "options": [
+        "Young chickens and old chickens",
+        "Wild chickens and farm chickens",
+        "Average chickens and super-chickens that laid more eggs",
+        "Male chickens and female chickens"
+      ],
+      "answer": 2,
+      "why": "Researchers compared average chickens with super-chickens, which have above average egg production."
+    },
+    {
+      "q": "What happened to the average flock over six generations?",
+      "options": [
+        "It kept getting better and laid more eggs",
+        "Most of the chickens died before the end of the experiment",
+        "It stayed exactly the same",
+        "It stopped laying eggs"
+      ],
+      "answer": 0,
+      "why": "Margaret Heffernan says the average flock 'just gets better and better' and egg production increases."
+    },
+    {
+      "q": "What happened to the super-flock?",
+      "options": [
+        "It laid the most eggs of any flock in the experiment",
+        "Only three were left, because they killed the rest",
+        "The chickens became average",
+        "It was moved to another farm"
+      ],
+      "answer": 1,
+      "why": "She says all but three are dead, 'because the other three have killed the rest'."
+    },
+    {
+      "q": "Why does Margaret Heffernan say 'And that's what we do at work'?",
+      "options": [
+        "To show people at work also succeed by holding others back",
+        "To suggest that office workers should start keeping their own chickens",
+        "To say that offices need more workers",
+        "To explain why eggs are cheap"
+      ],
+      "answer": 0,
+      "why": "The super-chickens succeeded by suppressing others' productivity, and she compares this to work."
+    },
+    {
+      "q": "According to Catherine, when can hierarchies at work go wrong?",
+      "options": [
+        "When workers are paid too little",
+        "When everyone is equal",
+        "When there are too few managers to organise all the workers",
+        "When managers get in the way of workers"
+      ],
+      "answer": 3,
+      "why": "She says some managers show their productivity by interfering with the productivity of the workers."
+    },
+    {
+      "q": "What kind of hierarchy works well for chickens?",
+      "options": [
+        "One forced on them by farmers",
+        "One with a single leader and no levels",
+        "One they create among themselves",
+        "One that changes every day"
+      ],
+      "answer": 2,
+      "why": "Heffernan says it's one 'they create among themselves, rather than one that's imposed upon them'."
+    }
+  ]
+}

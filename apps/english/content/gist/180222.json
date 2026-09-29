@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a synchronised swimmer",
+        "A new trend of swimming with a tail like a mermaid",
+        "Why swimming pools are closing",
+        "The difference between aerobic and anaerobic exercise"
+      ],
+      "answer": 1,
+      "why": "Neil talks about 'the new craze of mermaiding' and they hear from Emma Longden about it."
+    },
+    {
+      "q": "How often does Neil go swimming?",
+      "options": [
+        "Every day",
+        "Never",
+        "About once a week",
+        "Only on holiday"
+      ],
+      "answer": 2,
+      "why": "Neil says 'I try to get to the pool once a week and do a few lengths'."
+    },
+    {
+      "q": "Why doesn't Rob like swimming?",
+      "options": [
+        "He can't swim",
+        "Pools are too expensive",
+        "He prefers going to the gym and lifting weights instead",
+        "He doesn't like getting wet and finds it boring"
+      ],
+      "answer": 3,
+      "why": "Rob says 'I just don't like getting wet - and swimming up and down a pool is just boring!'"
+    },
+    {
+      "q": "Where did the idea of mermaiding start?",
+      "options": [
+        "In America",
+        "In the UK",
+        "In Europe",
+        "In Australia"
+      ],
+      "answer": 0,
+      "why": "Neil says 'The idea originated in America but is now popular in the UK and Europe.'"
+    },
+    {
+      "q": "According to Emma Longden, what do you need to do mermaiding?",
+      "options": [
+        "Two separate fins",
+        "A single fin like a tail on your feet",
+        "Special swimming goggles",
+        "A partner to swim with"
+      ],
+      "answer": 1,
+      "why": "She says 'Mermaiding is putting a monofin on your feet. Putting a beautiful tail on'."
+    },
+    {
+      "q": "Which of these is NOT a benefit of mermaiding that Emma mentions?",
+      "options": [
+        "More confidence in water",
+        "A workout for the whole body",
+        "Better balance and co-ordination",
+        "Losing weight quickly"
+      ],
+      "answer": 3,
+      "why": "She mentions confidence, a whole body workout, balance and co-ordination, but not losing weight."
+    },
+    {
+      "q": "What part of mermaiding does Rob like the sound of?",
+      "options": [
+        "Being with other people and having fun",
+        "Wearing a costume",
+        "Swimming fast",
+        "Winning competitions against other swimmers"
+      ],
+      "answer": 0,
+      "why": "Rob says 'I like the sound of the social aspect'."
+    },
+    {
+      "q": "Why do many adults take mermaiding classes, according to Emma?",
+      "options": [
+        "Their doctors tell them to",
+        "They want to learn so they can teach their own children to swim safely",
+        "They wanted to be mermaids as children and now can",
+        "They want to enter competitions"
+      ],
+      "answer": 2,
+      "why": "She says many adults 'want to live out their childhood dreams' of being a mermaid."
+    }
+  ]
+}

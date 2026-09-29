@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best games for children to play at school",
+        "'Junk' playgrounds and why free play matters",
+        "How to make playgrounds completely safe",
+        "The history of football in British streets"
+      ],
+      "answer": 1,
+      "why": "They discuss adventure playgrounds and how they give kids the freedom and space to play."
+    },
+    {
+      "q": "What were Pippa's and Phil's favourite childhood games?",
+      "options": [
+        "They both loved football",
+        "Phil liked skipping and Pippa liked football",
+        "Pippa liked skipping, and Phil preferred football",
+        "They both liked hide and seek"
+      ],
+      "answer": 2,
+      "why": "Pippa loved skipping; Phil couldn't skip, so he preferred football."
+    },
+    {
+      "q": "Where did many children in British cities play 80 years ago?",
+      "options": [
+        "In the ruins of houses destroyed in the war",
+        "In large city parks with swings and slides",
+        "On the beach during the summer holidays",
+        "In school gyms after lessons had finished"
+      ],
+      "answer": 0,
+      "why": "Phil says it was common for children to play in bombsites, ruins from World War II."
+    },
+    {
+      "q": "How are adventure playgrounds different from normal playgrounds?",
+      "options": [
+        "They have more swings and slides than usual",
+        "They are only for older children and teens",
+        "They are indoors, so they are open all year",
+        "Children use materials to build things"
+      ],
+      "answer": 3,
+      "why": "Unlike fixed swings and slides, they provide building materials for kids to build things."
+    },
+    {
+      "q": "What does reporter William Kremer see when he looks more closely at the playground?",
+      "options": [
+        "Nothing but rubbish and broken furniture",
+        "Children building things and playing freely",
+        "Adults fixing the broken equipment",
+        "Children sitting quietly and reading"
+      ],
+      "answer": 1,
+      "why": "Looking closer, he sees homemade structures and hidey-holes, and children swinging on ropes."
+    },
+    {
+      "q": "According to Dr Anna Housley Juster, how important is play?",
+      "options": [
+        "It matters much less than school work",
+        "It's only important for very young children",
+        "After basic needs, it's the most important",
+        "It's more important than food and shelter"
+      ],
+      "answer": 2,
+      "why": "She says after basic needs, 'play is by far the most important factor for healthy child development'."
+    },
+    {
+      "q": "Which skills does Anna say children develop through free play?",
+      "options": [
+        "Confidence, resilience and ways of coping",
+        "Reading and writing skills for school",
+        "Maths and science skills for later life",
+        "Building real houses as adults"
+      ],
+      "answer": 0,
+      "why": "She says kids build resiliency, confidence, coping strategies and regulation strategies in play."
+    },
+    {
+      "q": "Why does Pippa mention the small dangers in adventure playgrounds, like nails and sharp metal?",
+      "options": [
+        "To warn parents to keep their children away",
+        "To say the playgrounds should be closed",
+        "To show that the playgrounds are badly built",
+        "To explain that small risks build resilience"
+      ],
+      "answer": 3,
+      "why": "She says taking small risks with these makes kids more resilient and builds coping strategies."
+    }
+  ]
+}

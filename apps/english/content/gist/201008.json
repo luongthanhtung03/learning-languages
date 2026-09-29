@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to take good photos of wild animals in Africa",
+        "Why chimpanzees are in danger in Tanzania today",
+        "Jane Goodall's discoveries about how chimps are like us",
+        "The long history of National Geographic magazine"
+      ],
+      "answer": 2,
+      "why": "They hear Jane Goodall reflect on the deep connections science has found between humans and great apes."
+    },
+    {
+      "q": "What made Jane Goodall famous in 1965?",
+      "options": [
+        "Appearing on the cover of National Geographic",
+        "Writing a best-selling book about her life",
+        "Winning an important international science prize",
+        "Appearing on a popular BBC radio programme"
+      ],
+      "answer": 0,
+      "why": "Sam says she shot to fame in 1965 when she appeared on the cover of National Geographic."
+    },
+    {
+      "q": "What did most scientists believe when Jane first went to Tanzania?",
+      "options": [
+        "Chimps had no emotions at all",
+        "Chimps lived alone, not in families",
+        "Chimps could understand human language",
+        "Only humans could make and use tools"
+      ],
+      "answer": 3,
+      "why": "Rob says most scientists believed the only animals capable of making and using tools were humans."
+    },
+    {
+      "q": "What did Jane see the chimp Greybeard do?",
+      "options": [
+        "Use a heavy stone to break open some nuts",
+        "Take the leaves off a twig to collect termites",
+        "Build a shelter from branches before it rained",
+        "Teach the young chimps how to climb tall trees"
+      ],
+      "answer": 1,
+      "why": "She saw him strip the leaves from a twig and use grass stems to pull termites out of a mound."
+    },
+    {
+      "q": "Why was Greybeard's behaviour so important?",
+      "options": [
+        "It showed chimps prefer termites to fruit",
+        "It showed chimps copy humans",
+        "It proved wild animals could make their own tools",
+        "It showed chimps were becoming dangerous"
+      ],
+      "answer": 2,
+      "why": "Rob says it was believed animals couldn't make tools, so this was proof of their intelligence."
+    },
+    {
+      "q": "How did Jane feel about chimps having emotions like humans?",
+      "options": [
+        "She wasn't surprised by it",
+        "She was shocked by it",
+        "She didn't believe it at first",
+        "She thought it was only true of young chimps"
+      ],
+      "answer": 0,
+      "why": "She says, “I wasn't surprised that chimps had these emotions.”"
+    },
+    {
+      "q": "According to Jane, why do chimps seek physical contact?",
+      "options": [
+        "To show who is the leader",
+        "To reduce nervousness or stress",
+        "To keep warm at night",
+        "To find food more easily"
+      ],
+      "answer": 1,
+      "why": "She says they seek physical contact to alleviate nervousness or stress."
+    },
+    {
+      "q": "What does Jane suggest about chimps' gestures like kissing and holding hands?",
+      "options": [
+        "They are learned from people",
+        "They only happen in zoos",
+        "They are hard to understand without training",
+        "They are very similar to ours"
+      ],
+      "answer": 3,
+      "why": "She says you can watch them without knowing anything about them, and 'it's so like us.'"
+    }
+  ]
+}

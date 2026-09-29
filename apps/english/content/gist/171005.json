@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to use a phone app to count calories and lose weight",
+        "Why going to the gym is boring for most adults",
+        "The best places to walk in the UK in the summer",
+        "Whether adults exercise enough and how to walk more"
+      ],
+      "answer": 3,
+      "why": "Rob says they're discussing vigorous exercise and whether adults take enough of it."
+    },
+    {
+      "q": "What does Neil say about his own walking?",
+      "options": [
+        "He tracks his steps and does 10,000 a day",
+        "He only walks at weekends, in the countryside",
+        "He never counts his steps because it's boring",
+        "He walks slowly every evening to relax"
+      ],
+      "answer": 0,
+      "why": "Neil says you can track steps on your phone and he does ten thousand a day."
+    },
+    {
+      "q": "Why does Rob joke about walking from the sofa to the fridge?",
+      "options": [
+        "To show that he walks much more than Neil every day",
+        "To explain how he counts his steps with his phone",
+        "To suggest slow, short walks aren't real exercise",
+        "To say that he is always hungry in the evenings"
+      ],
+      "answer": 2,
+      "why": "Rob says 10,000 steps don't count 'if you saunter', like from the sofa to the fridge."
+    },
+    {
+      "q": "According to Neil, what happens to your body when you exercise?",
+      "options": [
+        "You need less sleep at night and wake up earlier",
+        "It stimulates its repair system and stays younger",
+        "You get much hungrier and so you eat more food",
+        "Your heart beats more slowly for the rest of the day"
+      ],
+      "answer": 1,
+      "why": "Neil says exercise stimulates the body's natural repair system, so it stays younger."
+    },
+    {
+      "q": "What excuse does Rob give for not walking more?",
+      "options": [
+        "He has a bad knee",
+        "He is far too busy",
+        "He lives too far from a park",
+        "He doesn't like walking alone"
+      ],
+      "answer": 1,
+      "why": "Rob says he doesn't have enough time because he's 'far too busy'."
+    },
+    {
+      "q": "How does Julia Bradbury build walking into her working day?",
+      "options": [
+        "She goes to the gym for an hour every day before work",
+        "She runs in the park near her office at lunchtime",
+        "She walks around the office for five minutes every hour",
+        "She walks to meetings rather than take a bus or taxi"
+      ],
+      "answer": 3,
+      "why": "She says she will walk to meetings instead of catching a bus or getting a taxi or car."
+    },
+    {
+      "q": "What does Julia do on days at home with her children?",
+      "options": [
+        "She walks with them for at least 30–40 minutes",
+        "She takes them swimming",
+        "She stays in and does exercise videos",
+        "She drives them to the park"
+      ],
+      "answer": 0,
+      "why": "She takes her kids out in the buggy and does '30-40 minutes at least every day'."
+    },
+    {
+      "q": "How does Rob respond to Julia's ideas?",
+      "options": [
+        "He says they wouldn't work for him because of his job",
+        "He thinks she has too much free time to be realistic",
+        "He agrees he could walk, not drive, and take the stairs",
+        "He says he already does all of them every single day"
+      ],
+      "answer": 2,
+      "why": "Rob says she walks instead of driving and takes the stairs, and 'I could do those things'."
+    }
+  ]
+}

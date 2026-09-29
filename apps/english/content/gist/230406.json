@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "New pop groups with strange names",
+        "New vegetables made by mixing two different plants",
+        "How to cook traditional British vegetables",
+        "Why British people don't eat vegetables"
+      ],
+      "answer": 1,
+      "why": "They discuss new hybrid vegetables and the people who grow, cook and eat them."
+    },
+    {
+      "q": "What did Sam first think Kalettes and CauliShoots were?",
+      "options": [
+        "Names of pop groups",
+        "Types of fruit",
+        "Restaurants",
+        "Cooking tools"
+      ],
+      "answer": 0,
+      "why": "Sam says they sound like the names of pop groups."
+    },
+    {
+      "q": "What two vegetables were mixed to create the Kalette?",
+      "options": [
+        "Broccoli and Chinese kale",
+        "Cauliflower and carrots",
+        "Kale and Brussels sprouts",
+        "Leeks and potatoes"
+      ],
+      "answer": 2,
+      "why": "Sam says the Kalette is a mix between kale and a Brussels sprout."
+    },
+    {
+      "q": "How were Kalettes advertised when they were introduced in 2010?",
+      "options": [
+        "As a cheap vegetable for soups and stews",
+        "As a fun vegetable for young children",
+        "As a luxury food for expensive restaurants",
+        "As a healthy vegetable, cooked or raw"
+      ],
+      "answer": 3,
+      "why": "They were advertised as a healthy vegetable that could be cooked or eaten raw."
+    },
+    {
+      "q": "How does Jamie Claxton describe the way he created the Kalette?",
+      "options": [
+        "By trying wacky ideas to see what happened",
+        "By following a plan suggested by customers",
+        "By copying a vegetable grown in China",
+        "By using chemicals to change the plant's genes"
+      ],
+      "answer": 0,
+      "why": "He says they 'just try wacky stuff and see what happens'."
+    },
+    {
+      "q": "Why did Jamie want to create something new?",
+      "options": [
+        "Brussels sprouts were becoming too expensive",
+        "Sprouts and kale felt old-fashioned",
+        "Farmers asked him for bigger vegetables",
+        "Kale didn't grow well in the cold UK weather"
+      ],
+      "answer": 1,
+      "why": "He says they needed something more modern because sprouts and kale are very traditional."
+    },
+    {
+      "q": "According to Jack Stein, what matters most when choosing new vegetables?",
+      "options": [
+        "The price that customers are willing to pay",
+        "How long they last in the fridge",
+        "Their taste and how they look on the plate",
+        "Where they are grown and how far they travel"
+      ],
+      "answer": 2,
+      "why": "He says it's down to taste and what it looks like on the plate."
+    },
+    {
+      "q": "Why does Jack Stein mention the old name 'Flower Sprouts'?",
+      "options": [
+        "To say it was a much better name than Kalettes",
+        "To complain that the new name is confusing",
+        "To show that the vegetable was never popular",
+        "To give an example of novelty he likes"
+      ],
+      "answer": 3,
+      "why": "He mentions novelty, saying things like Kalettes, originally 'Flower Sprouts', were great."
+    }
+  ]
+}

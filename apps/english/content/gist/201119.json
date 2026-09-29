@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How atomic clocks work",
+        "Different attitudes to being on time",
+        "How to plan a busy working day",
+        "Why meetings often start late"
+      ],
+      "answer": 1,
+      "why": "Neil says they are discussing people's attitudes to being on time and how important punctuality is."
+    },
+    {
+      "q": "Why does Catherine say she doesn't like to arrive early?",
+      "options": [
+        "She is always stuck in traffic",
+        "She thinks it is rude",
+        "She has too many deadlines",
+        "She doesn't want to wait around for Neil"
+      ],
+      "answer": 3,
+      "why": "Catherine says she doesn't want to be early and then wait around for Neil."
+    },
+    {
+      "q": "According to Grace Pacie, what is typical of a 'time bender'?",
+      "options": [
+        "They don't want to be late but don't allow enough time",
+        "They are always early for everything",
+        "They deliberately arrive late to look important",
+        "They never turn up to meetings"
+      ],
+      "answer": 0,
+      "why": "She says they don't want to be late but resist being early and don't allow enough time."
+    },
+    {
+      "q": "What is Catherine's attitude to deadlines?",
+      "options": [
+        "She misses most of them because she is too busy",
+        "She always finishes everything well before it's due",
+        "She meets key ones but doesn't stress about small things",
+        "She asks for more time for every single deadline"
+      ],
+      "answer": 2,
+      "why": "She says if a deadline really matters she'll make it, but less important things aren't worth the stress."
+    },
+    {
+      "q": "How does Neil feel about being late?",
+      "options": [
+        "Relaxed, because most things start late",
+        "Anxious, so he always arrives early",
+        "Embarrassed, but it happens often",
+        "He doesn't mind if others are late"
+      ],
+      "answer": 1,
+      "why": "Neil says being late makes him anxious, which is why he always arrives early."
+    },
+    {
+      "q": "According to Philippa Perry, why might some people fear being early?",
+      "options": [
+        "They don't want to stand out and feel awkward alone",
+        "They think it wastes time",
+        "They don't like the people they are meeting",
+        "They worry about getting lost"
+      ],
+      "answer": 0,
+      "why": "She mentions a fear of being conspicuous, standing out, having no one to talk to and feeling awkward."
+    },
+    {
+      "q": "Which reason does Catherine say explains her own lateness?",
+      "options": [
+        "She is afraid of standing out",
+        "She has no one to talk to when she arrives",
+        "She forgets what time things start",
+        "She thinks there is time to fit everything in"
+      ],
+      "answer": 3,
+      "why": "She says it's the other reason Perry mentioned: 'I just think there's time to pack everything in!'"
+    },
+    {
+      "q": "What advice from the Woman's Hour experts does Neil repeat?",
+      "options": [
+        "Buy a more accurate watch",
+        "Always leave an hour early",
+        "Decide to be on time instead of trying",
+        "Stop making so many appointments"
+      ],
+      "answer": 2,
+      "why": "Neil says you shouldn't 'try' to be on time, you should 'decide' to be on time."
+    }
+  ]
+}

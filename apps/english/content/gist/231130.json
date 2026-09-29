@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook traditional Italian dishes like lasagne at home",
+        "Why tourists love visiting Italy",
+        "How Italian neighbourhoods abroad spread Italian food",
+        "The most popular Italian food in Britain"
+      ],
+      "answer": 2,
+      "why": "They take a walk through two Little Italys, in Argentina and New York."
+    },
+    {
+      "q": "Why does Georgie describe cafes selling mozzarella and focaccia?",
+      "options": [
+        "To see if Neil can guess where she is",
+        "To recommend a café in London",
+        "To explain how to make fresh focaccia at home",
+        "To say she is hungry"
+      ],
+      "answer": 0,
+      "why": "She asks, “Where would I be then?” after describing the Italian food."
+    },
+    {
+      "q": "How did Italian food become famous around the world?",
+      "options": [
+        "Italian chefs went on TV",
+        "Local people started eating immigrants' food too",
+        "The Italian government advertised it",
+        "Tourists brought Italian recipes home from their holidays"
+      ],
+      "answer": 1,
+      "why": "Neil says shops and cafes served their communities, then dishes attracted local people."
+    },
+    {
+      "q": "What do we learn about Hugo Banchero's grandfather, Giuseppe?",
+      "options": [
+        "He was born in Buenos Aires",
+        "He moved to New York first",
+        "He opened a small food shop in Manhattan, New York",
+        "He arrived from Genoa as a young child"
+      ],
+      "answer": 3,
+      "why": "Hugo says he came from Genoa and arrived at the age of seven and a half."
+    },
+    {
+      "q": "What is faina, according to Hugo?",
+      "options": [
+        "A pizza made with chickpea flour",
+        "A kind of Italian cheese",
+        "A sweet pastry",
+        "A pasta dish served with meatballs"
+      ],
+      "answer": 0,
+      "why": "He says faina from Genoa is a pizza with chickpea flour."
+    },
+    {
+      "q": "What is special about Little Italy in New York?",
+      "options": [
+        "It was designed and built by the De Palo family in 1925",
+        "It is the newest Little Italy",
+        "Most Italian immigrants to the US came through it",
+        "It only sells pizza"
+      ],
+      "answer": 2,
+      "why": "Georgie says 90% of Italian immigrants to the US at the turn of the century came through it."
+    },
+    {
+      "q": "How has the De Palo family business changed, according to Lou?",
+      "options": [
+        "It has moved to another city",
+        "It now only sells food from one region, Liguria",
+        "It is run by a new family",
+        "It now sells food from all 20 regions of Italy"
+      ],
+      "answer": 3,
+      "why": "He says the business expanded to represent the food culture of the 20 regions of Italy."
+    },
+    {
+      "q": "Why does Lou call Little Italy a “stepping stone”?",
+      "options": [
+        "Its streets are made of stone",
+        "Immigrants lived there first, then moved on",
+        "It is next to a river",
+        "It was the first step in building New York City"
+      ],
+      "answer": 1,
+      "why": "Italians first settled there, then eventually moved into mainstream America."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The economic cost of climate change",
+        "How climate change affects mental health",
+        "Why so many young people protest",
+        "How to prepare your home for a flood"
+      ],
+      "answer": 1,
+      "why": "They meet an expert investigating the link between climate change and mental health problems."
+    },
+    {
+      "q": "Who is affected by worry about climate change, according to Rob?",
+      "options": [
+        "Only people who live near the sea",
+        "Only scientists who study the climate",
+        "Only people who have lived through a disaster",
+        "Everyone, not just disaster victims"
+      ],
+      "answer": 3,
+      "why": "He says it's leading to mental health problems not just for those who experience events first-hand, but for us all."
+    },
+    {
+      "q": "According to the 2021 UK census, how many British adults are worried about climate change?",
+      "options": [
+        "About three quarters",
+        "About a quarter",
+        "Around half",
+        "Almost none"
+      ],
+      "answer": 0,
+      "why": "Rob says three quarters of adults in Britain are worried about the impact of climate change."
+    },
+    {
+      "q": "What does Dr Gesche Huebner say heatwaves are linked to?",
+      "options": [
+        "Better sleep and more energy",
+        "More outdoor exercise in parks",
+        "A higher risk of suicide and illness",
+        "Fewer natural disasters in summer"
+      ],
+      "answer": 2,
+      "why": "She says hot temperatures lead to an increased risk of suicide and other adverse mental health effects."
+    },
+    {
+      "q": "What is 'climate anxiety', according to Rob?",
+      "options": [
+        "A serious illness after surviving a flood",
+        "A low-level worry about the planet",
+        "A strong fear of hot, sunny weather",
+        "Anger at governments for doing nothing"
+      ],
+      "answer": 1,
+      "why": "He describes it as a low-level feeling of nervousness or worry about climate change's consequences."
+    },
+    {
+      "q": "What positive point does Rob make?",
+      "options": [
+        "Climate change is slowing down now",
+        "Mental health problems are decreasing",
+        "Fighting climate change helps our minds too",
+        "Young people are no longer worried"
+      ],
+      "answer": 2,
+      "why": "He says many things good for fighting climate change are also good for mental health."
+    },
+    {
+      "q": "Which of these does Dr Huebner suggest?",
+      "options": [
+        "Building more roads for cars and lorries",
+        "Staying indoors on hot summer days",
+        "Moving from the city to the countryside",
+        "Changing roads for walking and cycling"
+      ],
+      "answer": 3,
+      "why": "She says change road infrastructure to enable more walking and cycling."
+    },
+    {
+      "q": "Why does Dr Huebner mention urban greenspaces?",
+      "options": [
+        "Green and blue spaces help mental health",
+        "Because they are cheap and easy to build",
+        "Because they stop floods in city centres",
+        "Because they attract lots of tourists"
+      ],
+      "answer": 0,
+      "why": "She says 'we already know that green and blue spaces are good for mental health'."
+    }
+  ]
+}

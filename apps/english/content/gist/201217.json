@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to research your own family history online",
+        "Research suggesting trees talk and help their families",
+        "Why forests are disappearing around the world so fast",
+        "The biggest and oldest trees in California's forests"
+      ],
+      "answer": 1,
+      "why": "They discuss Suzanne Simard's view that trees are intelligent, communicate and recognise family members."
+    },
+    {
+      "q": "What did Georgina do in her free time during lockdown?",
+      "options": [
+        "She repainted her living room",
+        "She did exercise classes in the kitchen",
+        "She went for long walks in the woods",
+        "She researched her family history online"
+      ],
+      "answer": 3,
+      "why": "She says she has been doing online research into her family history."
+    },
+    {
+      "q": "What is the 'wood wide web'?",
+      "options": [
+        "A network of underground roots linking related trees",
+        "A popular website about the world's famous forests",
+        "A type of spider that builds huge webs in woods",
+        "A map showing where the world's oldest trees grow"
+      ],
+      "answer": 0,
+      "why": "Georgina describes it as the network of underground roots linking trees to others of the same family."
+    },
+    {
+      "q": "According to Suzanne Simard, how do parent trees treat their own seedlings?",
+      "options": [
+        "They block their sunlight so they grow slowly",
+        "They treat them exactly the same as strangers",
+        "They send them more nutrients than strangers",
+        "They leave them to grow alone without any help"
+      ],
+      "answer": 2,
+      "why": "She agrees that parent trees send more nutrients to their offspring than to stranger trees."
+    },
+    {
+      "q": "What happens when young trees receive extra nutrients and carbon?",
+      "options": [
+        "They grow bigger root networks and grow faster",
+        "They produce more seeds straight away",
+        "They send the food back to the mother tree",
+        "They stop needing water"
+      ],
+      "answer": 0,
+      "why": "They extend their root network, suck up more nutrients and increase their own growth."
+    },
+    {
+      "q": "What does Suzanne Simard think many people wrongly believe about trees?",
+      "options": [
+        "That they grow far too slowly to be worth studying",
+        "That they are much older than the human race",
+        "That they live together in family communities",
+        "That they are lifeless sticks that make no decisions"
+      ],
+      "answer": 3,
+      "why": "She says people think of trees as sticks that don't change behaviours or make decisions."
+    },
+    {
+      "q": "What do dying trees do, according to Neil?",
+      "options": [
+        "They drop all of their seeds on the ground at once",
+        "They warn their offspring to make new root connections",
+        "They stop sharing food and water with other trees",
+        "They send poison through their roots to strangers"
+      ],
+      "answer": 1,
+      "why": "Neil says before they die, they warn their offspring to start making new root connections."
+    },
+    {
+      "q": "How does Georgina say the programme will change her walks in the woods?",
+      "options": [
+        "She will stop walking there because it feels strange",
+        "She will collect seeds from the trees to plant at home",
+        "She will imagine the trees chatting to each other",
+        "She will measure the largest trees she walks past"
+      ],
+      "answer": 2,
+      "why": "She says walks will feel different, surrounded by intelligent trees chatting to each other."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Two men whose names are linked to painful parts of history",
+        "The most popular baby names around the world",
+        "How parents choose names for their children",
+        "Why many people in Britain change their names after marriage"
+      ],
+      "answer": 0,
+      "why": "Beth says they'll meet two people whose family history made them consider changing their name."
+    },
+    {
+      "q": "What point does Neil make about names at the start?",
+      "options": [
+        "Most people are happy to change their names when they grow up",
+        "Names are less important today than in the past",
+        "Everyone should choose their own name at 18",
+        "They are closely linked to our identity, but we don't choose them"
+      ],
+      "answer": 3,
+      "why": "He says our identity is linked to our name, yet it's usually given by our parents."
+    },
+    {
+      "q": "Where does Bishop Anderson Jeremiah's first name come from?",
+      "options": [
+        "His grandfather",
+        "A missionary who set up schools in South India",
+        "A famous Indian writer",
+        "A saint in the Bible who was known for his kindness"
+      ],
+      "answer": 1,
+      "why": "He says it was the name of John Anderson, an educational missionary who set up schools in South India."
+    },
+    {
+      "q": "How does Bishop Jeremiah feel about John Anderson?",
+      "options": [
+        "He admires him completely",
+        "He has never heard much about him",
+        "He sees good aims, but also links to the colonial power",
+        "He thinks he was simply cruel and should be completely forgotten"
+      ],
+      "answer": 2,
+      "why": "He says Anderson had very noble ambitions but was a big collaborator of the colonial establishment."
+    },
+    {
+      "q": "Why did Bishop Jeremiah's grandparents become Christians?",
+      "options": [
+        "To get free education abroad",
+        "Because the government forced them",
+        "To escape discrimination because of their low status",
+        "Because they married British missionaries who lived in the area"
+      ],
+      "answer": 2,
+      "why": "Beth says low-status Indians, including his grandparents, escaped discrimination by converting."
+    },
+    {
+      "q": "Where does Professor Robert Beckford's surname come from?",
+      "options": [
+        "It was passed down from enslaved ancestors in Jamaica",
+        "It was the name of a Christian missionary who worked in Jamaica",
+        "It comes from a prophet in the Bible",
+        "He chose it himself as an adult"
+      ],
+      "answer": 0,
+      "why": "Neil says Beckford is a slave name from his enslaved African ancestors in 18th-century Jamaica."
+    },
+    {
+      "q": "Why did Professor Beckford name his son Micah?",
+      "options": [
+        "It was his own father's name",
+        "It was the most popular name for baby boys that year",
+        "It sounds African and traditional",
+        "Micah was a prophet who challenged injustice"
+      ],
+      "answer": 3,
+      "why": "He likes the idea of biblical figures who speak truth to power and challenge injustice."
+    },
+    {
+      "q": "Why hasn't Professor Beckford given himself a new name?",
+      "options": [
+        "His family asked him not to",
+        "He couldn't find one that felt right for him",
+        "He is proud of the name Beckford",
+        "It is far too difficult to change your name legally in Britain"
+      ],
+      "answer": 1,
+      "why": "He says he could never find a name that really resonated with him."
+    }
+  ]
+}

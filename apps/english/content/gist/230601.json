@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why hunting safaris are becoming more popular",
+        "How to take good photos of wild animals",
+        "Whether nature and wildlife tourism helps or harms",
+        "The most famous animals in Africa"
+      ],
+      "answer": 2,
+      "why": "Beth says they'll be asking: is ecotourism good or bad?"
+    },
+    {
+      "q": "How are safaris changing, according to Neil?",
+      "options": [
+        "Tourists now shoot photos, not animals",
+        "They are becoming shorter and cheaper",
+        "They are moving from Africa to Asia",
+        "Fewer tourists are going on them each year"
+      ],
+      "answer": 0,
+      "why": "Neil says safaris are swapping their guns for cameras."
+    },
+    {
+      "q": "What is Vicky Smith's main point?",
+      "options": [
+        "All nature tourism is good for wild animals",
+        "Swimming with dolphins is a responsible activity",
+        "Tourists should avoid travelling to Africa",
+        "Nature tourism isn't always responsible"
+      ],
+      "answer": 3,
+      "why": "She says just because tourism is nature-based, it doesn't mean it's responsible or sustainable."
+    },
+    {
+      "q": "Which of these does Vicky Smith give as an irresponsible activity?",
+      "options": [
+        "Watching snow leopards from far away",
+        "Having selfies taken with drugged tigers",
+        "Staying with local families",
+        "Walking in national parks"
+      ],
+      "answer": 1,
+      "why": "She lists tiger selfies where the tigers are drugged, as well as dolphin shows and elephant-riding."
+    },
+    {
+      "q": "What are the two requirements for genuine ecotourism?",
+      "options": [
+        "Low prices and comfortable, modern hotels",
+        "Taking photos and getting close to animals",
+        "Not disturbing nature; helping locals",
+        "Travelling by train and staying for a long time"
+      ],
+      "answer": 2,
+      "why": "Neil says tourists should observe nature without interfering and their money should support traditional communities."
+    },
+    {
+      "q": "How many wildlife tourists does Tajikistan get each year?",
+      "options": [
+        "Fewer than two dozen",
+        "About two hundred",
+        "Thousands",
+        "None at all"
+      ],
+      "answer": 0,
+      "why": "Antonia says Tajikistan gets less than two dozen wildlife tourists a year."
+    },
+    {
+      "q": "Why does Antonia Bolingbroke-Kent mention Tajikistan?",
+      "options": [
+        "As an example of a country with too many tourists",
+        "As a place where tourists can ride wild animals",
+        "As a country that has recently banned ecotourism",
+        "As ecotourism that helps animals and people"
+      ],
+      "answer": 3,
+      "why": "She uses it to contrast with irresponsible tourism: animals are unaffected and local communities genuinely benefit."
+    },
+    {
+      "q": "According to Antonia, how are animals like snow leopards watched in Tajikistan?",
+      "options": [
+        "From helicopters",
+        "From a distance, without changing their behaviour",
+        "In special zoos",
+        "Very closely, so tourists can touch them"
+      ],
+      "answer": 1,
+      "why": "She says they are observed from a distance and their behaviour is not affected."
+    }
+  ]
+}

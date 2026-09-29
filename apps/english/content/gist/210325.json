@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How astronauts train for long space missions on Earth",
+        "Why workers in offices around the world go on strike",
+        "A disagreement between Skylab astronauts and mission control",
+        "How spiders manage to spin their webs inside a spacecraft"
+      ],
+      "answer": 2,
+      "why": "They discuss the 1973 disagreement between the Skylab crew and mission control over their workload."
+    },
+    {
+      "q": "Why does Georgina act like a bossy manager at the start?",
+      "options": [
+        "Because Neil wrote a bad report",
+        "Because she is really Neil's boss",
+        "Because Neil went on strike",
+        "To show what being micromanaged is like"
+      ],
+      "answer": 3,
+      "why": "Her detailed orders lead Neil to explain micromanagement, when a boss controls every small detail."
+    },
+    {
+      "q": "What were the Skylab crew asked to study?",
+      "options": [
+        "Many things, including spiders' webs",
+        "Only the stars and planets near Earth",
+        "How to repair the space station",
+        "The weather on Earth"
+      ],
+      "answer": 0,
+      "why": "They were asked to study everything, from effects on the human body to how spiders make webs."
+    },
+    {
+      "q": "According to Ed Gibson, how much instruction did they receive one morning?",
+      "options": [
+        "A short radio message from mission control",
+        "About 60 feet of teleprinter message",
+        "Six pages of emails to read before lunch",
+        "A one-hour phone call with their boss"
+      ],
+      "answer": 1,
+      "why": "He says one morning they had about 60 feet of teleprinter message to divide up."
+    },
+    {
+      "q": "Why did Ed Gibson feel the micromanagement was a problem?",
+      "options": [
+        "It made the mission too short to finish",
+        "It stopped them sleeping",
+        "They couldn't use their own judgement",
+        "It made them feel lonely"
+      ],
+      "answer": 2,
+      "why": "He says they weren't getting things done as they should because they couldn't use their own judgement."
+    },
+    {
+      "q": "Why did some NASA bosses think the astronauts had gone on strike?",
+      "options": [
+        "All three of them missed the daily radio meeting",
+        "They refused to do any experiments",
+        "They sent an angry letter",
+        "They turned off the space station's power"
+      ],
+      "answer": 0,
+      "why": "Georgina says one day all three missed the daily radio meeting and some bosses thought they'd gone on strike."
+    },
+    {
+      "q": "What happened after the crisis talks?",
+      "options": [
+        "The astronauts were sent back to Earth early",
+        "They agreed to work together better",
+        "The newspapers apologised",
+        "NASA gave the crew more work"
+      ],
+      "answer": 1,
+      "why": "Neil says both sides agreed better ways of working and communicating, with less micromanagement."
+    },
+    {
+      "q": "According to Ed Gibson, when is micromanagement actually needed?",
+      "options": [
+        "During experiments",
+        "At meal times",
+        "Never",
+        "During lift-off or re-entry"
+      ],
+      "answer": 3,
+      "why": "He says micromanagement doesn't work, except in situations like a lift-off or a re-entry."
+    }
+  ]
+}

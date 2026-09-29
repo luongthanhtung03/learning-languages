@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Healthy food to eat with the family",
+        "How to set a dinner table quickly",
+        "How people talk and behave around the dinner table",
+        "Why families no longer eat their meals together at home"
+      ],
+      "answer": 2,
+      "why": "Neil says they're not interested in food but in talking at the dinner table."
+    },
+    {
+      "q": "What does Neil say about eating at the table as a child?",
+      "options": [
+        "His family rarely ate together",
+        "He had to eat in silence",
+        "He always had to eat at a separate children's table in the kitchen",
+        "It was often the only time the family could chat together"
+      ],
+      "answer": 3,
+      "why": "He says it was an important daily ritual and often the only time they could get together and chat."
+    },
+    {
+      "q": "Why does Neil value family meals with his own children?",
+      "options": [
+        "The children eat more vegetables",
+        "The children open up more about their day",
+        "It is the only time he cooks",
+        "The children learn good table manners from him"
+      ],
+      "answer": 1,
+      "why": "He says the kids are more likely to open up about their day or something troubling them."
+    },
+    {
+      "q": "What does Philippa Perry say happens in any group?",
+      "options": [
+        "We take on a role, like “the funny one”",
+        "We always become the leader",
+        "We stop being ourselves completely in every group",
+        "We start arguing with each other"
+      ],
+      "answer": 0,
+      "why": "She says in any group we find a role, such as the funny one or the wise one."
+    },
+    {
+      "q": "What is Philippa Perry's advice about the role you have in your family?",
+      "options": [
+        "Accept it, because your family members always know you best",
+        "Try to change it by arguing",
+        "Don't believe it too much, as it may not be who you are",
+        "Only show that side of yourself at home"
+      ],
+      "answer": 2,
+      "why": "She says take an assigned family role “with a little bit of a pinch of salt”."
+    },
+    {
+      "q": "How were children sometimes treated at the table in the past?",
+      "options": [
+        "They sat apart from adults or were expected to stay quiet",
+        "They were usually allowed to lead the conversation at meals",
+        "They served food to the adults",
+        "They ate before everyone else"
+      ],
+      "answer": 0,
+      "why": "Beth says children sometimes sat at a different table or were told to be seen and not heard."
+    },
+    {
+      "q": "How do older relatives react to Ambreia Meadows-Fernandez's children's questions?",
+      "options": [
+        "They get angry with the children and leave the table",
+        "They refuse to answer",
+        "They find them boring",
+        "Mostly positively, though it can be a bit of a shock"
+      ],
+      "answer": 3,
+      "why": "She says it's a mixed bag – overwhelmingly positive, but a bit of a culture shock."
+    },
+    {
+      "q": "According to Ambreia, why are her children's questions a surprise to older people?",
+      "options": [
+        "Her children are much older than they look and act like adults",
+        "They weren't raised with separate adult and kid tables",
+        "Her children speak a different language",
+        "Her children only ask about food"
+      ],
+      "answer": 1,
+      "why": "She says her kids weren't raised with that line between the adult table and the kid table."
+    }
+  ]
+}

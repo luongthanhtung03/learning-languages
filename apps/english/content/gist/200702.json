@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make your own face mask at home",
+        "Why face masks have always been popular in Asia",
+        "The history of the plague in Europe and its masks",
+        "Whether wearing masks in public helps stop the virus"
+      ],
+      "answer": 3,
+      "why": "Rob says they'll ask whether wearing masks in public can help prevent the spread of coronavirus."
+    },
+    {
+      "q": "What did Professor Robert West do?",
+      "options": [
+        "He designed a new type of mask for hospitals",
+        "He reviewed over twenty studies on the evidence",
+        "He ran a big survey of people who wear masks",
+        "He tested lots of different masks in a laboratory"
+      ],
+      "answer": 1,
+      "why": "Sam says he conducted a review of over twenty studies looking into the evidence."
+    },
+    {
+      "q": "What does Professor West say about the evidence on masks?",
+      "options": [
+        "It is unclear and doesn't tell us anything yet",
+        "It clearly shows that masks work very well",
+        "It clearly shows that masks are harmful to wear",
+        "It has not been studied by scientists at all"
+      ],
+      "answer": 0,
+      "why": "He says the evidence is equivocal and doesn't tell you anything yet."
+    },
+    {
+      "q": "According to Professor West, why is there such a heated debate?",
+      "options": [
+        "Masks are far too expensive for many families",
+        "Governments keep changing the rules every week",
+        "People rely on opinions because the evidence is weak",
+        "Scientists refuse to share their research with others"
+      ],
+      "answer": 2,
+      "why": "He says people are really relying on their opinion, which leads to heated debate."
+    },
+    {
+      "q": "What is the 'stands to reason' argument for masks?",
+      "options": [
+        "Doctors have always worn them during operations",
+        "Masks are now required by law in most countries",
+        "Masks make people feel calmer when they go out",
+        "A covering over your mouth traps virus droplets"
+      ],
+      "answer": 3,
+      "why": "He explains that if you speak or cough into a covering, it will trap a lot of the virus droplets."
+    },
+    {
+      "q": "How did the WHO advice change in June?",
+      "options": [
+        "Wear masks in public where distancing isn't possible",
+        "Only carers and nurses should wear masks at work",
+        "Nobody needs to wear a mask any more, even indoors",
+        "Masks should be worn at home when family visit"
+      ],
+      "answer": 0,
+      "why": "Rob says the WHO now says masks should be worn in public where social distancing isn't possible."
+    },
+    {
+      "q": "What does Professor West mean by 'mask shaming'?",
+      "options": [
+        "Feeling embarrassed about how your mask looks",
+        "Wearing masks because others would judge you",
+        "Companies selling poor-quality masks for high prices",
+        "Doctors refusing to wear masks in public places"
+      ],
+      "answer": 1,
+      "why": "He says people feel compelled to wear masks because it's expected and they'd be judged if they didn't."
+    },
+    {
+      "q": "What other problem with masks does Professor West mention?",
+      "options": [
+        "They make it hard to breathe",
+        "They are bad for the environment",
+        "They can make people feel safer than they are",
+        "They stop people talking to each other"
+      ],
+      "answer": 2,
+      "why": "He says masks can potentially create a false sense of security."
+    }
+  ]
+}

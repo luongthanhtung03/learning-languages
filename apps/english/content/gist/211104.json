@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How Olympic athletes train and eat before big events",
+        "Whether companies selling unhealthy food should sponsor sport",
+        "Why skateboarding was added to the Olympic Games",
+        "How to cook healthy food at home instead of eating fast food"
+      ],
+      "answer": 1,
+      "why": "Sam says they'll ask whether it's right for companies selling unhealthy products to sponsor sporting events."
+    },
+    {
+      "q": "What happened to tobacco advertising in 2005?",
+      "options": [
+        "It moved from TV to the internet",
+        "It was allowed again at the Olympics",
+        "It was replaced by sugary drink adverts",
+        "It was banned from international sport"
+      ],
+      "answer": 3,
+      "why": "Sam says tobacco advertising was banned from international sport in 2005 because smoking is harmful."
+    },
+    {
+      "q": "What was Dr Sandro Demaio's job before he started his own agency?",
+      "options": [
+        "He worked on obesity for the World Health Organisation",
+        "He was the team doctor for Australia's Olympic swimmers",
+        "He made health programmes for the BBC in London",
+        "He advised a fast food company on its advertising"
+      ],
+      "answer": 0,
+      "why": "He worked for the World Health Organisation specialising in obesity before starting his agency in Australia."
+    },
+    {
+      "q": "According to Dr Demaio, what can a child learn when a fast food brand appears next to a sports hero?",
+      "options": [
+        "That sports stars should not eat fast food",
+        "That fast food is cheap and quick",
+        "That fast food is connected with success",
+        "That they should do more sport"
+      ],
+      "answer": 2,
+      "why": "He says a young child builds the connection that 'fast food equals success'."
+    },
+    {
+      "q": "What is the other effect of this sponsorship, according to Dr Demaio?",
+      "options": [
+        "People believe the product can't be that bad for them",
+        "People stop trusting the sports team that takes the money",
+        "People buy fewer tickets for sporting events on television",
+        "People become loyal to many different brands at the same time"
+      ],
+      "answer": 0,
+      "why": "It gives a 'health halo', so people think, even subconsciously, that it can't be that bad."
+    },
+    {
+      "q": "Why do the presenters mention the costs of travel, training and equipment?",
+      "options": [
+        "To show that the Olympics are too expensive for cities",
+        "To argue that fast food companies spend too little",
+        "To explain why tickets to the Olympics cost so much",
+        "To explain why many athletes need sponsorship money"
+      ],
+      "answer": 3,
+      "why": "Sam says being an athlete can cost a lot with little financial help, so many athletes are desperate for sponsorship."
+    },
+    {
+      "q": "How does Dr Demaio describe ultra-processed foods?",
+      "options": [
+        "As foods that are cooked slowly at home",
+        "As natural foods with nothing added",
+        "More like products made in a laboratory than real food",
+        "As healthy foods that are just high in sugar"
+      ],
+      "answer": 2,
+      "why": "He says they're 'more products really than foods' and are made in a laboratory, not a kitchen."
+    },
+    {
+      "q": "In Neil's potato example, which one is ultra-processed?",
+      "options": [
+        "A raw potato",
+        "French fries",
+        "A baked potato",
+        "A potato grown without chemicals"
+      ],
+      "answer": 1,
+      "why": "Neil says a potato is natural, a baked potato is processed, and French fries are ultra-processed."
+    }
+  ]
+}

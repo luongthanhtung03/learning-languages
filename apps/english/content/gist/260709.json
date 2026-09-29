@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Cycling in one old bike country and one new one",
+        "How to learn to ride a bike safely as an adult",
+        "Why electric bikes are dangerous in big cities",
+        "The best and most famous bike races in Europe"
+      ],
+      "answer": 0,
+      "why": "Neil says they'll visit two countries: one with a long cycling history and one where it's just starting."
+    },
+    {
+      "q": "According to Becca, why are more people in Britain choosing to cycle?",
+      "options": [
+        "Because cars are now banned in most city centres",
+        "Because bikes have become very cheap to buy",
+        "Because trains and buses are far too expensive",
+        "It's healthy and green, and e-bikes make it easier"
+      ],
+      "answer": 3,
+      "why": "She says people cycle for health and the environment, and electric bikes make it more accessible."
+    },
+    {
+      "q": "What does Meredith Glaser say changed for bikes in the Netherlands during the industrial era?",
+      "options": [
+        "They were banned from city streets for many years",
+        "They went from a toy for the rich to daily transport",
+        "They became mainly used for racing and sport",
+        "They were quickly replaced by cheaper cars"
+      ],
+      "answer": 1,
+      "why": "She says the bike went from a toy for rich people to an everyday tool for transportation."
+    },
+    {
+      "q": "What helped make bikes cheaper in the Netherlands in the 1890s?",
+      "options": [
+        "Government payments",
+        "Imports from other countries",
+        "New factories",
+        "Lower taxes"
+      ],
+      "answer": 2,
+      "why": "Becca says new factories made bikes cheaper to buy."
+    },
+    {
+      "q": "According to Martin Tillman, why do Gulf cities want to encourage cycling?",
+      "options": [
+        "To reduce the number of tourists",
+        "To save money on roads",
+        "Because people there have stopped buying cars",
+        "To rank highly for quality of life and liveability"
+      ],
+      "answer": 3,
+      "why": "He says the cities are competitive and want high global rankings, and cycling is part of quality of life."
+    },
+    {
+      "q": "How much cycle track has already been built in Dubai?",
+      "options": [
+        "600 kilometres",
+        "95,000 miles",
+        "60 kilometres",
+        "6,000 kilometres"
+      ],
+      "answer": 0,
+      "why": "Neil says Dubai's planners hope the 600km of cycle tracks already built will make it more attractive."
+    },
+    {
+      "q": "What does Martin mean when he says Dubai's cycling is not 'a copy and paste' of Holland?",
+      "options": [
+        "Dubai wants to be better than Holland at cycling",
+        "Dubai has no interest in other countries",
+        "Dubai is learning the main ideas, not copying exactly",
+        "Dubai will buy its bikes from Holland"
+      ],
+      "answer": 2,
+      "why": "He says it isn't a copy and paste; 'we're looking for the principles'."
+    },
+    {
+      "q": "What has Dubai done to help people cycle in the heat?",
+      "options": [
+        "Only opened cycle tracks at night",
+        "Created water stations and shaded rest areas",
+        "Built covered cycle tunnels everywhere",
+        "Given free electric bikes to tourists"
+      ],
+      "answer": 1,
+      "why": "Neil says water stations and shaded rest areas have been created for cycling in the heat."
+    }
+  ]
+}

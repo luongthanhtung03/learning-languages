@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook tasty dishes with garlic and salt",
+        "The history of Halloween festivals in Ireland",
+        "Superstitions and traditions connected with food",
+        "Why eggs are a healthy choice for lunch"
+      ],
+      "answer": 2,
+      "why": "Sam says many superstitions are connected to food, as they'll discover in the programme."
+    },
+    {
+      "q": "Why does Rob tell Sam to throw salt over his shoulder?",
+      "options": [
+        "Because spilling salt is thought to be bad luck",
+        "Because there is too much salt on the egg",
+        "To clean the floor",
+        "To make a wish for his birthday"
+      ],
+      "answer": 0,
+      "why": "Rob says, 'It's bad luck to spill salt!'"
+    },
+    {
+      "q": "What does Sam realise after Rob's questions about birthdays and weddings?",
+      "options": [
+        "He has never been to a wedding",
+        "Rob is not superstitious at all",
+        "Superstitions are only for children",
+        "He may be more superstitious than he thought"
+      ],
+      "answer": 3,
+      "why": "Sam says yes to both and adds, 'Maybe I'm more superstitious than I thought!'"
+    },
+    {
+      "q": "According to Tasha Marks, what else is garlic believed to protect against?",
+      "options": [
+        "Colds, coughs and flu in the winter",
+        "The 'evil eye', or bad luck in general",
+        "Evil spirits and ghosts at Halloween",
+        "Bad dreams and trouble sleeping"
+      ],
+      "answer": 1,
+      "why": "She says garlic has also been thought to ward off the 'evil eye', a term for any bad luck."
+    },
+    {
+      "q": "What point does Sam make about food superstitions after hearing Tasha Marks?",
+      "options": [
+        "They are all based on science",
+        "They are slowly dying out around the world",
+        "They also give our lives meaning",
+        "They only exist in Europe"
+      ],
+      "answer": 2,
+      "why": "Sam says food superstitions aren't only about bad luck – they also give our lives meaning."
+    },
+    {
+      "q": "What does Jonty Rajagopalan do?",
+      "options": [
+        "She writes books about the history of food",
+        "She shows tourists local food traditions",
+        "She is a chef in a famous restaurant",
+        "She presents The Food Chain"
+      ],
+      "answer": 1,
+      "why": "She owns a tourist agency in Hyderabad, introducing visitors to the city's food traditions."
+    },
+    {
+      "q": "When is the special chutney given, according to Jonty?",
+      "options": [
+        "On 1st January",
+        "At weddings",
+        "On birthdays",
+        "At Hindu New Year"
+      ],
+      "answer": 3,
+      "why": "She says it's given at the Hindu calendar New Year, not 1st January."
+    },
+    {
+      "q": "What does the chutney's mix of tastes represent?",
+      "options": [
+        "The good and bad parts of the coming year",
+        "The different regions and cultures of India",
+        "The family's favourite foods",
+        "A wish for a sweet life only"
+      ],
+      "answer": 0,
+      "why": "Her mum said the year would have happiness, challenges, sadness and bitterness, like the chutney."
+    }
+  ]
+}

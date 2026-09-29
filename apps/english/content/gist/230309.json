@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Talking to people who doubt climate change",
+        "Why Florida is getting hotter every year",
+        "How to recycle plastic litter at home",
+        "Why scientists disagree about climate change"
+      ],
+      "answer": 0,
+      "why": "Rob says they'll find out how to talk with people who doubt the science of global warming."
+    },
+    {
+      "q": "What happened to Sarah Ott when she was at college?",
+      "options": [
+        "She started a climate campaign with her friends",
+        "She moved away from Florida to study in New York",
+        "She began to doubt climate change, like others",
+        "She became a science teacher at a local school"
+      ],
+      "answer": 2,
+      "why": "Surrounded by people who didn't believe climate change was real, she slowly started to doubt it too."
+    },
+    {
+      "q": "What does Sarah do now?",
+      "options": [
+        "She is a BBC reporter covering the weather",
+        "She teaches children climate science",
+        "She works for a big oil company in Texas",
+        "She studies psychology at university"
+      ],
+      "answer": 1,
+      "why": "She works as a climate campaigner, teaching children the science behind climate change."
+    },
+    {
+      "q": "What distinction does Marco Silva make?",
+      "options": [
+        "Between scientists and the journalists who report them",
+        "Between young people and old people",
+        "Between Americans and Europeans",
+        "Between the ill-informed and real deniers"
+      ],
+      "answer": 3,
+      "why": "He distinguishes being ill-informed from being a full-blown climate denier."
+    },
+    {
+      "q": "Why might some people not understand climate science, according to Marco?",
+      "options": [
+        "The facts can be quite complex",
+        "Nobody explains it on TV",
+        "Scientists keep changing their minds",
+        "It is not taught in schools"
+      ],
+      "answer": 0,
+      "why": "He says the facts can at times be quite complex, quite dense."
+    },
+    {
+      "q": "Which way of persuading an ill-informed person is mentioned?",
+      "options": [
+        "Telling them that their ideas are stupid",
+        "Refusing to talk to them until they change",
+        "Sharing stories of how the weather changed",
+        "Showing them only numbers and graphs"
+      ],
+      "answer": 2,
+      "why": "Sam says you might share personal stories of how the weather has changed or ask why they doubt the evidence."
+    },
+    {
+      "q": "According to Professor Sander van der Linden, what happens if you insult a climate denier?",
+      "options": [
+        "They change their mind quickly and apologise",
+        "They hold on to their views more strongly",
+        "They stop talking about climate altogether",
+        "They ask for more information and evidence"
+      ],
+      "answer": 1,
+      "why": "Marco says if you confront them, people will hold on to their views even more firmly."
+    },
+    {
+      "q": "What do the presenters say is needed instead of confrontation?",
+      "options": [
+        "More laws against climate deniers",
+        "Louder campaigns",
+        "Less talk about science",
+        "Understanding, empathy and patience"
+      ],
+      "answer": 3,
+      "why": "Sam says what's needed is understanding and empathy, and patience to show fact from fiction."
+    }
+  ]
+}

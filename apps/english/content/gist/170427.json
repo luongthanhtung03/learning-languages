@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to clean windows safely on tall buildings",
+        "A man who survived a fall from a skyscraper",
+        "The tallest buildings in New York and their history",
+        "How firefighters rescue people from burning buildings"
+      ],
+      "answer": 1,
+      "why": "They discuss miraculous survivals, mainly the story of window cleaner Alcides Moreno."
+    },
+    {
+      "q": "What near-death experience has Neil had?",
+      "options": [
+        "He fell out of a canoe into a fast river",
+        "He fell through a hole in a garage floor",
+        "He fell off a mountain and was saved by a tree",
+        "He was in a car crash on a mountain road"
+      ],
+      "answer": 2,
+      "why": "Neil says he once fell off the side of a mountain but was saved by a tree."
+    },
+    {
+      "q": "What was Alcides Moreno's job?",
+      "options": [
+        "Cleaning windows on New York skyscrapers",
+        "Building scaffolding for new skyscrapers",
+        "Working as a firefighter in New York",
+        "Working as a doctor in a city hospital"
+      ],
+      "answer": 0,
+      "why": "Dan says he's a window cleaner who cleaned the windows on skyscrapers in New York."
+    },
+    {
+      "q": "How far did Alcides and his brother fall?",
+      "options": [
+        "3 storeys",
+        "7 storeys",
+        "24 storeys",
+        "47 storeys"
+      ],
+      "answer": 3,
+      "why": "Dan says both brothers fell 47 storeys."
+    },
+    {
+      "q": "Why did the brothers fall?",
+      "options": [
+        "One of them slipped on water on the platform",
+        "There was a strong wind high above the city",
+        "A window broke and they lost their balance",
+        "The cables holding the platform were loose"
+      ],
+      "answer": 3,
+      "why": "Dan says the cables were loose and the scaffold fell from the building."
+    },
+    {
+      "q": "How did firefighters find Alcides?",
+      "options": [
+        "Lying on a fence next to the building, unconscious",
+        "Crouching in twisted metal, still holding the controls",
+        "Standing in the street, talking calmly to people",
+        "Hanging from the side of the building by a safety rope"
+      ],
+      "answer": 1,
+      "why": "Jo Fidgen says he was crouching in twisted metal, clutching the controls, and breathing."
+    },
+    {
+      "q": "What happened to Alcides after the fall?",
+      "options": [
+        "He went home the same day with only a few cuts",
+        "He had no serious injuries and felt fine the next day",
+        "He was in a coma for three weeks and needed lots of blood",
+        "He went back to his job the next week, cleaning windows"
+      ],
+      "answer": 2,
+      "why": "Dan says he fell into a coma for 3 weeks and needed 24 pints of blood."
+    },
+    {
+      "q": "What did Dr Philip Barie say about Alcides's survival?",
+      "options": [
+        "It had never happened before and was perhaps a miracle",
+        "It was quite common for falls like this in New York",
+        "It was because of the hospital's new treatment for burns",
+        "It was lucky, but easy to explain with simple science"
+      ],
+      "answer": 0,
+      "why": "He called it unprecedented and extraordinary, and said a believer would call it a miracle."
+    }
+  ]
+}

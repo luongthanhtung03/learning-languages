@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How schools teach the science of climate change to young children",
+        "The life story of Greta Thunberg",
+        "Why politicians disagree about climate policy",
+        "Young people's climate fears and how adults can talk to them about it"
+      ],
+      "answer": 3,
+      "why": "They ask whether talking honestly about the climate can help mend divisions between generations."
+    },
+    {
+      "q": "What did one recent survey show about young people in the UK?",
+      "options": [
+        "At least three-quarters find the future frightening",
+        "Most of them have never heard about climate change at all",
+        "About half want to become climate activists",
+        "Very few feel betrayed by adults"
+      ],
+      "answer": 0,
+      "why": "Beth says three-quarters or more of young people in the UK feel the future is frightening."
+    },
+    {
+      "q": "Why does Immie compare climate change to a parasite?",
+      "options": [
+        "Because it only affects animals and plants, not human beings",
+        "Because it is caused by lazy people",
+        "Because it keeps growing while everything else dies",
+        "Because scientists can't see it"
+      ],
+      "answer": 2,
+      "why": "She says it's the only thing growing and getting bigger while everything else dies off."
+    },
+    {
+      "q": "What point does Milly make about the planet?",
+      "options": [
+        "Humans could easily move to another planet one day",
+        "It is very special and we have nowhere else to go",
+        "It will recover on its own in time",
+        "Only rich countries can protect it"
+      ],
+      "answer": 1,
+      "why": "She says if we get rid of the environment, “there's nowhere else we can go”."
+    },
+    {
+      "q": "What has psychotherapist Caroline Hickman done?",
+      "options": [
+        "Started a school strike for the climate in Stockholm",
+        "Talked to over 100,000 teenagers in 10 countries",
+        "Written a law about climate education",
+        "Surveyed parents in the UK only"
+      ],
+      "answer": 1,
+      "why": "Neil says she visited 10 countries, talking to over 100,000 teenagers about their climate fears."
+    },
+    {
+      "q": "What did the teenagers tell Caroline about adults?",
+      "options": [
+        "Adults were too frightened to go outside",
+        "Adults happily talked with them about the climate every day",
+        "Adults ignored them or said fixing the planet was their job",
+        "Adults were leading most climate protests"
+      ],
+      "answer": 2,
+      "why": "They mentioned parents ignoring them and adults saying, “Fixing the planet is your job now!”"
+    },
+    {
+      "q": "What is Caroline's main advice to parents and teachers?",
+      "options": [
+        "Talk about it often, not in one big conversation",
+        "Wait until children are older before discussing it",
+        "Avoid the subject so children don't get upset",
+        "Give children all the answers from experts"
+      ],
+      "answer": 0,
+      "why": "She says don't put it off or save it up for one big conversation – talk about it regularly."
+    },
+    {
+      "q": "What does Caroline suggest by telling adults to say “let's find out together”?",
+      "options": [
+        "Children should solve the problem on their own",
+        "Parents must become climate scientists before they talk about it",
+        "Talking about climate is a waste of time",
+        "Adults don't need to know everything to have an honest talk"
+      ],
+      "answer": 3,
+      "why": "She says it's OK to admit “I don't have all the answers” and work it out together."
+    }
+  ]
+}

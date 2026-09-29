@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to survive alone in a forest with no food or tools",
+        "Why the pandemic made so many people feel lonely",
+        "The life and teachings of the philosopher Confucius",
+        "Why some people choose to live alone, away from society"
+      ],
+      "answer": 3,
+      "why": "Neil says they'll hear some of the reasons why people choose to be a hermit."
+    },
+    {
+      "q": "How does Rob feel about spending time alone?",
+      "options": [
+        "He loves it and wants much more time alone",
+        "He's had to do it, but he'd rather see friends",
+        "He finds it relaxing and peaceful after work",
+        "He has never spent a whole day on his own"
+      ],
+      "answer": 1,
+      "why": "Rob says it wouldn't be his choice: 'I'd much rather be socialising and visiting friends'."
+    },
+    {
+      "q": "How long did Christopher Wright live alone in the forests of Maine?",
+      "options": [
+        "Nearly 30 years",
+        "Forty days and nights",
+        "About three years",
+        "Just one winter"
+      ],
+      "answer": 0,
+      "why": "Neil says he lived in complete isolation for nearly 30 years."
+    },
+    {
+      "q": "According to Meng Hu, what did Confucius advise people to do when the Emperor was evil?",
+      "options": [
+        "Fight against him",
+        "Leave China for another country",
+        "Withdraw from public life and live apart",
+        "Serve him anyway"
+      ],
+      "answer": 2,
+      "why": "The dictum was 'When the Emperor is good, serve. When the Emperor is evil, recluse'."
+    },
+    {
+      "q": "Where did the Chinese educated men who dropped out go, according to Meng Hu?",
+      "options": [
+        "To the Emperor's palace",
+        "To big cities",
+        "To temples in the mountains",
+        "To small villages and farms"
+      ],
+      "answer": 3,
+      "why": "He says they would migrate to small villages, to farms."
+    },
+    {
+      "q": "What did hippies in the 1960s have in common with hermits, according to Neil?",
+      "options": [
+        "They lived together in forests and caves",
+        "They wanted to challenge society's rules",
+        "They wanted to be alone, away from family",
+        "They were very religious and prayed often"
+      ],
+      "answer": 1,
+      "why": "Neil says both shared the desire to challenge society's rules and conventions."
+    },
+    {
+      "q": "Why did Sara Maitland spend forty days alone on the Isle of Skye?",
+      "options": [
+        "To write a book about Scotland",
+        "To escape from her family",
+        "To look for God in silence",
+        "To study wild animals"
+      ],
+      "answer": 2,
+      "why": "She spent forty days alone seeking God in the silence of the remote island."
+    },
+    {
+      "q": "What advice does Sara Maitland give parents?",
+      "options": [
+        "Offer time alone as a reward, not a punishment",
+        "Send children to their room when they are bad",
+        "Never leave children alone",
+        "Teach children to talk more"
+      ],
+      "answer": 0,
+      "why": "She says never use 'go to your room' as a punishment – use it as a reward, a treat."
+    }
+  ]
+}

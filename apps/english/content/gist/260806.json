@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why summers in the UK are getting shorter each year",
+        "How the daily weather forecasts are made on TV",
+        "How clouds cause dangerous heatwaves in Europe",
+        "How scientists use models to see how hot Earth may get"
+      ],
+      "answer": 3,
+      "why": "They discuss how hot the planet could get and how scientists use climate models to find out."
+    },
+    {
+      "q": "What record does Phil mention at the start?",
+      "options": [
+        "The coldest winter in Europe",
+        "The highest June temperature in the UK",
+        "The longest heatwave ever recorded",
+        "The most rain in a single summer"
+      ],
+      "answer": 1,
+      "why": "Phil says a new UK record for the highest June temperature was set at 37.7°C."
+    },
+    {
+      "q": "What did the COP21 summit in 2015 agree to do?",
+      "options": [
+        "Limit global warming to 1.5°C",
+        "Stop all greenhouse gas emissions by 2020",
+        "Build new supercomputers for climate research",
+        "Measure clouds around the world"
+      ],
+      "answer": 0,
+      "why": "Phil says COP21 agreed to limit global warming to 1.5°C."
+    },
+    {
+      "q": "How do climate models work, according to Pippa?",
+      "options": [
+        "Scientists guess what the weather will be next year",
+        "Satellites take photos of what the future looks like",
+        "Data goes into supercomputers to show possible futures",
+        "Experts compare today's weather with old records"
+      ],
+      "answer": 2,
+      "why": "She says physical and chemical data are fed into supercomputers, which paint pictures of possible futures."
+    },
+    {
+      "q": "What does Kate Marvel say climate models produce?",
+      "options": [
+        "Projections that depend on what humans do",
+        "Exact predictions of what will happen",
+        "Daily weather forecasts",
+        "Reports about past climates only"
+      ],
+      "answer": 0,
+      "why": "She says models make projections, which are conditional: 'If we do this, then this will happen.'"
+    },
+    {
+      "q": "What does Kate say about the effect of clouds?",
+      "options": [
+        "They only cool the planet",
+        "They have no real effect on the climate",
+        "They only appear in cold countries",
+        "They both cool the planet and warm it"
+      ],
+      "answer": 3,
+      "why": "She says clouds cool the planet by blocking sunlight and warm it with their own greenhouse effect."
+    },
+    {
+      "q": "What worries Phil about climate models?",
+      "options": [
+        "They are too cheap to make and so not accurate",
+        "They seem complicated, as clouds keep changing",
+        "They are only used by scientists in the USA",
+        "They always seem to give people bad news"
+      ],
+      "answer": 1,
+      "why": "Phil says models sound complicated and asks how you can monitor clouds that are always changing."
+    },
+    {
+      "q": "What does Kate's final, more hopeful message suggest?",
+      "options": [
+        "Global warming will slowly stop by itself",
+        "Scientists will no longer need climate models",
+        "Humans caused global warming, so they can fix it",
+        "Clouds will protect the planet from the heat"
+      ],
+      "answer": 2,
+      "why": "Models show the problem is created by humans, so the solution is 'also in our hands'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How people adapt to the food of a new country",
+        "The history of the British cream tea",
+        "How to open a restaurant in Europe",
+        "Why Caribbean food is so spicy"
+      ],
+      "answer": 0,
+      "why": "They explore first impressions of a new culture through its food, hearing from two women."
+    },
+    {
+      "q": "Why does Beth mention 'toad-in-the-hole'?",
+      "options": [
+        "Because it is her favourite meal",
+        "Because it is made with frogs",
+        "To show that food names in a new country can be surprising",
+        "To explain what people usually eat as part of a traditional cream tea"
+      ],
+      "answer": 2,
+      "why": "She says food can have strange-sounding names, but this dish is made with sausages, not toads."
+    },
+    {
+      "q": "What do we learn about Natalia Tkachenko?",
+      "options": [
+        "She is a Polish chef who moved to Ukraine and then opened a restaurant",
+        "She left Ukraine for the Netherlands and later opened a restaurant",
+        "She works as a dietitian in Tobago",
+        "She owns a restaurant in Ukraine"
+      ],
+      "answer": 1,
+      "why": "She arrived in the Netherlands from Ukraine, and with Weronika's family opened Natalia's Kitchen."
+    },
+    {
+      "q": "How did Natalia feel when she first arrived?",
+      "options": [
+        "Excited to try new food",
+        "Relaxed, because the food was similar",
+        "Bored by Dutch cooking",
+        "Well outside her comfort zone"
+      ],
+      "answer": 3,
+      "why": "She says 'at first it felt like I am well out of… my comfort zone'."
+    },
+    {
+      "q": "How did Natalia adapt her cooking?",
+      "options": [
+        "She imported ingredients from Ukraine",
+        "She used local ingredients to replace the ones she couldn't find",
+        "She stopped cooking Ukrainian food",
+        "She learned to cook traditional Dutch recipes and stopped using her own"
+      ],
+      "answer": 1,
+      "why": "She says some staples weren't available, so she found replacements and cooked with what she had."
+    },
+    {
+      "q": "What shocked Rachel Winter-Roach when she moved to Tobago?",
+      "options": [
+        "The high price of food in the local shops",
+        "How little people eat",
+        "The hot weather",
+        "How food is flavoured and seasoned"
+      ],
+      "answer": 3,
+      "why": "She says she was 'in for a shock when it came to flavouring and seasoning food'."
+    },
+    {
+      "q": "Why was Caribbean seasoning hard for Rachel to learn?",
+      "options": [
+        "The spices were far too expensive for her to buy in the local shops",
+        "Nobody would teach her",
+        "Many layers, everyone's own tweaks, and no exact quantities",
+        "She didn't like spicy food"
+      ],
+      "answer": 2,
+      "why": "She says it's 'multiple layers', everyone has their own tweaks, 'and there are no quantities'."
+    },
+    {
+      "q": "What does Rachel suggest about her family while she was learning?",
+      "options": [
+        "They didn't always enjoy her failed attempts",
+        "They loved everything she cooked from the very first day",
+        "They cooked for her instead",
+        "They refused to eat Caribbean food"
+      ],
+      "answer": 0,
+      "why": "She says her family 'did not always appreciate the errors in the trials'."
+    }
+  ]
+}

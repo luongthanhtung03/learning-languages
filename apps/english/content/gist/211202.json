@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How libraries in Denmark choose which books to buy",
+        "Why people are reading fewer books today",
+        "How to write a book about your own life",
+        "A library where the 'books' are people"
+      ],
+      "answer": 3,
+      "why": "Neil says it's an unusual library where the books are people who have faced prejudice."
+    },
+    {
+      "q": "What can readers do at the Human Library?",
+      "options": [
+        "Take a person home for a whole day",
+        "Have a thirty-minute talk with a 'book'",
+        "Read stories written by famous authors",
+        "Listen to recordings of people's lives"
+      ],
+      "answer": 1,
+      "why": "Sam says readers may borrow these 'books' for a thirty minute conversation."
+    },
+    {
+      "q": "Why does the Human Library need to be a safe space?",
+      "options": [
+        "Because the books there are very valuable",
+        "Because many visitors are young children",
+        "Readers are asked to raise awkward topics",
+        "Because meetings take place late at night"
+      ],
+      "answer": 2,
+      "why": "Readers are encouraged to ask awkward or embarrassing questions, so it needs to be a safe space."
+    },
+    {
+      "q": "According to Ronni Abergel, why do we judge people quickly?",
+      "options": [
+        "We don't have time to get to know everyone",
+        "We learn to do it from books and films",
+        "Our parents teach us to be careful of strangers",
+        "We are usually too shy to talk to new people"
+      ],
+      "answer": 0,
+      "why": "He says we don't have time on the street to get to know everyone, so 'we drop people in little boxes'."
+    },
+    {
+      "q": "What does Ronni recommend visitors do?",
+      "options": [
+        "Only meet people who are similar to them",
+        "Avoid asking any personal questions",
+        "Bring a friend to every conversation",
+        "Meet people they might feel unsure about"
+      ],
+      "answer": 3,
+      "why": "He recommends meeting people you might not feel interested in because something makes you uncomfortable."
+    },
+    {
+      "q": "Where does most of the money for the Human Library come from?",
+      "options": [
+        "Donations from the Danish government",
+        "Selling tickets to members of the public",
+        "Holding events for private companies",
+        "Selling books written by its volunteers"
+      ],
+      "answer": 2,
+      "why": "Neil says money mostly comes from hosting events for private companies, including Google."
+    },
+    {
+      "q": "According to Katy Jon Went, how do people often act around difference at work?",
+      "options": [
+        "They are very careful, afraid of getting it wrong",
+        "They ask lots of rude and personal questions",
+        "They don't notice any differences at all",
+        "They refuse to talk to people who are different"
+      ],
+      "answer": 0,
+      "why": "She says we're 'walking on eggshells around diversity and difference' because people don't want to get it wrong."
+    },
+    {
+      "q": "What 'incredibly rare offer' does Katy describe?",
+      "options": [
+        "Getting free books from the library to keep",
+        "Asking anything without being judged",
+        "Meeting famous people from Google",
+        "Visiting Human Libraries in 85 countries"
+      ],
+      "answer": 1,
+      "why": "She says you can ask them anything and they're never going to make you feel wrong for the question."
+    }
+  ]
+}

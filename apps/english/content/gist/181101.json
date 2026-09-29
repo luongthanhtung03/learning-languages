@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to get a perfect body at the gym",
+        "The history of British television",
+        "Why TV dating shows like Love Island are so popular",
+        "Treating people, including men, as objects"
+      ],
+      "answer": 3,
+      "why": "They discuss objectification and ask 'what about the objectification of men?'"
+    },
+    {
+      "q": "According to Sam, what problems can objectification lead to?",
+      "options": [
+        "Inequality and discrimination",
+        "Poor health and tiredness",
+        "Lower TV ratings",
+        "More crime"
+      ],
+      "answer": 0,
+      "why": "Sam says objectification can lead to issues such as inequality and discrimination."
+    },
+    {
+      "q": "What is special about the contestants on Love Island?",
+      "options": [
+        "They are all famous actors",
+        "They are mostly older people looking for a new partner",
+        "They often wear swimsuits and have perfect bodies",
+        "They are only women"
+      ],
+      "answer": 2,
+      "why": "Sam says the men and women spend a lot of time in swimming costumes and have perfect bodies."
+    },
+    {
+      "q": "According to Dr Peter Lucas, what possible benefit might these perfect male bodies have?",
+      "options": [
+        "More women might watch TV",
+        "More men might go to the gym",
+        "Men might become more confident",
+        "People might spend less money on clothes and more on holidays"
+      ],
+      "answer": 1,
+      "why": "He says many women might think 'if it means that more men get off to the gym... that's a good thing'."
+    },
+    {
+      "q": "What is Sam's opinion of the people on Love Island as role models?",
+      "options": [
+        "Their behaviour may not be, but their fitness might be",
+        "They are perfect role models for young people in every way",
+        "They are bad for everyone's health",
+        "They are good examples for children"
+      ],
+      "answer": 0,
+      "why": "Sam isn't sure their behaviour makes them good role models, but their fitness gives us something to aspire to."
+    },
+    {
+      "q": "What danger does Dr Lucas mention?",
+      "options": [
+        "People might hurt themselves by training too hard at the gym",
+        "Gyms will become too crowded",
+        "People might become obsessed with their looks",
+        "Men might stop watching TV"
+      ],
+      "answer": 2,
+      "why": "He says it may generate narcissism, self-consciousness and 'becoming obsessive about your appearance'."
+    },
+    {
+      "q": "Why does Dr Lucas compare men today with women?",
+      "options": [
+        "Women have always been fitter than men",
+        "Women do not care about appearance",
+        "Men now watch more TV than women",
+        "The same harm has affected women for decades"
+      ],
+      "answer": 3,
+      "why": "He says it's detrimental to men 'in the same sort of way' it has been for women for decades."
+    },
+    {
+      "q": "Why might trying to get a perfect body make people self-conscious?",
+      "options": [
+        "Because other people laugh at them in the gym",
+        "It is very hard to achieve, so they lose confidence",
+        "Because they spend far too much money on gym memberships",
+        "Because they have no time for friends"
+      ],
+      "answer": 1,
+      "why": "Neil says it's very hard to get that kind of body, so people can become embarrassed and lose confidence."
+    }
+  ]
+}

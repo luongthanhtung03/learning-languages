@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to draw a family tree",
+        "How accurate DNA tests for tracing your ancestry are",
+        "Why people emigrated to the United States",
+        "How DNA is passed from parents to children"
+      ],
+      "answer": 1,
+      "why": "They discuss how accurate DNA ancestry tracing is."
+    },
+    {
+      "q": "What did Beth's mum find out about their family?",
+      "options": [
+        "Many of their ancestors had emigrated to the US",
+        "Their family came from Ireland",
+        "They had a famous ancestor with the same name from 1700",
+        "They had relatives all over Europe"
+      ],
+      "answer": 0,
+      "why": "Beth says her mum found a lot of their ancestors had emigrated to the United States."
+    },
+    {
+      "q": "Why is it easy for Neil's family to trace their ancestors?",
+      "options": [
+        "They have kept old family letters",
+        "They took a DNA test",
+        "Neil has an unusual surname",
+        "They have always lived in the same town"
+      ],
+      "answer": 2,
+      "why": "Neil says he's lucky to have an unusual surname, so it's quite easy to trace his ancestors."
+    },
+    {
+      "q": "Why did listener Chris call the programme?",
+      "options": [
+        "His results showed that he had some famous relatives in the United States",
+        "His test kit never arrived",
+        "He wanted to sell his DNA results",
+        "His results mostly matched, but a few small errors made him doubt them"
+      ],
+      "answer": 3,
+      "why": "He says results were broadly in line with expectations but had 'some little glitches'."
+    },
+    {
+      "q": "According to genealogist Louise Baldock, what is the difference between 'ancestry' and 'ethnicity'?",
+      "options": [
+        "They mean exactly the same thing",
+        "Ancestry is about places, and ethnicity is about people",
+        "Ancestry is about your recent family, and ethnicity is about older family",
+        "Ancestry is about real people; ethnicity is about where they came from"
+      ],
+      "answer": 3,
+      "why": "She says ancestry is about your actual forebears, while ethnicity is thought of in geographical terms."
+    },
+    {
+      "q": "What did presenter Greg Foot's first DNA test show?",
+      "options": [
+        "That his family was mostly Irish",
+        "That he had no European ancestors at all, which was a big surprise to him",
+        "That his family had come from England for five generations, as he knew",
+        "That the test had failed"
+      ],
+      "answer": 2,
+      "why": "The first company's results matched what he knew: the past five generations came from England."
+    },
+    {
+      "q": "What was surprising about Greg's second DNA test?",
+      "options": [
+        "It showed no evidence of English ancestry at all",
+        "It said he was 99.9% English",
+        "It said he came from Asia",
+        "It gave exactly the same results as the first company's test"
+      ],
+      "answer": 0,
+      "why": "It showed north and west Europe and Irish, Scottish and Welsh – 'explicitly not English'."
+    },
+    {
+      "q": "According to Neil, why were Greg's two results so different?",
+      "options": [
+        "Greg sent the wrong samples",
+        "The companies compare DNA with different databases",
+        "His DNA had changed in the time between the two different tests",
+        "One company made up the results"
+      ],
+      "answer": 1,
+      "why": "Neil says companies use different databases, so it's not surprising the results were different."
+    }
+  ]
+}

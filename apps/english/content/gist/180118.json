@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Which countries in Europe drink the most alcohol",
+        "Giving up alcohol and the benefits of not drinking",
+        "How to make good New Year's resolutions and keep them",
+        "Why people drink more at Christmas than at other times"
+      ],
+      "answer": 1,
+      "why": "Rob and Catherine discuss quitting drinking and staying 'dry', starting with Catherine's dry January."
+    },
+    {
+      "q": "Why is Catherine having a dry January?",
+      "options": [
+        "Her doctor told her to stop drinking",
+        "She wants to write a book about it",
+        "She lost a bet with Rob",
+        "To improve her health and save some money"
+      ],
+      "answer": 3,
+      "why": "Catherine says she's doing it to improve her health and save some money."
+    },
+    {
+      "q": "What benefit has Catherine already noticed?",
+      "options": [
+        "She has lost some weight she put on at Christmas",
+        "She has more energy for sport and goes to the gym",
+        "Her skin looks much better than it did in December",
+        "She has saved enough money for a holiday abroad"
+      ],
+      "answer": 0,
+      "why": "She says she has shed some weight, most of which she put on over Christmas."
+    },
+    {
+      "q": "What did Dr Richard de Visser's study find?",
+      "options": [
+        "Most people started drinking again after a week",
+        "People spent 62% less money in a month",
+        "62% of people slept better after a month without alcohol",
+        "857 people decided to stop drinking for good"
+      ],
+      "answer": 2,
+      "why": "After a month without alcohol, 62% of the people in the study said they slept better."
+    },
+    {
+      "q": "Why does Rob say he won't stop drinking?",
+      "options": [
+        "He says a drink helps him relax and be more social",
+        "He thinks one month is too short to make a difference",
+        "He says he doesn't drink very much anyway",
+        "He thinks sleep is not a problem for him"
+      ],
+      "answer": 0,
+      "why": "Rob says he needs a drink to help him relax and be more sociable, because he's shy."
+    },
+    {
+      "q": "What does Catherine suggest when she replies 'Yes of course Rob!'?",
+      "options": [
+        "She agrees that drinking helps shy people",
+        "She doesn't really believe that Rob is shy",
+        "She is worried about Rob's health",
+        "She thinks Rob should join her dry January"
+      ],
+      "answer": 1,
+      "why": "Her reply to 'you know how shy I am' is teasing, suggesting she doesn't think Rob is shy."
+    },
+    {
+      "q": "According to Catherine Gray, why did she drink so much before?",
+      "options": [
+        "Her job required her to drink at every meeting",
+        "She was bored at work",
+        "She enjoyed the taste of expensive wine",
+        "It helped her deal with feeling nervous at parties"
+      ],
+      "answer": 3,
+      "why": "She had social anxiety and used drinking as a 'confidence crutch' for big parties."
+    },
+    {
+      "q": "How long does Catherine Gray recommend giving up alcohol for?",
+      "options": [
+        "30 days",
+        "66 days",
+        "90 days",
+        "A whole year"
+      ],
+      "answer": 2,
+      "why": "She says a new habit takes 66 days to bed in, so she recommends trying it for 90 days."
+    }
+  ]
+}

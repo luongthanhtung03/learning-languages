@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to be happy by living in Denmark",
+        "How culture shapes the way we show sadness",
+        "Why so many young children feel sad",
+        "The history of the British Empire"
+      ],
+      "answer": 1,
+      "why": "Neil says they'll investigate how the way people express sadness is influenced by their culture."
+    },
+    {
+      "q": "What decision did Helen Russell make as a small child?",
+      "options": [
+        "To become a writer",
+        "To move abroad",
+        "To be happy",
+        "To study emotions"
+      ],
+      "answer": 2,
+      "why": "After her baby sister died, she remembers deciding she wanted to be happy."
+    },
+    {
+      "q": "What did Helen start to wonder while living abroad?",
+      "options": [
+        "If her sadness was linked to her English childhood",
+        "Whether Danish people are really as happy as they seem",
+        "Whether she should write another book about Denmark",
+        "Whether she should move back home to England"
+      ],
+      "answer": 0,
+      "why": "She wondered if her feelings were connected to being born in England, where showing emotions was discouraged."
+    },
+    {
+      "q": "Which example of cultural difference is given?",
+      "options": [
+        "In Spain, crying is seen as weak",
+        "In Japan, people sing and dance to show emotion",
+        "In England, people often cry in public",
+        "In Japan, crying is seen as weak and shameful"
+      ],
+      "answer": 3,
+      "why": "Sam says in Japan crying is considered weak and shameful, while flamenco in Spain shows emotion."
+    },
+    {
+      "q": "According to Professor Thomas Dixon, what did the word 'sad' first mean?",
+      "options": [
+        "Lonely",
+        "Full",
+        "Tired",
+        "Empty"
+      ],
+      "answer": 1,
+      "why": "He says the word 'sad' literally means sated or full."
+    },
+    {
+      "q": "How is grief sometimes expressed in India?",
+      "options": [
+        "Through poems and songs",
+        "By keeping completely silent",
+        "By people paid to cry for the family",
+        "By dancing in the street"
+      ],
+      "answer": 2,
+      "why": "Neil says grief can be expressed by professional mourners paid to cry by the family."
+    },
+    {
+      "q": "What does Professor Dixon say about the English reputation for hiding emotions?",
+      "options": [
+        "It began mainly in Victorian and later times",
+        "It has always existed, since the Middle Ages",
+        "It started just after the Second World War",
+        "It is not true at all, and never has been"
+      ],
+      "answer": 0,
+      "why": "He says it's by and large a Victorian, Edwardian and 20th-century characterisation."
+    },
+    {
+      "q": "What do the presenters say really helps with sadness?",
+      "options": [
+        "Drinking a little alcohol to relax",
+        "Keeping a stiff upper lip in public",
+        "Moving to a happier city or country",
+        "Talking to someone about your feelings"
+      ],
+      "answer": 3,
+      "why": "Neil says it's talking to someone about your feelings that can really help."
+    }
+  ]
+}

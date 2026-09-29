@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How families can save money when shopping for food",
+        "Why prices are rising and how to control it",
+        "How banks decide which people can borrow money",
+        "Why Venezuela decided to change its currency"
+      ],
+      "answer": 1,
+      "why": "Rob and Beth discuss inflation, what is causing price rises and how economists say it can be controlled."
+    },
+    {
+      "q": "What have Rob and Beth both noticed recently?",
+      "options": [
+        "They are both earning much more money than before",
+        "Shops are selling fewer products than they used to",
+        "Banks are lending money to people more easily",
+        "Their money doesn't buy as much as before"
+      ],
+      "answer": 3,
+      "why": "Beth says our money doesn't seem to buy so much these days, and Rob agrees."
+    },
+    {
+      "q": "Which two things are increasing in price the most?",
+      "options": [
+        "Energy and food",
+        "Houses and cars",
+        "Clothes and holidays",
+        "Food and medicine"
+      ],
+      "answer": 0,
+      "why": "Beth says energy, like gas and electricity, and food are the two things rising in particular."
+    },
+    {
+      "q": "What two main causes of the price rises are mentioned?",
+      "options": [
+        "Higher wages for workers and lower taxes",
+        "Very bad weather and a lot of poor harvests",
+        "The Covid pandemic and the war in Ukraine",
+        "Rising interest rates and a long recession"
+      ],
+      "answer": 2,
+      "why": "Rob says the two main reasons are the Covid pandemic and the war in Ukraine, which reduced supply."
+    },
+    {
+      "q": "Why does Linda Yueh think the situation is 'extremely worrying'?",
+      "options": [
+        "Food and energy prices will never come down again",
+        "Companies are closing down all over the world",
+        "People have stopped buying goods and services",
+        "Firms are raising prices, so inflation may stay"
+      ],
+      "answer": 3,
+      "why": "She says price rises are being passed into how companies price goods, so inflation could stay 'in the system'."
+    },
+    {
+      "q": "According to Linda Yueh, where is inflation most worrying?",
+      "options": [
+        "In advanced economies",
+        "In developing countries",
+        "In countries with lots of oil and gas",
+        "In countries that grow their own food"
+      ],
+      "answer": 1,
+      "why": "She says it is worrying for advanced economies but 'hugely worrying' for developing countries."
+    },
+    {
+      "q": "What does Vicky Pryce say is the most effective way to control inflation?",
+      "options": [
+        "Slowing demand by raising interest rates",
+        "Making banks lend more money to businesses",
+        "Cutting the prices of food and energy by law",
+        "Printing more money so people can spend more"
+      ],
+      "answer": 0,
+      "why": "She says slowing down demand is most effective, and higher interest rates discourage borrowing."
+    },
+    {
+      "q": "How does Beth feel after hearing about interest rates?",
+      "options": [
+        "She thinks the idea will not work in practice",
+        "She is still very confused about inflation",
+        "She finally understands how it works",
+        "She is angry about paying more money to banks"
+      ],
+      "answer": 2,
+      "why": "Beth explains that borrowing less means buying fewer things and says, 'I think it makes sense now!'"
+    }
+  ]
+}

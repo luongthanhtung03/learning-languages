@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why British people work long hours",
+        "How Finland made its inactive population healthier",
+        "The best types of exercise for office workers",
+        "Why video games are bad for children"
+      ],
+      "answer": 1,
+      "why": "Catherine says the topic is how one country has been very successful in dealing with a sedentary population."
+    },
+    {
+      "q": "How does Dan describe his own lifestyle?",
+      "options": [
+        "He sits down almost all day and never exercises",
+        "He has an active job but is lazy at home",
+        "He doesn't need to exercise because he walks to work",
+        "His job involves a lot of sitting, but he exercises"
+      ],
+      "answer": 3,
+      "why": "Dan says his job is pretty sedentary, but he goes to the gym and plays football, so his life isn't."
+    },
+    {
+      "q": "What was Finland like 40 years ago?",
+      "options": [
+        "Perhaps the unhealthiest country in the West",
+        "One of the healthiest and most active countries in Europe",
+        "A country with no heart disease",
+        "A country where people exercised every day"
+      ],
+      "answer": 0,
+      "why": "Catherine says 40 years ago Finland was perhaps the unhealthiest country in the Western world."
+    },
+    {
+      "q": "By how much have deaths from heart disease fallen in Finland?",
+      "options": [
+        "By 10%",
+        "By half",
+        "By 80%",
+        "By 90%"
+      ],
+      "answer": 2,
+      "why": "Dan says death by heart disease in Finland has fallen by 80%."
+    },
+    {
+      "q": "What has happened to life expectancy in Finland?",
+      "options": [
+        "It has stayed the same",
+        "It has risen by 10 years",
+        "It has risen by 80 years",
+        "It has fallen slightly"
+      ],
+      "answer": 1,
+      "why": "Dan says life expectancy has risen by 10 years."
+    },
+    {
+      "q": "How should we understand John Laurenson's description of unhealthy people?",
+      "options": [
+        "As an official government report",
+        "As a serious criticism of Finnish people",
+        "As advice from a doctor",
+        "As a joke that is not meant seriously"
+      ],
+      "answer": 3,
+      "why": "Dan says the report is 'quite tongue-in-cheek', meant to be funny and not taken seriously."
+    },
+    {
+      "q": "According to Laurenson, what will the 'stern lady with a clipboard' do?",
+      "options": [
+        "Force you to go to the gym",
+        "Give you a fine",
+        "Make firm suggestions, but not drag you out",
+        "Take away your computer and games console for a while"
+      ],
+      "answer": 2,
+      "why": "He says they'll make firm suggestions but won't actually drag you off your PlayStation or out of the pub."
+    },
+    {
+      "q": "What else does the report say Finland does to improve health?",
+      "options": [
+        "It encourages healthy habits from school age",
+        "It bans fast food",
+        "It closes pubs early",
+        "It pays people money to exercise regularly"
+      ],
+      "answer": 0,
+      "why": "Dan says there is a lot of encouragement, even from school age, to eat well and exercise."
+    }
+  ]
+}

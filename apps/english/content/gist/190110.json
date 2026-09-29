@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to learn German words quickly",
+        "Why we enjoy others' bad luck, and why it may not be bad",
+        "Why celebrities often avoid paying taxes",
+        "How to behave politely when someone pushes into a supermarket queue"
+      ],
+      "answer": 1,
+      "why": "They discuss schadenfreude and why that feeling 'could actually be good for us'."
+    },
+    {
+      "q": "What example does Neil give to explain schadenfreude?",
+      "options": [
+        "A friend who fails an exam",
+        "A footballer who misses a penalty in an important match",
+        "Someone who pushes in, then their card doesn't work",
+        "A neighbour whose car breaks down"
+      ],
+      "answer": 2,
+      "why": "Neil describes someone pushing in at the supermarket whose credit card then doesn't work."
+    },
+    {
+      "q": "What is Rob's first reaction to this feeling?",
+      "options": [
+        "It is satisfying but also rather unkind",
+        "It is something he has never felt in his whole life",
+        "It is only felt by German people",
+        "It is completely harmless"
+      ],
+      "answer": 0,
+      "why": "Rob says it is 'a very satisfying feeling – but it's quite a mean feeling too'."
+    },
+    {
+      "q": "According to studies, when is this feeling especially common?",
+      "options": [
+        "When the person is a close friend",
+        "When we are feeling tired",
+        "When we are in a bad mood",
+        "When it happens to someone we envy"
+      ],
+      "answer": 3,
+      "why": "Rob says the feeling is normal, 'particularly when it happens to someone we envy'."
+    },
+    {
+      "q": "What did psychologist Wilco Van Dijk find?",
+      "options": [
+        "People only feel this joy when they are unhappy themselves",
+        "People feel it most when they think the bad luck is deserved",
+        "Children feel this emotion more than adults",
+        "The feeling is always harmful to our health"
+      ],
+      "answer": 1,
+      "why": "He says people especially feel schadenfreude when they think the misfortune is deserved."
+    },
+    {
+      "q": "Why does Van Dijk mention hypocrites?",
+      "options": [
+        "Because their bad luck feels fair to us",
+        "Because they feel schadenfreude more than others",
+        "Because they are often on reality TV",
+        "Because they never have bad luck"
+      ],
+      "answer": 0,
+      "why": "He says if hypocrites fall down, 'that also is a deserved situation'."
+    },
+    {
+      "q": "What is Dr Tiffany Watt-Smith's view?",
+      "options": [
+        "Schadenfreude is simply right or wrong",
+        "Moral philosophers understand our emotions better than anyone",
+        "We can feel sorry for someone and pleased at once",
+        "We should never smile at another person's problems"
+      ],
+      "answer": 2,
+      "why": "She says we can commiserate with someone while a sly smile spreads across our lips."
+    },
+    {
+      "q": "What does Neil joke about near the end?",
+      "options": [
+        "Losing his credit card",
+        "Rob's poor German",
+        "Being a hypocrite himself, like the people in the studies",
+        "Enjoying Germany's World Cup exit"
+      ],
+      "answer": 3,
+      "why": "He says he loved seeing Germany knocked out of the World Cup, then adds 'not really!'"
+    }
+  ]
+}

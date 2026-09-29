@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How perfume is made in factories and sold in department stores",
+        "How smells link to memories and what scent says about us",
+        "Why deodorant is important",
+        "The best places to buy perfume"
+      ],
+      "answer": 1,
+      "why": "Perfumer Roja Dove talks about smells triggering memories and the message scent gives off."
+    },
+    {
+      "q": "What does Roja Dove do for a living?",
+      "options": [
+        "He sells expensive perfume in a big department store",
+        "He writes about fashion",
+        "He creates very exclusive, expensive perfumes",
+        "He studies the brain"
+      ],
+      "answer": 2,
+      "why": "Neil says he designs and creates very exclusive and very expensive perfumes."
+    },
+    {
+      "q": "According to Roja Dove, what is our sense of smell like when we are born?",
+      "options": [
+        "The smell part of the brain is empty, so we learn responses",
+        "It is stronger than any other sense",
+        "It is the same as an adult's",
+        "It doesn't work at all during the first year of our lives"
+      ],
+      "answer": 0,
+      "why": "He says the part of our brain that deals with smell is empty, 'so we learn our response to smell'."
+    },
+    {
+      "q": "What happens when we smell an odour again, according to Dove?",
+      "options": [
+        "We stop noticing it",
+        "We feel sick",
+        "We want to buy it",
+        "It brings back the original memory"
+      ],
+      "answer": 3,
+      "why": "He says it's like a trigger that will 'revive the original associational memory'."
+    },
+    {
+      "q": "Why does Dan feel nostalgic in the perfume area of a department store?",
+      "options": [
+        "He used to work there",
+        "He smells a perfume someone close to him used to wear",
+        "He bought his very first bottle of perfume there as a teenager",
+        "It reminds him of his holidays"
+      ],
+      "answer": 1,
+      "why": "Dan says he can smell the perfume that someone from his past used to wear."
+    },
+    {
+      "q": "What kind of scent does Dove suggest to seem strong in business?",
+      "options": [
+        "Sweet, fruity scents",
+        "Light, fresh scents",
+        "Woody, mossy scents",
+        "No scent at all"
+      ],
+      "answer": 2,
+      "why": "He suggests 'very, very woody, mossy, structured scents called Chypres'."
+    },
+    {
+      "q": "What does Dove think about the message our scent gives off?",
+      "options": [
+        "It matters a lot and shouldn't be underestimated",
+        "Most people don't notice it",
+        "It only matters in business",
+        "It is less important than the clothes that we choose to wear"
+      ],
+      "answer": 0,
+      "why": "He says the message you give off with scent 'can't be underestimated'."
+    },
+    {
+      "q": "What is Dan joking about at the end?",
+      "options": [
+        "Neil's powerful aftershave",
+        "Neil's expensive perfume",
+        "Neil's new suit",
+        "The smell of Neil's egg sandwich"
+      ],
+      "answer": 3,
+      "why": "Dan says 'I was thinking more of the egg sandwich you had for lunch.'"
+    }
+  ]
+}

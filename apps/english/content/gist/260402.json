@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Whether going to a sauna is good for your health",
+        "How to build a sauna at home",
+        "Why Finland has such cold winters",
+        "The dangers of swimming in the sea in winter"
+      ],
+      "answer": 0,
+      "why": "They look at why people love saunas and whether there is medical evidence they're good for us."
+    },
+    {
+      "q": "How do Georgie and Neil feel about saunas?",
+      "options": [
+        "They both love them",
+        "They have never tried one",
+        "Georgie isn't a fan because it's too hot, but Neil likes them",
+        "Neil finds them uncomfortable, but Georgie loves them"
+      ],
+      "answer": 2,
+      "why": "Georgie doesn't like being too hot, while Neil says he quite likes a sauna and feels refreshed."
+    },
+    {
+      "q": "How does Georgie describe a typical sauna?",
+      "options": [
+        "A large pool of hot water, usually outside",
+        "A small wooden room heated with steam to 80°C",
+        "A room kept at normal body temperature",
+        "An outdoor fire on the beach with benches"
+      ],
+      "answer": 1,
+      "why": "She says a typical sauna is a small wooden room heated with steam to around 80°C."
+    },
+    {
+      "q": "What do the people at the beach sauna in Wales say they enjoy about it?",
+      "options": [
+        "Meeting new friends from the local area",
+        "Losing weight quickly before the summer",
+        "Getting warm before swimming in the cold sea",
+        "Relaxing, easing tense muscles and stress"
+      ],
+      "answer": 3,
+      "why": "They say it's relaxing, great for tense muscles, and leaves them feeling completely reset."
+    },
+    {
+      "q": "According to Professor Damian Bailey, what share of people in Finland use saunas?",
+      "options": [
+        "About 40%",
+        "About half",
+        "About 90%",
+        "Almost nobody"
+      ],
+      "answer": 2,
+      "why": "He says of five million people in Finland, 90% use saunas."
+    },
+    {
+      "q": "What health benefit does Damian mention among sauna-goers in Finland?",
+      "options": [
+        "A 40% lower risk of dying from any cause",
+        "They sleep about 40% longer each night",
+        "They have 90% fewer colds every winter",
+        "They lose around 20kg of weight a year"
+      ],
+      "answer": 0,
+      "why": "He says there's a 40% reduction in all-cause mortality with the sauna-goers."
+    },
+    {
+      "q": "Why does Damian say more research is still needed?",
+      "options": [
+        "Because the Finnish studies were very small",
+        "Because saunas have become more dangerous",
+        "Because doctors don't agree on the results",
+        "The data comes from watching, not from trials"
+      ],
+      "answer": 3,
+      "why": "He says it's observational data, so 'we really do need' randomised controlled trials."
+    },
+    {
+      "q": "What does Damian suggest about the current evidence?",
+      "options": [
+        "It should be ignored until proper trials are done",
+        "It isn't perfect, but it covers so many people",
+        "It clearly proves that saunas are dangerous",
+        "It only applies to people living in Finland"
+      ],
+      "answer": 1,
+      "why": "He says it's based on thousands of sauna-goers, so 'we can't turn our noses up' at it."
+    }
+  ]
+}

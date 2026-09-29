@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why some everyday sounds make people very upset",
+        "How to stop biting your nails",
+        "Why babies cry so loudly",
+        "How loud noise can slowly damage our hearing over time"
+      ],
+      "answer": 0,
+      "why": "They find out about misophonia, where everyday sounds make people angry or upset."
+    },
+    {
+      "q": "What is the awful noise Neil hears at the start?",
+      "options": [
+        "A crisp bag rustling",
+        "A knife on a plate",
+        "Bicycle brakes squeaking",
+        "Phil biting his nails"
+      ],
+      "answer": 3,
+      "why": "Phil apologises: “I was, er… biting my nails.”"
+    },
+    {
+      "q": "According to some estimates, how many people are emotionally affected by sounds others make?",
+      "options": [
+        "Almost everyone",
+        "One in fifty",
+        "One in five",
+        "One in two"
+      ],
+      "answer": 2,
+      "why": "Neil says one person in five is affected emotionally by these sounds."
+    },
+    {
+      "q": "What kind of sounds often trigger misophonia?",
+      "options": [
+        "Music and singing",
+        "Sounds linked to food and eating",
+        "Traffic noise",
+        "Birds and animals outside the house"
+      ],
+      "answer": 1,
+      "why": "Neil says the triggers often involve food and eating, so family dinners can feel like torture."
+    },
+    {
+      "q": "What response do certain sounds cause in Olana Tansley-Hancock?",
+      "options": [
+        "She falls asleep",
+        "She starts laughing",
+        "She loses her hearing for a short while after the noise stops",
+        "A sudden fight-or-flight reaction she can't control"
+      ],
+      "answer": 3,
+      "why": "She describes a fight-or-flight response – an immediate, uncontrollable reaction."
+    },
+    {
+      "q": "Why does Olana mention being chased by wild animals?",
+      "options": [
+        "She was once attacked by an animal",
+        "To show her reaction to harmless sounds is unusual",
+        "She is afraid of dogs",
+        "To explain what first caused her misophonia as a child"
+      ],
+      "answer": 1,
+      "why": "She says we rarely face such dangers today, yet she feels that response to innocuous sounds."
+    },
+    {
+      "q": "What does Olana compare her reaction to?",
+      "options": [
+        "Hearing that someone close to you has died",
+        "Winning a prize",
+        "Being very tired after a long, busy day at work",
+        "Watching a scary film"
+      ],
+      "answer": 0,
+      "why": "She says the immediacy is like when someone tells you a person close to you has passed away."
+    },
+    {
+      "q": "Which trick does Phil say helps people with misophonia?",
+      "options": [
+        "Eating meals alone",
+        "Wearing earplugs all day, even while she is asleep",
+        "Background music and explaining the condition",
+        "Avoiding helicopters"
+      ],
+      "answer": 2,
+      "why": "He says background music can disguise eating sounds, and explaining the condition helps."
+    }
+  ]
+}

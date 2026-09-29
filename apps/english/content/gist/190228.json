@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The scientific study of the Loch Ness Monster",
+        "How to draw a unicorn and other magical animals",
+        "Why unicorns are popular again, from shops to politics",
+        "The history of white horses in British art"
+      ],
+      "answer": 2,
+      "why": "Neil says unicorns are popping up everywhere, even in politics, and asks why."
+    },
+    {
+      "q": "Why doesn't Rob say the answer to the quiz question at first?",
+      "options": [
+        "He has no idea what the answer is",
+        "He already knows it from an earlier programme",
+        "He wants to guess later, after hearing some clues",
+        "Neil tells him not to say it until the end"
+      ],
+      "answer": 1,
+      "why": "He says it was the topic of a programme in 2008, so he'll keep it to himself."
+    },
+    {
+      "q": "Where have unicorns been appearing recently?",
+      "options": [
+        "Only in children's books and fairy tales",
+        "In zoos and wildlife parks around Scotland",
+        "In old paintings in national museums",
+        "On T-shirts, in films, as toys and in politics"
+      ],
+      "answer": 3,
+      "why": "Neil lists T-shirts, movies, toys and political conversations."
+    },
+    {
+      "q": "Why did people use to drink from unicorn horn cups, according to Natalie Lawrence?",
+      "options": [
+        "To protect themselves from poison",
+        "To become stronger",
+        "Because they were very beautiful",
+        "To show they were rich"
+      ],
+      "answer": 0,
+      "why": "She says they drank from them 'to prevent themselves getting poisoned'."
+    },
+    {
+      "q": "When were the original unicorn stories developed?",
+      "options": [
+        "In the last few years, on social media",
+        "When people believed magic was real",
+        "During a long war between two kingdoms",
+        "In the 2008 programme about horses"
+      ],
+      "answer": 1,
+      "why": "She says they were developed 'in a time when magic actually existed in the world'."
+    },
+    {
+      "q": "Why does Neil think unicorns are popular now?",
+      "options": [
+        "People want a bit of magic in their lives",
+        "They are cheap to make and easy to sell",
+        "Scientists say they have found a real one",
+        "Children demand them for every birthday"
+      ],
+      "answer": 0,
+      "why": "He says people seem to be looking for a bit of magic in their lives."
+    },
+    {
+      "q": "What does 'unicorn' mean in UK politics?",
+      "options": [
+        "A very popular politician who wins elections",
+        "A special new law that everyone agrees with",
+        "A plan that is unrealistic and can't work",
+        "A national symbol of the UK and Scotland"
+      ],
+      "answer": 2,
+      "why": "Neil says it's a negative comment: a fantasy idea with no chance of working."
+    },
+    {
+      "q": "Why does Neil mention the army when explaining 'deploy'?",
+      "options": [
+        "The army uses the unicorn as a symbol on its flags",
+        "Politicians want to send the army to deal with it",
+        "Unicorns were used as symbols in old wars",
+        "The word is used as if politics were a war"
+      ],
+      "answer": 3,
+      "why": "He compares deploying the army with deploying the word 'unicorn' in the political conflict."
+    }
+  ]
+}

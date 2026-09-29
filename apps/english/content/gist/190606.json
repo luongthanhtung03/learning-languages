@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to ride a motorbike safely",
+        "The history of mass-produced motorcycles",
+        "Famous films about motorbikes",
+        "How women on motorbikes are shown in the media"
+      ],
+      "answer": 3,
+      "why": "Neil says today they're looking at women and bikes, based on a study of the 'gendered motorcycle'."
+    },
+    {
+      "q": "What do Sam's and Neil's first images of motorbikes have in common?",
+      "options": [
+        "Both are about pizza delivery",
+        "Both show men on bikes",
+        "Both come from films",
+        "Both show very fast bikes"
+      ],
+      "answer": 1,
+      "why": "Neil says in both cases they associated motorbikes with male figures."
+    },
+    {
+      "q": "According to Esperanza Miyake, what happens when you ride a motorbike at high speed?",
+      "options": [
+        "Gender and race stop being important",
+        "You feel more like a man",
+        "You enjoy the space inside the bike",
+        "You become more afraid"
+      ],
+      "answer": 0,
+      "why": "She says it dissolves gender and race; 'all these things stop mattering'."
+    },
+    {
+      "q": "How is riding a bike different from driving a car, according to Esperanza Miyake?",
+      "options": [
+        "It is more comfortable on long journeys",
+        "It is slower and you see more scenery",
+        "You are completely part of the outside world",
+        "You can listen to music with headphones on"
+      ],
+      "answer": 2,
+      "why": "She says on a bike there's no interiority; you're part of the exterior world."
+    },
+    {
+      "q": "What do Sam and Neil say about the word 'interiority'?",
+      "options": [
+        "They both use it all the time at work",
+        "It is a new slang word from social media",
+        "It is not a real word, just a made-up one",
+        "Neither of them had heard or used it before"
+      ],
+      "answer": 3,
+      "why": "Sam says she'd never heard or used it, and Neil says 'Me neither.'"
+    },
+    {
+      "q": "What problem does Esperanza Miyake see with the 'empowered' female biker image?",
+      "options": [
+        "It is often very sexualised",
+        "It is too rare",
+        "It shows women riding too slowly",
+        "It makes women look silly"
+      ],
+      "answer": 0,
+      "why": "She says 'she's empowered but she's in a skintight catsuit'."
+    },
+    {
+      "q": "What is the second type of female rider she describes?",
+      "options": [
+        "A silly, giggly woman riding a small scooter",
+        "A woman who looks and acts very masculine",
+        "A woman who races motorbikes professionally",
+        "A woman riding on the back with her boyfriend"
+      ],
+      "answer": 1,
+      "why": "She describes a rider 'who's been masculinised' and embodies a masculine style."
+    },
+    {
+      "q": "What does Neil conclude about images of women and motorbikes?",
+      "options": [
+        "They are mostly positive and show strong women",
+        "They have improved a lot in the last few years",
+        "There are few fully positive images in the media",
+        "They are exactly the same as the images of men"
+      ],
+      "answer": 2,
+      "why": "He says there don't seem to be many really completely positive images in the media."
+    }
+  ]
+}

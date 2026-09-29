@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make a good first impression at work",
+        "How we judge people by their faces, often wrongly",
+        "Why politicians are not trusted",
+        "The history of the Boston Symphony Orchestra"
+      ],
+      "answer": 1,
+      "why": "Rob says they're talking about first impressions and how they're often wrong."
+    },
+    {
+      "q": "What kind of faces were rated as more trustworthy in Todorov's tests?",
+      "options": [
+        "Wide faces with big eyes",
+        "Serious, masculine faces",
+        "Happy, feminine-looking faces",
+        "Older faces"
+      ],
+      "answer": 2,
+      "why": "Neil says faces that look happy and feminine were rated as more trustworthy."
+    },
+    {
+      "q": "How were more masculine faces seen?",
+      "options": [
+        "As more dominant",
+        "As more extroverted",
+        "As more competent",
+        "As less attractive"
+      ],
+      "answer": 0,
+      "why": "Rob says faces that were more masculine were seen as more dominant."
+    },
+    {
+      "q": "What important point does Todorov make about these judgements?",
+      "options": [
+        "They are usually correct",
+        "They take a long time to form",
+        "They only happen with strangers",
+        "They are not accurate"
+      ],
+      "answer": 3,
+      "why": "Rob says Todorov's key point is that these judgements aren't accurate."
+    },
+    {
+      "q": "Which judgement best predicts who will win an election, according to Todorov?",
+      "options": [
+        "How attractive the politician looks",
+        "How competent the politician appears",
+        "How trustworthy the politician seems",
+        "How dominant the politician looks"
+      ],
+      "answer": 1,
+      "why": "He says 'the judgement that is most predictive of who is going to win the election is perceived competence'."
+    },
+    {
+      "q": "Which voters are most likely to be influenced by a politician's appearance?",
+      "options": [
+        "Young voters",
+        "Voters who know a lot about politics",
+        "Women voters",
+        "Voters who know less about politics"
+      ],
+      "answer": 3,
+      "why": "Rob says it applies especially to people less educated about politics, around 25% of voters."
+    },
+    {
+      "q": "According to Todorov, what CAN a face tell us?",
+      "options": [
+        "Whether someone is honest",
+        "Whether someone is clever",
+        "Whether someone is tired or sick",
+        "What someone's character is like"
+      ],
+      "answer": 2,
+      "why": "Faces carry information about mental state and whether someone is tired or sick, but not character."
+    },
+    {
+      "q": "Why does Neil mention the Boston Symphony Orchestra?",
+      "options": [
+        "To show that not seeing people can reduce unfair judgements",
+        "To show that men are better musicians than women",
+        "To give an example of a job interview that went badly",
+        "To explain why orchestras are so popular in the USA"
+      ],
+      "answer": 0,
+      "why": "After 'blind auditions', where they didn't see musicians, around 50% of those selected were women."
+    }
+  ]
+}

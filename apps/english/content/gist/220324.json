@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Agatha Christie and her detective Poirot",
+        "How to win at the board game Cluedo every time",
+        "The history of train travel across Europe",
+        "Why crime stories are popular on television"
+      ],
+      "answer": 0,
+      "why": "The programme is about Agatha Christie, especially 'Murder on the Orient Express' and Hercule Poirot."
+    },
+    {
+      "q": "What does Neil say about the last time he played Cluedo?",
+      "options": [
+        "He has never played the game before",
+        "He found the game much too difficult",
+        "It was Professor Plum in the library",
+        "He was the murderer in the game"
+      ],
+      "answer": 2,
+      "why": "Neil says, 'it was Professor Plum, in the library, with the dagger!'"
+    },
+    {
+      "q": "How many copies of Agatha Christie's crime novels have been sold?",
+      "options": [
+        "About 103 million",
+        "Over 2 billion",
+        "Around 33 million",
+        "Just under 1 billion"
+      ],
+      "answer": 1,
+      "why": "Sam says over 2 billion copies have been sold, making her the best-selling novelist of all time."
+    },
+    {
+      "q": "Why must the killer on the Orient Express be one of the passengers?",
+      "options": [
+        "The police saw the murderer get on the train",
+        "Poirot saw the crime happen through a window",
+        "The victim wrote the killer's name before dying",
+        "Nobody could leave the snow-trapped train unseen"
+      ],
+      "answer": 3,
+      "why": "Harriet Gilbert says nobody could reach or escape the snow-trapped train without leaving footprints."
+    },
+    {
+      "q": "Why is Poirot perplexed at first?",
+      "options": [
+        "Nobody will answer his questions",
+        "The train is too crowded to search",
+        "Each passenger seems to have an alibi",
+        "He cannot find the murder weapon"
+      ],
+      "answer": 2,
+      "why": "Harriet says as he investigates, it seems that each of them has an alibi for the time of the murder."
+    },
+    {
+      "q": "Why doesn't Sam say what happens at the end of the story?",
+      "options": [
+        "She doesn't want to spoil it for listeners",
+        "She has not finished reading the book",
+        "She can't remember who the killer was",
+        "The ending is different in every version"
+      ],
+      "answer": 0,
+      "why": "Sam says, 'I won't spoil the story by telling you what happens next.'"
+    },
+    {
+      "q": "Who is Sophie Hannah?",
+      "options": [
+        "Agatha Christie's only daughter",
+        "An actress who played Miss Marple",
+        "A presenter of World Book Club",
+        "An author of new Poirot stories"
+      ],
+      "answer": 3,
+      "why": "Sam says she has written several new Poirot stories based on Agatha Christie's characters."
+    },
+    {
+      "q": "Which of Poirot's habits does Sophie Hannah describe?",
+      "options": [
+        "He is often rude to the people he questions",
+        "He likes neatness and order",
+        "He is always late and very untidy",
+        "He hates travelling by train"
+      ],
+      "answer": 1,
+      "why": "She says he likes neatness and order, works methodically, and is proud of his moustaches."
+    }
+  ]
+}

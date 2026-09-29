@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to cook tasty meals with leftovers from the fridge",
+        "Why supermarkets in Europe are becoming too expensive",
+        "Food waste and how one woman helped cut it in Denmark",
+        "Food shortages in Russia and how people survived them"
+      ],
+      "answer": 2,
+      "why": "Dan and Neil discuss food waste and Selina Juul's campaign that helped Denmark cut its waste."
+    },
+    {
+      "q": "What does Neil do at the start of the programme?",
+      "options": [
+        "Throws away part of an apple he couldn't finish",
+        "Eats someone else's leftovers from the fridge",
+        "Brings a big lunch into the studio to share",
+        "Recycles his food waste in a special bin"
+      ],
+      "answer": 0,
+      "why": "Neil threw away the rest of his apple because it was big and he couldn't finish it."
+    },
+    {
+      "q": "According to Dan, where does most of Europe's food waste come from?",
+      "options": [
+        "Restaurants",
+        "Supermarkets",
+        "Farms",
+        "People's homes"
+      ],
+      "answer": 3,
+      "why": "Dan says 53% of food waste in Europe comes from households."
+    },
+    {
+      "q": "What usually happens to this wasted food?",
+      "options": [
+        "It is recycled into animal food",
+        "It goes into landfill and rots",
+        "It is given to hungry people",
+        "It is burnt for energy"
+      ],
+      "answer": 1,
+      "why": "Dan says it goes into landfills and decays, causing greenhouse gases."
+    },
+    {
+      "q": "What has Denmark achieved?",
+      "options": [
+        "It has stopped all food waste",
+        "It has cut its food waste by 25%",
+        "It has cut food prices by 25%",
+        "It has built new landfills"
+      ],
+      "answer": 1,
+      "why": "Dan says Denmark has managed to reduce its food waste by 25%."
+    },
+    {
+      "q": "Why was Selina Juul shocked when she moved to Denmark?",
+      "options": [
+        "The supermarkets had very little food on the shelves",
+        "Food was much more expensive there than it was in Moscow",
+        "Nobody cooked at home and everyone ate in restaurants",
+        "She grew up with food shortages and saw lots of food wasted"
+      ],
+      "answer": 3,
+      "why": "She grew up in Moscow unsure of getting food, then was shocked to see so much wasted in Denmark."
+    },
+    {
+      "q": "How did Selina Juul start her campaign?",
+      "options": [
+        "By writing to the government",
+        "By opening a restaurant",
+        "By starting a Facebook page in 2008",
+        "By appearing on TV"
+      ],
+      "answer": 2,
+      "why": "Dan says she started a Facebook page called 'stop wasting food' in 2008."
+    },
+    {
+      "q": "Which of these is NOT one of Selina Juul's ideas?",
+      "options": [
+        "Making supermarkets pay a tax on waste",
+        "Getting supermarkets to stop selling in bulk",
+        "Writing a cookbook for leftovers",
+        "Setting up education programmes in schools"
+      ],
+      "answer": 0,
+      "why": "Dan mentions stopping bulk selling, a leftovers cookbook and school programmes, but not a tax."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to trace your family history on a TV programme",
+        "Why people in Britain should pay more taxes",
+        "The census: what it is, why it began and how it changed",
+        "The history of the Roman army and its soldiers"
+      ],
+      "answer": 2,
+      "why": "They discuss what a census is for, why it was created and how counting people changed over time."
+    },
+    {
+      "q": "How often has Britain carried out a census since 1801?",
+      "options": [
+        "Every year",
+        "Every five years",
+        "Every hundred years",
+        "Every ten years"
+      ],
+      "answer": 3,
+      "why": "Sam says a census has been carried out every ten years since 1801."
+    },
+    {
+      "q": "What happened in 2002 when old census records went online?",
+      "options": [
+        "So many people visited that the website crashed",
+        "Very few people were interested in looking at them",
+        "The government removed them again after a few days",
+        "People found many serious mistakes in the records"
+      ],
+      "answer": 0,
+      "why": "So many people rushed to access them that the website crashed."
+    },
+    {
+      "q": "Why does Neil mention the story of Mary and Joseph travelling to Bethlehem?",
+      "options": [
+        "To explain where the word 'census' comes from",
+        "To show that censuses have a very long history",
+        "To show that censuses were religious events",
+        "To compare Roman and British governments"
+      ],
+      "answer": 1,
+      "why": "He says other censuses have a much longer history, and this story is linked to a Roman census."
+    },
+    {
+      "q": "According to Dr Kathrin Levitan, what were the two main reasons for early censuses?",
+      "options": [
+        "Building new roads and schools in the countryside",
+        "Counting the number of children and old people",
+        "Finding soldiers for wars and collecting taxes",
+        "Planning new cities and hospitals for the poor"
+      ],
+      "answer": 2,
+      "why": "She says censuses were used to find who could fight in wars and for purposes of taxation."
+    },
+    {
+      "q": "How were early censuses usually carried out?",
+      "options": [
+        "Officials went from house to house asking questions",
+        "People filled in forms at the post office",
+        "Soldiers counted people in the streets",
+        "Churches kept lists of everyone"
+      ],
+      "answer": 0,
+      "why": "Sam says they often involved officials going from house to house asking about the people there."
+    },
+    {
+      "q": "According to Andrew Whitby, what was new about the 1890 US census?",
+      "options": [
+        "It was the first census to count women",
+        "It was done completely by clerks by hand",
+        "It was the first to be done online",
+        "Punched cards were read by a machine"
+      ],
+      "answer": 3,
+      "why": "He says each record was punched onto a card and the cards were fed through a machine."
+    },
+    {
+      "q": "Why have some people questioned the need for a census today?",
+      "options": [
+        "Because it is far too expensive to organise",
+        "So much personal data is already online",
+        "Because people refuse to answer",
+        "Because populations don't change much"
+      ],
+      "answer": 1,
+      "why": "Sam says so much personal information is freely available online that some question the need for a census."
+    }
+  ]
+}

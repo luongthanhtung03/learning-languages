@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The life and work of Johannes Gutenberg",
+        "Printers that build solid objects",
+        "Why paper books are still popular",
+        "How to fix a laser printer at home"
+      ],
+      "answer": 1,
+      "why": "They discuss 3D printers, which build solid objects, and the problems they solve."
+    },
+    {
+      "q": "How do 3D printers make objects?",
+      "options": [
+        "By cutting away material from a block",
+        "By pressing wooden blocks into ink",
+        "By pouring material into a mould",
+        "By adding material layer by layer"
+      ],
+      "answer": 3,
+      "why": "Neil says they build up objects by adding material layer on layer, unlike a sculptor."
+    },
+    {
+      "q": "According to Professor Mark Miodownik, why did 3D printers become cheap after 2000?",
+      "options": [
+        "Patents ran out, so cheap ones appeared",
+        "The government paid for them in schools",
+        "New materials were discovered in labs",
+        "Schools started building their own"
+      ],
+      "answer": 0,
+      "why": "He says as the millennium turned, patents expired and people started making very cheap 3D printers."
+    },
+    {
+      "q": "What did people discover 3D printers were especially good for?",
+      "options": [
+        "Printing local newspapers quickly",
+        "Making test models of new products",
+        "Building cheap houses very quickly",
+        "Replacing teachers in classrooms"
+      ],
+      "answer": 1,
+      "why": "He says 'it's actually really great for prototyping'."
+    },
+    {
+      "q": "What does Professor Miodownik suggest happened when people got excited?",
+      "options": [
+        "They stopped using the printers after a while",
+        "They sold them to hospitals and schools",
+        "They thought it would solve everything",
+        "They made them much more expensive"
+      ],
+      "answer": 2,
+      "why": "He says it became 'the answer to everything. Everything was going to be 3D-printed!'"
+    },
+    {
+      "q": "What did Stephen Verze's 3D-printed eye do for him?",
+      "options": [
+        "It gave him back his sight in that eye",
+        "It helped him see better in the dark",
+        "It stopped the pain in his eye for good",
+        "It boosted his confidence, not his sight"
+      ],
+      "answer": 3,
+      "why": "Sam says it doesn't restore his sight, but it has boosted his confidence."
+    },
+    {
+      "q": "According to surgeon Mandeep Sagoo, what is the problem with the traditional way of making artificial eyes?",
+      "options": [
+        "It takes a lot of time and skill",
+        "It is only available in poor countries",
+        "The eyes never match",
+        "It uses dangerous materials"
+      ],
+      "answer": 0,
+      "why": "He says it's an artisan process which is very time-consuming and requires real artistry."
+    },
+    {
+      "q": "How long can 3D printing now take to complete the process?",
+      "options": [
+        "Several weeks",
+        "Two days",
+        "Thirty minutes",
+        "Five hours"
+      ],
+      "answer": 2,
+      "why": "Neil says 3D printing can complete the whole process in just thirty minutes."
+    }
+  ]
+}

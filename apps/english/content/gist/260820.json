@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How driverless cars can communicate with people",
+        "Why driverless cars are cheaper than normal taxis",
+        "How to become a licensed taxi driver in London",
+        "Why cyclists cause more accidents than drivers"
+      ],
+      "answer": 0,
+      "why": "They discuss how driverless cars will interact with pedestrians, runners and cyclists, and the tech to help."
+    },
+    {
+      "q": "What problem does Professor Stephen Brewster describe?",
+      "options": [
+        "Driverless cars drive far too slowly in busy cities",
+        "Pedestrians can't see driverless cars at night",
+        "With no driver, you can't agree by eye contact",
+        "Driverless cars can't recognise traffic lights"
+      ],
+      "answer": 2,
+      "why": "He says there's no person in the driving seat, so how do you negotiate who is going to go?"
+    },
+    {
+      "q": "How does Phil say he would feel crossing the road in front of a robotaxi?",
+      "options": [
+        "Completely relaxed, because the cars are safe",
+        "A bit nervous, so he might let it pass first",
+        "Excited to try something new and modern",
+        "Angry that there is nobody in the driving seat"
+      ],
+      "answer": 1,
+      "why": "Phil says he'd be a little nervous and might wait for it to go and walk behind it."
+    },
+    {
+      "q": "What does Pippa think will happen over time?",
+      "options": [
+        "People will stop crossing roads on foot at all",
+        "Driverless cars will be banned in most cities",
+        "Accidents will increase every year from now on",
+        "People will get used to the cars and adapt"
+      ],
+      "answer": 3,
+      "why": "She thinks as we get more used to these technologies, we'll learn how to deal with them and when to cross."
+    },
+    {
+      "q": "Which two kinds of signals did Stephen Brewster's team test?",
+      "options": [
+        "Loud horns and brightly flashing headlights",
+        "Recorded voice messages and phone alerts",
+        "Moving images and fixed coloured light rings",
+        "Hand signals from robots and new road signs"
+      ],
+      "answer": 2,
+      "why": "He says they tested animations and fixed, coloured light rings."
+    },
+    {
+      "q": "Why did the animations not work well for runners and cyclists?",
+      "options": [
+        "They move fast and only have time for a glance",
+        "The animations were too small and dark to see",
+        "They don't pay any attention to cars at all",
+        "The animations only worked well in the dark"
+      ],
+      "answer": 0,
+      "why": "He says runners and cyclists have less time to decide, and with a quick glance you don't see the animation."
+    },
+    {
+      "q": "Why does Pippa mention hand waving?",
+      "options": [
+        "To explain how drivers usually say hello",
+        "To show that waving is illegal in some countries",
+        "To suggest that cars should have robot hands",
+        "To show body language differs between cultures"
+      ],
+      "answer": 3,
+      "why": "She says waving can mean 'please proceed' in one culture but 'thank you' in another."
+    },
+    {
+      "q": "According to Ammar Al-Taie, why is South Korea well suited to driverless cars?",
+      "options": [
+        "Its roads are much wider than roads in the UK",
+        "People rarely cross where it isn't allowed",
+        "Most people there already own electric cars",
+        "It has far fewer cyclists than other countries"
+      ],
+      "answer": 1,
+      "why": "He says jaywalking is illegal in South Korea, whereas in the UK people jaywalk a lot."
+    }
+  ]
+}

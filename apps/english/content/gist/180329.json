@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why women's designer handbags are so expensive nowadays",
+        "The trend for men carrying fashionable bags",
+        "How to choose a good briefcase",
+        "Famous fashion designers in Europe"
+      ],
+      "answer": 1,
+      "why": "Rob says 'today we are discussing manbags', a trend for modern men."
+    },
+    {
+      "q": "Where does Neil keep his things instead of in a manbag?",
+      "options": [
+        "In a briefcase",
+        "In his car",
+        "In his pockets",
+        "In a woman's handbag"
+      ],
+      "answer": 2,
+      "why": "Neil says 'I just stuff everything in my pockets'."
+    },
+    {
+      "q": "Why doesn't Neil want to carry a manbag?",
+      "options": [
+        "He is afraid people would laugh at him",
+        "He can't afford one",
+        "He thinks they are too heavy to carry around all day",
+        "His wife doesn't like them"
+      ],
+      "answer": 0,
+      "why": "He says pockets are 'better than being a laughing stock, carrying a handbag around!'"
+    },
+    {
+      "q": "What does Neil question about the name 'manbag'?",
+      "options": [
+        "Why it is so long",
+        "Why it is French",
+        "Why it isn't called a briefcase",
+        "Why a bag needs to have a gender"
+      ],
+      "answer": 3,
+      "why": "Neil asks 'Why can't it just be a bag? Why does a bag have to have a gender?'"
+    },
+    {
+      "q": "Why does Rob say manbags are practical?",
+      "options": [
+        "They are cheaper than briefcases",
+        "We now carry things like laptops, phones and lunch",
+        "They are waterproof",
+        "They last much longer than other bags and never get damaged"
+      ],
+      "answer": 1,
+      "why": "Rob says what we carry has changed, 'you know laptops, mobiles, even our lunch'."
+    },
+    {
+      "q": "According to Nick Carvell, why are some British men worried about carrying a bag?",
+      "options": [
+        "Their idea of being manly is fragile",
+        "Bags are not sold in Britain",
+        "British weather is too wet",
+        "They prefer European styles of bags"
+      ],
+      "answer": 0,
+      "why": "He says British men are tied up with an idea of masculinity 'so fragile' a bag can dent it."
+    },
+    {
+      "q": "How does Nick Carvell compare British men with many European men?",
+      "options": [
+        "European men worry more about masculinity",
+        "European men never carry bags",
+        "European men don't think about it as much",
+        "European men prefer backpacks"
+      ],
+      "answer": 2,
+      "why": "He says British men think about it a lot 'in a way that I don't think a lot of European men do'."
+    },
+    {
+      "q": "Has Rob convinced Neil by the end?",
+      "options": [
+        "Yes, Neil is going to buy an expensive designer manbag",
+        "Yes, Neil will buy a 'murse'",
+        "Neil hasn't decided yet",
+        "No, Neil will keep using his backpack"
+      ],
+      "answer": 3,
+      "why": "Neil says 'No, not really Rob' and that his trusty backpack is for him."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How buttons on clothes were invented",
+        "Why people fear clowns",
+        "Why we find buttons so tempting to push",
+        "How to design safer fire alarms"
+      ],
+      "answer": 2,
+      "why": "They discuss buttons and, with Professor Connor, why buttons are so appealing to us."
+    },
+    {
+      "q": "According to Professor Steven Connor, why are some buttons put high up on the wall?",
+      "options": [
+        "To keep them away from children",
+        "To make them easier to see",
+        "To save space",
+        "To protect them from water"
+      ],
+      "answer": 0,
+      "why": "He says buttons have to be kept away from children, so they're put high up on the wall."
+    },
+    {
+      "q": "What does Professor Connor say about buttons that really matter?",
+      "options": [
+        "They should be brightly coloured",
+        "They should be hard to push, for example behind glass",
+        "They should always be at a height that is easy for everyone to reach",
+        "They should only be used by adults"
+      ],
+      "answer": 1,
+      "why": "He says important buttons 'have to be made quite hard to push – like put behind glass'."
+    },
+    {
+      "q": "What does Neil say about himself as a child?",
+      "options": [
+        "He was afraid of buttons",
+        "He never noticed buttons",
+        "He once broke a fire alarm by pressing it",
+        "He loved pressing any button he saw"
+      ],
+      "answer": 3,
+      "why": "Neil says he loved pressing buttons as a child and would press any that he saw."
+    },
+    {
+      "q": "Why do everyday buttons, like lift buttons, need to be convenient?",
+      "options": [
+        "They have a useful, practical purpose",
+        "Because they are expensive to replace when broken",
+        "Because children like them",
+        "Because they are often dangerous"
+      ],
+      "answer": 0,
+      "why": "Neil says many buttons have a practical purpose, so they must be easy to use."
+    },
+    {
+      "q": "What is Professor Connor's explanation for why we like buttons?",
+      "options": [
+        "We enjoy the noise they make",
+        "We want to feel in control of the machines around us",
+        "We have an instinct to fidget and adjust things",
+        "We are addicted to technology"
+      ],
+      "answer": 2,
+      "why": "He says it's 'down to the fidgeting instinct' of creatures with fingers."
+    },
+    {
+      "q": "When Professor Connor calls humans 'digital creatures', what does he mean?",
+      "options": [
+        "We spend a lot of our time online using computers",
+        "We are good with numbers",
+        "We like modern technology",
+        "We have fingers and like to use them"
+      ],
+      "answer": 3,
+      "why": "Neil explains a digit is a finger or toe, so we are creatures with fingers."
+    },
+    {
+      "q": "Why does Professor Connor mention apes?",
+      "options": [
+        "To say apes also enjoy pressing buttons",
+        "To compare our fidgeting with their grooming",
+        "To explain where the English word 'button' originally comes from",
+        "To show that apes are afraid of buttons"
+      ],
+      "answer": 1,
+      "why": "He links our wish to fidget and adjust things to 'the grooming instinct in apes'."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Which countries grow the most coffee",
+        "Why coffee is bad for your health",
+        "How to make the perfect cup of coffee",
+        "Why the smell of coffee matters so much"
+      ],
+      "answer": 3,
+      "why": "Neil says 'our topic today is the smell of coffee'."
+    },
+    {
+      "q": "How much coffee does Catherine say she drinks?",
+      "options": [
+        "One cup a day",
+        "A lot, about six cups a day",
+        "Only at weekends",
+        "Only two cups a week, at the weekend"
+      ],
+      "answer": 1,
+      "why": "She jokes she drinks a cup 'every hour' and says she's had 'just the usual six cups'."
+    },
+    {
+      "q": "What does Catherine say is the best thing about coffee?",
+      "options": [
+        "The smell",
+        "The taste",
+        "The energy it gives her",
+        "The price"
+      ],
+      "answer": 0,
+      "why": "Catherine says 'It's the smell. It's got to be the smell.'"
+    },
+    {
+      "q": "What do Neil and Catherine agree about coffee?",
+      "options": [
+        "Take-away coffee always tastes better than coffee in a shop",
+        "It is too expensive",
+        "It never tastes as good as it smells",
+        "Big brands are the best"
+      ],
+      "answer": 2,
+      "why": "Neil says it never tastes as good as it smells, and Catherine says 'Well no, not really.'"
+    },
+    {
+      "q": "According to coffee shop owner Tim Hayward, what happens when you smell coffee in a shop?",
+      "options": [
+        "You feel sleepy",
+        "Your body reacts physically",
+        "You want to buy a different drink",
+        "You forget the taste"
+      ],
+      "answer": 1,
+      "why": "He says when that smell hits you, 'you're getting physiological responses'."
+    },
+    {
+      "q": "How does Catherine usually have her coffee?",
+      "options": [
+        "She always drinks it in the shop",
+        "She makes it at home before she leaves for work",
+        "She drinks it from a glass",
+        "She usually takes it away in a paper cup"
+      ],
+      "answer": 3,
+      "why": "She says she usually takes it away, in a tall paper cup with a lid."
+    },
+    {
+      "q": "What does Tim Hayward find strange about large coffee chains?",
+      "options": [
+        "Their cup lids stop you smelling the coffee",
+        "Their coffee is too hot to drink",
+        "They don't sell enough coffee",
+        "Their shops smell of food, not coffee"
+      ],
+      "answer": 0,
+      "why": "He says the cups deliver the liquid past your tongue but stop any smell reaching your nose."
+    },
+    {
+      "q": "Why does Neil ask Catherine about the lid on her cup?",
+      "options": [
+        "Because plastic lids are bad for the environment",
+        "Because he wants to buy one",
+        "To make her think about the lid and the smell",
+        "Because her coffee keeps spilling"
+      ],
+      "answer": 2,
+      "why": "Neil asks 'what is the effect of the lid on that experience?' since the smell is so important."
+    }
+  ]
+}

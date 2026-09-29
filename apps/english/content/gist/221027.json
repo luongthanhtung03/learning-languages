@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make your own Halloween costume",
+        "The history of American horror films",
+        "Whether Halloween costumes are too scary",
+        "Why pumpkins are so popular in autumn"
+      ],
+      "answer": 2,
+      "why": "Neil says they'll discuss whether Halloween is no longer harmless fun."
+    },
+    {
+      "q": "What is Neil wearing at the start?",
+      "options": [
+        "A bedsheet with holes for his eyes",
+        "A creepy clown mask with red hair",
+        "A witch's hat and a long black dress",
+        "A Grim Reaper cloak and a skull mask"
+      ],
+      "answer": 0,
+      "why": "Sam says he's wearing a white bedsheet over his head with two holes cut out for his eyes."
+    },
+    {
+      "q": "What did the ancient festival of Samhain celebrate?",
+      "options": [
+        "The end of a long war with the Romans",
+        "The start of the new year in spring",
+        "The birth of a king and his family",
+        "Changing seasons, when the dead came near"
+      ],
+      "answer": 3,
+      "why": "Sam says it celebrated the changing of the seasons, when the dead could contact the living."
+    },
+    {
+      "q": "Why did online shops remove some Halloween costumes?",
+      "options": [
+        "They were too expensive for most families",
+        "Parents said they were too frightening",
+        "They didn't sell well in the shops",
+        "They were unsafe to wear near fire"
+      ],
+      "answer": 1,
+      "why": "Shops removed costumes like creepy clown masks after parents complained they were too frightening."
+    },
+    {
+      "q": "What does Joanne O'Connell think shops are doing?",
+      "options": [
+        "Racing to sell the grimmest outfits",
+        "Selling only costumes for adults",
+        "Trying hard to protect young children",
+        "Making costumes more traditional again"
+      ],
+      "answer": 0,
+      "why": "She says retailers are in a race to the bottom for the grimmest outfit so they can make money."
+    },
+    {
+      "q": "What is Neil's first reaction to the parents' complaints?",
+      "options": [
+        "He completely agrees with the parents",
+        "He wants to ban Halloween in schools",
+        "He thinks it's too far; it should be scary",
+        "He says he's never been scared at all"
+      ],
+      "answer": 2,
+      "why": "He says, 'Isn't this going too far? I mean, Halloween is supposed to be scary!'"
+    },
+    {
+      "q": "What does Siobhan Freegard suggest?",
+      "options": [
+        "Banning all scary costumes in shops",
+        "A halfway house that protects young children",
+        "Letting children wear whatever they want",
+        "Only celebrating Halloween at home"
+      ],
+      "answer": 1,
+      "why": "She thinks there's 'a sort of a halfway house' – scary is fine for teens, but young children need protecting."
+    },
+    {
+      "q": "What does Neil decide at the end?",
+      "options": [
+        "To buy a scarier costume",
+        "To stop celebrating Halloween",
+        "To stay at home",
+        "To keep his simple ghost costume"
+      ],
+      "answer": 3,
+      "why": "He says he'll stick with his bedsheet ghost."
+    }
+  ]
+}

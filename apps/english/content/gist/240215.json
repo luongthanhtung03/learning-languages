@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How babies' stomachs develop in the womb",
+        "What pregnant women should avoid eating and drinking at all",
+        "How to feed a newborn baby",
+        "What women eat in the first weeks after giving birth"
+      ],
+      "answer": 3,
+      "why": "Beth says they're talking about what women eat and drink in the first few weeks after having a baby."
+    },
+    {
+      "q": "What does Georgie say happens once a baby is born?",
+      "options": [
+        "The mother gets even more care",
+        "Attention moves from the mother to the baby",
+        "The family stops worrying about food",
+        "Doctors start to focus mainly on the new father"
+      ],
+      "answer": 1,
+      "why": "She says as soon as the baby is born, attention moves to the new-born baby."
+    },
+    {
+      "q": "According to Allison Oman Lawi, how many extra calories might a breastfeeding mother need?",
+      "options": [
+        "None at all",
+        "Fewer than during pregnancy",
+        "Up to 650 a day, more than in pregnancy",
+        "About 2,000 extra calories every single day"
+      ],
+      "answer": 2,
+      "why": "She says up to 650 additional calories a day, more than she needed extra during pregnancy."
+    },
+    {
+      "q": "Why did Heng Ou eat roast pig trotters after childbirth?",
+      "options": [
+        "They contain collagen, which helps produce breast milk",
+        "They were the only food available",
+        "They help mothers sleep",
+        "Her doctor told her she needed to eat more fat after giving birth"
+      ],
+      "answer": 0,
+      "why": "Georgie says they contain a lot of collagen, which helps produce breast milk."
+    },
+    {
+      "q": "What is panjeeri, the food Ruma's mother made?",
+      "options": [
+        "A spicy mix of nuts and seeds",
+        "A kind of chicken soup with spices",
+        "A sweet milk drink",
+        "A type of bread"
+      ],
+      "answer": 0,
+      "why": "Beth says it's a spicy nut mix with cashews, almonds and melon seeds."
+    },
+    {
+      "q": "Why was her mother's help so important to Ruma?",
+      "options": [
+        "Ruma had to go back to work very quickly after the birth",
+        "Ruma couldn't cook at all",
+        "Ruma had a C-section and was on strong painkillers",
+        "Ruma's husband was away"
+      ],
+      "answer": 2,
+      "why": "She had a C-section, was on very strong painkillers and was in a daze."
+    },
+    {
+      "q": "How does Ruma describe her husband?",
+      "options": [
+        "He left everything to her mother",
+        "He was too tired to help",
+        "He only helped with cooking",
+        "He was very involved and helpful"
+      ],
+      "answer": 3,
+      "why": "She says her husband was very hands-on as well."
+    },
+    {
+      "q": "What does Ruma suggest might have happened without her family's help?",
+      "options": [
+        "Her baby would have been ill",
+        "She might have struggled badly and fallen apart",
+        "She would have eaten more fast food",
+        "She would have had to stay in hospital for much longer"
+      ],
+      "answer": 1,
+      "why": "She says she didn't fall apart, “which I might have done if I'd been by myself”."
+    }
+  ]
+}

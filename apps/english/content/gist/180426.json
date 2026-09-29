@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to stay safe online",
+        "Why so many people like looking at pictures of cats online",
+        "How the World Wide Web was built",
+        "Tim Berners-Lee's worries about the internet"
+      ],
+      "answer": 3,
+      "why": "They discuss Berners-Lee's concerns about the internet and his suggestions for changing it."
+    },
+    {
+      "q": "What did Neil first use the internet for?",
+      "options": [
+        "Sending emails",
+        "Looking at pictures of cats",
+        "Reading the news",
+        "Shopping for clothes online"
+      ],
+      "answer": 1,
+      "why": "Neil says 'I looked up pictures of cats!'"
+    },
+    {
+      "q": "What does Neil say about living without the internet?",
+      "options": [
+        "It would be impossible",
+        "It would be much better",
+        "It would be possible, but much less convenient",
+        "He has already tried living without it for a whole year"
+      ],
+      "answer": 2,
+      "why": "Neil says 'Not impossible, but not nearly as convenient.'"
+    },
+    {
+      "q": "What did Tim Berners-Lee first think internet giants needed to do?",
+      "options": [
+        "Just be neutral and let people connect",
+        "Control all the information",
+        "Charge people to use the internet",
+        "Check everything people write"
+      ],
+      "answer": 0,
+      "why": "He says initially he felt they just had to be neutral, just be a platform."
+    },
+    {
+      "q": "Which website does Berners-Lee give as a good example of connecting people?",
+      "options": [
+        "Twitter",
+        "Facebook",
+        "YouTube",
+        "Wikipedia"
+      ],
+      "answer": 3,
+      "why": "He says if you connect humanity via Wikipedia, they produce wonderful things in general."
+    },
+    {
+      "q": "According to Berners-Lee, why can social networks bring out the worst in people?",
+      "options": [
+        "People can hide who they really are",
+        "They are too expensive",
+        "People spend far too long on them every day",
+        "They show too many adverts"
+      ],
+      "answer": 0,
+      "why": "He says when people have anonymity, 'it can bring out the very nastiest of people'."
+    },
+    {
+      "q": "How does Berners-Lee suggest social networks could improve things?",
+      "options": [
+        "By closing down",
+        "By banning retweets and shares on all social networks",
+        "By giving more kudos for being constructive",
+        "By making people pay for accounts"
+      ],
+      "answer": 2,
+      "why": "He suggests changing the way people get kudos, 'give them more kudos for being constructive'."
+    },
+    {
+      "q": "What question does Rob raise about Berners-Lee's suggestion?",
+      "options": [
+        "How much it would cost",
+        "Who would decide what is constructive",
+        "Whether people would stop using the internet",
+        "Why nobody has tried it"
+      ],
+      "answer": 1,
+      "why": "Rob says 'I wonder who would decide if something is constructive?'"
+    }
+  ]
+}

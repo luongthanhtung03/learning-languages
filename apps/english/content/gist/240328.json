@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How football clubs make money",
+        "Why underdogs can sometimes win and why people love them",
+        "The history of the English Premier League and its famous clubs",
+        "How to become a sports psychologist"
+      ],
+      "answer": 1,
+      "why": "They discuss underdog stories and whether being the underdog can actually be an advantage."
+    },
+    {
+      "q": "What does Georgie suggest about being the underdog?",
+      "options": [
+        "It always makes teams lose confidence",
+        "It only matters in films, not in sport",
+        "Nobody expecting you to win might actually help you",
+        "It is better to be the favourite in every single case"
+      ],
+      "answer": 2,
+      "why": "She says the fact that no-one expects the underdog to win may be an advantage."
+    },
+    {
+      "q": "How does promotion and relegation in English football work, according to Neil?",
+      "options": [
+        "The best three in the lower league go up; the worst three go down",
+        "Only one club moves between the two leagues each year",
+        "Clubs are chosen by the fans each season",
+        "The richest clubs are always promoted, whatever their results are"
+      ],
+      "answer": 0,
+      "why": "He says the three best clubs in the second league are promoted and the three weakest relegated."
+    },
+    {
+      "q": "What is special about Luton Town FC?",
+      "options": [
+        "It has never been relegated",
+        "It is the richest and most successful club in all of England",
+        "It won the Premier League in 2016",
+        "It rose from non-league football to the Premier League"
+      ],
+      "answer": 3,
+      "why": "Georgie says they're the first English team to progress from non-league to the Premier League."
+    },
+    {
+      "q": "What does Luton fan Alex think about his team?",
+      "options": [
+        "They don't really deserve to be in the Premier League at all",
+        "They will probably be relegated again",
+        "They are richer than the other clubs",
+        "They have less money, but can compete on the pitch"
+      ],
+      "answer": 3,
+      "why": "He says they're the underdog financially, “but on the pitch I don't think we will be”."
+    },
+    {
+      "q": "Why do newly promoted teams often start with high confidence, according to Gillian Cook?",
+      "options": [
+        "They have spent a lot of money on new players",
+        "Their fans are louder",
+        "They have just had a season of winning",
+        "They play weaker teams at first"
+      ],
+      "answer": 2,
+      "why": "She says they've just come from a season of winning, so they believe they can do it."
+    },
+    {
+      "q": "Why does Gillian Cook mention Man City playing Luton Town?",
+      "options": [
+        "To show how pressure to win can make a top team underperform",
+        "To predict that Luton will win the league",
+        "To show that Man City simply has much better and more expensive players",
+        "To explain why Luton fans are angry"
+      ],
+      "answer": 0,
+      "why": "She uses it to explain “choking”, when pressure gets to a team and they underperform."
+    },
+    {
+      "q": "Who do neutral fans usually support?",
+      "options": [
+        "The team with the most famous players",
+        "The underdog",
+        "The top dog",
+        "The home team"
+      ],
+      "answer": 1,
+      "why": "Neil says neutral fans tend to support the underdog as well."
+    }
+  ]
+}

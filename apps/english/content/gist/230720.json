@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How supermarkets buy and sell wild food",
+        "The dangers of eating poisonous plants",
+        "Foraging and the health benefits of wild food",
+        "How to grow your own vegetables in the garden"
+      ],
+      "answer": 2,
+      "why": "They discuss foraging and a new UK project on the health benefits of wild food."
+    },
+    {
+      "q": "When did foraging become popular again?",
+      "options": [
+        "Since the Covid pandemic",
+        "In the 1950s",
+        "After supermarkets closed",
+        "Only in the last month"
+      ],
+      "answer": 0,
+      "why": "Neil says since the Covid pandemic, foraging has become popular again."
+    },
+    {
+      "q": "What is the Wild Biome Project?",
+      "options": [
+        "A book about a year of eating only wild food",
+        "A group that sells wild food online",
+        "A course that teaches people to cook mushrooms",
+        "A three-month study of wild food and health"
+      ],
+      "answer": 3,
+      "why": "It is a three-month experiment into the health benefits of adding wild food to your diet."
+    },
+    {
+      "q": "What does forager Rob Gould say about eating wild food?",
+      "options": [
+        "Everyone should eat nothing but wild food",
+        "A little gives you many more nutrients",
+        "It is too expensive for most families",
+        "It has fewer vitamins than shop food"
+      ],
+      "answer": 1,
+      "why": "He says just including a small amount greatly increases the nutrients and vitamins you get."
+    },
+    {
+      "q": "How does Mo Wilde answer people who say there wouldn't be enough wild food?",
+      "options": [
+        "She says we should import more food",
+        "She agrees that foraging should be limited",
+        "She says there is never a shortage of nettles",
+        "She says only experts should forage"
+      ],
+      "answer": 2,
+      "why": "She says, 'I've never noticed a shortage of nettles'."
+    },
+    {
+      "q": "Why does Mo Wilde say we might fly nettles in if they didn't grow here?",
+      "options": [
+        "To show how nutritious and valuable they are",
+        "Because they taste better from abroad",
+        "Because they are hard to find in the UK",
+        "To show that they are very expensive"
+      ],
+      "answer": 0,
+      "why": "She says we'd fly them in as a superfood because they're so nutritious."
+    },
+    {
+      "q": "Which of these do the foragers report?",
+      "options": [
+        "They lost interest in food and ate less",
+        "They felt more anxious and stressed",
+        "They missed their usual supermarket food",
+        "They enjoyed their food's smell and taste more"
+      ],
+      "answer": 3,
+      "why": "They report greater appreciation for the smell and taste of their food and more self-worth."
+    },
+    {
+      "q": "How did one forager's feelings change during the project?",
+      "options": [
+        "She felt great at first, then tired",
+        "She felt low at first, but later much better",
+        "She felt ill and left the project",
+        "She felt the same all the time"
+      ],
+      "answer": 1,
+      "why": "She felt 'quite flat' in the first week, but now feels loads better and doesn't want it to stop."
+    }
+  ]
+}

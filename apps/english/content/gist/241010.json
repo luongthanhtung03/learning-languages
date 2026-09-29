@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why Taylor Swift is so popular",
+        "How earthquakes damage concert stadiums",
+        "Whether dancing fans at a Taylor Swift concert caused an earthquake",
+        "How seismologists predict earthquakes"
+      ],
+      "answer": 2,
+      "why": "They hear about the 'Swift-quake' and whether it really was an earthquake."
+    },
+    {
+      "q": "What does Phil mean when he says Taylor Swift 'literally rocks the world'?",
+      "options": [
+        "Her fans' dancing actually made the ground move",
+        "Her music makes people's lives more enjoyable and exciting",
+        "She sings rock music",
+        "She has performed in every country"
+      ],
+      "answer": 0,
+      "why": "He says her fans' dancing 'literally moved the Earth', with seismic activity detected miles away."
+    },
+    {
+      "q": "What was detected after the Edinburgh concert?",
+      "options": [
+        "Damage to buildings near the stadium",
+        "A crack in the ground",
+        "Loud noise heard across the city",
+        "Seismic activity four miles away"
+      ],
+      "answer": 3,
+      "why": "Phil says seismic activity was detected four miles away."
+    },
+    {
+      "q": "What did seismologists Emma Greenough and James Panton want to find out?",
+      "options": [
+        "Whether Taylor Swift's music was too loud for people living nearby",
+        "Whether the same effect would happen at her Cardiff concert",
+        "How many fans went to the Edinburgh show",
+        "Whether earthquakes can stop concerts"
+      ],
+      "answer": 1,
+      "why": "They wanted to see if the same thing would happen at Taylor's concert in Cardiff."
+    },
+    {
+      "q": "According to James Panton, what caused the peak on his graph?",
+      "options": [
+        "The very loud sound coming from the speakers on the stage",
+        "A small natural earthquake",
+        "Traffic outside the stadium",
+        "73,000 fans jumping and stamping at the same time"
+      ],
+      "answer": 3,
+      "why": "He says it's the energy from the 73,000 people 'jumping in unison and stamping in unison'."
+    },
+    {
+      "q": "What does the measurement of 23 nanometres show?",
+      "options": [
+        "How far the fans jumped",
+        "How much the ground bent up and down",
+        "How deep a crack in the ground under the stadium was",
+        "How far away the sound travelled"
+      ],
+      "answer": 1,
+      "why": "James says it means the ground was flexing up and down by 23 nanometres."
+    },
+    {
+      "q": "Was the concert's effect as strong as an earthquake?",
+      "options": [
+        "No, when compared it is generally less than magnitude one",
+        "Yes, it was a small earthquake",
+        "Yes, it was actually stronger than most of the earthquakes in the UK",
+        "Nobody has tried to compare them"
+      ],
+      "answer": 0,
+      "why": "James says 'definitely not', and converted magnitudes are generally less than one."
+    },
+    {
+      "q": "Why wasn't the concert officially an earthquake?",
+      "options": [
+        "Because it lasted less than a minute",
+        "Because it happened at night",
+        "Because a real earthquake must break the earth's crust",
+        "Because it wasn't recorded by the scientists' equipment in Edinburgh"
+      ],
+      "answer": 2,
+      "why": "Georgie says by definition an earthquake must break the earth's crust, caused by plates or a volcano."
+    }
+  ]
+}

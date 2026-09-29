@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why jellyfish numbers are falling in warmer seas",
+        "How to avoid getting stung by jellyfish on the beach",
+        "How jellyfish damage fishing boats and their nets",
+        "How jellyfish mucus could help remove ocean plastic"
+      ],
+      "answer": 3,
+      "why": "Georgina says they'll learn how jellyfish mucus could provide the answer to plastic waste in the seas."
+    },
+    {
+      "q": "Which problem caused by jellyfish is mentioned at the start?",
+      "options": [
+        "Blocking pipes at power stations",
+        "Eating all the fish in the sea",
+        "Damaging coral reefs",
+        "Polluting drinking water"
+      ],
+      "answer": 0,
+      "why": "Georgina says some species scare tourists, clog fishing nets and even block power station pipes."
+    },
+    {
+      "q": "Where have microplastics been found, according to Neil?",
+      "options": [
+        "Only in the water near big coastal cities",
+        "Only on beaches in Europe and North America",
+        "In Arctic ice, the seabed and inside humans",
+        "Mainly in rivers and lakes rather than the sea"
+      ],
+      "answer": 2,
+      "why": "Neil says they have been found in Arctic ice, at the bottom of the sea and inside animals, including humans."
+    },
+    {
+      "q": "What does Dr Rotter remember about her childhood?",
+      "options": [
+        "Plastic bags were very cheap and everyone used them",
+        "They used cloth bags and almost no single-use plastic",
+        "The sea near her home was always full of jellyfish",
+        "Her family carefully recycled all of their plastic"
+      ],
+      "answer": 1,
+      "why": "She says they always shopped with cloth bags and single-use spoons or forks were unheard of."
+    },
+    {
+      "q": "How does the UN describe plastic pollution?",
+      "options": [
+        "As a small local problem in a few countries",
+        "As a problem that has now largely been solved",
+        "As much less serious than overfishing or climate",
+        "As one of the world's top environmental threats"
+      ],
+      "answer": 3,
+      "why": "Georgina says the UN lists plastic pollution as one of the world's top environmental threats."
+    },
+    {
+      "q": "Why does Dr Rotter compare jellyfish mucus to a magnet?",
+      "options": [
+        "Tiny plastic particles stick to it",
+        "It is made of metal",
+        "It pulls jellyfish towards the shore",
+        "It attracts fish for jellyfish to eat"
+      ],
+      "answer": 0,
+      "why": "She says particles can attach to the mucus, so it could act as a magnet for microplastics."
+    },
+    {
+      "q": "Why does Georgina say the idea 'couldn't have come at a better time'?",
+      "options": [
+        "Plastic use around the world is falling quickly",
+        "Scientists have already finished all their research",
+        "Warmer seas and overfishing have boosted jellyfish",
+        "Tourists have stopped visiting beaches with jellyfish"
+      ],
+      "answer": 2,
+      "why": "She says rising sea temperatures and overfishing of predators have boosted jellyfish numbers."
+    },
+    {
+      "q": "What does Neil say about the state of Dr Rotter's research?",
+      "options": [
+        "It is already cleaning the oceans",
+        "It is still at an early stage",
+        "It has been stopped because of costs",
+        "It has failed to find any results"
+      ],
+      "answer": 1,
+      "why": "Neil says Dr Rotter's research is still in the early stages."
+    }
+  ]
+}

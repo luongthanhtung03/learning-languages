@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How plastic was invented in the 1950s",
+        "Why recycling alone can solve the plastic problem",
+        "How to make plastic from plants",
+        "The problems plastic causes, and life without it"
+      ],
+      "answer": 3,
+      "why": "Beth says they'll be asking: is it time to live without plastic?"
+    },
+    {
+      "q": "Why does Beth start with the phrase “Plastic is fantastic!”?",
+      "options": [
+        "To advertise a new plastic product",
+        "To show how popular plastic once was",
+        "To say that plastic is still the best material",
+        "To describe a famous song"
+      ],
+      "answer": 1,
+      "why": "She says it was used a lot in the 1950s as plastic became part of everyday life."
+    },
+    {
+      "q": "How much of global plastic pollution is thought to come from single-use plastics?",
+      "options": [
+        "About 40%",
+        "About 11%",
+        "Almost all of it",
+        "Less than 5%"
+      ],
+      "answer": 0,
+      "why": "Neil says single-use plastics are believed to make up 40% of all plastic pollution."
+    },
+    {
+      "q": "Where have tiny plastic microbeads been found?",
+      "options": [
+        "Only in the deep ocean",
+        "Only in rivers in the US",
+        "Inside the human body, and even in breast milk",
+        "In fresh fruit and vegetables from supermarkets"
+      ],
+      "answer": 2,
+      "why": "Beth says they've been found in the human body and can pass to a child through breast milk."
+    },
+    {
+      "q": "Why does making plastic cause problems at every stage?",
+      "options": [
+        "It uses too much water",
+        "It needs rare metals",
+        "It is only made in a few countries",
+        "It comes from fossil fuels"
+      ],
+      "answer": 3,
+      "why": "Beth says because plastic comes from fossil fuels, making it creates problems at every stage."
+    },
+    {
+      "q": "What did Dr Sherri Mason's research lead to?",
+      "options": [
+        "The US Congress banning microbeads",
+        "A new type of plastic bag",
+        "The discovery of plastic-eating microbes",
+        "A ban on plastic bottles in schools"
+      ],
+      "answer": 0,
+      "why": "Her 2017 research into microplastics in rivers led to the US Congress banning microbeads."
+    },
+    {
+      "q": "Why does Dr Mason talk about a paper bag at the side of the road?",
+      "options": [
+        "To show that paper is worse than plastic",
+        "To complain about people dropping litter",
+        "To contrast it with plastic, which nature can't break down",
+        "To suggest that we should all use paper bags instead of plastic"
+      ],
+      "answer": 2,
+      "why": "Soil organisms turn the paper bag back into soil, but plastic is synthetic and doesn't biodegrade."
+    },
+    {
+      "q": "Besides plastic-eating microbes, what else does Beth say is needed?",
+      "options": [
+        "More recycling centres",
+        "Making less plastic, especially packaging",
+        "Burning plastic waste",
+        "Sending plastic waste to other countries to deal with"
+      ],
+      "answer": 1,
+      "why": "She says we need to reduce plastic production, especially packaging, rather than simply recycling."
+    }
+  ]
+}

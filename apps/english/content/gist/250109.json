@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The most expensive restaurants in Bangkok",
+        "Stews and soups that are kept cooking for years",
+        "How to cook camel and caiman",
+        "Why old food is dangerous to eat"
+      ],
+      "answer": 1,
+      "why": "They discuss 'forever food' – dishes kept going day after day, year after year."
+    },
+    {
+      "q": "What unusual foods have Beth and Phil eaten?",
+      "options": [
+        "Both of them enjoyed eating camel",
+        "Phil didn't like caiman at all, but Beth loved camel",
+        "Beth didn't enjoy camel, but Phil loved caiman",
+        "Neither of them has eaten anything unusual"
+      ],
+      "answer": 2,
+      "why": "Beth ate camel and didn't like it; Phil ate caiman and it was delicious."
+    },
+    {
+      "q": "What did listener David Shirley discover in Bangkok?",
+      "options": [
+        "A restaurant that serves only vegetables",
+        "A soup made from 50 different ingredients from the market",
+        "A cook who is 50 years old",
+        "A stew that had been cooking for fifty years"
+      ],
+      "answer": 3,
+      "why": "He says he found a stew that had been simmering for fifty years."
+    },
+    {
+      "q": "How is a perpetual stew kept going?",
+      "options": [
+        "The pot is never emptied; new ingredients and water are added",
+        "It is frozen and heated again each day",
+        "It is cooked once a year for a festival",
+        "It is emptied and started again with fresh ingredients every week"
+      ],
+      "answer": 0,
+      "why": "Phil says the pot is never completely emptied; new ingredients and water are added."
+    },
+    {
+      "q": "What does writer Fuchsia Dunlop say about the Chinese '100-year-old broth'?",
+      "options": [
+        "She isn't sure it's strictly true, but thinks it's possible",
+        "She has tasted it many times",
+        "She says it's definitely a myth",
+        "She thinks it's too dangerous to eat because of the risk of illness"
+      ],
+      "answer": 0,
+      "why": "She says she doesn't know if it's strictly true, but 'theoretically' it's possible."
+    },
+    {
+      "q": "According to Fuchsia, what do cooks need to do to keep the broth safe?",
+      "options": [
+        "Add lots of chilli",
+        "Keep it in a cold place",
+        "Change the pot every month and wash it carefully with soap",
+        "Skim it, boil it every day and keep adding more"
+      ],
+      "answer": 3,
+      "why": "She says you always skim it, boil it every day and replenish it as needed."
+    },
+    {
+      "q": "According to historian Martha Carlin, why might medieval people keep a stew bubbling?",
+      "options": [
+        "Because meat was very cheap",
+        "Starting a fire was hard, and they'd always have a hot meal ready",
+        "Because keeping a pot on the fire was an important religious tradition",
+        "Because they didn't like fresh food"
+      ],
+      "answer": 1,
+      "why": "She says starting a fire was cumbersome, and keeping the pot going meant a hot meal was always waiting."
+    },
+    {
+      "q": "What does Phil add about keeping a fire going all day in the Middle Ages?",
+      "options": [
+        "Everyone did it",
+        "It was against the law",
+        "Only rich families could afford enough wood",
+        "It was only done in winter when it was very cold"
+      ],
+      "answer": 2,
+      "why": "He says only rich families were able to afford enough wood to keep a fire going all day."
+    }
+  ]
+}

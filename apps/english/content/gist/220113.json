@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why Latin is no longer spoken today",
+        "Languages that people have invented",
+        "How to learn a language through TV shows",
+        "Why English grammar is so hard to learn"
+      ],
+      "answer": 1,
+      "why": "They discuss invented languages such as Klingon, Dothraki, Saint Hildegard's language and Esperanto."
+    },
+    {
+      "q": "Why is Neil confused at the start of the programme?",
+      "options": [
+        "Sam speaks to him in Klingon",
+        "Sam doesn't answer his question at all",
+        "Sam says she is ill and must go home",
+        "Sam says she's fine, then adds 'not'"
+      ],
+      "answer": 3,
+      "why": "Sam says 'I'm fine… not!' – using 'not' at the end to mean the opposite of what she said."
+    },
+    {
+      "q": "Why do small changes like 'my bad' happen in English?",
+      "options": [
+        "People use it in their daily lives",
+        "Teachers invent new words every year",
+        "It copies words from Latin",
+        "TV shows create new grammar rules"
+      ],
+      "answer": 0,
+      "why": "Neil says unlike Latin, English is a living language – people speak and use it in their ordinary lives."
+    },
+    {
+      "q": "Why was the Klingon language created?",
+      "options": [
+        "To help people from different countries talk",
+        "As a university research project",
+        "For alien characters in the TV show Star Trek",
+        "To be used in songs by a Dutch opera company"
+      ],
+      "answer": 2,
+      "why": "When Star Trek introduced alien characters called Klingons, the makers needed a whole new language."
+    },
+    {
+      "q": "Why doesn't David Peterson think Saint Hildegard's creation was a proper language?",
+      "options": [
+        "Because it was only used in one small church",
+        "Because nobody could understand her songs",
+        "Because it had no new words of its own",
+        "She made new nouns but used Latin grammar"
+      ],
+      "answer": 3,
+      "why": "He says she had a list of nouns but used Latin grammar, and a language is not just vocabulary."
+    },
+    {
+      "q": "Why did Ludwik Zamenhof invent Esperanto?",
+      "options": [
+        "To help people who spoke different languages",
+        "To write a new kind of fantasy story for TV",
+        "To replace Latin in all European schools",
+        "To create a secret language for doctors"
+      ],
+      "answer": 0,
+      "why": "Sam says he wanted to make it easier for people who spoke different languages to communicate."
+    },
+    {
+      "q": "How did Michael Rosen understand the word 'parolas'?",
+      "options": [
+        "He had studied Esperanto at school",
+        "David Peterson explained it to him",
+        "He guessed it from its Latin root",
+        "He looked it up in a dictionary"
+      ],
+      "answer": 2,
+      "why": "Michael says he got 'the parle bit from its Latin root'."
+    },
+    {
+      "q": "What happened when David Peterson said a second sentence in Esperanto?",
+      "options": [
+        "Michael understood it immediately",
+        "Michael couldn't work out what it meant",
+        "Michael answered in Esperanto",
+        "Michael said it sounded like Klingon"
+      ],
+      "answer": 1,
+      "why": "Michael guessed 'Who is my father?' and 'Where am I travelling?' before saying 'I got stuck on that one!'"
+    }
+  ]
+}

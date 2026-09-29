@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How long it takes to travel to the Sun",
+        "Why science fiction films show little green men",
+        "Whether a faraway planet might have conditions for life",
+        "How astronauts live on the Moon"
+      ],
+      "answer": 2,
+      "why": "They learn from experts whether the conditions for life exist on a planet 40 light years away."
+    },
+    {
+      "q": "Do Neil and Becca agree about life beyond Earth?",
+      "options": [
+        "Yes, they both think life may exist, but not like in films",
+        "No, Neil believes in aliens but Becca doesn't",
+        "No, Becca believes in aliens but Neil doesn't",
+        "Yes, they both think we are alone in the universe"
+      ],
+      "answer": 0,
+      "why": "Neil thinks we cannot be alone, and Becca agrees, though 'maybe not as we see in alien movies'."
+    },
+    {
+      "q": "How does Caroline Steele describe TRAPPIST-1e?",
+      "options": [
+        "A gas planet many times bigger than Earth",
+        "A small planet in our own solar system",
+        "A rocky, Earth-sized planet in the habitable zone",
+        "A frozen moon with no atmosphere around it"
+      ],
+      "answer": 2,
+      "why": "She says it's rocky like Earth, a similar size, and in the habitable zone around its sun."
+    },
+    {
+      "q": "How far from Earth is the planet they discuss?",
+      "options": [
+        "About 4 light years",
+        "About 170 light years",
+        "Just beyond the Sun",
+        "About 40 light years"
+      ],
+      "answer": 3,
+      "why": "Neil says the planet is 40 light years away."
+    },
+    {
+      "q": "Why is it good news that the planet's atmosphere is not full of hydrogen or carbon dioxide?",
+      "options": [
+        "Those gases would make the planet very hot",
+        "Those gases are needed for water",
+        "Those gases make planets too cold",
+        "Those gases block telescopes"
+      ],
+      "answer": 0,
+      "why": "Caroline says they're greenhouse gases, which would make the planet really hot."
+    },
+    {
+      "q": "What clue suggests there could be life on TRAPPIST-1e?",
+      "options": [
+        "Signs of liquid water on its rocky surface",
+        "Signs that its air may be mostly nitrogen",
+        "Radio signals coming from the planet",
+        "Clear photos of plants growing there"
+      ],
+      "answer": 1,
+      "why": "She says there are small clues it might be a nitrogen-dominated atmosphere, a clue for life."
+    },
+    {
+      "q": "What does Caroline think scientists will do next?",
+      "options": [
+        "Send a team of astronauts to the planet",
+        "Stop studying the planet and look elsewhere",
+        "Look for other planets in our own galaxy",
+        "Study other gases and model its temperature"
+      ],
+      "answer": 3,
+      "why": "She guesses they'll look at other gases and use models to work out how warm the planet could be."
+    },
+    {
+      "q": "What does Caroline suggest when she says 'fingers crossed it has nitrogen'?",
+      "options": [
+        "She is completely sure the planet has nitrogen",
+        "She hopes so, as it could keep it warm enough",
+        "She thinks nitrogen would be dangerous for life",
+        "She doesn't really believe the new research"
+      ],
+      "answer": 1,
+      "why": "She hopes there's enough nitrogen 'to keep the planet a decent temperature', one step closer to life."
+    }
+  ]
+}

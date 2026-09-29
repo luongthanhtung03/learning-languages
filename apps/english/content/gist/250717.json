@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a beekeeper",
+        "Why honey is good for your health",
+        "Whether eating honey can help bees, and the problems wild bees face",
+        "Why vegans don't eat honey"
+      ],
+      "answer": 2,
+      "why": "They discuss a listener's question, 'Can honey help save bees?', and the decline of wild bees."
+    },
+    {
+      "q": "What does Phil say about honey?",
+      "options": [
+        "He uses it a lot when he cooks",
+        "He never eats it",
+        "He keeps his own bees so he can make honey",
+        "He only eats it when he is ill"
+      ],
+      "answer": 0,
+      "why": "Phil says he uses honey a lot in cooking."
+    },
+    {
+      "q": "Why was honey called 'liquid gold' in ancient times?",
+      "options": [
+        "Because it was used to make coins",
+        "Because only kings and queens were allowed to eat it at their feasts",
+        "Because bees were very rare",
+        "Because people valued its taste and its use as medicine"
+      ],
+      "answer": 3,
+      "why": "Beth says honey was prized for its taste and medicinal properties."
+    },
+    {
+      "q": "What is listener Saoirse unsure about?",
+      "options": [
+        "Whether she should stop being vegan and start eating honey again",
+        "Whether eating honey might help declining bee populations",
+        "Whether honey is safe for children",
+        "Whether honey bees are dangerous"
+      ],
+      "answer": 1,
+      "why": "She doesn't eat honey but asks 'can honey help save bees?' because bee populations are declining."
+    },
+    {
+      "q": "What do we learn about honey bees?",
+      "options": [
+        "They are one of the most endangered insects in the whole world",
+        "They are very widespread and not endangered",
+        "There are only 26 species left",
+        "They only live in the UK"
+      ],
+      "answer": 1,
+      "why": "Phil says honey bees are one of the most widespread insects and 'not endangered at all'."
+    },
+    {
+      "q": "What does biologist Dave Goulson say about bumblebees in the UK?",
+      "options": [
+        "All 26 species are doing well across the country",
+        "Numbers are rising quickly",
+        "They live mainly in cities",
+        "Three of the 26 species have died out"
+      ],
+      "answer": 3,
+      "why": "He says the UK has 26 bumblebee species, but three have gone extinct."
+    },
+    {
+      "q": "Why does Dave Goulson mention beekeepers?",
+      "options": [
+        "To explain why wild bees are more at risk than honey bees",
+        "To say that beekeepers are harming wild bees by keeping too many hives",
+        "To suggest everyone should keep bees",
+        "To show how much money honey makes"
+      ],
+      "answer": 0,
+      "why": "He says honey bees have beekeepers, 'but nobody's looking out for the wild bees'."
+    },
+    {
+      "q": "What does Phil suggest people can do to help wild bees?",
+      "options": [
+        "Eat more honey",
+        "Buy honey only from small local farms near where they live",
+        "Grow plants that bees like, such as lavender",
+        "Stop using cow manure on gardens"
+      ],
+      "answer": 2,
+      "why": "He says eating more honey won't do much, but you can grow bee-friendly plants like lavender."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How AI learns and why it often gets things wrong",
+        "How to cook fresh seafood like oysters at home",
+        "Why robots will soon replace chefs in restaurants",
+        "How to write good chat-up lines for a first date"
+      ],
+      "answer": 0,
+      "why": "They look at how intelligent AI really is and how misunderstandings like the recipe happen."
+    },
+    {
+      "q": "What is strange about Neil's 'frosted oysters' recipe?",
+      "options": [
+        "It takes three whole days to prepare and cook",
+        "It uses only vegetables and no meat or fish",
+        "It has chicken, pork and custard but no oysters",
+        "It was written by a famous French chef on TV"
+      ],
+      "answer": 2,
+      "why": "The recipe uses chicken, pork and garlic and is served with custard, which Sam finds disgusting."
+    },
+    {
+      "q": "Where did the title of Janelle Shane's book come from?",
+      "options": [
+        "A famous love song",
+        "A line from a film",
+        "Something her friend said",
+        "An AI asked to write chat-up lines"
+      ],
+      "answer": 3,
+      "why": "Neil says the title is what an AI produced when asked to write chat-up lines."
+    },
+    {
+      "q": "According to Janelle Shane, how is machine learning different from normal programming?",
+      "options": [
+        "It doesn't need any computers or electricity at all",
+        "Humans must write every single step for it to follow",
+        "You give it a goal and it finds a way by trial and error",
+        "It always gives the right answer the very first time"
+      ],
+      "answer": 1,
+      "why": "She says with machine learning you give it the goal and it figures out the solution by trial and error."
+    },
+    {
+      "q": "How did the AI create the oyster recipe?",
+      "options": [
+        "It read thousands of other recipes first",
+        "It copied one old recipe exactly, word for word",
+        "A professional chef told it what to write",
+        "It tasted lots of different foods in a lab"
+      ],
+      "answer": 0,
+      "why": "Neil says the AI read thousands of other recipes before coming up with its own version."
+    },
+    {
+      "q": "According to Janelle Shane, what can we learn from AI mistakes?",
+      "options": [
+        "That AI is dangerous and should be stopped",
+        "That most programmers are careless with their code",
+        "Nothing useful, because the mistakes are random",
+        "A lot about how it works, by seeing it go wrong"
+      ],
+      "answer": 3,
+      "why": "Neil says according to her, we can learn a lot about something by seeing how it goes wrong."
+    },
+    {
+      "q": "How did the AI solving maths problems get a perfect score?",
+      "options": [
+        "It learned all the correct answers by heart",
+        "A programmer secretly helped it with the answers",
+        "It accidentally deleted the list of solutions",
+        "It copied the answers from another AI program"
+      ],
+      "answer": 2,
+      "why": "She says by a stroke of luck it accidentally deleted the solutions list, so everyone got a perfect score."
+    },
+    {
+      "q": "What does Sam conclude after hearing about the maths AI?",
+      "options": [
+        "AI is cleverer than humans",
+        "AI is not so intelligent after all",
+        "AI should be used in schools",
+        "AI never makes mistakes"
+      ],
+      "answer": 1,
+      "why": "Sam says, “It seems to me that they're not so intelligent after all!”"
+    }
+  ]
+}

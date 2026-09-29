@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of every British king and queen",
+        "How to organise a street party in your town",
+        "Why the Royal Family is popular abroad",
+        "The Queen's jubilee and a pudding contest"
+      ],
+      "answer": 3,
+      "why": "Neil says they look at the Platinum Jubilee by hearing about a competition to make the official jubilee pudding."
+    },
+    {
+      "q": "What does the Platinum Jubilee celebrate?",
+      "options": [
+        "The Queen's seventieth birthday",
+        "70 years since she became Queen",
+        "25 years since her coronation",
+        "The opening of Buckingham Palace"
+      ],
+      "answer": 1,
+      "why": "Sam says it commemorates 70 years since she became Queen in 1952."
+    },
+    {
+      "q": "What makes this jubilee so special, according to Neil?",
+      "options": [
+        "No British monarch has ruled for 70 years before",
+        "It is the first jubilee with a four-day holiday",
+        "It is the first jubilee celebrated outside the UK",
+        "It is the first time the Queen has had a parade"
+      ],
+      "answer": 0,
+      "why": "Neil says she is the first British monarch ever to spend 70 years on the throne."
+    },
+    {
+      "q": "Which of these is part of the Platinum Pageant?",
+      "options": [
+        "A football match in front of the palace",
+        "A cake-making show on television",
+        "Puppets of the Queen's corgi dogs",
+        "A speech by the Queen at St Paul's"
+      ],
+      "answer": 2,
+      "why": "Neil says the pageant features music, dancing, puppets of the Queen's corgi dogs and Ed Sheeran."
+    },
+    {
+      "q": "What tradition does Sam describe?",
+      "options": [
+        "Eating a Victoria sponge at every royal wedding",
+        "Holding a cake competition every year in London",
+        "Serving coronation chicken at street parties",
+        "Inventing a new dish to celebrate a jubilee"
+      ],
+      "answer": 3,
+      "why": "Sam says there's a tradition of inventing a new food dish to commemorate jubilees."
+    },
+    {
+      "q": "What is the winning Platinum Pudding?",
+      "options": [
+        "A trifle with lemon Swiss roll and amaretti",
+        "A chicken dish with a curry cream sauce",
+        "A new version of the Victoria sponge cake",
+        "A chocolate cake with cream and mandarins"
+      ],
+      "answer": 0,
+      "why": "Daniella Relph says the winner is a lemon Swiss roll and amaretti trifle, a twist on a traditional trifle."
+    },
+    {
+      "q": "How did Jemma Melvin feel when her trifle won?",
+      "options": [
+        "Calm, because she expected to win",
+        "Disappointed with how it looked",
+        "Amazed, as the others were lovely",
+        "Worried that people wouldn't like it"
+      ],
+      "answer": 2,
+      "why": "She says 'I cannot believe it!' – the other desserts were beautiful, so her win feels 'a bit surreal'."
+    },
+    {
+      "q": "Why did Jemma base her pudding on a simple trifle?",
+      "options": [
+        "Because the Queen doesn't like fancy desserts",
+        "So that everyone in the country can make it",
+        "Because it was the cheapest recipe in the competition",
+        "Because the rules said it had to be a trifle"
+      ],
+      "answer": 1,
+      "why": "Sam says she wanted a humble trifle, something everyone around the country can make – 'the people's pudding'."
+    }
+  ]
+}

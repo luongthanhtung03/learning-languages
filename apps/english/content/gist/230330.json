@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make new friends at a new job",
+        "Famous plays by Shakespeare about love",
+        "What jealousy is and how to deal with it",
+        "Why people cancel their lunch plans"
+      ],
+      "answer": 2,
+      "why": "They discuss jealousy to find out what happens when 'the green-eyed monster' appears."
+    },
+    {
+      "q": "Why does Neil feel jealous at the start?",
+      "options": [
+        "Alicia cancelled lunch to eat with Jenny again",
+        "Sam got a promotion at work instead of him",
+        "Jenny bought a new car and showed it off",
+        "Alicia forgot his birthday this year"
+      ],
+      "answer": 0,
+      "why": "Alicia cancelled lunch, and it's the third time this week she's had lunch with Jenny."
+    },
+    {
+      "q": "According to Dr Alex Mielke, when do people feel jealous?",
+      "options": [
+        "When someone has something that they want",
+        "When they lose a competition or a game",
+        "When they are alone for a long time",
+        "When someone else threatens a relationship"
+      ],
+      "answer": 3,
+      "why": "He says jealousy is the feeling that a relationship is threatened by someone else."
+    },
+    {
+      "q": "How is envy different from jealousy?",
+      "options": [
+        "Envy involves three people",
+        "Envy is about wanting what someone else has",
+        "Envy happens only in romantic relationships",
+        "Envy is always stronger than jealousy"
+      ],
+      "answer": 1,
+      "why": "Envy is wanting what someone else has, and involves just two people."
+    },
+    {
+      "q": "Which example of controlling behaviour caused by jealousy is mentioned?",
+      "options": [
+        "Checking a partner's text messages",
+        "Buying expensive presents",
+        "Refusing to go to work",
+        "Moving to another city"
+      ],
+      "answer": 0,
+      "why": "Neil mentions checking your partner's text messages or monitoring who they see."
+    },
+    {
+      "q": "What is said about asking for help with jealousy?",
+      "options": [
+        "Most people ask for help very quickly",
+        "Only men ask for help",
+        "Many people don't feel brave enough to ask",
+        "Doctors refuse to help"
+      ],
+      "answer": 2,
+      "why": "Unlike anxiety or OCD, many do not feel brave enough to ask for help with jealousy."
+    },
+    {
+      "q": "What does Dr Johan Ahlen recommend for jealousy?",
+      "options": [
+        "Taking a special pill every morning",
+        "Ending the relationship as soon as possible",
+        "Spending more time alone to calm down",
+        "Therapy to reduce checking on others"
+      ],
+      "answer": 3,
+      "why": "He suggests cognitive behavioural therapy to decrease monitoring and checking and increase positive behaviours."
+    },
+    {
+      "q": "What does Sam suggest Neil could do instead of feeling jealous?",
+      "options": [
+        "Stop being friends with Alicia for a while",
+        "Feel happy that Alicia has a new friend",
+        "Ask Jenny to stay away from Alicia",
+        "Invite himself along to their lunches"
+      ],
+      "answer": 1,
+      "why": "She says try feeling happy that she's made a new friend."
+    }
+  ]
+}

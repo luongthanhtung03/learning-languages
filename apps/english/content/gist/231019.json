@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How our bank savings can help or harm the planet",
+        "How to save money on energy bills",
+        "Why some people still keep money under the mattress",
+        "How banks make a profit"
+      ],
+      "answer": 0,
+      "why": "Beth says they'll discuss ways our money can help protect the environment."
+    },
+    {
+      "q": "What point does Neil make about money in the bank?",
+      "options": [
+        "It is safer than cash at home",
+        "It just sits there doing nothing",
+        "Banks invest it, sometimes in polluting businesses",
+        "It always supports green energy projects around the world"
+      ],
+      "answer": 2,
+      "why": "He says it's invested to fund other businesses, some far from environmentally friendly."
+    },
+    {
+      "q": "What does Beth mean when she says she is “very green about money”?",
+      "options": [
+        "She only uses eco-friendly banks",
+        "She doesn't know much about it",
+        "She is jealous of rich people",
+        "She spends a lot on green products"
+      ],
+      "answer": 1,
+      "why": "She says she means green as in ignorant or naïve, not environmentally friendly."
+    },
+    {
+      "q": "What was Triodos?",
+      "options": [
+        "A campaign by Richard Curtis",
+        "An oil drilling company that opened in Bristol in 2012",
+        "A pension fund for teachers",
+        "The UK's first environmentally sustainable bank"
+      ],
+      "answer": 3,
+      "why": "Neil says it was the UK's first environmentally sustainable bank, opened in Bristol in 2012."
+    },
+    {
+      "q": "How has interest in ethical banking changed, according to John Fleetwood?",
+      "options": [
+        "It has almost disappeared",
+        "It has always been very popular",
+        "It is now mainly for big businesses, not for ordinary people",
+        "It used to be for a small group, but has grown hugely"
+      ],
+      "answer": 3,
+      "why": "He says it was viewed as a niche thing but has now broadened hugely."
+    },
+    {
+      "q": "What is a big concern among investors now?",
+      "options": [
+        "Banks closing down",
+        "Some banks pretending to be green without real action",
+        "Interest rates going up",
+        "There are now far too many ethical funds to choose from"
+      ],
+      "answer": 1,
+      "why": "Fleetwood says there's great concern about greenwashing – who's jumping on the bandwagon."
+    },
+    {
+      "q": "Why does Beth think banks are likely to change their behaviour?",
+      "options": [
+        "They depend on customers, who can move their money elsewhere",
+        "The government has passed new laws that force them to change",
+        "Their staff want them to",
+        "Oil companies ask them to"
+      ],
+      "answer": 0,
+      "why": "She says banks rely on customers' money and change when customers threaten to leave."
+    },
+    {
+      "q": "Why did Mark Carney tell Richard Curtis to “go for it”?",
+      "options": [
+        "The accounting and reporting systems were already perfect",
+        "Pensions were about to become illegal",
+        "More public interest will force companies to be open",
+        "Comic Relief needed more money"
+      ],
+      "answer": 2,
+      "why": "Curtis says Carney told him the more people become interested, the more transparent companies must be."
+    }
+  ]
+}

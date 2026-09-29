@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How children learn to read at school",
+        "Why people today read far fewer books than before",
+        "The history of International Literacy Day",
+        "Projects that help adults learn to read and write"
+      ],
+      "answer": 3,
+      "why": "Phil says they'll hear about projects in two countries getting more adults reading and writing."
+    },
+    {
+      "q": "What point does Phil make about reading?",
+      "options": [
+        "It is mainly a hobby for people who commute",
+        "It is less important now that almost everyone has a phone",
+        "It is needed for everyday tasks like reading labels",
+        "It is only useful for reading the news"
+      ],
+      "answer": 2,
+      "why": "He calls it an essential skill for everyday activities like reading labels when buying groceries."
+    },
+    {
+      "q": "What did the UN report estimate?",
+      "options": [
+        "Over 700 million adults can't read or write",
+        "One in six children around the world never goes to school",
+        "About 11,000 adults are illiterate",
+        "Most illiterate adults live in England"
+      ],
+      "answer": 0,
+      "why": "Beth says the report estimated that over 700 million adults are illiterate."
+    },
+    {
+      "q": "Why is it hard for children in coastal Bangladesh to get an education?",
+      "options": [
+        "Schools there are very expensive",
+        "Regular floods mean families keep moving",
+        "There are no teachers in those towns",
+        "Children have to work in factories instead of studying"
+      ],
+      "answer": 1,
+      "why": "Because the towns flood regularly, families are always on the move."
+    },
+    {
+      "q": "How did Rashida sign documents before the Friendship Project?",
+      "options": [
+        "Her children signed for her",
+        "She used her fingerprint",
+        "She drew a small picture",
+        "She never signed anything"
+      ],
+      "answer": 1,
+      "why": "She says she had to use her fingerprint as a signature."
+    },
+    {
+      "q": "Why does Rashida say “No one can cheat me anymore”?",
+      "options": [
+        "Because she now has a job in a bank",
+        "Because her children now look after all of her money",
+        "Because she no longer buys anything",
+        "Because she can now keep track of her spending"
+      ],
+      "answer": 3,
+      "why": "She can now read, write and keep an account of her expenses."
+    },
+    {
+      "q": "What do we learn about the Friendship Project?",
+      "options": [
+        "It is free and over 11,000 adults have completed it",
+        "It costs a lot but is very successful",
+        "It only teaches maths to men",
+        "It matches adult learners with trained volunteers in England"
+      ],
+      "answer": 0,
+      "why": "Phil says the project is free and over 11,000 adults have completed it."
+    },
+    {
+      "q": "How did Peter feel about himself before joining Readeasy?",
+      "options": [
+        "Angry with his old teachers",
+        "Proud that he had managed his whole life without reading",
+        "Sure he was stupid and would never learn",
+        "Happy because his wife read for him"
+      ],
+      "answer": 2,
+      "why": "After trying college twice, he says, “I'm thick, I'm stupid… it's never gonna work for me.”"
+    }
+  ]
+}

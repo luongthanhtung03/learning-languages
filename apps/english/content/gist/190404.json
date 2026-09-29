@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of underground railways in London",
+        "Feeling awkward and the unspoken social rules behind it",
+        "How to make polite conversation with strangers at work",
+        "Why teenagers hate watching TV with their parents"
+      ],
+      "answer": 1,
+      "why": "Neil says they're looking at awkwardness and how it is connected to social rules."
+    },
+    {
+      "q": "When did Dan use to feel awkward?",
+      "options": [
+        "Waiting at the bus stop in the morning",
+        "On the crowded underground to work",
+        "When talking about money with friends",
+        "Watching love scenes on TV with his parents"
+      ],
+      "answer": 3,
+      "why": "He remembers feeling awkward watching explicit love scenes with his parents."
+    },
+    {
+      "q": "Which example do the presenters give of breaking a social rule?",
+      "options": [
+        "Asking a stranger at a bus stop how much they earn",
+        "Talking about the weather with a neighbour",
+        "Sitting far away from other people on a bus",
+        "Watching romantic films on TV with family"
+      ],
+      "answer": 0,
+      "why": "Dan says it would be awkward to ask a stranger how much money they earned."
+    },
+    {
+      "q": "How does Dr Raj Persaud describe social rules?",
+      "options": [
+        "Written down but rarely followed",
+        "Different in every family",
+        "Almost invisible, yet very powerful",
+        "Easy to see with a brain scanner"
+      ],
+      "answer": 2,
+      "why": "He says they're 'almost invisible - yet we all obey them' and are 'massively powerful'."
+    },
+    {
+      "q": "What problem does Dr Persaud raise about studying social rules?",
+      "options": [
+        "People refuse to talk about them with researchers",
+        "You can't see them with a brain scanner or microscope",
+        "They change every year, so studies go out of date",
+        "They are too simple and obvious to be worth studying"
+      ],
+      "answer": 1,
+      "why": "He says you couldn't use an MRI brain scanner or a microscope to find them."
+    },
+    {
+      "q": "How did 'breaching experiments' discover social rules?",
+      "options": [
+        "By asking people to write down the rules they follow",
+        "By reading old books about manners and etiquette",
+        "By secretly watching people in their own homes",
+        "By breaking a rule on purpose and watching reactions"
+      ],
+      "answer": 3,
+      "why": "Dr Persaud says, 'You breached the social rule on purpose.'"
+    },
+    {
+      "q": "What happened in the train experiment?",
+      "options": [
+        "Someone sat right next to the only passenger in a carriage",
+        "Someone talked very loudly on the phone for the whole trip",
+        "Someone walked through the train asking passengers for money",
+        "Someone stood in the doorway so nobody could get off"
+      ],
+      "answer": 0,
+      "why": "He describes sitting next to the only person in a carriage."
+    },
+    {
+      "q": "How did researchers know they had found a rule?",
+      "options": [
+        "The passenger started a friendly conversation",
+        "The passenger complained to the train staff",
+        "The passenger seemed uneasy, and even got off",
+        "The passenger ignored them and fell asleep"
+      ],
+      "answer": 2,
+      "why": "If it led to discomfort and the person got off immediately, a rule was discovered."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How the ancient Silk Roads helped world trade to grow",
+        "Why so many pubs have closed during the pandemic",
+        "A historian's view of coronavirus versus past pandemics",
+        "How scientists developed a coronavirus vaccine so fast"
+      ],
+      "answer": 2,
+      "why": "They hear historian Peter Frankopan's view of the bigger picture of coronavirus versus other pandemics."
+    },
+    {
+      "q": "How does Neil feel about coronavirus at the start?",
+      "options": [
+        "He is fed up with it",
+        "He is not worried about it at all",
+        "He is excited about the changes it has brought",
+        "He thinks it is nearly over"
+      ],
+      "answer": 0,
+      "why": "Neil says he has really had enough of coronavirus."
+    },
+    {
+      "q": "Why does Georgina think a historian's opinion is useful?",
+      "options": [
+        "Historians understand viruses better than scientists",
+        "Politicians have said nothing about the pandemic",
+        "Historians can predict when the pandemic will end",
+        "It may give a fresh and more hopeful view"
+      ],
+      "answer": 3,
+      "why": "She says a historian's view might give a fresh look and a more hopeful point of view."
+    },
+    {
+      "q": "According to Peter Frankopan, what is one result of people living close together?",
+      "options": [
+        "Diseases become less dangerous",
+        "Diseases pass from animals to humans",
+        "People become healthier over time",
+        "Trade between countries slows down"
+      ],
+      "answer": 1,
+      "why": "He says high-density living leads to transitions of disease from animals to human beings."
+    },
+    {
+      "q": "Which example do the presenters give of disease spreading in the past?",
+      "options": [
+        "Cows spreading flu in Asia",
+        "Birds carrying disease to Japan",
+        "Rats with fleas spreading the plague in Europe",
+        "Travellers bringing coronavirus from Wuhan"
+      ],
+      "answer": 2,
+      "why": "Neil mentions flea-infested rats which spread the plague across Europe in the Middle Ages."
+    },
+    {
+      "q": "Why does Frankopan mention Scandinavia and New Zealand?",
+      "options": [
+        "They have the best-funded hospitals in the world",
+        "Being remote means less contact with the world",
+        "They were the first countries to get a vaccine",
+        "They closed their borders earlier than anyone else"
+      ],
+      "answer": 1,
+      "why": "He says geographically peripheral places have a different level of connectivity with the rest of the world."
+    },
+    {
+      "q": "Why did the UK catch and spread the virus more quickly, according to Frankopan?",
+      "options": [
+        "It has a very old population",
+        "Its government ignored the warnings",
+        "Its cities are more crowded than others",
+        "It is at the centre of global flight routes"
+      ],
+      "answer": 3,
+      "why": "He says the UK is the centre of all global flight routes, with many people going in and out."
+    },
+    {
+      "q": "What does Georgina conclude about the current pandemic?",
+      "options": [
+        "It's not so bad historically, and the end is near",
+        "It is the worst pandemic in all of human history",
+        "It will probably last for many more years to come",
+        "It has caused more deaths than the Spanish flu"
+      ],
+      "answer": 0,
+      "why": "She says far fewer people have died than in earlier pandemics and with a vaccine the end is almost in sight."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The most popular breakfast foods in the UK",
+        "How to cook a quick breakfast before work",
+        "Why coffee is bad for you in the morning",
+        "Why some experts think a big breakfast helps"
+      ],
+      "answer": 3,
+      "why": "They ask how important breakfast is and hear why experts recommend eating a big one."
+    },
+    {
+      "q": "What did Phil have for breakfast, and how does he feel now?",
+      "options": [
+        "A pastry and coffee; he feels full",
+        "Porridge at six o'clock; he's hungry again",
+        "Nothing; he skipped it",
+        "Eggs and toast; he feels tired"
+      ],
+      "answer": 1,
+      "why": "Phil had a big bowl of porridge at six o'clock, so he's hungry again now."
+    },
+    {
+      "q": "What does Professor Alexandra Johnstone recommend?",
+      "options": [
+        "Eating a big breakfast and a small dinner",
+        "Eating only two meals a day",
+        "Skipping breakfast to lose weight",
+        "Eating the same amount at every meal"
+      ],
+      "answer": 0,
+      "why": "She supports 'breakfast like a king and dine like a pauper': big breakfast, small dinner."
+    },
+    {
+      "q": "According to Alexandra, who is breakfast especially important for?",
+      "options": [
+        "Children and teenagers who are still growing",
+        "Athletes who train early in the morning",
+        "People trying to stay healthy or lose weight",
+        "People who work at night and sleep all day"
+      ],
+      "answer": 2,
+      "why": "She says it's important particularly for people maintaining a healthy weight or trying to lose weight."
+    },
+    {
+      "q": "According to Courtney Peterson, what happens when we eat a large meal early in the day?",
+      "options": [
+        "The body processes it better, with less sugar rise",
+        "We feel sleepy and tired for the rest of the day",
+        "We burn far fewer calories during the day",
+        "Our blood sugar rises much higher than usual"
+      ],
+      "answer": 0,
+      "why": "She says the body is better at metabolising it, and blood sugar levels won't spike as high."
+    },
+    {
+      "q": "Why does Courtney give the example of a bowl of ice cream?",
+      "options": [
+        "To show that ice cream is actually healthy",
+        "To suggest eating dessert for breakfast instead",
+        "To explain why people love sweet food at night",
+        "The same food affects blood sugar more later"
+      ],
+      "answer": 3,
+      "why": "Eaten in the afternoon or evening, the same ice cream makes blood sugar spike significantly higher."
+    },
+    {
+      "q": "What are two reasons mentioned for why people skip breakfast?",
+      "options": [
+        "They don't like the taste or they feel sick",
+        "Doctors tell them to, or they're on holiday",
+        "They don't have time, or they want to save money",
+        "They sleep late, or they exercise"
+      ],
+      "answer": 2,
+      "why": "Phil says people skip it sometimes because they lack time and sometimes to save money."
+    },
+    {
+      "q": "What does Alexandra's research suggest about people who eat breakfast regularly?",
+      "options": [
+        "They eat more later in the day to make up",
+        "They're leaner and control their appetite better",
+        "They have much more energy for sport",
+        "They sleep better and longer at night"
+      ],
+      "answer": 1,
+      "why": "She says regular breakfast eaters are leaner and a big morning meal gives better appetite control."
+    }
+  ]
+}

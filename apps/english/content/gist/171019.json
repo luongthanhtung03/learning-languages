@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to become a faster swimmer in just a few weeks",
+        "Safety rules for young children at the local pool",
+        "Good manners and unwritten rules in swimming pools",
+        "Why swimming is good for your health and your mood"
+      ],
+      "answer": 2,
+      "why": "Neil explains 'wetiquette' means swimming pool etiquette: dos and don'ts to keep things calm in the water."
+    },
+    {
+      "q": "Why does Neil think everyone should shower before swimming?",
+      "options": [
+        "Because it's the law in the UK for all public pools",
+        "It's easy and keeps sweat and bacteria out of the pool",
+        "It helps you swim faster because your skin is smoother",
+        "It warms your body up before you get into the cold water"
+      ],
+      "answer": 1,
+      "why": "Neil says a shower is easy and stops 'horrible sweat and bacteria' getting in the pool."
+    },
+    {
+      "q": "According to Jenny Landreth, what causes 'lane rage'?",
+      "options": [
+        "People running beside the pool",
+        "Too many swimmers in the pool at once",
+        "Swimmers diving in the shallow end",
+        "People being in the wrong lane for their speed"
+      ],
+      "answer": 3,
+      "why": "She says most swimmers suffer lane rage if people are in the wrong lane of the pool."
+    },
+    {
+      "q": "Who does Jenny say often misjudges their speed?",
+      "options": [
+        "Men",
+        "Children",
+        "Older women",
+        "New swimmers"
+      ],
+      "answer": 0,
+      "why": "She says 'gentlemen quite often misjudge their speed' and think they're faster than they are."
+    },
+    {
+      "q": "Why do these swimmers often choose a faster lane, according to Jenny?",
+      "options": [
+        "The slow lane is usually too crowded at lunchtime",
+        "They are training for races and need more space",
+        "They don't know which lane is which because of bad signs",
+        "They don't like a woman swimming faster than them"
+      ],
+      "answer": 3,
+      "why": "Jenny says they often don't like it if a woman is swimming faster than them."
+    },
+    {
+      "q": "What does it mean if someone taps your foot in the pool?",
+      "options": [
+        "They want you to stop swimming",
+        "They want to pass you",
+        "You are in the wrong lane",
+        "They are asking for help"
+      ],
+      "answer": 1,
+      "why": "Neil says if somebody taps your foot, it means they want to overtake you."
+    },
+    {
+      "q": "What is Rob suggesting when he asks if it's Neil's 'male ego talking'?",
+      "options": [
+        "Neil may be like the men who hate being beaten",
+        "Neil is a very slow swimmer and should practise more",
+        "Neil should swim in the fast lane with the other men",
+        "Neil is scared of the water and can't swim well"
+      ],
+      "answer": 0,
+      "why": "Neil says he hates being overtaken, and Rob links this to the male ego Jenny described."
+    },
+    {
+      "q": "What reason does Neil give for hating being overtaken?",
+      "options": [
+        "It makes him feel slow",
+        "It is against the pool rules",
+        "He doesn't like getting splashed",
+        "It makes him lose count of his lengths"
+      ],
+      "answer": 2,
+      "why": "Neil says 'No, not at all – I just hate getting splashed'."
+    }
+  ]
+}

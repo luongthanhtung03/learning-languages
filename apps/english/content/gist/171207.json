@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How our mood affects what we buy",
+        "Which country spends the most online",
+        "How to save money when shopping",
+        "Why people prefer shopping online"
+      ],
+      "answer": 0,
+      "why": "Neil says they are looking at the link between shopping and mood."
+    },
+    {
+      "q": "Why did Dan go shopping?",
+      "options": [
+        "He needed new clothes for work meetings",
+        "It was a close friend's birthday that week",
+        "There was a big sale on in the city centre",
+        "He felt miserable and wanted to cheer up"
+      ],
+      "answer": 3,
+      "why": "Dan says he was feeling a bit miserable, so he went shopping to cheer himself up."
+    },
+    {
+      "q": "What did the research by moneysupermarket.com find?",
+      "options": [
+        "Happy people spend more money than sad or bored people",
+        "People shop much more at weekends than during the week",
+        "Sad, bored or stressed people often buy things they regret",
+        "Most people never regret what they buy, even when stressed"
+      ],
+      "answer": 2,
+      "why": "It found people are more likely to buy things they'll regret when sad, bored or stressed."
+    },
+    {
+      "q": "What does Sam buy when she feels down?",
+      "options": [
+        "Wine and new shoes",
+        "Food, hot drinks and cosy things like a jumper",
+        "Books and magazines",
+        "Nothing, because she avoids shopping"
+      ],
+      "answer": 1,
+      "why": "Sam says she buys food, warm drinks and warm, cosy things like a nice jumper."
+    },
+    {
+      "q": "What does Phil say about bad days at work?",
+      "options": [
+        "He goes straight to bed as soon as he gets home",
+        "He is more likely to buy something on the way home",
+        "He spends the whole evening shopping online for clothes",
+        "He calls a friend to talk about it instead of shopping"
+      ],
+      "answer": 1,
+      "why": "Phil says after a bad day he is 'more likely to buy something on the way home'."
+    },
+    {
+      "q": "What does Catherine notice about the clothes she buys when she's sad?",
+      "options": [
+        "She never actually wears them",
+        "They are always too expensive",
+        "They are her favourite clothes",
+        "She usually takes them back to the shop"
+      ],
+      "answer": 0,
+      "why": "She says the things she bought when she was sad, she never wears."
+    },
+    {
+      "q": "Why does Neil find Catherine's comment interesting?",
+      "options": [
+        "It shows she spends more than Dan",
+        "It proves retail therapy always works",
+        "It shows clothes are the most popular purchase",
+        "It matches exactly what the survey found"
+      ],
+      "answer": 3,
+      "why": "Neil says 'that's exactly what the survey found': people regret purchases made when sad."
+    },
+    {
+      "q": "What is Neil's attitude to retail therapy?",
+      "options": [
+        "He does it all the time, just like Dan, and enjoys it",
+        "He only does it online, never in real shops in town",
+        "He avoids it because the good feeling doesn't last",
+        "He thinks it is the best cure for sadness and stress"
+      ],
+      "answer": 2,
+      "why": "Neil says he tries to avoid it and doesn't think the happiness lasts very long."
+    }
+  ]
+}

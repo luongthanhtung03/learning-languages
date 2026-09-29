@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How plastic was invented",
+        "Why supermarkets are closing",
+        "Why whales and other sea animals are dying in the oceans",
+        "Our dependence on plastic and how to use less"
+      ],
+      "answer": 3,
+      "why": "They talk about our 'addiction to plastic' and what could be done to solve the plastic crisis."
+    },
+    {
+      "q": "Why is plastic such a problem, according to Rob?",
+      "options": [
+        "It is very expensive to make",
+        "It doesn't break down quickly, so it stays around",
+        "It is too heavy and too difficult to recycle properly",
+        "It is made from natural materials"
+      ],
+      "answer": 1,
+      "why": "Rob says it doesn't decay very quickly, so it 'hangs around for a very long time'."
+    },
+    {
+      "q": "How much of the plastic produced each year is single-use?",
+      "options": [
+        "About 40%",
+        "About 4%",
+        "About 60%",
+        "Almost all of it"
+      ],
+      "answer": 0,
+      "why": "Rob says 400 million tonnes is produced each year and 40% of that is single-use."
+    },
+    {
+      "q": "According to Lucy Siegle, what conflict do people feel about plastic?",
+      "options": [
+        "They want to recycle but don't know how",
+        "They like plastic but it is too expensive",
+        "They're horrified by it but told they can't live without it",
+        "They want to buy less plastic, but the shops simply won't let them"
+      ],
+      "answer": 2,
+      "why": "She says we're horrified by what we see, yet told we can't live without it, creating 'psychological dissonance'."
+    },
+    {
+      "q": "What change does Lucy Siegle say she is now seeing?",
+      "options": [
+        "People are buying more plastic",
+        "Awareness is turning into people taking action",
+        "Governments are banning plastic",
+        "People have stopped caring about the problem"
+      ],
+      "answer": 1,
+      "why": "She says 'awareness has peaked and it's going over into activism'."
+    },
+    {
+      "q": "What does Lucy Siegle recommend?",
+      "options": [
+        "Going completely plastic-free straight away, from the start",
+        "Recycling everything you use",
+        "Only buying food from markets",
+        "Reducing the flow of plastic into your life"
+      ],
+      "answer": 3,
+      "why": "She says stopping the flow of plastics is easier and more effective than going plastic-free from the outset."
+    },
+    {
+      "q": "Why does Lucy Siegle mention the UK's supermarket culture?",
+      "options": [
+        "Because most people's plastic comes from supermarket shopping",
+        "Because supermarkets have already stopped using plastic",
+        "Because she works for a supermarket",
+        "Because supermarkets are cheaper than small shops"
+      ],
+      "answer": 0,
+      "why": "She says many tips for decreasing the flow of plastic are about 'getting round supermarket culture'."
+    },
+    {
+      "q": "What does Rob think about the future of plastic?",
+      "options": [
+        "It will disappear within a few years",
+        "It will soon be replaced by glass and other natural materials",
+        "It is useful, so it will take a long time to go",
+        "It is not really a problem"
+      ],
+      "answer": 2,
+      "why": "Rob says plastic is useful for many things, so it will be a long time before it disappears."
+    }
+  ]
+}

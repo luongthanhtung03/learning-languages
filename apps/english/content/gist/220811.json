@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Communities solving their internet problems",
+        "The history of the first internet browsers",
+        "Why dial-up internet was better than broadband",
+        "How farmers in England grow crops in bad weather"
+      ],
+      "answer": 0,
+      "why": "Sam says they'll find out how some communities are working together to fix their internet connection problems."
+    },
+    {
+      "q": "What does Sam remember about dial-up internet?",
+      "options": [
+        "It was fast but very expensive to use",
+        "It only worked late at night in most homes",
+        "It was slow and stopped you using the phone",
+        "It made no noise when it was connecting"
+      ],
+      "answer": 2,
+      "why": "She says it was slow, websites took forever, and you couldn't use the internet and phone together."
+    },
+    {
+      "q": "Why does Katie think her internet in Dorset is unreliable?",
+      "options": [
+        "Because too many people use it at the same time",
+        "The cables under the ground are old",
+        "Because the weather in Dorset is often stormy",
+        "Because her computer is too old to connect properly"
+      ],
+      "answer": 1,
+      "why": "Katie says most of their underground cabling is very old and needs replacing."
+    },
+    {
+      "q": "Why does Neil mention Katie's problem in Dorset?",
+      "options": [
+        "To show that the UK has the worst internet in Europe",
+        "To show that rural life is better without the internet",
+        "To explain how fibre optics were first invented",
+        "To show that poor internet isn't just a remote-area issue"
+      ],
+      "answer": 3,
+      "why": "He says you might think only remote places struggle, 'but that's not always true. Even here in the UK'."
+    },
+    {
+      "q": "What is life like in Aamer Hayat's village in Punjab?",
+      "options": [
+        "It is close to a big town with good shops",
+        "It has fast internet but no electricity at all",
+        "It is far from town and has no phone signal",
+        "It has very poor land for growing crops"
+      ],
+      "answer": 2,
+      "why": "His village is a three-hour drive from the nearest town, and he can't make a phone call, even with 2G."
+    },
+    {
+      "q": "Why is the internet so important to Aamer?",
+      "options": [
+        "He needs weather reports for his crops",
+        "He wants to sell his farm to people online",
+        "He wants to watch videos about city life",
+        "He needs it to talk to his children abroad"
+      ],
+      "answer": 0,
+      "why": "Neil says knowing when rain is coming can mean his crops succeed or fail."
+    },
+    {
+      "q": "What did the villagers do to solve their problem?",
+      "options": [
+        "They moved to the nearest town to get online",
+        "They asked the government to lay new cables",
+        "They bought satellite phones for every family",
+        "They built a tall tower linking five villages"
+      ],
+      "answer": 3,
+      "why": "They built their own fifty-metre-high tower, linking a network of five villages to the internet."
+    },
+    {
+      "q": "According to Aamer, how has his way of farming changed?",
+      "options": [
+        "He has stopped farming and now sells gadgets",
+        "He now gets reliable information online",
+        "He still depends on what his neighbours tell him",
+        "He has moved from growing crops to keeping horses"
+      ],
+      "answer": 1,
+      "why": "He used to rely on word-of-mouth, but now gets information 'right from the horse's mouth' through the internet."
+    }
+  ]
+}

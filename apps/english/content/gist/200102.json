@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How much sleep adults really need",
+        "Why yawns spread from person to person",
+        "How dogs learn to copy their owners",
+        "Why people get bored in meetings"
+      ],
+      "answer": 1,
+      "why": "Georgina and Rob discuss why yawning is contagious and what research found."
+    },
+    {
+      "q": "Why did Rob yawn at the start of the programme?",
+      "options": [
+        "He was very tired",
+        "He was bored by the conversation",
+        "Georgina yawned first",
+        "He had just woken up"
+      ],
+      "answer": 2,
+      "why": "Rob says he isn't tired or bored and yawned 'because you did'."
+    },
+    {
+      "q": "Which animal does John Drury say may yawn when its owner yawns?",
+      "options": [
+        "Dogs",
+        "Cats",
+        "Horses",
+        "Parrots"
+      ],
+      "answer": 0,
+      "why": "He says, 'Dogs yawn when their owners yawn.'"
+    },
+    {
+      "q": "How does John Drury describe yawning compared with other contagious behaviours?",
+      "options": [
+        "It is the least contagious",
+        "It only spreads between animals",
+        "It is something people can easily control",
+        "It is the most contagious and hard to stop"
+      ],
+      "answer": 3,
+      "why": "He calls it 'the most contagious behaviour' and 'something that you can't stop'."
+    },
+    {
+      "q": "What were the researchers trying to find out?",
+      "options": [
+        "Whether yawning gives our brains more oxygen",
+        "Whether our thinking plays a part in catching yawns",
+        "Whether children yawn more often than adults do",
+        "Whether yawning makes people feel more tired later"
+      ],
+      "answer": 1,
+      "why": "Drury says they wanted to see 'if there is a cognitive element' to the behaviour."
+    },
+    {
+      "q": "What did the research discover?",
+      "options": [
+        "We catch yawns more from people we feel close to",
+        "We catch yawns more from strangers than from friends",
+        "Only people who are already tired catch yawns",
+        "Yawning is not really contagious between people"
+      ],
+      "answer": 0,
+      "why": "The more you identify with the in-group, the more likely you are to copy their behaviour."
+    },
+    {
+      "q": "Why does John Drury mention emotions and scratching?",
+      "options": [
+        "To explain what causes yawning in the first place",
+        "To show they are more contagious than yawning is",
+        "As behaviours we judge before deciding to copy them",
+        "To describe the signs that someone is bored or tired"
+      ],
+      "answer": 2,
+      "why": "He says we judge whether the person exhibiting any behaviour, like an emotion or scratching, is relevant."
+    },
+    {
+      "q": "According to Rob, when are you less likely to yawn?",
+      "options": [
+        "When a family member yawns",
+        "When you are watching TV",
+        "When a close friend yawns",
+        "When a stranger yawns"
+      ],
+      "answer": 3,
+      "why": "Rob says you are less likely to yawn if a stranger yawns than if family or friends do."
+    }
+  ]
+}

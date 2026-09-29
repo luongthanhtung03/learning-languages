@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How much water we really need to drink",
+        "Why bottled water is better than tap water",
+        "How blood carries nutrients around the body",
+        "Why governments want people to drink less"
+      ],
+      "answer": 0,
+      "why": "They discuss exactly how much water we need to stay healthy."
+    },
+    {
+      "q": "What does Phil say about his own water drinking?",
+      "options": [
+        "He drinks about two litres a day, which he thinks is too much for him",
+        "He never drinks water",
+        "He carries a water bottle everywhere",
+        "He drinks about a litre, but thinks two litres is recommended"
+      ],
+      "answer": 3,
+      "why": "Phil says he drinks maybe about a litre and thinks you should drink about two."
+    },
+    {
+      "q": "What does biologist Professor John Speakman say about the two-litre advice?",
+      "options": [
+        "Only a few countries recommend it, and most scientists say it is too much",
+        "He doesn't know where it came from, but almost all governments give it",
+        "It was calculated by his university",
+        "It is only for athletes"
+      ],
+      "answer": 1,
+      "why": "He's not sure how it was arrived at, but government recommendations around the world are 'pretty much all the same'."
+    },
+    {
+      "q": "Is the figure of two litres based on scientific evidence?",
+      "options": [
+        "Yes, it comes from many studies",
+        "Yes, but only for children",
+        "No, it's more of a rough estimate",
+        "No, scientists say we need much less"
+      ],
+      "answer": 2,
+      "why": "Phil says it isn't based on scientific fact – it's more of a ballpark figure."
+    },
+    {
+      "q": "Why does Beth compare the body to a bank balance?",
+      "options": [
+        "To say that water is expensive",
+        "To explain why people save water",
+        "To show that the body is always losing water, which must be replaced",
+        "To show that everyone needs to drink exactly the same amount of water"
+      ],
+      "answer": 2,
+      "why": "Like money spent from a bank account, the body keeps losing water when we breathe, sweat or use the toilet."
+    },
+    {
+      "q": "According to Beth, what mainly decides how much water you need?",
+      "options": [
+        "Your size",
+        "Your age",
+        "The weather",
+        "How much food you eat"
+      ],
+      "answer": 0,
+      "why": "She says it depends on how much water your body needs to replace, which mainly depends on your size."
+    },
+    {
+      "q": "What does hydration expert Dr Nidia Rodriguez-Sanchez say about dehydration?",
+      "options": [
+        "It only happens in hot countries",
+        "It is very rare in adults",
+        "It always causes a dry mouth before any other signs",
+        "We often don't realise it is happening"
+      ],
+      "answer": 3,
+      "why": "She says 'many times we start getting dehydrated and we don't realise'."
+    },
+    {
+      "q": "What mistake does Dr Rodriguez-Sanchez say people sometimes make?",
+      "options": [
+        "They drink too much coffee",
+        "They think they're hungry and eat, when they're actually thirsty",
+        "They drink water only at night",
+        "They think a headache means they need more sleep, so they go to bed early"
+      ],
+      "answer": 1,
+      "why": "She says we may think we're hungry and get food, when 'actually… we are thirsty'."
+    }
+  ]
+}

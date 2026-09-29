@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to repair an old clock that has stopped working",
+        "Why Rob is always late for work in the mornings",
+        "How exact clock time has come to control our lives",
+        "The best watches to buy for under a hundred pounds"
+      ],
+      "answer": 2,
+      "why": "They discuss what would happen if clocks stopped, and how we have become 'slaves to time'."
+    },
+    {
+      "q": "Why doesn't Rob own a watch?",
+      "options": [
+        "He trusts his own sense of time",
+        "He lost his last one",
+        "He uses his phone instead",
+        "He can't afford one"
+      ],
+      "answer": 0,
+      "why": "Rob says, 'I rely on my internal clock – it's pretty good.'"
+    },
+    {
+      "q": "What is Rob's opinion about time in modern life?",
+      "options": [
+        "Clocks help us relax more",
+        "People don't care about time any more",
+        "We should have more clocks in public places",
+        "We are slaves to time, with clocks on everything"
+      ],
+      "answer": 3,
+      "why": "Rob says 'we're slaves to time' with digital clocks on phones, computers, microwaves and bus stops."
+    },
+    {
+      "q": "How does Neil's view of time differ from Rob's?",
+      "options": [
+        "He thinks clocks are unnecessary",
+        "He thinks good timekeeping is very important",
+        "He prefers to tell the time by the sun",
+        "He agrees completely with Rob"
+      ],
+      "answer": 1,
+      "why": "Neil says good timekeeping is extremely important because of schedules and deadlines."
+    },
+    {
+      "q": "How did people tell the time before mechanical clocks?",
+      "options": [
+        "By listening to church bells only",
+        "By watching the sun, moon and stars",
+        "By counting their steps",
+        "By using pendulums"
+      ],
+      "answer": 1,
+      "why": "Rob says they observed how the position of the sun, moon and stars changed."
+    },
+    {
+      "q": "According to Dr Silke Ackermann, what did many societies need to know in the past?",
+      "options": [
+        "The exact hour and minute",
+        "When their work meetings started",
+        "What time the shops closed",
+        "How much daylight was left or when to pray"
+      ],
+      "answer": 3,
+      "why": "She says it wasn't relevant to know it's four o'clock; they needed daylight left or prayer times."
+    },
+    {
+      "q": "Why does Neil mention the start of Ramadan?",
+      "options": [
+        "To show that modern clocks are now accurate to the second",
+        "To say it happens on the same date every year everywhere",
+        "As an example of time still set by nature, not clocks",
+        "To explain why prayer times have changed in recent years"
+      ],
+      "answer": 2,
+      "why": "He says it's calculated by the rising crescent moon, which modern timekeeping can't calculate."
+    },
+    {
+      "q": "What does Dr Ackermann mean when she calls precision a 'straitjacket'?",
+      "options": [
+        "Always needing exact time limits us in a harmful way",
+        "Precise clocks are uncomfortable to wear on your wrist",
+        "Exact time makes us more free to plan our days",
+        "Clocks are too expensive for most people to buy"
+      ],
+      "answer": 0,
+      "why": "Neil explains she means always wanting precise time 'can limit what we do in a way that is damaging'."
+    }
+  ]
+}

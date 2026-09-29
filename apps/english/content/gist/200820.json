@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How wildlife returned to big cities during lockdown",
+        "The long history of medicine and hospitals in Paris",
+        "Why Mumbai is growing so fast compared with others",
+        "How diseases shaped cities and may change them now"
+      ],
+      "answer": 3,
+      "why": "They ask if cities will be the same after lockdown and discuss the link between cities and disease."
+    },
+    {
+      "q": "Why were 19th-century buildings in Paris given large, high windows?",
+      "options": [
+        "To make them look more beautiful and expensive",
+        "To let in sunlight and stop tuberculosis spreading",
+        "To save money on heating during the cold winters",
+        "To help people see the stars at night from bed"
+      ],
+      "answer": 1,
+      "why": "Neil says they allowed plenty of sunlight and were supposed to stop the spread of tuberculosis."
+    },
+    {
+      "q": "Which change in cities during lockdown is mentioned?",
+      "options": [
+        "More taxis on the roads",
+        "New parks being built",
+        "Birdsong replaced traffic noise",
+        "Shops opening longer hours"
+      ],
+      "answer": 2,
+      "why": "Rob says wildlife and birdsong replaced the noise of taxi horns and traffic."
+    },
+    {
+      "q": "How was cholera eliminated in London?",
+      "options": [
+        "By redesigning the sewage system",
+        "With antibiotics",
+        "By building bigger windows",
+        "By moving people out of the city"
+      ],
+      "answer": 0,
+      "why": "Kavita Puri says cholera was eliminated in London by re-designing the sewage system in the 1850s."
+    },
+    {
+      "q": "In dense cities like Paris, how many people had TB?",
+      "options": [
+        "One in seven",
+        "One in ten",
+        "One in two",
+        "One in three"
+      ],
+      "answer": 3,
+      "why": "Puri says one in seven people on the planet had TB, but in dense cities like Paris it was one in three."
+    },
+    {
+      "q": "What is the idea of a '15 minute city' in post-Covid Paris?",
+      "options": [
+        "Every commute should take 15 minutes",
+        "Shops close 15 minutes early",
+        "All public services within a 15-minute walk",
+        "Buses every 15 minutes"
+      ],
+      "answer": 2,
+      "why": "Rob says it aims to make all public services available within a fifteen minute walk."
+    },
+    {
+      "q": "What idea do some other countries have for making cities less crowded?",
+      "options": [
+        "Building better, cheaper housing outside the centre",
+        "Banning all private cars from the city centres",
+        "Paying people extra money to work from home",
+        "Building much taller towers right in the centre"
+      ],
+      "answer": 0,
+      "why": "Neil says other countries want to build better, more affordable housing outside the city centre."
+    },
+    {
+      "q": "According to Dr Vaidehi Tandel, why won't moving people out of Mumbai's centre work?",
+      "options": [
+        "The new housing outside the city is much worse",
+        "Their jobs are in the city and commuting costs too much",
+        "Most people don't like living in the countryside",
+        "There is simply no free land left outside the city"
+      ],
+      "answer": 1,
+      "why": "She says their jobs are in the city and they cannot afford the commute from further away."
+    }
+  ]
+}

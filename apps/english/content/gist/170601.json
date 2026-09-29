@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "A new way of dealing with the dead called water burial",
+        "Why people are afraid of dying and how to feel calmer",
+        "Funeral traditions in different countries around the world",
+        "How to recycle old coffins and wood from cemeteries"
+      ],
+      "answer": 0,
+      "why": "Neil says they'll be discussing water burial, compared with burial and cremation."
+    },
+    {
+      "q": "What problems with traditional burial does Dan mention?",
+      "options": [
+        "It is too expensive and slow for most families today",
+        "It releases dangerous mercury into the air and water",
+        "Coffins use up forests and cemeteries are getting full",
+        "Families don't like visiting graves in bad weather"
+      ],
+      "answer": 2,
+      "why": "Dan says the US uses four million acres of forest a year for coffins and cemeteries are overcrowded."
+    },
+    {
+      "q": "Why does Neil first think cremation is better?",
+      "options": [
+        "It is cheaper",
+        "It doesn't need any space",
+        "It is faster than any other method",
+        "It uses no energy"
+      ],
+      "answer": 1,
+      "why": "Neil says 'with cremation, there's no space needed', so it must be better."
+    },
+    {
+      "q": "According to reporter Sahar Zand, what is wrong with cremation?",
+      "options": [
+        "It takes several days",
+        "It leaves nothing for the family",
+        "It is not allowed by most religions",
+        "It releases toxins and uses a lot of energy"
+      ],
+      "answer": 3,
+      "why": "She says toxins such as mercury can be released, and one cremation could heat a home for almost a week."
+    },
+    {
+      "q": "What happens in water burial?",
+      "options": [
+        "The body is buried at sea far away from the coast",
+        "The body is frozen in water and then broken into pieces",
+        "The body is burnt on a fire next to a river or lake",
+        "The body is heated in alkali liquid until only bones remain"
+      ],
+      "answer": 3,
+      "why": "Dan says the body is put into an alkali solution heated to 150°C, leaving only the skeleton."
+    },
+    {
+      "q": "What advantages does water burial have over cremation?",
+      "options": [
+        "It needs no computer or trained staff to run it",
+        "It takes about four hours and uses much less energy",
+        "It is free for families who can't pay for a funeral",
+        "It keeps the whole body in the same state as before"
+      ],
+      "answer": 1,
+      "why": "Dan says it takes only 4 hours and uses much less energy."
+    },
+    {
+      "q": "What could happen to artificial implants after water burial?",
+      "options": [
+        "They could be reused by people in poorer countries",
+        "They must be buried with the skeleton in the grave",
+        "They are destroyed completely in the process",
+        "They are sold to hospitals in the UK for research"
+      ],
+      "answer": 0,
+      "why": "Sahar says they come out almost as good as new and could be sent to the developing world."
+    },
+    {
+      "q": "What happens to the skeleton at the end?",
+      "options": [
+        "It is given to science for students to study",
+        "It is buried in a small grave near the family home",
+        "It is ground into dust and given to the family",
+        "It is put into the sea in a special ceremony"
+      ],
+      "answer": 2,
+      "why": "Dan says it is ground into dust and put in a jar for the family, like a cremation."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Which vegetables are the healthiest for children",
+        "How to cook quick meals after work",
+        "Why children today eat more fast food",
+        "How parents can make family meals less stressful"
+      ],
+      "answer": 3,
+      "why": "They hear from experts on how to make dinnertime something everyone enjoys, without conflict."
+    },
+    {
+      "q": "What does Georgie say about the foods she disliked as a child?",
+      "options": [
+        "She now loves them as an adult",
+        "She still refuses to eat them",
+        "She was allergic to them",
+        "Her parents never cooked them"
+      ],
+      "answer": 0,
+      "why": "She hated nuts and avocados as a child, but now she absolutely loves both."
+    },
+    {
+      "q": "What does Neil say about his own eating as a child?",
+      "options": [
+        "He hated Brussels sprouts",
+        "He only ate rice and beans",
+        "He liked most foods",
+        "He refused to eat vegetables"
+      ],
+      "answer": 2,
+      "why": "Neil says, 'I think I liked most things.'"
+    },
+    {
+      "q": "What does Charlotte Stirling-Reed say about her own children's eating?",
+      "options": [
+        "They always eat everything that she cooks for them",
+        "Their appetite changes with weather, activity and mood",
+        "They only eat properly when they are with friends",
+        "They eat much more in winter than in summer"
+      ],
+      "answer": 1,
+      "why": "She says their appetite goes up and down, depending on the weather, their day and their mood."
+    },
+    {
+      "q": "Why does Dr Anne Fishel think dinnertime can cause so much tension?",
+      "options": [
+        "Eating is one of the few things kids can control",
+        "Parents often cook food that is too spicy",
+        "Children are too tired and hungry in the evening",
+        "Families eat together too rarely these days"
+      ],
+      "answer": 0,
+      "why": "She says it's one of the few areas they control: kids decide whether they're going to eat it."
+    },
+    {
+      "q": "Why does Neil say 'imagine how hard it could be' before talking about food allergies?",
+      "options": [
+        "To show that allergies are very rare",
+        "To suggest that experts don't understand allergies",
+        "To say that allergies make children eat more",
+        "To suggest meals are even harder when a child has an allergy"
+      ],
+      "answer": 3,
+      "why": "He says if experts struggle at mealtimes, a child with a food allergy could make it even harder."
+    },
+    {
+      "q": "What solution did Sharon Wee find for her daughter?",
+      "options": [
+        "Cooking a completely different meal every day",
+        "Giving her only fresh fruit and vegetables",
+        "Rice and beans, which she ate for about five years",
+        "Taking her to a special restaurant each week"
+      ],
+      "answer": 2,
+      "why": "Sharon says rice and beans was the winning formula, eaten for about the first five years."
+    },
+    {
+      "q": "Which way of giving children a choice do the experts suggest?",
+      "options": [
+        "Letting them cook their own dinner with an adult",
+        "Offering small, healthy snacks and dips first",
+        "Letting them eat in front of the TV on weekends",
+        "Allowing a small dessert before the main meal"
+      ],
+      "answer": 1,
+      "why": "Neil says one agreed tip is to offer small, healthy snacks and dips before the meal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people move from cities to the countryside",
+        "Ways to make noisy cities feel quieter and more relaxing",
+        "How to protect your ears at concerts",
+        "Why India is the loudest country in the world"
+      ],
+      "answer": 1,
+      "why": "Georgie says they'll hear about ways to make cities quieter, more relaxing places."
+    },
+    {
+      "q": "How did Neil feel when he heard Georgie's two recordings?",
+      "options": [
+        "Both clips made him feel stressed and tense",
+        "Both clips made him feel calm and sleepy",
+        "The first relaxed him, but the second stressed him",
+        "He couldn't hear any real difference between them"
+      ],
+      "answer": 2,
+      "why": "He says the first clip made him relaxed, but the second was horrible and stressful."
+    },
+    {
+      "q": "What does the World Health Organisation report, according to Neil?",
+      "options": [
+        "About 2.5 billion people will have hearing loss by 2050",
+        "Four billion people will leave cities by 2050",
+        "City noise has fallen in recent years",
+        "Only aeroplanes cause serious noise problems"
+      ],
+      "answer": 0,
+      "why": "Neil says the WHO reports that by 2050 around 2.5 billion people will experience hearing loss."
+    },
+    {
+      "q": "How noisy is Mumbai during the day?",
+      "options": [
+        "About 20 decibels",
+        "About 50 decibels, like most cities",
+        "Just below WHO recommendations",
+        "Often 80 decibels, over 20 above WHO advice"
+      ],
+      "answer": 3,
+      "why": "Neil says daytime noise regularly hits 80 decibels, over 20 higher than WHO recommendations."
+    },
+    {
+      "q": "Why couldn't Chhavi Sachdev cope with the noise when she returned to India?",
+      "options": [
+        "She had got used to quieter places after 12 years",
+        "She had developed serious hearing problems",
+        "Mumbai had become much louder since she left",
+        "She had moved to a flat next to an airport"
+      ],
+      "answer": 0,
+      "why": "After 12 years in the US and Europe, she says she'd gotten used to lower levels of noise."
+    },
+    {
+      "q": "What gave Charles Montambault the idea for his project?",
+      "options": [
+        "A classical concert he went to in Montreal",
+        "Ocean sounds he heard on holiday on some islands",
+        "Complaints from people who use his local park",
+        "A science study about birdsong in big cities"
+      ],
+      "answer": 1,
+      "why": "He was inspired to recreate the ocean sounds he heard on holiday in the Magdalen Islands."
+    },
+    {
+      "q": "How did Charles's team play the sounds in the park?",
+      "options": [
+        "Through people's mobile phones",
+        "With live musicians",
+        "From a large screen in the centre",
+        "Through speakers hidden in flower beds"
+      ],
+      "answer": 3,
+      "why": "They set up the installation as speakers planted in flower beds."
+    },
+    {
+      "q": "Why does Charles call his idea 'counterintuitive'?",
+      "options": [
+        "Because nobody who visited enjoyed the sounds",
+        "Because it cost far more than they expected",
+        "Because adding sounds made the park feel quieter",
+        "Because the sand sounds were hard to record"
+      ],
+      "answer": 2,
+      "why": "He says you can make a park less noisy by adding calmer sounds, which is not what you'd expect."
+    }
+  ]
+}

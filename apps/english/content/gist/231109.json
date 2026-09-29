@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Wild animals returning to towns and cities during lockdown",
+        "How farmers in Kenya protect their crops from elephants",
+        "How much food elephants need to survive",
+        "Why honey is becoming more expensive"
+      ],
+      "answer": 1,
+      "why": "Beth says they'll hear about farmers in Kenya keeping their food safe from hungry wild animals."
+    },
+    {
+      "q": "Why are people and wild animals competing more for space?",
+      "options": [
+        "Animals are moving to cities for fun",
+        "Farmers are keeping more animals",
+        "New laws protect wild animals more than they protect people",
+        "There are more people and less natural habitat"
+      ],
+      "answer": 3,
+      "why": "Neil says human populations increase while natural habitats decline."
+    },
+    {
+      "q": "According to Victor Ndombi, when do the elephants usually raid crops?",
+      "options": [
+        "In the dry season",
+        "Only at night during the winter",
+        "During the rainy crop season",
+        "All year round equally"
+      ],
+      "answer": 2,
+      "why": "He says the crop raids usually happen during the crop season, the rainy season."
+    },
+    {
+      "q": "What are the elephants looking for when they come to the farms?",
+      "options": [
+        "Green food like maize and beans, and water",
+        "Somewhere safe and quiet to sleep at night",
+        "Shade from the sun",
+        "Other elephants"
+      ],
+      "answer": 0,
+      "why": "Victor says they want green pasture and nutritious foods like maize and beans, and water."
+    },
+    {
+      "q": "What does reporter Michael Kaloki notice about Victor?",
+      "options": [
+        "He sounds calm, as the raids are normal there",
+        "He sounds very frightened of the elephants",
+        "He is angry with the national park",
+        "He wants all the elephants to be moved far away"
+      ],
+      "answer": 0,
+      "why": "He says Victor sounds very calm – “it's just a way of life for the people out here.”"
+    },
+    {
+      "q": "Why have the crop raids become more frequent?",
+      "options": [
+        "There are more elephants than ever",
+        "Farmers are now growing sweeter crops that elephants love",
+        "Elephants need water and the park can't pay to fix fences",
+        "Tourists are feeding the elephants"
+      ],
+      "answer": 2,
+      "why": "Neil says elephants are desperate for water and the park lacks money to fix broken fences."
+    },
+    {
+      "q": "What solution does Victor's team use?",
+      "options": [
+        "Electric fences",
+        "Guards with guns",
+        "Moving the farms away",
+        "Beehive fences"
+      ],
+      "answer": 3,
+      "why": "They install beehive fences; folklore says elephants are scared of bees."
+    },
+    {
+      "q": "Why do Beth and Neil feel a little sorry for the elephants?",
+      "options": [
+        "They are often stung and badly hurt by the angry bees",
+        "They need so much food but are kept away from it",
+        "They are losing their honey",
+        "They are being killed by farmers"
+      ],
+      "answer": 1,
+      "why": "Beth feels sorry for them, and Neil adds, “especially because they need to eat so much.”"
+    }
+  ]
+}

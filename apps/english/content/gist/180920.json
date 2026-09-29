@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why people take offence, and the insult 'snowflake'",
+        "How snow forms in winter",
+        "The history of the book Fight Club",
+        "Why free speech should have no limits at all on social media"
+      ],
+      "answer": 0,
+      "why": "They discuss the new meaning of 'snowflake' as an insult and the complicated topic of offence."
+    },
+    {
+      "q": "Why does Rob act offended at the start?",
+      "options": [
+        "He really is upset with Neil",
+        "He dislikes cold weather",
+        "He thinks Neil has just called him old and cold",
+        "He wants to show what the word means"
+      ],
+      "answer": 3,
+      "why": "Rob says he wasn't really upset; he just wanted to demonstrate the meaning of the word."
+    },
+    {
+      "q": "Who usually uses the word 'snowflake' as an insult, and about whom?",
+      "options": [
+        "Young people about their parents",
+        "People on the left about people on the right",
+        "People on the right about young people on the left",
+        "Teachers about students"
+      ],
+      "answer": 2,
+      "why": "Rob says users tend to be from the political right, talking about the left, particularly millennials."
+    },
+    {
+      "q": "According to Rob, what makes offence a difficult subject?",
+      "options": [
+        "Nobody ever means to offend",
+        "We don't all find the same things offensive",
+        "It only happens on social media, not in real life",
+        "It is always about religion"
+      ],
+      "answer": 1,
+      "why": "He says 'we don't all find the same things offensive'."
+    },
+    {
+      "q": "According to Evan Davis, what do people sometimes do?",
+      "options": [
+        "Say they're offended when it's just a political disagreement",
+        "Pretend they are not offended",
+        "Refuse to discuss politics",
+        "Offend other people by accident without realising they have done it"
+      ],
+      "answer": 0,
+      "why": "He says people sometimes invoke offence when they really just have a political disagreement."
+    },
+    {
+      "q": "What can groups that suffer discrimination gain from calling it out, according to Davis?",
+      "options": [
+        "Money from the government",
+        "More political power and more attention from the media",
+        "A feeling of excitement and unity",
+        "Protection from the police"
+      ],
+      "answer": 2,
+      "why": "He says they may find it 'exhilarating or uniting' to call out discrimination."
+    },
+    {
+      "q": "What point does Evan Davis think the so-called snowflakes have?",
+      "options": [
+        "Everyone should be allowed to say anything",
+        "Societies can decide some things are taboo",
+        "Millennials are wiser than older people",
+        "The word 'offensive' should not be used"
+      ],
+      "answer": 1,
+      "why": "He says 'societies are entitled to make certain things taboo'."
+    },
+    {
+      "q": "What is Rob's own view at the end?",
+      "options": [
+        "Snowflakes should stop complaining",
+        "Social media is always a fair place for people to share their views",
+        "People should never talk about politics",
+        "Free speech is good, but it can be unpleasant"
+      ],
+      "answer": 3,
+      "why": "Rob says 'Free speech is good but at times, particularly on social media... unnecessarily unpleasant.'"
+    }
+  ]
+}

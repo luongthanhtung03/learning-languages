@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of English folk dancing",
+        "How to become a professional dancer",
+        "Why dance classes are becoming so expensive in Britain",
+        "How dancing can benefit our brains and emotions"
+      ],
+      "answer": 3,
+      "why": "Beth says they'll hear how dancing can benefit our brains and emotions at every stage of life."
+    },
+    {
+      "q": "How does Neil feel about dancing?",
+      "options": [
+        "He loves it and goes dancing every single week",
+        "He thinks it's a waste of time",
+        "He isn't very good and feels a bit embarrassed",
+        "He only dances at weddings"
+      ],
+      "answer": 2,
+      "why": "He says he's not a great dancer and gets a bit embarrassed."
+    },
+    {
+      "q": "Why does Julia Ravey love dancing?",
+      "options": [
+        "It helps her get rid of stress",
+        "It is her job",
+        "It helps her lose weight",
+        "It lets her meet lots of new people"
+      ],
+      "answer": 0,
+      "why": "She says it's a release she relies on “to get the stress out of my body”."
+    },
+    {
+      "q": "What does Julia accept about other people?",
+      "options": [
+        "Everyone secretly loves dancing",
+        "Some people find dancing awkward and avoid it",
+        "Most people she knows dance much better than she does",
+        "Older people shouldn't dance"
+      ],
+      "answer": 1,
+      "why": "She says some people find dancing awkward and avoid the dance floor at all costs."
+    },
+    {
+      "q": "What has Dr Peter Lovatt studied?",
+      "options": [
+        "How dancing improves brain function in people of all ages",
+        "Why some people can't hear rhythm",
+        "How to cure Alzheimer's and Parkinson's with new medicines",
+        "The history of ballet and jazz"
+      ],
+      "answer": 0,
+      "why": "For four decades he's studied how dancing helps brain function in children, adults and older people."
+    },
+    {
+      "q": "What does Dr Lovatt's dance therapy involve?",
+      "options": [
+        "Learning difficult steps from a teacher in a dance class",
+        "Dancing in large groups in public",
+        "Copying dance videos online",
+        "Moving freely with your eyes closed, led by the music"
+      ],
+      "answer": 3,
+      "why": "It involves spontaneous movements, closing your eyes and letting the music move you."
+    },
+    {
+      "q": "What is Dr Lovatt's first suggestion for people who don't dance?",
+      "options": [
+        "Go to a nightclub with friends and watch them dance",
+        "Lie on your bed and feel the beat of music you like",
+        "Watch other people dancing first",
+        "Take a Morris dancing class"
+      ],
+      "answer": 1,
+      "why": "He suggests lying on your bed with your eyes closed, listening to music and feeling the rhythm."
+    },
+    {
+      "q": "What does Beth mean when she says “a dance a day keeps the doctor away”?",
+      "options": [
+        "Doctors are now recommending dance classes to patients",
+        "Dancing too much can be dangerous",
+        "Dancing regularly can help keep you healthy",
+        "People who dance don't like doctors"
+      ],
+      "answer": 2,
+      "why": "She's summarising the huge health benefits of dancing they've discussed."
+    }
+  ]
+}

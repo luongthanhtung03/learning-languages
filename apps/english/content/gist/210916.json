@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "A humanoid robot that creates art and its creators",
+        "Why Hollywood films about dangerous robots are so popular",
+        "How modern artists use computers to paint their pictures",
+        "The life of a famous 19th-century female mathematician"
+      ],
+      "answer": 0,
+      "why": "They talk about Ai-Da, a robot artist, and the inventors behind her."
+    },
+    {
+      "q": "How does Ai-Da make her drawings?",
+      "options": [
+        "She copies pictures that she finds on the internet",
+        "A human artist holds and guides her robotic hand",
+        "She paints only from memory, without looking at anything",
+        "She uses a camera in her eye and a pencil in a robotic arm"
+      ],
+      "answer": 3,
+      "why": "She uses a robotic arm and a pencil to draw what she sees with a camera in her eye."
+    },
+    {
+      "q": "Where were Ai-Da's robotic arms built?",
+      "options": [
+        "In Cornwall",
+        "In Leeds",
+        "At Oxford University",
+        "In London"
+      ],
+      "answer": 1,
+      "why": "Engineers in Leeds built her robotic arms using AI systems from Oxford University."
+    },
+    {
+      "q": "How did Karl Bos's feelings about Ai-Da change?",
+      "options": [
+        "He liked her at first but then found her frightening",
+        "He was bored by her from the start",
+        "She looked scary at first but seemed cute once she moved",
+        "He thought she looked too much like a real person"
+      ],
+      "answer": 2,
+      "why": "He says she looks scary at first glance, but when she moves and expresses she becomes very cute."
+    },
+    {
+      "q": "According to Marcus Hold, what makes the robots seem human?",
+      "options": [
+        "The way they move and behave",
+        "Their realistic skin",
+        "Their ability to speak many languages",
+        "Their intelligence"
+      ],
+      "answer": 0,
+      "why": "He says a big part of their appeal and human nature is in the way they behave and move."
+    },
+    {
+      "q": "What was Aidan Meller's job before managing the Ai-Da project?",
+      "options": [
+        "Robotics engineer",
+        "BBC presenter",
+        "Art gallery owner",
+        "University researcher"
+      ],
+      "answer": 2,
+      "why": "Neil introduces him as a former art gallery owner."
+    },
+    {
+      "q": "What does Aidan Meller say the team was still working on?",
+      "options": [
+        "Giving Ai-Da a voice so she could talk to visitors",
+        "Finding a museum for her show",
+        "Making her skin look real",
+        "Getting her arm to draw well"
+      ],
+      "answer": 3,
+      "why": "He says some people were working on her arm, getting her to do a compelling drawing."
+    },
+    {
+      "q": "What does Neil suggest when he says a robot could be 'the next Picasso'?",
+      "options": [
+        "Robots will soon replace all human artists and designers",
+        "It is nicer to imagine robots making art than taking control",
+        "Picasso's famous paintings were really made by machines",
+        "Ai-Da has been trained to copy Picasso's style exactly"
+      ],
+      "answer": 1,
+      "why": "He says it's nice to think a robot could be the next Picasso 'instead of an out-of-control sci-fi policeman'."
+    }
+  ]
+}

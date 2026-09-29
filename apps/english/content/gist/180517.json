@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of international football",
+        "Why football fans are singing less at matches",
+        "How to write a football song",
+        "Why tickets for football matches are expensive"
+      ],
+      "answer": 1,
+      "why": "Dan says the atmosphere in some stadiums is becoming quiet, as fans sing less."
+    },
+    {
+      "q": "What does Neil prefer about going to a live match rather than watching on TV?",
+      "options": [
+        "You can see more of the action than you can on TV",
+        "It is cheaper",
+        "You feel the atmosphere and can join in the songs",
+        "You can meet the players"
+      ],
+      "answer": 2,
+      "why": "Neil says on TV you don't feel the atmosphere and can't sing along with the chants."
+    },
+    {
+      "q": "Why does Dan say fans of Welling United 'might argue with you'?",
+      "options": [
+        "Because Neil got the team's name wrong",
+        "To joke that Manchester United isn't the only famous United",
+        "Because Welling United won the league that year and are famous",
+        "Because he supports Manchester United"
+      ],
+      "answer": 1,
+      "why": "He jokes after Neil calls Manchester United the most well-known team with United in its name."
+    },
+    {
+      "q": "According to Joe Wilson, what are witty football songs often about?",
+      "options": [
+        "A certain player or moment in a club's history",
+        "The other team's fans",
+        "The referee",
+        "The city where the club plays"
+      ],
+      "answer": 0,
+      "why": "He says some are 'honed specifically to celebrate a certain player or moment in a club's history'."
+    },
+    {
+      "q": "Why does Neil say 'England' as 'Eng-ger-land'?",
+      "options": [
+        "To show how he supports England",
+        "To make a joke about the way Dan pronounces some English words",
+        "To show a mistake in pronunciation",
+        "To show that words get extra syllables in chants"
+      ],
+      "answer": 3,
+      "why": "He shows that in a stadium the two-syllable word 'becomes three syllables'."
+    },
+    {
+      "q": "What have some football managers complained about?",
+      "options": [
+        "Fans are too quiet, and this affects the players",
+        "Fans sing rude songs",
+        "Stadiums are too small",
+        "Players don't sing the national anthem"
+      ],
+      "answer": 0,
+      "why": "Dan says some managers complain the fans are too quiet and this has a negative effect on the players."
+    },
+    {
+      "q": "According to Joe Wilson, how are football crowds changing?",
+      "options": [
+        "They are much younger than they were in the past",
+        "There are more women",
+        "They are older, and tickets cost more",
+        "There are more foreign fans"
+      ],
+      "answer": 2,
+      "why": "He mentions changing demographics: 'Older supporters, more expensive tickets.'"
+    },
+    {
+      "q": "How might stadium design reduce singing?",
+      "options": [
+        "The roofs make it too loud",
+        "The stadiums are too big",
+        "Fans now sit much too far from the pitch to feel involved",
+        "All-seater stadiums may stop people standing to sing"
+      ],
+      "answer": 3,
+      "why": "He says all-seater arenas 'may discourage the instinct to stand up and sing'."
+    }
+  ]
+}

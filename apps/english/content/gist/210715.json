@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Which country works the longest hours",
+        "How to decorate a home office",
+        "Why people prefer working in offices",
+        "Flexible working and the right to ask for it"
+      ],
+      "answer": 3,
+      "why": "They discuss what flexible working means and the UK right to request it."
+    },
+    {
+      "q": "How long have UK employees had the right to request flexible working?",
+      "options": [
+        "For the last 14 years",
+        "Only since the pandemic",
+        "For the last 4 years",
+        "For over 40 years"
+      ],
+      "answer": 0,
+      "why": "Georgina says for the last 14 years employees have had the right to request flexible working."
+    },
+    {
+      "q": "According to Sarah Jackson, what does flexible working really mean?",
+      "options": [
+        "Always working from home",
+        "Working fewer hours for the same pay",
+        "Choosing when, where and how long you work",
+        "Choosing your own manager"
+      ],
+      "answer": 2,
+      "why": "She says it means choice and control over when, where and how long you work, agreed with your manager."
+    },
+    {
+      "q": "Which request does Neil give as a sensible example?",
+      "options": [
+        "Working only two hours a day from home",
+        "Working from 12 until 8 instead of 9 to 5",
+        "Never going into the office again at all",
+        "Taking every Friday off to see your family"
+      ],
+      "answer": 1,
+      "why": "Neil says working two hours a day isn't sensible, but 12 until 8 instead of 9 to 5 might be."
+    },
+    {
+      "q": "Who was the law first for?",
+      "options": [
+        "Everyone who worked in an office",
+        "Only men with young children at home",
+        "Workers over the age of 60",
+        "Parents of young or disabled children"
+      ],
+      "answer": 3,
+      "why": "Neil says it was initially just for parents with a child under 6 or a disabled child under 18."
+    },
+    {
+      "q": "What problem does Sarah Jackson describe for men?",
+      "options": [
+        "They never ask for flexible working",
+        "Their requests are more likely to be rejected",
+        "They don't want to spend time with children",
+        "They are paid less when they work flexibly"
+      ],
+      "answer": 1,
+      "why": "She says men, when they do ask, are more likely to be turned down."
+    },
+    {
+      "q": "What does Sarah Jackson want employers to do?",
+      "options": [
+        "Encourage men to ask for it",
+        "Stop all flexible working immediately",
+        "Give flexible working only to women",
+        "Pay fathers to stay at home"
+      ],
+      "answer": 0,
+      "why": "She says employers should say to men, 'please use the right to request flexible working'."
+    },
+    {
+      "q": "Why does Sarah Jackson think this is so important?",
+      "options": [
+        "It will make companies more profitable",
+        "It will reduce traffic in busy cities",
+        "It's needed for equality at home and work",
+        "Young men want to work longer hours"
+      ],
+      "answer": 2,
+      "why": "She says until men can be active fathers, we won't get equality at home or in the workplace."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make friends at work",
+        "Why talking to strangers can be good for us",
+        "How many words there are in English",
+        "Why introverts prefer to be alone"
+      ],
+      "answer": 1,
+      "why": "Neil says they are looking at how talking to strangers might be good for you."
+    },
+    {
+      "q": "How does Georgina feel about starting a conversation with a stranger?",
+      "options": [
+        "She does it every day",
+        "She thinks it is rude",
+        "She is unsure what she would talk about",
+        "She is too shy to talk to anyone"
+      ],
+      "answer": 2,
+      "why": "She asks, 'if you don't know them, what are you going to start talking about?'"
+    },
+    {
+      "q": "Why do we rarely talk to strangers, according to the presenters?",
+      "options": [
+        "We fear it would feel awkward for both people",
+        "We are usually in too much of a hurry",
+        "It is not polite in most countries",
+        "We are always looking at our phones"
+      ],
+      "answer": 0,
+      "why": "Georgina says we fear it would make us both feel uncomfortable or awkward."
+    },
+    {
+      "q": "According to Gillian Sandstrom, what does the 'negative voice in our head' do?",
+      "options": [
+        "Tells us the other person is bored and wants to leave",
+        "Makes us talk too much and forget to listen to others",
+        "Warns us that strangers could be dangerous to talk to",
+        "Criticises what we said and makes us doubt ourselves"
+      ],
+      "answer": 3,
+      "why": "It tells us 'I shouldn't have said that' and 'I said that story better last time'."
+    },
+    {
+      "q": "What does Gillian Sandstrom say the other person often thinks after the conversation?",
+      "options": [
+        "That the chat was a waste of time",
+        "That the speaker was amazing",
+        "That they didn't understand the speaker",
+        "That they want to leave quickly"
+      ],
+      "answer": 1,
+      "why": "She says they think, 'wow, that person was amazing.'"
+    },
+    {
+      "q": "What did the University of Chicago research find?",
+      "options": [
+        "Commuters on trains are the unhappiest people in the city",
+        "Strangers usually refuse to talk when someone starts chatting",
+        "We expect less joy from chatting to strangers than we get",
+        "Only long conversations with friends improve our wellbeing"
+      ],
+      "answer": 2,
+      "why": "It found we underestimate the positive impact, and a chat may leave you happier than you'd think."
+    },
+    {
+      "q": "According to Gillian Sandstrom's research, what are two effects of chatting to strangers?",
+      "options": [
+        "A better mood and feeling more connected",
+        "Better sleep and more energy",
+        "More confidence and a better job",
+        "Less stress and better memory"
+      ],
+      "answer": 0,
+      "why": "She says it's good for your mood and makes people feel more connected to each other."
+    },
+    {
+      "q": "What is said about introverts?",
+      "options": [
+        "They should avoid talking to strangers",
+        "They never enjoy conversations",
+        "They were not included in the experiments",
+        "Talking to others can make them happier too"
+      ],
+      "answer": 3,
+      "why": "Neil says even introverts can become happier by talking to others, experiments show."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to lose weight quickly",
+        "Which animals have the biggest brains",
+        "How the food we eat affects our brain",
+        "Why sugar is banned in some schools"
+      ],
+      "answer": 2,
+      "why": "Georgie says they'll be discussing the relationship between food and the brain."
+    },
+    {
+      "q": "Why does Georgie mention eating a doughnut?",
+      "options": [
+        "To show how food can quickly change our energy and mood",
+        "To recommend a healthy breakfast",
+        "To explain why she has a headache today",
+        "To show that sugar is actually good for the brain and body"
+      ],
+      "answer": 0,
+      "why": "She describes a sugar rush followed by a collapse with a headache an hour later."
+    },
+    {
+      "q": "Why does the brain need more fuel than other body parts?",
+      "options": [
+        "It is the heaviest organ",
+        "It only works during the day, when we're awake",
+        "It uses food to grow bigger",
+        "It works 24 hours a day, even during sleep"
+      ],
+      "answer": 3,
+      "why": "Phil says our brain is working 24 hours a day, even while we sleep."
+    },
+    {
+      "q": "What fact about the brain does Phil give?",
+      "options": [
+        "It weighs about 8 kilos",
+        "It is 2% of our weight but uses 20% of our energy",
+        "It uses 50% of the body's energy",
+        "It needs no energy at all while we are fast asleep at night"
+      ],
+      "answer": 1,
+      "why": "He says the brain is only 2% of our total weight but uses 20% of the body's energy."
+    },
+    {
+      "q": "What happens to Dr Reeta Achari if she doesn't eat vegetables for a day?",
+      "options": [
+        "She feels very hungry all the next day",
+        "She feels less sharp the next day",
+        "She can't sleep that night",
+        "She gets a sugar rush"
+      ],
+      "answer": 1,
+      "why": "She says if she doesn't eat vegetables, “the next day I'm not as sharp”."
+    },
+    {
+      "q": "What is the “Rainbow Rule”?",
+      "options": [
+        "Eat only one colour of food each day",
+        "Eat fruit only in the morning",
+        "Eat foods of many different colours",
+        "Avoid brightly coloured sweets"
+      ],
+      "answer": 2,
+      "why": "Georgie says to eat foods of many different colours with lots of leafy greens."
+    },
+    {
+      "q": "What worries Phil about the brain foods Dr Achari lists?",
+      "options": [
+        "Some of them seem very expensive",
+        "They take far too long to cook at home",
+        "They don't taste good",
+        "They are hard to find in shops"
+      ],
+      "answer": 0,
+      "why": "He says wild-caught Alaskan salmon is very expensive – superfoods for the super-rich."
+    },
+    {
+      "q": "What is blogger Michelle Munt's view?",
+      "options": [
+        "Only rich people can eat healthily",
+        "Microwave meals are the best option for busy people",
+        "Fresh food takes too long to prepare",
+        "Eating well can be cheap if you batch cook"
+      ],
+      "answer": 3,
+      "why": "She says it's not expensive – you can batch cook things and freeze them for later."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The cheapest cities to visit in Europe this summer",
+        "Why cruise holidays are becoming popular with young people",
+        "The most visited cities in the world and why people go there",
+        "How some cities are limiting tourists to protect themselves"
+      ],
+      "answer": 3,
+      "why": "Rob says they'll discuss how some cities are putting restrictions on tourists."
+    },
+    {
+      "q": "Why are more people travelling, according to Rob?",
+      "options": [
+        "They have more free time and travel is cheaper",
+        "Cities are advertising more on social media",
+        "Work trips abroad are much more common now",
+        "Cruise ships are faster and more comfortable"
+      ],
+      "answer": 0,
+      "why": "He says many have more leisure time and travelling has become relatively cheaper."
+    },
+    {
+      "q": "What problem does Sam mention?",
+      "options": [
+        "Hotels in city centres are far too expensive",
+        "Crowds can spoil the places people came to see",
+        "Tourists get lost easily in the narrow streets",
+        "Local food is disappearing from the restaurants"
+      ],
+      "answer": 1,
+      "why": "She says crowding can spoil the atmosphere and beauty people came to see."
+    },
+    {
+      "q": "According to Sabina Castelfranco, what don't Romans like tourists doing?",
+      "options": [
+        "Taking too many photos inside museums",
+        "Eating pizza while walking in the street",
+        "Walking in fountains and going bare-chested",
+        "Speaking loudly and singing inside churches"
+      ],
+      "answer": 2,
+      "why": "She says Romans don't like tourists bare-chested or wading in their fountains."
+    },
+    {
+      "q": "What is another rule introduced in Rome?",
+      "options": [
+        "Big fines for dropping litter and attaching love padlocks",
+        "A strict limit on the number of new hotel rooms in the city",
+        "A complete ban on large cruise ships near the coast",
+        "A daily tourist tax for everyone staying in the centre"
+      ],
+      "answer": 0,
+      "why": "Sam mentions severe fines for litter and 'love padlocks' on monuments."
+    },
+    {
+      "q": "What is Rob's opinion of Rome's new rules?",
+      "options": [
+        "They are much too strict and will annoy visitors",
+        "They will stop tourists visiting the city at all",
+        "They are unfair to men who want to go shirtless",
+        "They are a good idea if they make the city nicer"
+      ],
+      "answer": 3,
+      "why": "He says if it makes the city nicer for everyone, it's a good idea."
+    },
+    {
+      "q": "What is Bruges going to do, according to Helen Coffey?",
+      "options": [
+        "Build a Disney theme park",
+        "Limit how many cruise ships can dock",
+        "Close its narrow streets",
+        "Stop people staying overnight"
+      ],
+      "answer": 1,
+      "why": "She says they're going to cap the number of cruises that can dock."
+    },
+    {
+      "q": "Why don't cities like cruise visitors?",
+      "options": [
+        "They are noisy",
+        "They damage monuments",
+        "They don't spend much money",
+        "They stay too long"
+      ],
+      "answer": 2,
+      "why": "Helen says cruise visitors don't spend money, and Sam adds they don't stay overnight."
+    }
+  ]
+}

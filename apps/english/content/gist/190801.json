@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Which country drinks the most coffee and why",
+        "The problem of throwaway coffee cups and solutions",
+        "How to make better coffee at home without a machine",
+        "Why plastic bags are now charged for in UK shops"
+      ],
+      "answer": 1,
+      "why": "Neil and Rob discuss disposable cups and what coffee chains are doing about them."
+    },
+    {
+      "q": "What does Rob do to avoid waste?",
+      "options": [
+        "He has stopped drinking coffee",
+        "He only drinks coffee at home",
+        "He always carries a reusable cup",
+        "He recycles his cups in the shop"
+      ],
+      "answer": 2,
+      "why": "He says, 'I always carry a reusable cup with me.'"
+    },
+    {
+      "q": "What is the main problem with disposable cups?",
+      "options": [
+        "Many can't be recycled, so there's a lot of waste",
+        "They make the coffee taste bad after a few minutes",
+        "They are too expensive for small cafés to buy",
+        "They are too small for the drinks people want"
+      ],
+      "answer": 0,
+      "why": "Rob says many can't be recycled, so there's a lot of waste."
+    },
+    {
+      "q": "What are some big chains doing now?",
+      "options": [
+        "Banning disposable cups completely in all their stores",
+        "Giving free reusable cups to all their regular customers",
+        "Selling only reusable cups and no paper ones at all",
+        "Adding a charge for paper cups and discounts for your own"
+      ],
+      "answer": 3,
+      "why": "Neil says some charge more for a disposable cup and give discounts for reusables."
+    },
+    {
+      "q": "Why is Starbucks also working on recycling outside its shops, according to Jaz Rabadia?",
+      "options": [
+        "Many customers take their cups away with them",
+        "The shops are too small for bins",
+        "The government asked them to",
+        "It is cheaper than recycling in store"
+      ],
+      "answer": 0,
+      "why": "She says outside their stores 'is where a lot of our cups will end up'."
+    },
+    {
+      "q": "What does Jaz Rabadia say about in-store recycling?",
+      "options": [
+        "It already exists in every one of their stores",
+        "It is being introduced and will be in all stores",
+        "It has been cancelled because it cost too much",
+        "It is only available in a few London stores"
+      ],
+      "answer": 1,
+      "why": "She says it's being rolled out and 'will be in all of our stores'."
+    },
+    {
+      "q": "Why does Mary Creagh mention the plastic bag charge?",
+      "options": [
+        "To show that charges like this don't really work",
+        "To complain about how much shops charge for bags",
+        "As an example of how paying extra changes habits",
+        "To suggest that coffee shops should sell bags too"
+      ],
+      "answer": 2,
+      "why": "She says a similar psychological 'nudge' measure is needed to make people bring reusable cups."
+    },
+    {
+      "q": "How have coffee shops reacted to the idea of a charge, according to Mary Creagh?",
+      "options": [
+        "They have welcomed it",
+        "They haven't noticed it",
+        "They have already introduced it",
+        "They have strongly fought against it"
+      ],
+      "answer": 3,
+      "why": "She says the coffee shops have been 'fighting tooth and nail'."
+    }
+  ]
+}

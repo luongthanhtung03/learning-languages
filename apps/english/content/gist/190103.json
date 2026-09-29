@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "A new religion that bans meat",
+        "Why vegetarians are always healthier than people who eat meat",
+        "A diet of mainly plants and a little meat",
+        "How farmers are fighting climate change"
+      ],
+      "answer": 2,
+      "why": "They discuss flexitarianism: mainly eating plant-based foods and only occasionally eating meat."
+    },
+    {
+      "q": "How does Catherine first misunderstand the word 'flexitarian'?",
+      "options": [
+        "She thinks it is a religion",
+        "She thinks it is a type of exercise",
+        "She thinks it is a kind of pepper",
+        "She thinks it is a political party"
+      ],
+      "answer": 0,
+      "why": "She answers 'No, I'm not really religious', and Neil says 'It's not a religion!'"
+    },
+    {
+      "q": "According to the report, what are the benefits of being flexitarian?",
+      "options": [
+        "It is cheaper and quicker to cook",
+        "It is healthier and helps fight climate change",
+        "It helps farmers earn more money",
+        "It is better for animals and also saves a lot of water"
+      ],
+      "answer": 1,
+      "why": "Neil says it is healthier for the individual but can also help to fight climate change."
+    },
+    {
+      "q": "What does Dr Marco Springmann say is needed to stay within environmental limits?",
+      "options": [
+        "Only a change to plant-based diets",
+        "Stopping all farming of animals",
+        "Growing more food in cities",
+        "Several different changes together"
+      ],
+      "answer": 3,
+      "why": "He says 'a combination of measures would be needed', including diet, technology, farming and less waste."
+    },
+    {
+      "q": "Which of these is NOT one of the changes Dr Springmann mentions?",
+      "options": [
+        "Better technology",
+        "Wasting less food",
+        "Eating more fish",
+        "Changing farming methods"
+      ],
+      "answer": 2,
+      "why": "He lists diets, technology, farming management and less food waste, but not eating fish."
+    },
+    {
+      "q": "How much red meat does Dr Springmann say is probably OK?",
+      "options": [
+        "One serving a day",
+        "None at all",
+        "Two or three small servings a week",
+        "No more than one serving a week"
+      ],
+      "answer": 3,
+      "why": "He says you shouldn't have more than one serving of red meat per week."
+    },
+    {
+      "q": "What does Springmann mean when he says to treat red meat as a luxury?",
+      "options": [
+        "Eat it only as an occasional treat",
+        "Buy only the most expensive meat",
+        "Eat it only at restaurants",
+        "Replace it with lamb"
+      ],
+      "answer": 0,
+      "why": "Catherine explains a luxury is something we eat as a treat, and red meat shouldn't be a regular part of our diet."
+    },
+    {
+      "q": "How did the report's authors reach their advice?",
+      "options": [
+        "They asked people what they liked to eat",
+        "They studied research that was already published",
+        "They tested the new diets on a large group of volunteers",
+        "They followed the advice of farmers"
+      ],
+      "answer": 1,
+      "why": "Catherine says they surveyed the literature, studying research that had already been published."
+    }
+  ]
+}

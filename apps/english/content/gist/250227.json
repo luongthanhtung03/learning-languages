@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The history of the first vaccines",
+        "The possibility of a vaccine that helps the body fight cancer",
+        "Why chemotherapy is the best cancer treatment",
+        "How to avoid getting cancer"
+      ],
+      "answer": 1,
+      "why": "They find out whether a vaccine for cancer could soon become a reality."
+    },
+    {
+      "q": "According to Beth, how many people will be affected by cancer in their lifetime?",
+      "options": [
+        "1 in 2",
+        "1 in 10",
+        "1 in 50",
+        "1 in 5"
+      ],
+      "answer": 3,
+      "why": "Beth says in our lifetime 1 in 5 people will be affected by cancer."
+    },
+    {
+      "q": "Why does Beth say 'we'll be focusing on some good news instead'?",
+      "options": [
+        "Because the facts about cancer deaths she has just given are sad",
+        "Because the number of cancer deaths is now falling very quickly worldwide",
+        "Because most tumours are not cancerous",
+        "Because a cure has already been found"
+      ],
+      "answer": 0,
+      "why": "She mentions 9.7 million cancer deaths in 2022, then turns to the positive news about vaccines."
+    },
+    {
+      "q": "According to Dr Meredith McKean, why doesn't the immune system fight cancer by itself?",
+      "options": [
+        "Cancer cells grow far too slowly for the immune system to notice them",
+        "The immune system only fights viruses",
+        "Cancer cells send signals telling the immune system to go away",
+        "Cancer cells are too small to see"
+      ],
+      "answer": 2,
+      "why": "She says cancer puts signals on its surface telling the immune system, 'Go away! There's nothing here.'"
+    },
+    {
+      "q": "What has understanding these cancer signals led to?",
+      "options": [
+        "A breakthrough in immune therapy over the past ten years",
+        "A new type of chemotherapy that is much safer for patients",
+        "A test that finds cancer at birth",
+        "The end of all cancer research"
+      ],
+      "answer": 0,
+      "why": "She says it has 'really allowed a breakthrough with immune therapy over the past decade'."
+    },
+    {
+      "q": "What is the problem with treatments like chemotherapy?",
+      "options": [
+        "They are too slow to work",
+        "They only work on benign tumours and not on the cancerous, malignant ones",
+        "They also attack healthy tissue and cause unpleasant side effects",
+        "They make the cancer spread faster"
+      ],
+      "answer": 2,
+      "why": "Neil says they target cancer but also attack healthy tissue, creating unpleasant side effects."
+    },
+    {
+      "q": "How are the new cancer vaccines different?",
+      "options": [
+        "They can only be given to healthy people",
+        "They replace the immune system completely",
+        "They destroy every cell in the tumour area, both healthy and cancerous",
+        "They train the immune system to attack only cancer cells"
+      ],
+      "answer": 3,
+      "why": "They retrain the immune system to recognise and eliminate cancer cells, 'and only those'."
+    },
+    {
+      "q": "What does Professor Eduardo Sanchez say vaccines need to do?",
+      "options": [
+        "Make cancer cells grow more slowly",
+        "Teach the immune system again to recognise cancer cells",
+        "Help the cancer cells to hide more successfully from the body's defences",
+        "Make the immune system rest"
+      ],
+      "answer": 1,
+      "why": "He says the immune system has forgotten how to recognise cancer, so vaccines must 're-educate' it."
+    }
+  ]
+}

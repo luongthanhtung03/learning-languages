@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "New research on how our lifestyle can help us age well",
+        "Why grey hair and wrinkles appear",
+        "The life of the oldest person ever",
+        "How to cook Mediterranean food"
+      ],
+      "answer": 0,
+      "why": "They hear new research offering advice on how to stay healthy as we get older."
+    },
+    {
+      "q": "According to Professor Sarah Harper, what did experts believe ten years ago?",
+      "options": [
+        "That diet was the only important thing",
+        "That we could stop ageing completely",
+        "That ageing was all about our cells",
+        "That loneliness caused most illness"
+      ],
+      "answer": 2,
+      "why": "She says 10 years ago we would have thought, 'Yes, it's all to do with our cells.'"
+    },
+    {
+      "q": "What did a recent paper find about ageing?",
+      "options": [
+        "It is about 90% decided by the genes we are born with",
+        "About 60% of it can be controlled by how we live",
+        "It happens faster in cities",
+        "It stops after the age of 80"
+      ],
+      "answer": 1,
+      "why": "She says a paper found 60% of our ageing can be controlled by how we live."
+    },
+    {
+      "q": "What did the twin studies show?",
+      "options": [
+        "Twins always age at the same speed",
+        "Twins who eat more fish and vegetables live longer than other twins",
+        "Twins are healthier than other people",
+        "Twins with a positive attitude had better health later in life"
+      ],
+      "answer": 3,
+      "why": "She says if you're positive, you have far greater health in later life than if you're negative."
+    },
+    {
+      "q": "What does Sarah Harper say about loneliness?",
+      "options": [
+        "It is only a problem in cold countries",
+        "It mainly affects young people",
+        "It has little effect on health",
+        "It can be as harmful as smoking"
+      ],
+      "answer": 3,
+      "why": "She says loneliness can have the same impact as smoking in the statistics."
+    },
+    {
+      "q": "Apart from food, what else is part of the Mediterranean lifestyle, according to Sarah?",
+      "options": [
+        "Working long hours",
+        "Being outside more and eating meals together",
+        "Sleeping in the afternoon",
+        "Living alone in the countryside, far from busy cities"
+      ],
+      "answer": 1,
+      "why": "She mentions exercise from being outside more and communal meals."
+    },
+    {
+      "q": "What does Sarah say is changing a little in these countries?",
+      "options": [
+        "Families living together in multigenerational homes",
+        "People eating fresh fish and vegetables almost every day",
+        "The warm climate",
+        "People exercising outdoors"
+      ],
+      "answer": 0,
+      "why": "She says they tend to live in multigenerational households, but 'that is changing a bit'."
+    },
+    {
+      "q": "What does Beth suggest people who don't live near the Mediterranean can do?",
+      "options": [
+        "Move to a warmer country somewhere near the Mediterranean",
+        "Eat only vegetables",
+        "Stay positive and keep in contact with other people",
+        "Live with their grandparents"
+      ],
+      "answer": 2,
+      "why": "She says a positive attitude and social interaction are two things we can all do to age well."
+    }
+  ]
+}

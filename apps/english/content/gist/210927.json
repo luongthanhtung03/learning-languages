@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to win the lottery and spend the money wisely",
+        "Elon Musk's life and career as a technology tycoon",
+        "Bitcoin as an investment and the electricity it uses",
+        "Why Argentina uses so much electricity every year"
+      ],
+      "answer": 2,
+      "why": "They discuss whether bitcoin is a good option for ordinary people and its impact on energy use."
+    },
+    {
+      "q": "What did Elon Musk recently do, according to Sam?",
+      "options": [
+        "He bought a lottery ticket and won a huge prize",
+        "He started his own cryptocurrency to compete with bitcoin",
+        "He criticised bitcoin publicly for its high energy use",
+        "He invested one and a half billion dollars in bitcoin"
+      ],
+      "answer": 3,
+      "why": "Sam says he invested one and a half billion dollars in bitcoin."
+    },
+    {
+      "q": "Why are green campaigners worried about bitcoin?",
+      "options": [
+        "It makes ordinary people spend too much of their savings",
+        "Creating new bitcoins uses huge amounts of electricity",
+        "It is mostly used by criminals to hide their money",
+        "It is quickly replacing paper money and coins in shops"
+      ],
+      "answer": 1,
+      "why": "Sam says mining bitcoins uses huge amounts of electricity, so campaigners question its impact."
+    },
+    {
+      "q": "How much did Heather Delany invest in bitcoin at first?",
+      "options": [
+        "About five dollars",
+        "About fifty dollars",
+        "The price of a lottery ticket",
+        "Her whole pension"
+      ],
+      "answer": 0,
+      "why": "She says her initial investment was only around five dollars, the cost of a coffee and a pastry."
+    },
+    {
+      "q": "How does Heather see her bitcoin now?",
+      "options": [
+        "As a quick way to get rich in a few months",
+        "As a risky game she now regrets starting",
+        "As a long-term investment for her retirement",
+        "As extra money to spend on coffee and treats"
+      ],
+      "answer": 2,
+      "why": "She sees it as a long-term investment and part of her overall pension plan."
+    },
+    {
+      "q": "What does a recent estimate say about bitcoin's electricity use?",
+      "options": [
+        "It is falling every year",
+        "It is now more than Argentina uses in a year",
+        "It is the same as one US city",
+        "It is less than a small village uses"
+      ],
+      "answer": 1,
+      "why": "Rob says bitcoin has now overtaken the entire annual electricity use of Argentina."
+    },
+    {
+      "q": "According to Michel Rauchs, what uses twice as much electricity as bitcoin?",
+      "options": [
+        "All the computers in Cambridge University",
+        "The whole country of Argentina",
+        "Electric cars in Europe",
+        "US home appliances left on standby"
+      ],
+      "answer": 3,
+      "why": "He says appliances on standby in the US use twice as much electricity as the bitcoin network each year."
+    },
+    {
+      "q": "Why does Michel Rauchs make this comparison?",
+      "options": [
+        "To show that bitcoin's energy use should be seen in context",
+        "To prove that bitcoin is completely harmless for the planet",
+        "To persuade more people to buy bitcoin while it is cheap",
+        "To criticise people who spend too many hours watching TV"
+      ],
+      "answer": 0,
+      "why": "He says 'we need to put things a bit into perspective' before comparing."
+    }
+  ]
+}

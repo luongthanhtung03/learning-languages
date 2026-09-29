@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Men who take their wife's family name when they marry",
+        "Countries where people cannot change their names",
+        "How couples choose names for their children",
+        "Why fewer people in the UK are getting married"
+      ],
+      "answer": 0,
+      "why": "Dan says the topic is 'a husband taking a wife's name after marriage'."
+    },
+    {
+      "q": "What happened with Dan's wife's surname?",
+      "options": [
+        "She happily took Dan's name because she disliked her own",
+        "She kept her own name and Dan took it too",
+        "She wanted to keep it, but the law made her take Dan's",
+        "She made a double-barrelled name with both names"
+      ],
+      "answer": 2,
+      "why": "Dan says his wife wanted to keep her surname but was forced to take his because of the law."
+    },
+    {
+      "q": "According to Neil, where does the UK tradition of women taking the husband's name come from?",
+      "options": [
+        "A law passed in France in 1789 after the revolution",
+        "The Norman idea that a wife became her husband's property",
+        "A religious rule brought over from the Middle East",
+        "A custom that began with the royal family in London"
+      ],
+      "answer": 1,
+      "why": "Neil says it dates back to the Normans in 1066, who saw a married woman as the man's property."
+    },
+    {
+      "q": "Why did Rory Dearlove take his wife's surname?",
+      "options": [
+        "His wife asked him to do it",
+        "He wanted to protest against sexism",
+        "His old surname was hard to spell",
+        "He didn't feel strongly about his own name"
+      ],
+      "answer": 3,
+      "why": "Neil says Rory wasn't really attached to his name, so it made no difference to him."
+    },
+    {
+      "q": "What did the Opinium study of 2,000 UK adults suggest?",
+      "options": [
+        "About one in ten young men fall into this group",
+        "Half of young men would refuse to change their name",
+        "Most women now keep their maiden names",
+        "Double-barrelled names are becoming less popular"
+      ],
+      "answer": 0,
+      "why": "The study suggested that one in ten millennial men aged 18 to 34 fall into this category."
+    },
+    {
+      "q": "Why did Charlie Shaw take his wife's name?",
+      "options": [
+        "Because his teacher at school told him it was polite",
+        "Because his own family name was unusual and hard to spell",
+        "Because it was the law in the country where he married",
+        "To recognise the hidden bias against women in society"
+      ],
+      "answer": 3,
+      "why": "He said it was a chance to acknowledge the unseen patriarchal bias and sexism in society."
+    },
+    {
+      "q": "What did Rachel Robnett's research find?",
+      "options": [
+        "Most people think couples should share one name",
+        "Husbands of women who keep their names are seen as 'feminine'",
+        "Women who change their names are seen as weaker",
+        "Men in the US are happier to change names than men in the UK"
+      ],
+      "answer": 1,
+      "why": "She found these husbands are viewed as 'feminine', while the women are thought to 'wear the trousers'."
+    },
+    {
+      "q": "What did most of the people Dan spoke to in London think?",
+      "options": [
+        "A man should never take his wife's name",
+        "Only couples with children should share a name",
+        "People should be free to choose what they want",
+        "The tradition should be made into a law"
+      ],
+      "answer": 2,
+      "why": "Neil says most of them said people are free to do what they want."
+    }
+  ]
+}

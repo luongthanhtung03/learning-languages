@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How parents should teach babies to read",
+        "Why some babies start talking late",
+        "The skills babies need to develop in order to speak",
+        "How adults learn a second language"
+      ],
+      "answer": 2,
+      "why": "They discover how babies learn to speak and hear the skills babies develop."
+    },
+    {
+      "q": "What do Georgie and Phil think babies do to learn to speak?",
+      "options": [
+        "They learn from watching TV",
+        "They watch and copy adults, and Phil saw his children do this",
+        "They learn mostly from other babies and older brothers and sisters",
+        "They start with long sentences"
+      ],
+      "answer": 1,
+      "why": "Georgie imagines they copy adults, and Phil says that's what his children did."
+    },
+    {
+      "q": "According to Professor Julian Pine, what is one of the first things a child must do?",
+      "options": [
+        "Learn the alphabet",
+        "Copy their parents' accent and the way they speak",
+        "Learn to make long sounds",
+        "Break the stream of speech into separate words"
+      ],
+      "answer": 3,
+      "why": "He says the child has got to break down the speech stream into words."
+    },
+    {
+      "q": "What helps babies find where English words begin?",
+      "options": [
+        "English words often start with a stressed syllable",
+        "English words always end with a vowel, which makes them easier",
+        "Adults speak very slowly to babies",
+        "English words are usually very short"
+      ],
+      "answer": 0,
+      "why": "Phil says in English, words often begin with a stressed syllable."
+    },
+    {
+      "q": "Why do small children sometimes call a giraffe a 'raffe'?",
+      "options": [
+        "They leave out the first syllable because it isn't stressed",
+        "They can't say the letter 'g' until they are about five years old",
+        "They are copying a cartoon",
+        "They think it's a funny word"
+      ],
+      "answer": 0,
+      "why": "Pine says children leave off the unstressed syllable, which is not typical English."
+    },
+    {
+      "q": "What example does presenter Michael Rosen give from his own family?",
+      "options": [
+        "His daughter said 'nana' for grandmother",
+        "His son couldn't say 'banana'",
+        "He called his son 'my sminge'",
+        "His son called a machine a 'sminge'"
+      ],
+      "answer": 3,
+      "why": "He says his son used to call a machine a 'sminge'."
+    },
+    {
+      "q": "What is the second skill babies need, according to Professor Pine?",
+      "options": [
+        "Making their mouths and tongues move faster",
+        "Speaking in full sentences",
+        "Linking words to the things they refer to",
+        "Recognising different voices"
+      ],
+      "answer": 2,
+      "why": "He says they've got to link words to things in the environment and learn what words mean."
+    },
+    {
+      "q": "Why does Professor Pine mention a cup and a pen?",
+      "options": [
+        "To show which words babies learn first",
+        "To show how hard it is for a child to know which object a word means",
+        "To describe a simple test he gives to young children in his laboratory",
+        "To explain why babies like objects"
+      ],
+      "answer": 1,
+      "why": "He asks how a child knows you mean the cup or the pen, because the speech signal is ambiguous."
+    }
+  ]
+}

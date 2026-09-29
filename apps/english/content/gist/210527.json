@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Compassion fatigue and whether our compassion has limits",
+        "How doctors and nurses treat coronavirus patients in hospital",
+        "The history of the charity Médecins Sans Frontières in Africa",
+        "How to raise money for charity by running a marathon"
+      ],
+      "answer": 0,
+      "why": "Rob says compassion fatigue is the topic of this programme."
+    },
+    {
+      "q": "Which example of compassion during the pandemic does Sam give?",
+      "options": [
+        "Reading more news online",
+        "Working longer hours in the office",
+        "Helping elderly relatives and neighbours",
+        "Travelling to help in other countries"
+      ],
+      "answer": 2,
+      "why": "Sam mentions people helping elderly relatives and neighbours and wearing masks."
+    },
+    {
+      "q": "Who has compassion fatigue long been a problem for?",
+      "options": [
+        "Journalists who report on wars",
+        "People in medical jobs",
+        "Teachers",
+        "Politicians"
+      ],
+      "answer": 1,
+      "why": "Rob says it has long been a problem for people working in medical professions."
+    },
+    {
+      "q": "According to Margaret Heffernan, why can caring for others be unhealthy for the carer?",
+      "options": [
+        "Carers usually don't get paid enough for their work",
+        "Carers often catch diseases from the people they help",
+        "Carers don't have enough time to eat or sleep properly",
+        "It means taking on other people's pain yourself"
+      ],
+      "answer": 3,
+      "why": "Sam says caring means taking on someone's pain yourself, which can have unhealthy consequences."
+    },
+    {
+      "q": "What happens to people who read a lot of depressing news online, according to Heffernan?",
+      "options": [
+        "They start helping more people",
+        "They stop using the internet",
+        "They become numb but also addicted to it",
+        "They feel happier about their own lives"
+      ],
+      "answer": 2,
+      "why": "She says they become more and more numb and also more and more addicted to it."
+    },
+    {
+      "q": "Why does Heffernan describe this as 'learned helplessness'?",
+      "options": [
+        "People see upsetting things they feel they can't change",
+        "People slowly learn how to help others by using the internet",
+        "People are taught at school to ignore bad news on television",
+        "People need help from others to use new technology"
+      ],
+      "answer": 0,
+      "why": "She says 'I'm consuming something that's upsetting me but I cannot do anything about it.'"
+    },
+    {
+      "q": "How is Tom Rivett-Carnac's view different from the idea that compassion is limited?",
+      "options": [
+        "He thinks compassion is not important",
+        "He thinks only doctors can feel compassion",
+        "He thinks the news helps us feel more compassion",
+        "He sees compassion as a habit that can be developed"
+      ],
+      "answer": 3,
+      "why": "He says, 'I also think compassion is a habit.'"
+    },
+    {
+      "q": "On what point do Tom Rivett-Carnac and Margaret Heffernan agree?",
+      "options": [
+        "Compassion is fixed and cannot grow",
+        "The news media is part of the problem",
+        "People should stop caring for others",
+        "Social media helps build good habits"
+      ],
+      "answer": 1,
+      "why": "Sam says, like Heffernan, Tom believes the news media is part of the problem."
+    }
+  ]
+}

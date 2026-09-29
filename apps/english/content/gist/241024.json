@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why marriages end and how different countries respond to divorce",
+        "How to plan a wedding",
+        "Famous pop songs about love",
+        "Why people in China marry young"
+      ],
+      "answer": 0,
+      "why": "They hear how divorce is talked about in different countries and why couples separate."
+    },
+    {
+      "q": "What has happened to divorce rates since the 1990s?",
+      "options": [
+        "They have risen everywhere, especially in Europe and America",
+        "They have stayed the same",
+        "They have slowed in the West but are rising elsewhere",
+        "They have fallen everywhere"
+      ],
+      "answer": 2,
+      "why": "Georgie says Western divorce rates have slowed, while in other parts of the world they're rising."
+    },
+    {
+      "q": "What are two common reasons for couples growing apart, according to Phil?",
+      "options": [
+        "Having too many children and moving house",
+        "Money problems and working too much",
+        "Living abroad, far from family, and speaking different languages at home",
+        "Marrying very young and having different backgrounds or interests"
+      ],
+      "answer": 3,
+      "why": "He says getting married very young and differences in background or interests are two common causes."
+    },
+    {
+      "q": "What do we learn about Professor Marina Adshade's marriage?",
+      "options": [
+        "She married later in life, after she had finished her university degree",
+        "She married young, without education, to an older, educated man",
+        "She married someone younger than her",
+        "She and her husband studied together"
+      ],
+      "answer": 1,
+      "why": "She says she married really young with no education, to someone older with a lot of education."
+    },
+    {
+      "q": "What change caused problems in Marina's marriage?",
+      "options": [
+        "Her husband lost his job and they had to move to a different city for work",
+        "She decided to go back to school and stop being a stay-at-home mother",
+        "They moved to a new country",
+        "They decided not to have children"
+      ],
+      "answer": 1,
+      "why": "In her late 20s she went back to school and no longer wanted to be a stay-at-home mother."
+    },
+    {
+      "q": "Why do many people stay in marriages that no longer work?",
+      "options": [
+        "Because the law doesn't allow divorce",
+        "Because they are too busy",
+        "Because their friends tell them to stay",
+        "For economic or emotional reasons"
+      ],
+      "answer": 3,
+      "why": "Georgie says many people stay trapped due to economic or emotional reasons."
+    },
+    {
+      "q": "What did the Chinese government introduce in 2021?",
+      "options": [
+        "A 30-day waiting period for couples who want to separate",
+        "A ban on divorce",
+        "Free relationship counselling for all married couples in the country",
+        "A tax on weddings"
+      ],
+      "answer": 0,
+      "why": "Georgie says China introduced a 30-day cooling-off period for couples wanting to separate."
+    },
+    {
+      "q": "What does divorce counsellor Joanna Gosling think would help more than a cooling-off period?",
+      "options": [
+        "Longer waiting periods",
+        "Stricter divorce laws",
+        "Government programmes to help couples communicate",
+        "Making weddings more expensive so that fewer people marry young"
+      ],
+      "answer": 2,
+      "why": "She suggests states invest in communication programmes, because that's why relationships fall apart."
+    }
+  ]
+}

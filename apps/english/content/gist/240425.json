@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How much babies should eat in their first year",
+        "How a woman's relationship with food changes in pregnancy",
+        "Why people eat more when they are stressed",
+        "Healthy recipes that are completely safe for pregnant women"
+      ],
+      "answer": 1,
+      "why": "Phil says they'll find out how a woman's relationship to food changes during pregnancy."
+    },
+    {
+      "q": "According to Georgie, who experiences nutritional problems during pregnancy?",
+      "options": [
+        "The mother, because the baby takes what it needs",
+        "The baby, because it doesn't get enough food from the mother",
+        "Both mother and baby equally",
+        "Neither, if the mother eats chips"
+      ],
+      "answer": 0,
+      "why": "The baby takes the nutrients it needs, so it's the mum-to-be who experiences any problems."
+    },
+    {
+      "q": "How does Jaega Wise describe her body during pregnancy?",
+      "options": [
+        "Stronger and healthier than before",
+        "Exactly the same as before",
+        "Always tired, but otherwise completely normal",
+        "Doing strange things it didn't do before"
+      ],
+      "answer": 3,
+      "why": "She says her body has gone a bit haywire and is doing things that are frankly weird."
+    },
+    {
+      "q": "What example does Jaega give?",
+      "options": [
+        "She can't sleep at night",
+        "She has lost her sense of taste and smell",
+        "She gets nosebleeds all the time",
+        "She can't stop sneezing"
+      ],
+      "answer": 2,
+      "why": "She rarely had nosebleeds before pregnancy, but now she seems to get them all the time."
+    },
+    {
+      "q": "Why do some pregnant women feel guilty, according to Georgie?",
+      "options": [
+        "They don't exercise enough",
+        "They can't cook healthy meals for themselves",
+        "They crave food that isn't very healthy",
+        "They eat less than they should"
+      ],
+      "answer": 2,
+      "why": "When cravings are for food that's not so healthy, some women feel guilty."
+    },
+    {
+      "q": "What is Henrietta Norton's main advice to pregnant women?",
+      "options": [
+        "Stop eating chocolate completely",
+        "Be kind to yourself",
+        "Follow a strict diet in the first trimester",
+        "Eat whatever the baby wants"
+      ],
+      "answer": 1,
+      "why": "She says the most important thing is “to absolutely be kind to yourself”."
+    },
+    {
+      "q": "Why does Henrietta mention the cat-o'-nine-tails?",
+      "options": [
+        "To describe an old cure for cravings",
+        "To show how hard pregnancy was in the past",
+        "To warn about a dangerous food",
+        "To say women shouldn't punish themselves"
+      ],
+      "answer": 3,
+      "why": "She says not to “get out the cat-o'-nine-tails” – it's not about giving yourself a hard time."
+    },
+    {
+      "q": "According to Henrietta, why might a woman want to eat chips early in pregnancy?",
+      "options": [
+        "Her body feels it is under physical stress",
+        "Chips contain important nutrients",
+        "She is bored of healthy food",
+        "The baby is growing very fast and needs more fat"
+      ],
+      "answer": 0,
+      "why": "She says the body is going through what it perceives to be physiological stress."
+    }
+  ]
+}

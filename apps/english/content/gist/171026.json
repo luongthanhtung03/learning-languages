@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to make sweets and cakes at home for less money",
+        "The sugar in our food and how much is too much",
+        "Why fat is much worse for our health than sugar",
+        "How sugar is produced from sugar cane and beet"
+      ],
+      "answer": 1,
+      "why": "Neil says they are talking about sugar and asks 'how much is too much?'"
+    },
+    {
+      "q": "Where does Rob say some sugar is hidden?",
+      "options": [
+        "Only in sweets, cakes and fizzy drinks for children",
+        "Mainly in fresh fruit such as bananas and grapes",
+        "In meat and fish that has been kept in the freezer",
+        "In 'healthy' foods like yoghurts and fruit drinks"
+      ],
+      "answer": 3,
+      "why": "He says some sugar is hidden in 'healthy' foods such as yoghurts, low fat snacks and fruit drinks."
+    },
+    {
+      "q": "What does Rob say about the information on food packets?",
+      "options": [
+        "He reads it, but finds it confusing",
+        "He never reads it",
+        "He finds it very clear and useful",
+        "He thinks it is always wrong"
+      ],
+      "answer": 0,
+      "why": "Rob checks it, but says it can be very confusing because there's so much information."
+    },
+    {
+      "q": "What does green mean in the colour coding on some packaging?",
+      "options": [
+        "High levels of sugar, salt or fat",
+        "Medium levels",
+        "Low levels",
+        "The food is organic"
+      ],
+      "answer": 2,
+      "why": "Neil says red is high, orange is medium and green is low."
+    },
+    {
+      "q": "How much sugar did the man in Chester think was in the fat-free yoghurt?",
+      "options": [
+        "None at all",
+        "About half the pot",
+        "About a third of the pot",
+        "A couple of teaspoons"
+      ],
+      "answer": 3,
+      "why": "He said he'd 'probably think maybe a couple of teaspoonfuls'."
+    },
+    {
+      "q": "How much of the yoghurt was actually sugar?",
+      "options": [
+        "About a third",
+        "About a tenth",
+        "About half",
+        "About 5%"
+      ],
+      "answer": 0,
+      "why": "The reporter says about a third of the yoghurt pot is actually sugar."
+    },
+    {
+      "q": "Why does the man mention that the yoghurt says 'fat-free'?",
+      "options": [
+        "He wants to buy more of it",
+        "He thinks fat-free food tastes worse",
+        "The label made him think it was healthy",
+        "He is on a diet with no fat"
+      ],
+      "answer": 2,
+      "why": "He is amazed a third is sugar 'and it does say it's fat-free', so he expected it to be healthy."
+    },
+    {
+      "q": "What is Dr Gunter Kuhnle's view?",
+      "options": [
+        "Sugar should be avoided at all costs, especially by children",
+        "Don't make one nutrient seem evil; eat a balanced diet and enjoy food",
+        "Fat is the real problem, not sugar, so we should eat less of it",
+        "People should stop eating any kind of processed food completely"
+      ],
+      "answer": 1,
+      "why": "He says demonising one food is 'the wrong way forward' and we should eat a balanced diet and enjoy it."
+    }
+  ]
+}

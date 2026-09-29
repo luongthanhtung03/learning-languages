@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to keep your New Year's resolutions",
+        "The best sports for staying fit and healthy",
+        "The least exercise you need to stay healthy",
+        "Why running every day is bad for your body"
+      ],
+      "answer": 2,
+      "why": "Neil says they'll ask what's the least amount of exercise someone can get away with while staying healthy."
+    },
+    {
+      "q": "Why doesn't Neil keep his resolution to exercise more?",
+      "options": [
+        "He is too lazy to run on cold mornings",
+        "He hurt his leg playing football",
+        "He doesn't have time after work",
+        "He doesn't like gyms or other people"
+      ],
+      "answer": 0,
+      "why": "He says he's too lazy to go running on cold winter mornings and would rather stay in bed."
+    },
+    {
+      "q": "Why did the UK government downgrade its exercise advice?",
+      "options": [
+        "Doctors said it was too much",
+        "New research showed exercise was less important",
+        "It wanted people to rest more",
+        "Very few people were following it"
+      ],
+      "answer": 3,
+      "why": "Neil says it downgraded its recommendations because so few Brits were following them."
+    },
+    {
+      "q": "What is James Gallagher's regular 'structured exercise'?",
+      "options": [
+        "Running on a treadmill every day",
+        "Swimming once a week",
+        "A weekly fitness class",
+        "Cycling to work"
+      ],
+      "answer": 1,
+      "why": "He says his structured exercise is going for a swim once a week."
+    },
+    {
+      "q": "According to Dr Zoe Saynor, what must shorter exercise sessions be like?",
+      "options": [
+        "More intense",
+        "More relaxing",
+        "Done with friends",
+        "Done early in the morning"
+      ],
+      "answer": 0,
+      "why": "She says shorter sessions need to be of a higher intensity."
+    },
+    {
+      "q": "Why does Zoe focus on office workers?",
+      "options": [
+        "They eat too much",
+        "They work very long hours",
+        "They sit down all day",
+        "They often travel by plane"
+      ],
+      "answer": 2,
+      "why": "She says people with office jobs are sat down all day, so they need some easy wins."
+    },
+    {
+      "q": "Which of these is an 'easy win' Zoe suggests?",
+      "options": [
+        "Joining an expensive gym",
+        "Running a marathon",
+        "Swimming every day",
+        "Parking a little further away"
+      ],
+      "answer": 3,
+      "why": "She mentions active travel, even parking a little bit further away."
+    },
+    {
+      "q": "What does Neil say at the end about exercise?",
+      "options": [
+        "He will never exercise again after this",
+        "He'll walk more, but bodies need rest",
+        "He plans to run every day from now on",
+        "He thinks walking is useless for health"
+      ],
+      "answer": 1,
+      "why": "He says he'll try to walk more, 'but remember, Sam, the body needs rest too!'"
+    }
+  ]
+}

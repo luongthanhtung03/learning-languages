@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The latest gadgets at a big technology show in Las Vegas",
+        "How robots are built in factories and tested for safety",
+        "Films about robots fighting humans and why people love them",
+        "Whether clever machines could one day take over the world"
+      ],
+      "answer": 3,
+      "why": "Dan and Neil discuss the 'rise of the machines', the possible takeover of the world by AI."
+    },
+    {
+      "q": "Why is Dan wearing protective gear and a helmet?",
+      "options": [
+        "He has just been riding his bike to the studio",
+        "He is joking that he is ready for robots to take over",
+        "He is testing a new robot suit for the programme",
+        "He is going to a technology show after the recording"
+      ],
+      "answer": 1,
+      "why": "Dan says he is 'getting ready for the inevitable rise of the machines'."
+    },
+    {
+      "q": "What is David Hanson's ambition, according to the article?",
+      "options": [
+        "To create an AI that can beat humans at any mental task",
+        "To build robots that can do all the housework at home",
+        "To stop AI becoming too clever for humans to control",
+        "To replace all air traffic controllers with machines"
+      ],
+      "answer": 0,
+      "why": "Hanson said he wants to achieve an AI that can beat humans at any intellectual task."
+    },
+    {
+      "q": "What example does Neil give of a job AI could do well?",
+      "options": [
+        "Writing science fiction",
+        "Teaching children",
+        "Controlling air traffic",
+        "Driving taxis"
+      ],
+      "answer": 2,
+      "why": "Neil mentions air traffic control, saying there would never be another plane crash."
+    },
+    {
+      "q": "Why does Neil mention Isaac Asimov?",
+      "options": [
+        "He wrote the first play about robots",
+        "He built the first sentient robot",
+        "He predicted robots would take over by 2020",
+        "He created laws to stop robots acting against people"
+      ],
+      "answer": 3,
+      "why": "Neil says Asimov came up with three laws every robot must follow to stop it acting against humanity."
+    },
+    {
+      "q": "What does Dan fear an AI made to protect humanity might do?",
+      "options": [
+        "Take control of everything we do, so we lose our freedom",
+        "Start wars between countries to reduce the population",
+        "Refuse to follow orders and switch itself off for good",
+        "Leave Earth to find other intelligent life in space"
+      ],
+      "answer": 0,
+      "why": "Dan imagines it controlling everything to stop us hurting each other, so we'd lose our freedom."
+    },
+    {
+      "q": "What does Sam from the Learning English team think?",
+      "options": [
+        "It could easily happen very soon",
+        "It's possible, but technology will reach its limit first",
+        "It will never happen, and humans would win anyway",
+        "Only films make people think about it"
+      ],
+      "answer": 2,
+      "why": "Sam says 'never in a million years' because we'd programme them and beat them anyway."
+    },
+    {
+      "q": "Who in the Learning English team agrees most with Dan's worry?",
+      "options": [
+        "Phil",
+        "Kee",
+        "Sam",
+        "Neil"
+      ],
+      "answer": 1,
+      "why": "Kee says she totally thinks it could happen once a robot can think for itself."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to meet deadlines at work every time",
+        "Why we put things off, and how to stop",
+        "How comedians write and plan their shows",
+        "Why cavemen lived such short lives"
+      ],
+      "answer": 1,
+      "why": "Sam says they're discussing procrastination – delaying things that must be done."
+    },
+    {
+      "q": "Why does Sam say she leaves her work until the last minute?",
+      "options": [
+        "She works better as a deadline gets near",
+        "She has too many other jobs to do first",
+        "Her boss always gives her work very late",
+        "She often forgets about it completely"
+      ],
+      "answer": 0,
+      "why": "She says, 'I work better when a deadline is approaching.'"
+    },
+    {
+      "q": "Which of these does Neil link to procrastination?",
+      "options": [
+        "Better sleep and more energy",
+        "Higher pay and faster promotion",
+        "More friends and a busier social life",
+        "More stress and less career success"
+      ],
+      "answer": 3,
+      "why": "He says procrastinators have higher stress, lower wellbeing and lower financial and career success."
+    },
+    {
+      "q": "What reason has comedian Eshaan Akbar given himself for procrastinating?",
+      "options": [
+        "He doesn't like his job",
+        "He's too tired to start early",
+        "He works better under pressure",
+        "He has poor time management"
+      ],
+      "answer": 2,
+      "why": "He says he has told himself he procrastinates because he works better under pressure."
+    },
+    {
+      "q": "How does Sam describe her own reason for procrastinating?",
+      "options": [
+        "An emotional reaction to a mountain of work",
+        "Her time management has always been poor",
+        "She secretly enjoys being late for things",
+        "She gets bored easily when work is slow"
+      ],
+      "answer": 0,
+      "why": "She says it's an emotional response: she sees a mountain of work and feels threatened."
+    },
+    {
+      "q": "Why does Neil mention our cave-dwelling ancestors?",
+      "options": [
+        "To show that they never put things off at all",
+        "Acting on impulse helped then but not now",
+        "To say they were better at managing their time",
+        "To show that life was much easier in the past"
+      ],
+      "answer": 1,
+      "why": "He says being impulsive was good back then, but today it makes us distracted and we procrastinate."
+    },
+    {
+      "q": "What does Eshaan say he doesn't understand?",
+      "options": [
+        "Why people procrastinate at all",
+        "Why his friends always finish work early",
+        "Why he can never find any time to relax",
+        "Why he prefers last-minute pressure"
+      ],
+      "answer": 3,
+      "why": "He says he needs to understand why he prefers that over 'the calm serenity' of finishing with lots of time."
+    },
+    {
+      "q": "Which advice does Neil give for avoiding procrastination?",
+      "options": [
+        "Work only at night when it is quiet",
+        "Ask someone else to do the hardest parts",
+        "Break tasks up and forgive past delays",
+        "Set more deadlines and stick to them"
+      ],
+      "answer": 2,
+      "why": "He suggests breaking the task into smaller stages and forgiving yourself for procrastinating in the past."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why children tell lies",
+        "How to look after a pet hamster",
+        "The lies parents tell children, and whether they're OK",
+        "How to tell when someone is lying to you in a conversation"
+      ],
+      "answer": 2,
+      "why": "Rob says 'today we are talking about lies and particularly the lies that parents tell children'."
+    },
+    {
+      "q": "What did Rob's mum tell him about his missing hamster?",
+      "options": [
+        "It had gone to live on a farm",
+        "It had escaped into the garden",
+        "It had been given to a friend",
+        "It was hiding under his bed"
+      ],
+      "answer": 0,
+      "why": "Rob says his mum told him the hamster had gone to live on a farm with other animals."
+    },
+    {
+      "q": "Why does Neil keep saying 'Really?' about the hamster story?",
+      "options": [
+        "He is sad about the hamster",
+        "He wants to know which farm the hamster went to live on",
+        "He thinks Rob is lying now",
+        "He is hinting that the story was a lie"
+      ],
+      "answer": 3,
+      "why": "Neil repeats the details doubtfully, then says it was probably a lie parents tell children."
+    },
+    {
+      "q": "According to Dr Chris Boyle, when is a white lie acceptable?",
+      "options": [
+        "When it is very small",
+        "When there's no wish to hurt anyone",
+        "When the other person never finds out",
+        "When you are talking to children"
+      ],
+      "answer": 1,
+      "why": "He says it's a distortion of the truth 'without malicious intent'."
+    },
+    {
+      "q": "What does Dr Boyle say about white lies in society?",
+      "options": [
+        "They are almost a normal, accepted thing",
+        "They are becoming less common",
+        "They should be punished",
+        "They only happen in some cultures"
+      ],
+      "answer": 0,
+      "why": "He says it's 'almost a societal norm' that it's acceptable to tell certain lies at certain times."
+    },
+    {
+      "q": "Why does Rob think his mum lied about the hamster?",
+      "options": [
+        "She was too busy to explain",
+        "She wanted to trick him",
+        "She didn't know what happened",
+        "She wanted to protect him"
+      ],
+      "answer": 3,
+      "why": "Rob says 'she didn't want to hurt me. In fact, just the opposite, she wanted to protect me.'"
+    },
+    {
+      "q": "Which lie is given as an example of lying for the parent's convenience?",
+      "options": [
+        "Saying the shops were closed",
+        "Saying the park wasn't open when it was",
+        "Saying the TV was broken",
+        "Saying there was no more ice cream"
+      ],
+      "answer": 1,
+      "why": "Rob says his mum said the park wasn't open, but she was probably just too busy to take him."
+    },
+    {
+      "q": "What examples of cultural lies does Neil mention?",
+      "options": [
+        "Stories about ghosts",
+        "Stories about dangerous animals",
+        "Father Christmas and the Tooth Fairy",
+        "Stories about good behaviour at school"
+      ],
+      "answer": 2,
+      "why": "Neil says 'I'm talking about, for example, Father Christmas and the Tooth Fairy.'"
+    }
+  ]
+}

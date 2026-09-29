@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The best detective novels ever written in English",
+        "How to read faster and remember more of a book",
+        "How reading in groups can help people feel better",
+        "Why so many local libraries are closing down"
+      ],
+      "answer": 2,
+      "why": "They discuss 'bibliotherapy' and how books can help us relax and feel more alive."
+    },
+    {
+      "q": "Why does Georgina enjoy crime fiction?",
+      "options": [
+        "She gets involved in working out who the killer is",
+        "It helps her fall asleep quickly at night",
+        "It is very relaxing after a long, busy day",
+        "It teaches her a lot about real crimes in history"
+      ],
+      "answer": 0,
+      "why": "She says it's not exactly relaxing, but she gets involved trying to work out who the murderer is."
+    },
+    {
+      "q": "What did the charity Reading Agency do in 2013?",
+      "options": [
+        "It opened lots of new libraries around the country",
+        "It gave free books to children in poor areas",
+        "It started online reading groups for older people",
+        "It published a list of books doctors could offer"
+      ],
+      "answer": 3,
+      "why": "Neil says it published a list of books that doctors could offer to patients."
+    },
+    {
+      "q": "How successful has the scheme been?",
+      "options": [
+        "It has only been used by doctors",
+        "1.2 million readers have borrowed its books",
+        "It has closed because of low interest",
+        "It is only for children"
+      ],
+      "answer": 1,
+      "why": "Georgina says 1.2 million readers have borrowed the scheme's books and it will be extended to children."
+    },
+    {
+      "q": "According to Philip Davis, what happens when people just scan a text?",
+      "options": [
+        "Their brain gets very excited",
+        "They remember more information",
+        "It is fast, easy and automatic",
+        "They feel more emotional"
+      ],
+      "answer": 2,
+      "why": "He says if you're just scanning for information, 'you go fast, it's very easy, it's automatic'."
+    },
+    {
+      "q": "What happens in the brain when people read literature they care about, according to Davis?",
+      "options": [
+        "Different parts become active and it comes to life",
+        "The brain slows down and has a chance to rest",
+        "Only the left side of the brain starts working",
+        "The reader slowly loses concentration and focus"
+      ],
+      "answer": 0,
+      "why": "He says the brain works from a different hemisphere, gets excited and 'you can see the brain coming to life'."
+    },
+    {
+      "q": "How can the benefits of group reading be measured?",
+      "options": [
+        "By asking readers to take a written test afterwards",
+        "By counting how many books they read each month",
+        "By checking their heart rate before and after",
+        "By recording brain activity with electrodes or scans"
+      ],
+      "answer": 3,
+      "why": "Davis mentions electrodes on the scalp measuring electricity, or an FMRI scanner showing blood flow."
+    },
+    {
+      "q": "Why does Georgina joke about a detective story being 'really stimulating'?",
+      "options": [
+        "Detective stories are used in all reading groups",
+        "It links the idea of a stimulus to her love of crime",
+        "She wants Neil to recommend a good one to read",
+        "Scientists have proved that detective stories are best"
+      ],
+      "answer": 1,
+      "why": "After Neil says a poem or novel could be a stimulus, she jokes about her favourite genre, detective stories."
+    }
+  ]
+}

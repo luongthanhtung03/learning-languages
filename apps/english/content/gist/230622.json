@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How chefs make food look good on the plate",
+        "Why some kinds of music are bad for digestion",
+        "How sounds affect taste and what we buy",
+        "Famous chocolate adverts on British TV"
+      ],
+      "answer": 2,
+      "why": "Beth says they'll investigate the link between sound and our tastebuds, called 'sonic seasoning'."
+    },
+    {
+      "q": "What is 'sonic seasoning'?",
+      "options": [
+        "Using sounds or music to boost flavours",
+        "Adding salt to food in time with music",
+        "Cooking food quickly with sound waves",
+        "Making food crunchier and louder to eat"
+      ],
+      "answer": 0,
+      "why": "Beth says it's the idea that certain sounds or music can enhance flavours in food."
+    },
+    {
+      "q": "Why does Neil mention Cadbury?",
+      "options": [
+        "To show that chocolate tastes better quietly",
+        "To give an example of music used to sell food",
+        "To explain how chocolate is made in factories",
+        "To compare the taste of chocolate and whisky"
+      ],
+      "answer": 1,
+      "why": "He says food companies know sounds equal sales, and Cadbury hired an orchestra to represent its flavours."
+    },
+    {
+      "q": "What does Professor Charles Spence think about sound and taste?",
+      "options": [
+        "Sound is less important than sight and smell",
+        "Sound only matters after we start eating",
+        "Sound has no real effect on taste",
+        "Sound is more important than we realise"
+      ],
+      "answer": 3,
+      "why": "He says, 'I think it's much more important than we realise'."
+    },
+    {
+      "q": "According to Professor Spence, what do sounds like a sizzling steak do?",
+      "options": [
+        "They make us expect a certain taste",
+        "They make us less hungry",
+        "They warn us the food is too hot",
+        "They make the food cook faster"
+      ],
+      "answer": 0,
+      "why": "He says these sounds are cues that set up expectations about what we're about to taste."
+    },
+    {
+      "q": "Who chooses the music at the Smashburger restaurant?",
+      "options": [
+        "The customers",
+        "The chefs",
+        "Professional music pickers",
+        "Professor Spence"
+      ],
+      "answer": 2,
+      "why": "Every song is specially chosen by professional music pickers."
+    },
+    {
+      "q": "According to Amy Frishkey, how can good music affect customers?",
+      "options": [
+        "It makes them eat faster and leave early",
+        "It makes them order less food and drink",
+        "It helps them concentrate on their talk",
+        "It can lead them to buy extras, like dessert"
+      ],
+      "answer": 3,
+      "why": "She says music can put you in a mood that leads to an impulse buy, like dessert."
+    },
+    {
+      "q": "What does Neil suggest restaurants gain from customers staying longer?",
+      "options": [
+        "More time to clean",
+        "More money",
+        "Better reviews online",
+        "Quieter dining rooms"
+      ],
+      "answer": 1,
+      "why": "He says the longer customers linger and buy on impulse, the more money a restaurant makes."
+    }
+  ]
+}

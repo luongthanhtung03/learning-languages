@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The first astronauts to land on the Moon",
+        "The deep ocean and the strange life found there",
+        "Famous sea monsters in old stories and films",
+        "How volcanoes on land are formed and studied"
+      ],
+      "answer": 1,
+      "why": "Sam says they'll be diving into the deep seas and seeing some of its strange sights."
+    },
+    {
+      "q": "Why does Neil mention photographs from the Apollo mission?",
+      "options": [
+        "To show how small the Moon looks from Earth",
+        "To explain how astronauts studied the oceans",
+        "To show that the Moon is covered in water",
+        "They showed how much of Earth is ocean"
+      ],
+      "answer": 3,
+      "why": "He says only when we went to the Moon did we really see the size of Earth's oceans and call it the Blue Planet."
+    },
+    {
+      "q": "What are conditions like at the very bottom of the ocean?",
+      "options": [
+        "Dark, very cold and under huge pressure",
+        "Warm and bright, with lots of plants",
+        "Cold but full of light from the surface",
+        "Dark but warm everywhere, like a volcano"
+      ],
+      "answer": 0,
+      "why": "Neil says no sunlight reaches it, so it's totally dark and extremely cold, with massive pressure."
+    },
+    {
+      "q": "According to Alex Rogers, what is the first problem with hydrothermal vents?",
+      "options": [
+        "They are too hot for cameras to film",
+        "They are dangerous for divers to visit",
+        "They are hard to find as they're so small",
+        "They only exist near the Antarctic coast"
+      ],
+      "answer": 2,
+      "why": "He says they cover a very small area, so it's 'like trying to find a needle in a haystack'."
+    },
+    {
+      "q": "What did Alex see when his camera reached the vent?",
+      "options": [
+        "Suddenly there was life everywhere",
+        "There was nothing living there at all",
+        "Only a few small fish swimming slowly",
+        "Clouds of smoke that hid everything"
+      ],
+      "answer": 0,
+      "why": "Life is 'thin on the ground', but then the camera finds 'abundant life all over the sea floor' around the vents."
+    },
+    {
+      "q": "Which creatures are mentioned as living near the vents?",
+      "options": [
+        "Sharks, whales and giant octopuses",
+        "Sea turtles, jellyfish and starfish",
+        "Penguins, seals and colourful fish",
+        "Mussels, tube worms and hairy crabs"
+      ],
+      "answer": 3,
+      "why": "Neil mentions vent mussels, tube worms and blind 'yeti crabs' with hairy claws."
+    },
+    {
+      "q": "When were hydrothermal vents discovered?",
+      "options": [
+        "Around 150 years ago",
+        "During the Apollo missions",
+        "In the 1970s",
+        "Only a few years ago"
+      ],
+      "answer": 2,
+      "why": "Sam says these vents may be as old as Earth itself, but were only discovered in the 1970s."
+    },
+    {
+      "q": "What is Kerry Howell's opinion about the deep sea?",
+      "options": [
+        "Scientists have now found almost everything there",
+        "She's sure there's much more to discover",
+        "It is too dangerous to explore any further",
+        "There is probably no more life down there"
+      ],
+      "answer": 1,
+      "why": "She says, 'I have absolutely no doubt that there is plenty more to discover down there.'"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why chocolate and sweets are bad for your health",
+        "How to live happily in a big city without a car",
+        "How supermarkets store and transport fresh milk",
+        "Putting carbon footprint labels on products"
+      ],
+      "answer": 3,
+      "why": "Sam says they'll look at an idea to add a label showing the carbon footprint of a product."
+    },
+    {
+      "q": "Why does Sam mention the label on Neil's chocolate bar?",
+      "options": [
+        "To warn Neil about eating too much chocolate every day",
+        "As an example of a label that helps people compare products",
+        "To show that food labels are too small for people to read",
+        "To explain to listeners what a carbon footprint is"
+      ],
+      "answer": 1,
+      "why": "The label shows sugar, fat and calories so consumers can compare the healthiness of things."
+    },
+    {
+      "q": "What does Neil say about carbon labelling in the past?",
+      "options": [
+        "It was very popular in British shops in the 1990s",
+        "It was banned by governments in most of Europe",
+        "It isn't a new idea, but it never became popular",
+        "It was only ever used for new cars and fuel"
+      ],
+      "answer": 2,
+      "why": "Neil says it's not a new idea but it's something that has never caught on."
+    },
+    {
+      "q": "According to Marc Engel, who is driving the demand for this information?",
+      "options": [
+        "Younger shoppers like Gen Z",
+        "Governments and politicians in Europe",
+        "Supermarket managers",
+        "Environmental scientists"
+      ],
+      "answer": 0,
+      "why": "He says Gen Z and Millennials are much more willing to make informed choices about responsible products."
+    },
+    {
+      "q": "What does Marc Engel say about Unilever's reason for doing this?",
+      "options": [
+        "It was an idea the company invented itself",
+        "It will make the products cheaper",
+        "It is required by law",
+        "They believe customers will ask for it"
+      ],
+      "answer": 3,
+      "why": "He says they're doing it because this is what consumers will ask from business."
+    },
+    {
+      "q": "How many products has Unilever promised to label?",
+      "options": [
+        "7,000",
+        "700",
+        "70,000",
+        "7 million"
+      ],
+      "answer": 2,
+      "why": "Neil says Unilever committed to putting carbon information on 70,000 products."
+    },
+    {
+      "q": "According to Dr Zaina Gadema-Cooke, why is it hard to measure a product's full carbon footprint?",
+      "options": [
+        "Because people use and throw away products in different ways",
+        "Because farms and factories refuse to share their data",
+        "Because the labels are too expensive for shops to print",
+        "Because carbon can't be measured accurately by scientists"
+      ],
+      "answer": 0,
+      "why": "She says it's almost impossible to include the consumer stage because we all use and dispose of products differently."
+    },
+    {
+      "q": "What does Dr Gadema-Cooke mean when she says 'farm to fork' is really 'farm to retail shelf'?",
+      "options": [
+        "Most food is wasted on farms before it reaches the shops",
+        "Calculations usually stop when the product reaches the shop",
+        "Shops and supermarkets add the most carbon to our food",
+        "Farmers are not included in the carbon calculations at all"
+      ],
+      "answer": 1,
+      "why": "She says calculations tend to be 'farm-to-retail-shelf', as what happens after purchase is unknown."
+    }
+  ]
+}

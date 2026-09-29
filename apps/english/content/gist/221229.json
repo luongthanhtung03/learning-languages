@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to keep food fresh in the fridge",
+        "Food waste and people trying to reduce it",
+        "Why supermarkets import fruit",
+        "How to grow avocados"
+      ],
+      "answer": 1,
+      "why": "Neil says they'll talk about food waste and meet people trying to stop us throwing good food away."
+    },
+    {
+      "q": "According to the UN, how much of the food we grow is thrown away?",
+      "options": [
+        "About a tenth",
+        "About half",
+        "Around two thirds",
+        "One third"
+      ],
+      "answer": 3,
+      "why": "Sam says one third of the food we grow ends up in the rubbish bin."
+    },
+    {
+      "q": "What problem with imported summer fruit in winter is mentioned?",
+      "options": [
+        "It adds to carbon emissions and waste",
+        "It tastes much worse than local fruit",
+        "It is too expensive for most people",
+        "It is often unsafe to eat raw"
+      ],
+      "answer": 0,
+      "why": "Sam says flying in summer fruit increases carbon emissions as well as waste."
+    },
+    {
+      "q": "What was farmer Josefina Arcay's problem with the middlemen?",
+      "options": [
+        "They never paid her on time for her fruit",
+        "They only bought avocados, nothing else",
+        "She had no control and got lower prices",
+        "They sold her food abroad without asking"
+      ],
+      "answer": 2,
+      "why": "She says they'd say it's too expensive and offer half the price, so she had no control."
+    },
+    {
+      "q": "What did Josefina set up to solve this?",
+      "options": [
+        "A new supermarket in her home town",
+        "An online shop linking buyers and farmers",
+        "A company of middlemen to sell her food",
+        "A restaurant using only local food"
+      ],
+      "answer": 1,
+      "why": "She started an online shop to connect shoppers with farmers directly, without supermarkets."
+    },
+    {
+      "q": "How much food waste happens after people have bought the food, according to the UN?",
+      "options": [
+        "10 percent",
+        "33 percent",
+        "60 percent",
+        "90 percent"
+      ],
+      "answer": 2,
+      "why": "The UN estimates 60 percent of food waste happens this way."
+    },
+    {
+      "q": "Why does Solveiga Pakstaite say use-by dates are often too early?",
+      "options": [
+        "Supermarkets want people to buy more food",
+        "They are printed too early by mistake",
+        "Farmers ask for shorter dates on labels",
+        "They plan for food being stored badly"
+      ],
+      "answer": 3,
+      "why": "She says they calculate for the worst-case scenario, since they don't know which product will be stored wrongly."
+    },
+    {
+      "q": "What is the result of these cautious use-by dates?",
+      "options": [
+        "A lot of safe food gets thrown away",
+        "More people get food poisoning",
+        "Food becomes more expensive",
+        "Supermarkets sell less food"
+      ],
+      "answer": 0,
+      "why": "Sam says it protects customers, but a lot of safe-to-eat food gets thrown away."
+    }
+  ]
+}

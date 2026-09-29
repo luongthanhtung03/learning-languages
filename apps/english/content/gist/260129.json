@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to survive in the wild with no food",
+        "Why spy films about bunkers are so popular",
+        "Why tech billionaires build luxury bunkers",
+        "How to store food safely for a long time"
+      ],
+      "answer": 2,
+      "why": "They talk about luxury bunkers, the people building them and what they're afraid of."
+    },
+    {
+      "q": "How prepared for disaster does Hannah say she is?",
+      "options": [
+        "She has built her own bunker in the garden",
+        "She's organised, but has only a week's food",
+        "She has no food stored at home at all",
+        "She has enough food stored for a whole year"
+      ],
+      "answer": 1,
+      "why": "Hannah says she's pretty organised but only has enough food to last about a week."
+    },
+    {
+      "q": "What does Neil say about the billionaires' bunkers?",
+      "options": [
+        "They are small and basic, with no windows",
+        "They are only used for storing food and water",
+        "They are open to the public at weekends",
+        "They are huge, with gyms and home cinemas"
+      ],
+      "answer": 3,
+      "why": "He says they're huge, with cool features like gyms or home cinemas."
+    },
+    {
+      "q": "Why has reporter Nathalie Jimenez thought about preparing for disaster?",
+      "options": [
+        "She sees adverts for freeze-dried food on TV",
+        "She lived through a big earthquake as a child",
+        "A billionaire invited her to visit his bunker",
+        "She read a popular book about preppers"
+      ],
+      "answer": 0,
+      "why": "She says US TV channels regularly show ads for freeze-dried food, about the prepper mentality."
+    },
+    {
+      "q": "According to Nathalie, what are the billionaires afraid of?",
+      "options": [
+        "Losing their companies to younger rivals",
+        "Being attacked at home by criminals",
+        "Nuclear war, AI risk and climate disaster",
+        "Rising house prices in big cities"
+      ],
+      "answer": 2,
+      "why": "She lists nuclear tensions, AI risk and climate disaster, 'essentially any world-ending event'."
+    },
+    {
+      "q": "What second reason does Nathalie give for building these bunkers?",
+      "options": [
+        "They show the owner's high social status",
+        "They are a very good long-term investment",
+        "They are required by law in some states",
+        "They help protect the environment"
+      ],
+      "answer": 0,
+      "why": "She says it's 'also a mark of societal status'."
+    },
+    {
+      "q": "What would the bunkers allow billionaires to do in a disaster?",
+      "options": [
+        "Help other people survive the disaster",
+        "Leave the planet in their own rockets",
+        "Keep working on their businesses as normal",
+        "Survive without giving up their luxury life"
+      ],
+      "answer": 3,
+      "why": "Nathalie says they could live through it comfortably 'without compromising your lifestyle'."
+    },
+    {
+      "q": "What does Nathalie suggest when she says the billionaires' fear is 'telling'?",
+      "options": [
+        "That they are only pretending to be afraid",
+        "It's worrying, as they're building the future",
+        "That they will soon tell the public the dangers",
+        "That their bunkers are not really safe at all"
+      ],
+      "answer": 1,
+      "why": "She says because they're building the future, the fact they're afraid of it is telling in itself."
+    }
+  ]
+}

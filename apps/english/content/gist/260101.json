@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to win an argument with your friends",
+        "Why politicians disagree with each other so often",
+        "If society is more divided and how to be open",
+        "How modern dating apps match people"
+      ],
+      "answer": 2,
+      "why": "Beth asks whether we're becoming more divided and how we can be more accepting of others' opinions."
+    },
+    {
+      "q": "What does Neil say about his friends' opinions?",
+      "options": [
+        "They're similar to his, partly why they're friends",
+        "They are very different from his own views",
+        "He never discusses his opinions with friends",
+        "He often argues with his friends about politics"
+      ],
+      "answer": 0,
+      "why": "Neil says he probably has quite similar opinions, 'and that's, kind of, why we're friends'."
+    },
+    {
+      "q": "According to Beth, how might social media make us less accepting?",
+      "options": [
+        "It shows us far too many different opinions",
+        "It makes people spend less time with family",
+        "It only shows us news from other countries",
+        "Its algorithms show what we already agree with"
+      ],
+      "answer": 3,
+      "why": "She says algorithms tend to show us what we already like and agree with."
+    },
+    {
+      "q": "What does Professor Paul Dolan suggest people could do on social media?",
+      "options": [
+        "Stop using it completely",
+        "Wait five minutes before sending a post",
+        "Only post happy messages",
+        "Block people who disagree with them"
+      ],
+      "answer": 1,
+      "why": "He says people could have a five-minute delay before sending."
+    },
+    {
+      "q": "What does Paul say about calming down when you're very angry?",
+      "options": [
+        "It is impossible to calm down quickly when angry",
+        "It usually takes about an hour to feel better",
+        "Anger never really goes away once it starts",
+        "It takes 15 minutes, but starts within seconds"
+      ],
+      "answer": 3,
+      "why": "He says it takes 15 minutes for the amygdala to calm down, but it starts within a few seconds."
+    },
+    {
+      "q": "What does Paul suggest about anger?",
+      "options": [
+        "It isn't always bad, as it can motivate us",
+        "It should always be avoided",
+        "It helps us make the best decisions",
+        "It is only a problem online"
+      ],
+      "answer": 0,
+      "why": "He says always being calm isn't necessarily good: 'Anger can be motivational.'"
+    },
+    {
+      "q": "What did the dating experiment find?",
+      "options": [
+        "Most people only cared about their partner's height",
+        "People want open minds in others, not themselves",
+        "People prefer partners with different political views",
+        "Open-minded people find partners faster"
+      ],
+      "answer": 1,
+      "why": "Researchers concluded people want a tolerant partner but don't want to be very open-minded themselves."
+    },
+    {
+      "q": "What does Paul think is the best way to become more tolerant?",
+      "options": [
+        "Reading more news online from different sources",
+        "Only talking to people who agree with you",
+        "Going offline and meeting different people",
+        "Avoiding any talk about politics with friends"
+      ],
+      "answer": 2,
+      "why": "He says to get offline and meet people; the more you're around different people, the more tolerant you become."
+    }
+  ]
+}

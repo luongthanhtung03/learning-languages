@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to learn to ride a horse as an adult",
+        "How horses help people's physical and mental health",
+        "The history of horses in British farming and war",
+        "Why horses are often scared of people and dogs"
+      ],
+      "answer": 1,
+      "why": "They discuss horse therapy, where interacting with horses is used to heal physical and mental illness."
+    },
+    {
+      "q": "How do Neil and Georgie feel about riding horses?",
+      "options": [
+        "They both love it",
+        "They have never ridden a horse",
+        "Neil was a bit scared, but Georgie used to love riding",
+        "Georgie was scared, but Neil rides every week"
+      ],
+      "answer": 2,
+      "why": "Neil says he was a bit scared; Georgie used to ride a lot and loves horses."
+    },
+    {
+      "q": "Which activity can help children with muscle disorders like cerebral palsy?",
+      "options": [
+        "Feeling the horse's movement",
+        "Brushing the horse's hair",
+        "Feeding the horse",
+        "Watching horses from a distance"
+      ],
+      "answer": 0,
+      "why": "Neil says feeling the horse's movement can help children with muscle disorders like cerebral palsy."
+    },
+    {
+      "q": "Why are horses particularly suitable for therapy, according to Georgie?",
+      "options": [
+        "They are easy to train in a short time",
+        "They are very strong and can carry adults",
+        "They live for a long time with one family",
+        "They are very sensitive to human emotions"
+      ],
+      "answer": 3,
+      "why": "She says horses are particularly suitable as they're very sensitive to human emotions."
+    },
+    {
+      "q": "How did Claudia Nicholson's pony help her as a child?",
+      "options": [
+        "It helped her win lots of riding competitions",
+        "It made her feel safe during a hard time",
+        "It helped her make new friends at school",
+        "It taught her to be less afraid of animals"
+      ],
+      "answer": 1,
+      "why": "Going through puberty and her parents' separation, she felt 'met and safe and held' with the pony."
+    },
+    {
+      "q": "Who does Claudia work with a lot at her centre?",
+      "options": [
+        "Older people living alone",
+        "Professional riders",
+        "Teenage girls and children in care",
+        "Doctors and nurses"
+      ],
+      "answer": 2,
+      "why": "Neil says she works a lot with teenage girls and children in care."
+    },
+    {
+      "q": "What does Claudia say can happen when a traumatised child brushes a pony?",
+      "options": [
+        "The child gets bored quickly and wants to leave",
+        "The pony becomes nervous and moves away",
+        "The child wants to ride the pony immediately",
+        "The child may cry, and the horse calms them"
+      ],
+      "answer": 3,
+      "why": "She says they might want to have a cry they've been holding on to, and 'the horse regulates them'."
+    },
+    {
+      "q": "What does Neil suggest makes horses 'perfect animal therapists'?",
+      "options": [
+        "They notice our feelings and respond calmly",
+        "They can understand simple human words",
+        "They are much cheaper than human therapists",
+        "They really enjoy being brushed by people"
+      ],
+      "answer": 0,
+      "why": "He says horses sense fear or sadness through breath, heart rate and movement, and respond calmly."
+    }
+  ]
+}

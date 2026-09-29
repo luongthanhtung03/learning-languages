@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "What astronauts like to eat and drink in space",
+        "How wine is made in the vineyards of France",
+        "How growing plants in space could help Earth farming",
+        "Why Mars could soon be used for large-scale farming"
+      ],
+      "answer": 2,
+      "why": "Georgina says they'll find out how growing plants in space can develop better crops on Earth."
+    },
+    {
+      "q": "What was the real purpose of sending wine to the space station?",
+      "options": [
+        "To study making food and drink in space for Earth",
+        "To give the astronauts a special treat with dinner",
+        "To test whether glass bottles break in low gravity",
+        "To advertise a famous French wine company worldwide"
+      ],
+      "answer": 0,
+      "why": "Neil says the real purpose was to explore producing food and drink in space for people on Earth."
+    },
+    {
+      "q": "What kind of light does Vertical Future use to grow plants?",
+      "options": [
+        "Natural sunlight through windows",
+        "Mostly green light",
+        "White light of all colours",
+        "Only red and blue LED light"
+      ],
+      "answer": 3,
+      "why": "Jen Bromley says they only use red light and blue light, which is why the room looks pink."
+    },
+    {
+      "q": "Why do the plants look black under these lights, according to Jen Bromley?",
+      "options": [
+        "They are dying from lack of sunlight",
+        "They absorb all the light and reflect none",
+        "They are a special black variety",
+        "The room is kept very dark"
+      ],
+      "answer": 1,
+      "why": "She says they look black because they're not reflecting any light and use every photon."
+    },
+    {
+      "q": "What did Nasa find about different 'light recipes'?",
+      "options": [
+        "They make plants grow only at night, not in the day",
+        "They have no real effect on how the plants grow",
+        "They can change a plant's shape, size and flavour",
+        "They make plants grow well without any water at all"
+      ],
+      "answer": 2,
+      "why": "Georgina says different colour combinations can change a plant's shape, size and even flavour."
+    },
+    {
+      "q": "According to Gioia Massa, what is the biggest challenge of growing food in space?",
+      "options": [
+        "The lack of natural light",
+        "Microgravity",
+        "The cold temperature",
+        "The lack of soil"
+      ],
+      "answer": 1,
+      "why": "Neil says lack of light isn't the biggest obstacle, and Massa says microgravity is really challenging."
+    },
+    {
+      "q": "How are plants able to survive in space?",
+      "options": [
+        "Astronauts give them extra food",
+        "They grow very slowly",
+        "They are protected in special boxes",
+        "They adapt by switching their genes on or off"
+      ],
+      "answer": 3,
+      "why": "Massa says plants have plasticity: they can turn their genes on or off to adapt."
+    },
+    {
+      "q": "Why might plants from space be useful back on Earth?",
+      "options": [
+        "Being stressed makes them stronger and more resilient",
+        "They taste much better than plants grown on Earth",
+        "They don't need any light at all to grow back home",
+        "They grow much bigger and faster than normal plants"
+      ],
+      "answer": 0,
+      "why": "Georgina says after adapting, they're stronger and more resilient when they return to Earth."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to keep an office kitchen clean",
+        "How the police catch dangerous criminals",
+        "The best-selling books of all time",
+        "How to get on well with people"
+      ],
+      "answer": 3,
+      "why": "Georgina says how to build rapport and get on with people is the topic of this programme."
+    },
+    {
+      "q": "What annoys Georgina at work, according to Neil?",
+      "options": [
+        "People eating smelly egg sandwiches at their desks",
+        "People not washing their cups in the kitchen",
+        "People arriving late for important meetings",
+        "People talking too loudly on their phones"
+      ],
+      "answer": 1,
+      "why": "Neil says it annoys her when people don't wash up their cups in the staff kitchen."
+    },
+    {
+      "q": "Who does psychologist Emily Alison work with?",
+      "options": [
+        "The police, with criminal suspects",
+        "Teachers in primary and secondary schools",
+        "Teenagers and their parents",
+        "Writers of self-help books"
+      ],
+      "answer": 0,
+      "why": "She's built a career working with the police as they build rapport with criminal suspects."
+    },
+    {
+      "q": "Why does Emily Alison compare building rapport to walking a tightrope?",
+      "options": [
+        "Because it is dangerous and exciting",
+        "Because only experts can do it",
+        "She must stay fair and kind without agreeing",
+        "Because it takes many years to learn"
+      ],
+      "answer": 2,
+      "why": "She says you must balance being objective and compassionate without being sympathetic or collusive."
+    },
+    {
+      "q": "According to Emily Alison, which animal style is best at building rapport?",
+      "options": [
+        "The lion",
+        "The mouse",
+        "The T-Rex",
+        "The monkey"
+      ],
+      "answer": 3,
+      "why": "Georgina says the best at building rapport is the friendly and cooperative monkey."
+    },
+    {
+      "q": "How is the lion different from the mouse?",
+      "options": [
+        "The lion is bossy and likes control, the mouse is passive",
+        "The lion is sarcastic, the mouse is frank",
+        "The lion is friendly, the mouse is argumentative",
+        "The lion is shy, the mouse likes to take charge"
+      ],
+      "answer": 0,
+      "why": "Neil calls them opposites: the bossy lion who takes charge and the more passive mouse."
+    },
+    {
+      "q": "What does Emily Alison say happens if you meet sarcasm with sarcasm?",
+      "options": [
+        "The other person stops talking",
+        "It becomes a good joke",
+        "It only makes things worse",
+        "It helps build rapport"
+      ],
+      "answer": 2,
+      "why": "She says negative behaviour breeds the same back: 'it's only going to go one way'."
+    },
+    {
+      "q": "How does Neil describe himself at the end?",
+      "options": [
+        "As a bossy lion who likes to be in charge",
+        "As a friendly monkey",
+        "As a quiet mouse",
+        "As a sarcastic T-Rex"
+      ],
+      "answer": 1,
+      "why": "Neil says, 'I'm not a sarcastic T-Rex type, more of a friendly monkey!'"
+    }
+  ]
+}

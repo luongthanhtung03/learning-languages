@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The most isolated places on Earth",
+        "Life in the Scottish Highlands",
+        "A survey showing who feels lonely and why",
+        "Why London is a crowded city"
+      ],
+      "answer": 2,
+      "why": "Neil says loneliness is today's topic and the BBC has just completed a big survey about it."
+    },
+    {
+      "q": "What does Sam think about being lonely in a crowd?",
+      "options": [
+        "It's possible, because it's about feeling disconnected",
+        "It's impossible when there are so many people and things to do",
+        "It only happens to people from the countryside",
+        "It only happens to old people"
+      ],
+      "answer": 0,
+      "why": "Sam says you can be lonely anywhere if you feel disconnected from the world around you."
+    },
+    {
+      "q": "How seriously does the British government take loneliness?",
+      "options": [
+        "It ignores the problem",
+        "It has a minister for loneliness",
+        "It pays people to visit the elderly",
+        "It did the survey itself"
+      ],
+      "answer": 1,
+      "why": "Neil says the British government has a minister for loneliness."
+    },
+    {
+      "q": "According to the research, which group feels lonely most often and most strongly?",
+      "options": [
+        "People over 75",
+        "People living alone in the countryside",
+        "Parents with young children",
+        "People aged 16 to 24"
+      ],
+      "answer": 3,
+      "why": "The report says people aged 16 to 24 experience loneliness more often and more intensely."
+    },
+    {
+      "q": "How does Neil feel about this finding?",
+      "options": [
+        "Surprised, because he expected older people",
+        "Not surprised at all",
+        "Worried about his own children",
+        "Doubtful that the survey is correct"
+      ],
+      "answer": 0,
+      "why": "Neil says 'I was surprised by that' because he would have guessed older people."
+    },
+    {
+      "q": "Why does Sam joke about Neil's home-cooked meals?",
+      "options": [
+        "To say that Neil is a great cook",
+        "To suggest a stereotype is true in Neil's case",
+        "To invite Neil for dinner",
+        "To explain why Neil might feel lonely even in a busy city"
+      ],
+      "answer": 1,
+      "why": "Sam says stereotypes may be true in some cases, 'I've eaten some of your home-cooked meals'."
+    },
+    {
+      "q": "According to researchers at the University of Manchester, why might young people feel lonely?",
+      "options": [
+        "They spend too much time online",
+        "They live a long way from their families and old friends",
+        "They are changing identity and learning to control emotions",
+        "They have fewer friends than older people"
+      ],
+      "answer": 2,
+      "why": "They suggest it's a time of identity change, figuring out your place and learning to regulate emotions."
+    },
+    {
+      "q": "What does the reporter mean by 'figuring out your place in the world'?",
+      "options": [
+        "Choosing which country you would most like to live in",
+        "Finding a job near home",
+        "Learning to read maps",
+        "Understanding what to do with your life"
+      ],
+      "answer": 3,
+      "why": "Neil explains that we are trying to understand the world and what to do with our lives."
+    }
+  ]
+}

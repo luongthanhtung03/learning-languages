@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Why jogging and swimming are good for you",
+        "The history of the European football championship",
+        "Concussion in sport and its long-term effects",
+        "How to become a professional boxer"
+      ],
+      "answer": 2,
+      "why": "Georgina says the topic is concussion, a brain injury caused by a blow to the head."
+    },
+    {
+      "q": "Why do the presenters mention Christian Eriksen?",
+      "options": [
+        "His collapse brought sports safety back into the news",
+        "He is a famous boxer who was badly hurt in a fight",
+        "He was concussed during an international hockey match",
+        "He writes newspaper articles about brain injuries"
+      ],
+      "answer": 0,
+      "why": "Neil says safety in sport was back in the news when Eriksen collapsed on the pitch."
+    },
+    {
+      "q": "What are people mainly worried about in this debate?",
+      "options": [
+        "Players and managers earning far too much money",
+        "Broken legs and arms from dangerous tackles",
+        "Too many matches being played in one season",
+        "Brain damage and dementia caused by concussion"
+      ],
+      "answer": 3,
+      "why": "Georgina says at the centre of the debate are worries about brain damage and dementia caused by concussion."
+    },
+    {
+      "q": "How did Nicola White get concussed?",
+      "options": [
+        "She fell and hit her head while jogging in the park",
+        "She collided with another player in a warm-up match",
+        "She was hit by a hockey ball in the Olympic final",
+        "She hit her head on the side of a swimming pool"
+      ],
+      "answer": 1,
+      "why": "She was involved in a heavy collision with another player during a warm-up match in 2018."
+    },
+    {
+      "q": "How does Nicola describe how she felt after the accident?",
+      "options": [
+        "Tired for a few days but otherwise completely fine",
+        "Angry with the other player for playing so roughly",
+        "Like she was in a strange, unpleasant world",
+        "Happy to take a long break from training and sport"
+      ],
+      "answer": 2,
+      "why": "She says it was like being in Alice in Wonderland, 'in such a warped world'."
+    },
+    {
+      "q": "What does Paul Connolly say about Nicola three years later?",
+      "options": [
+        "She has fully recovered",
+        "Many of her symptoms are still there",
+        "She has started boxing",
+        "She refused to see any specialists"
+      ],
+      "answer": 1,
+      "why": "He says that despite treatment from specialists, many of her symptoms persist."
+    },
+    {
+      "q": "What point does Nicola's story show?",
+      "options": [
+        "Only boxers and rugby players really get concussion",
+        "Hockey is now more dangerous than boxing or rugby",
+        "Olympic athletes almost never get seriously injured",
+        "Concussion can happen in sports that aren't full contact"
+      ],
+      "answer": 3,
+      "why": "Neil says concussion is a problem even in sports like hockey that are not considered 'full contact'."
+    },
+    {
+      "q": "What is special about boxing's rules, according to the presenters?",
+      "options": [
+        "Concussion is actually written into them",
+        "They ban all punches to the head",
+        "They allow only ten punches per round",
+        "They require a doctor in the ring"
+      ],
+      "answer": 0,
+      "why": "Georgina says boxing is one of the few sports with concussion written into the rules."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "Covid job losses and whether Denmark's model can help",
+        "How to find a well-paid job working from home",
+        "Why Microsoft is hiring thousands of new workers",
+        "How Denmark became such a rich and happy country"
+      ],
+      "answer": 0,
+      "why": "They assess the post-Covid job landscape and ask whether Denmark might hold the answer."
+    },
+    {
+      "q": "What downside of working from home do Neil and Sam mention?",
+      "options": [
+        "Their internet connection at home is far too slow",
+        "They have to work much longer hours than before",
+        "They can't meet friends, share ideas or go for lunch",
+        "Their homes are too noisy because of the neighbours"
+      ],
+      "answer": 2,
+      "why": "Neil mentions not meeting friends or sharing ideas, and Sam adds going out for lunch."
+    },
+    {
+      "q": "Who has found the pandemic especially stressful, according to Sam?",
+      "options": [
+        "Company bosses",
+        "People working from home",
+        "Students finishing school",
+        "Daily workers with no savings"
+      ],
+      "answer": 3,
+      "why": "Sam says it's been especially stressful for daily workers without savings to pay rent and feed families."
+    },
+    {
+      "q": "What does Elisabeth Reynolds think about recovery in the short term?",
+      "options": [
+        "It has already begun in most parts of the world",
+        "It's too early to talk about, as effects will continue",
+        "It will be fastest in the US because of its size",
+        "It depends only on how quickly a vaccine is found"
+      ],
+      "answer": 1,
+      "why": "She says we're not yet in a place to talk about recovery and will see the ripple effect for months."
+    },
+    {
+      "q": "What does Elisabeth Reynolds say about current government job support?",
+      "options": [
+        "It can't last long term, so bigger change is needed",
+        "It is working well and should stay exactly the same",
+        "It is far too small to really help anyone at all",
+        "It only helps large companies, not small businesses"
+      ],
+      "answer": 0,
+      "why": "Sam says she thinks many measures are not sustainable in the long term and more radical change is needed."
+    },
+    {
+      "q": "What must unemployed Danes do in return for generous payments?",
+      "options": [
+        "Pay much higher taxes once they find work again",
+        "Move to another city where there are more jobs",
+        "Work for the government for a whole year without pay",
+        "Accept any job or training the government thinks useful"
+      ],
+      "answer": 3,
+      "why": "Sam says citizens are expected to commit to any job or training the government thinks is beneficial."
+    },
+    {
+      "q": "According to Jacob Kirkegaard, what is it like for employers in Denmark?",
+      "options": [
+        "They must offer jobs for life",
+        "Firing workers is very expensive",
+        "It's easy and free to hire and fire people",
+        "They pay for all workers' training"
+      ],
+      "answer": 2,
+      "why": "He says it's very easy to hire and fire people and it doesn't cost you anything."
+    },
+    {
+      "q": "Why do Danish workers feel secure even without a job for life?",
+      "options": [
+        "Their strong trade unions will always protect them",
+        "They can retrain with state help and find new work",
+        "Most of them own their homes, so they have no rent",
+        "They can easily move abroad to work in other countries"
+      ],
+      "answer": 1,
+      "why": "Kirkegaard says people know they can find another job, with reskilling paid partly by lavish subsidies."
+    }
+  ]
+}

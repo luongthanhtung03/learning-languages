@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to breathe properly when you are stressed",
+        "Why mice have fast hearts",
+        "Why we sigh and how sighing keeps us alive",
+        "How to reset a computer"
+      ],
+      "answer": 2,
+      "why": "Dan says they'll look at why we sigh and learn how sighing keeps us alive."
+    },
+    {
+      "q": "Was Catherine's sigh at the start of the show real?",
+      "options": [
+        "No, it was just to show what a sigh is",
+        "Yes, she was tired",
+        "Yes, she was frustrated with Dan",
+        "Yes, she was relieved"
+      ],
+      "answer": 0,
+      "why": "Catherine says that one 'was just for educational purposes'."
+    },
+    {
+      "q": "According to Dr Lynne Barker, what would happen to people who didn't sigh?",
+      "options": [
+        "They would sleep badly",
+        "They would feel more stressed",
+        "They would breathe more slowly",
+        "They would eventually die"
+      ],
+      "answer": 3,
+      "why": "She says 'people who don't sigh would eventually die. It is a survival mechanism.'"
+    },
+    {
+      "q": "What did scientists at UCLA find about sighing?",
+      "options": [
+        "It makes the heart beat faster and raises blood pressure",
+        "It is a deep breath that keeps the lungs' tiny air sacs working",
+        "It removes water and dust from deep inside the lungs",
+        "It only happens when we're feeling sad, tired or lonely"
+      ],
+      "answer": 1,
+      "why": "They found a sigh is a special deep breath that keeps the alveoli in our lungs working properly."
+    },
+    {
+      "q": "Why does Catherine suddenly shout 'Boo!'?",
+      "options": [
+        "Because she saw a mouse",
+        "To show Dan an example of a reflex",
+        "Because Dan made a mistake",
+        "To wake up the listeners"
+      ],
+      "answer": 1,
+      "why": "After Dan jumps, she says 'that was a fabulous reflex', something done without thinking."
+    },
+    {
+      "q": "When does Catherine say she sighs?",
+      "options": [
+        "When she is bored or hungry",
+        "When she is angry",
+        "Only when she exercises",
+        "When she is tired or relieved"
+      ],
+      "answer": 3,
+      "why": "Catherine says she sighs when she's tired and when she's relieved."
+    },
+    {
+      "q": "What example of relief does Catherine give?",
+      "options": [
+        "Her friend recovered from a serious illness last year",
+        "Her boss finally listened to her ideas at a meeting",
+        "She found her new phone that she thought she'd lost",
+        "She passed an important exam she thought she'd failed"
+      ],
+      "answer": 2,
+      "why": "She breathed a sigh of relief when she found her new phone, which she thought she'd lost."
+    },
+    {
+      "q": "Why does Dan tend to sigh?",
+      "options": [
+        "To show frustration or that he accepts something bad",
+        "Because he is often tired after working late at night",
+        "Because he is happy and wants others to know it",
+        "Only when he is surprised by some unexpected news"
+      ],
+      "answer": 0,
+      "why": "Dan says he tends to sigh to show frustration, and sometimes resignation."
+    }
+  ]
+}

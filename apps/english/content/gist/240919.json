@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to save water at home",
+        "Why date palms need so much sun",
+        "Why deserts are getting bigger",
+        "A new liquid clay technology helping farmers in a very dry place"
+      ],
+      "answer": 3,
+      "why": "They visit Yuma, where liquid clay is helping farmers grow fruit and vegetables in the desert."
+    },
+    {
+      "q": "How many people live in 'water stressed' countries?",
+      "options": [
+        "About half of the world's population, mainly in Africa",
+        "Over two billion, around a quarter of the world",
+        "Around 70 million",
+        "About three billion"
+      ],
+      "answer": 1,
+      "why": "Beth says over two billion people, around a quarter of the world's population, live in them."
+    },
+    {
+      "q": "How much of the world's fresh water is used by agriculture?",
+      "options": [
+        "About 25%",
+        "About 50%",
+        "About 70%",
+        "About 90% of it"
+      ],
+      "answer": 2,
+      "why": "Beth says agriculture uses 'a massive 70%' of the world's fresh water."
+    },
+    {
+      "q": "What is the situation for farmers in Yuma?",
+      "options": [
+        "They face the worst drought in 500 years and pump water from rivers",
+        "They have plenty of rain, but the soil is too poor for most fruit trees",
+        "They have stopped growing dates",
+        "They get free water from Mexico"
+      ],
+      "answer": 0,
+      "why": "Yuma is experiencing its worst drought in 500 years, forcing farmers to pump river water."
+    },
+    {
+      "q": "According to reporter Anthony Wallace, why is sandy desert soil a problem?",
+      "options": [
+        "Water drains through it quickly, so roots struggle to grow",
+        "It is too heavy for plants",
+        "It contains harmful chemicals from the farms that were there before",
+        "It holds too much water"
+      ],
+      "answer": 0,
+      "why": "He says sandy soil has gaps so water drains quickly, making it hard for roots to establish."
+    },
+    {
+      "q": "What does Ole Sivertsen claim about his liquid clay?",
+      "options": [
+        "It is very cheap for all farmers",
+        "It doubles the amount of water that trees can take from the sandy soil",
+        "It halves water use, and farmers get their money back within two years",
+        "It only works on vegetables"
+      ],
+      "answer": 2,
+      "why": "Neil says Ole claims it halves the water needed and most farmers make back their investment within two years."
+    },
+    {
+      "q": "What is presenter Myra Anubi worried about?",
+      "options": [
+        "That the liquid clay is much too expensive for most ordinary farmers to buy",
+        "That changing the soil like this could cause problems in the future",
+        "That farmers won't want to use it",
+        "That dates will taste different"
+      ],
+      "answer": 1,
+      "why": "She wonders whether manipulating soil could be 'causing problems down the line'."
+    },
+    {
+      "q": "How does Anthony Wallace respond to Myra's worry?",
+      "options": [
+        "He says there are definitely no risks",
+        "He says the product has already been banned in several parts of the US",
+        "He agrees it should not be used",
+        "He says only time will tell, but the liquid clay uses no chemicals"
+      ],
+      "answer": 3,
+      "why": "He says 'only time will tell', but Ole stressed it uses only clay, air and water."
+    }
+  ]
+}

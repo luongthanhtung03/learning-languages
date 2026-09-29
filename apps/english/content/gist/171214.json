@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to find a good job after leaving university",
+        "Why so many young teachers leave their jobs each year",
+        "Whether teenagers at school should have part-time jobs",
+        "How much money teenagers spend on clothes at weekends"
+      ],
+      "answer": 2,
+      "why": "Neil says the topic is 'Should schoolchildren have jobs?'"
+    },
+    {
+      "q": "What was Dan's first ever job?",
+      "options": [
+        "Delivering newspapers at 14",
+        "Teaching English",
+        "Stacking shelves in a supermarket",
+        "Working in a fish and chip shop"
+      ],
+      "answer": 0,
+      "why": "Dan says he had a paper round when he was 14."
+    },
+    {
+      "q": "What does the first teenager do in their job?",
+      "options": [
+        "Cooks burgers and chips for customers in a cafe",
+        "Tidies the shelves and helps customers find things",
+        "Delivers newspapers to houses early in the morning",
+        "Works at the till taking money from customers"
+      ],
+      "answer": 1,
+      "why": "The teenager says they make the shelves look organised and show customers where products are."
+    },
+    {
+      "q": "How much does the second teenager usually work?",
+      "options": [
+        "Only on Saturday mornings, for about six hours",
+        "Four hours a week, always on Sunday afternoons",
+        "Only during the long summer school holidays",
+        "About nine hours, on school nights and weekends"
+      ],
+      "answer": 3,
+      "why": "They work nine hours a week: two school nights, plus Saturday and Sunday."
+    },
+    {
+      "q": "What does the BBC report say about work permits for children?",
+      "options": [
+        "They are no longer needed",
+        "The number rose to 30,000 in 2016",
+        "The number fell from nearly 30,000 to 23,000",
+        "Most were given for TV and modelling work"
+      ],
+      "answer": 2,
+      "why": "The report says permits fell from nearly 30,000 in 2012 to just 23,000 in 2016."
+    },
+    {
+      "q": "What conflict does the report describe?",
+      "options": [
+        "Teenagers want jobs but most shops won't hire anyone under 18",
+        "Employers want experience, but teens are pushed to focus on study",
+        "Parents want teens to work, but schools refuse to give permits",
+        "Teens earn too much money and then stop studying for exams"
+      ],
+      "answer": 1,
+      "why": "Employers bemoan young people's lack of experience, but teens face pressure to concentrate on studies."
+    },
+    {
+      "q": "What does Neil think about his own teenage jobs?",
+      "options": [
+        "They harmed his school results and his exam grades",
+        "They were boring and taught him nothing useful at all",
+        "He wishes he had spent that time studying more instead",
+        "They taught him about working with adults and handling money"
+      ],
+      "answer": 3,
+      "why": "Neil says his jobs taught him lessons about working with adults and managing his money."
+    },
+    {
+      "q": "What did Dan learn from his paper round?",
+      "options": [
+        "The value of hard work",
+        "How to talk to customers",
+        "That he wanted to be a teacher",
+        "How to save money"
+      ],
+      "answer": 0,
+      "why": "Dan says his paper round taught him the value of hard work and didn't hinder him."
+    }
+  ]
+}

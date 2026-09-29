@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "The life and books of the writer Roald Dahl",
+        "Why chocolate is bad for children's health",
+        "A real chocolate maker who invents new products",
+        "How cocoa beans are grown in different countries"
+      ],
+      "answer": 2,
+      "why": "Neil says they'll be meeting “a real life Willy Wonka” who invents and tastes chocolate bars."
+    },
+    {
+      "q": "In the story Beth remembers, how does Charlie's luck change?",
+      "options": [
+        "He finds some money in the street",
+        "He wins a ticket to visit the chocolate factory",
+        "He gets a job working for Willy Wonka in the factory",
+        "He invents his own chocolate bar"
+      ],
+      "answer": 1,
+      "why": "Beth says Charlie's luck turns around when he wins a Golden Ticket to the factory."
+    },
+    {
+      "q": "What is part of Helle Anttila's job at Fazer?",
+      "options": [
+        "Buying cocoa beans and thinking of new products",
+        "Selling chocolate in shops around Finland",
+        "Writing children's books about sweets",
+        "Managing the company's 6,000 employees across Finland"
+      ],
+      "answer": 0,
+      "why": "Beth says Helle buys the cocoa beans and comes up with ideas for new chocolate products."
+    },
+    {
+      "q": "Which fact about Fazer is mentioned?",
+      "options": [
+        "It was started by Roald Dahl's family",
+        "It mainly makes chocolate for the British market",
+        "It has only been making chocolate for 30 years",
+        "It is the biggest chocolate maker in Finland"
+      ],
+      "answer": 3,
+      "why": "With over 6,000 employees, Fazer is described as Finland's largest chocolate maker."
+    },
+    {
+      "q": "When asked if she travels the world eating chocolate, what does Helle suggest?",
+      "options": [
+        "She does it every month",
+        "She finds travelling boring",
+        "She only eats chocolate made by other companies when she travels abroad",
+        "It would be lovely, but really she gets ideas from many sources"
+      ],
+      "answer": 3,
+      "why": "She says “That would be a dream!” and explains she gets information from different sources."
+    },
+    {
+      "q": "According to Helle, when is the right time to launch a product?",
+      "options": [
+        "When customers want to buy that kind of product",
+        "As soon as the team has invented it",
+        "Only at Christmas and Easter",
+        "When other companies have stopped selling similar bars"
+      ],
+      "answer": 0,
+      "why": "She asks when the right time is to launch a product, “when there is a consumer demand”."
+    },
+    {
+      "q": "How does Helle feel when people buy a new product?",
+      "options": [
+        "Relieved that she can finally rest",
+        "Worried that it won't sell for long",
+        "Proud of her team and very happy",
+        "Surprised, because she expected it to fail"
+      ],
+      "answer": 2,
+      "why": "She says it feels great and she feels proud of her team."
+    },
+    {
+      "q": "What does Helle think about products that fail?",
+      "options": [
+        "They are embarrassing and best forgotten",
+        "They are as important as successes because you learn from them",
+        "They happen because customers aren't ready",
+        "They are always caused by bad advertising, not by the product itself"
+      ],
+      "answer": 1,
+      "why": "She says flops are as important as successful products “because you always learn”."
+    }
+  ]
+}

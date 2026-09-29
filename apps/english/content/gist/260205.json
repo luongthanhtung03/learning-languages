@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How dyslexia can bring useful skills at work",
+        "How to teach young children to spell well",
+        "Why reading on trains is good for your brain",
+        "The life and work of Albert Einstein"
+      ],
+      "answer": 0,
+      "why": "They hear how dyslexics have other skills which let them excel in the workplace."
+    },
+    {
+      "q": "How are Phil's and Pippa's reading habits different?",
+      "options": [
+        "Phil reads every day; Pippa rarely reads at all",
+        "They both read only at weekends, in bed",
+        "Neither of them enjoys reading very much",
+        "Pippa reads on the train; Phil sometimes stops"
+      ],
+      "answer": 3,
+      "why": "Phil sometimes goes a while without reading; Pippa loves to read on the train to work."
+    },
+    {
+      "q": "Roughly how many people in the UK are thought to be dyslexic?",
+      "options": [
+        "One in a hundred",
+        "One in three",
+        "About one in ten",
+        "Half of all people"
+      ],
+      "answer": 2,
+      "why": "Phil says it's thought around one in ten people in the UK are dyslexic."
+    },
+    {
+      "q": "Why do many dyslexic children struggle at school?",
+      "options": [
+        "Their teachers don't like them",
+        "School focuses mainly on reading and writing",
+        "They are not good at problem solving",
+        "They miss a lot of lessons"
+      ],
+      "answer": 1,
+      "why": "Phil says many dyslexic children struggle at school, 'where the focus is on reading and writing'."
+    },
+    {
+      "q": "What is the message of the video by celebrities like Orlando Bloom and Keira Knightley?",
+      "options": [
+        "Dyslexic people should become actors",
+        "Dyslexia can be cured with the right help",
+        "Dyslexia makes normal life impossible",
+        "Dyslexia is a different way of thinking"
+      ],
+      "answer": 3,
+      "why": "They say dyslexia is 'your superpower', the way you think, and different views are vital."
+    },
+    {
+      "q": "What did the report co-written by Kate Griggs show?",
+      "options": [
+        "Supporting dyslexic workers could add billions",
+        "Most dyslexic people work as spies or soldiers",
+        "Dyslexic workers earn much less than others",
+        "Very few companies employ dyslexic people"
+      ],
+      "answer": 0,
+      "why": "Pippa says the report showed empowering dyslexic workers could boost the global economy by billions."
+    },
+    {
+      "q": "Why does Kate Griggs talk about spies?",
+      "options": [
+        "Because she used to work as one herself",
+        "To show dyslexic skills help in some jobs",
+        "To warn people about terror threats",
+        "Because spies don't need to read or write"
+      ],
+      "answer": 1,
+      "why": "Spies must read people, spot patterns and solve problems quickly, so 'dyslexics are brilliant spies'."
+    },
+    {
+      "q": "What does Dr Maggie Aderin-Pocock believe helps teams succeed?",
+      "options": [
+        "Choosing only the best and fastest readers",
+        "Working alone on the most difficult problems",
+        "Valuing everyone's different skills",
+        "Having a very strict leader who decides"
+      ],
+      "answer": 2,
+      "why": "She says it's about recognising people's skills and differences, and valuing all the skills."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How to hold your breath underwater for longer",
+        "The history of Olympic swimming races",
+        "Why swimming is so good for your health",
+        "Artistic swimming and one top swimmer's life"
+      ],
+      "answer": 3,
+      "why": "They discuss how demanding artistic swimming is and hear from swimmer Silvia Solymosyová."
+    },
+    {
+      "q": "What does Phil say about his own physical challenges?",
+      "options": [
+        "He has run several marathons in big cities",
+        "He has climbed mountains, but only small ones",
+        "He used to be an artistic swimmer at school",
+        "He has never done any sport in his life"
+      ],
+      "answer": 1,
+      "why": "Phil says he's climbed some mountains, 'but only very little ones'."
+    },
+    {
+      "q": "Why did Silvia Solymosyová become famous on social media?",
+      "options": [
+        "Videos of her walking upside down underwater",
+        "Because she won an Olympic gold medal",
+        "Because she teaches swimming lessons online",
+        "Because of her popular dance videos on land"
+      ],
+      "answer": 0,
+      "why": "She has over a million followers after videos of her walking upside down underwater went viral."
+    },
+    {
+      "q": "How many people can take part in a team routine, according to Silvia?",
+      "options": [
+        "Two",
+        "Four",
+        "Eight or ten",
+        "Up to twenty"
+      ],
+      "answer": 2,
+      "why": "She says team routines can have eight or ten people."
+    },
+    {
+      "q": "Why do artistic swimmers smile during their routines, according to Silvia?",
+      "options": [
+        "To hide how hard it is, as people think it's easy",
+        "Because they are really enjoying themselves",
+        "Because the judges ask them to smile",
+        "Because smiling helps them breathe underwater"
+      ],
+      "answer": 0,
+      "why": "She says they smile but are 'hiding behind the smile' with no oxygen; people think it's easy."
+    },
+    {
+      "q": "How much does Silvia train?",
+      "options": [
+        "Two hours every day",
+        "Four hours, three days a week",
+        "Only at weekends",
+        "Eight hours a day, six days a week"
+      ],
+      "answer": 3,
+      "why": "Phil says Silvia trains eight hours a day, six days a week."
+    },
+    {
+      "q": "What does Silvia think about being coached by her mum?",
+      "options": [
+        "It's only good, because her mum is a champion",
+        "It's good and bad: more practice, less rest",
+        "It's only bad, and she wants a new coach soon",
+        "It makes no real difference to her at all"
+      ],
+      "answer": 1,
+      "why": "She says it's good because you practise more at home, but on the other hand you train when you should be chillin'."
+    },
+    {
+      "q": "What does Phil suggest when he says he needs 'a respite' from the talk about training?",
+      "options": [
+        "He wants to start artistic swimming himself",
+        "He is bored of hearing about artistic swimming",
+        "He jokes that even hearing about it is tiring",
+        "He thinks Silvia trains far too little"
+      ],
+      "answer": 2,
+      "why": "After hearing about Silvia's non-stop training, he jokes that he needs a break from the talk."
+    }
+  ]
+}

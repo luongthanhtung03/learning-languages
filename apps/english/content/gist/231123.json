@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "What is the programme mainly about?",
+      "options": [
+        "How social media affects teenagers' health",
+        "How to make money on social media",
+        "Why most teenagers now prefer Snapchat to TikTok",
+        "How schools teach computer skills"
+      ],
+      "answer": 0,
+      "why": "Beth says they'll be discussing how social media affects teenagers."
+    },
+    {
+      "q": "What does Beth say about her own social media use?",
+      "options": [
+        "She is completely addicted",
+        "She never uses social media",
+        "She only ever uses social media for work, never for fun",
+        "She isn't addicted, but uses it more than she'd like"
+      ],
+      "answer": 3,
+      "why": "She says she doesn't think she's addicted but spends more time on it than she would like."
+    },
+    {
+      "q": "What did research in the US find?",
+      "options": [
+        "Social media makes teenagers happier",
+        "Most teenagers use social media for about one hour a day",
+        "Over three hours a day doubles the risk of depression",
+        "Adults are more affected than teenagers"
+      ],
+      "answer": 2,
+      "why": "Adolescents on social media over three hours a day have double the risk of depression and anxiety."
+    },
+    {
+      "q": "What have teenagers revealed in surveys?",
+      "options": [
+        "They want more adverts",
+        "Many regularly see hateful content",
+        "They feel better about their bodies",
+        "They rarely use their phones at night"
+      ],
+      "answer": 1,
+      "why": "Beth says 64% of teens said they are regularly exposed to hate-based content."
+    },
+    {
+      "q": "What worries Professor Devi Sridhar about algorithms?",
+      "options": [
+        "They show too many news stories",
+        "They keep feeding harmful content to young girls",
+        "They make phones slower",
+        "They stop teenagers from finding real friends offline"
+      ],
+      "answer": 1,
+      "why": "She says young girls are being fed eating-disorder content in an addictive way."
+    },
+    {
+      "q": "According to Professor Sridhar, why do apps try to keep users on their phones?",
+      "options": [
+        "Their money comes from advertising",
+        "Governments ask them to",
+        "Users pay for every minute",
+        "They want to collect data about schools"
+      ],
+      "answer": 0,
+      "why": "She says the vital message is that their revenue comes from advertising."
+    },
+    {
+      "q": "What does Professor Sridhar say about parents?",
+      "options": [
+        "They are not interested in the problem",
+        "They should ban phones completely",
+        "They spend far too much time online on their own phones",
+        "They have been left to find solutions on their own"
+      ],
+      "answer": 3,
+      "why": "She says the onus has been put on parents and concerned adults to find solutions on their own."
+    },
+    {
+      "q": "Why does Professor Sridhar call arguing with teenagers about apps “a losing battle”?",
+      "options": [
+        "Teenagers don't listen to anyone",
+        "Parents don't understand modern technology at all",
+        "Their whole social life is on these apps",
+        "The apps are too expensive to remove"
+      ],
+      "answer": 2,
+      "why": "She says it's a losing battle “because it's their entire social network”."
+    }
+  ]
+}
