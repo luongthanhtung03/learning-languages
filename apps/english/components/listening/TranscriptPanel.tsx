@@ -77,36 +77,28 @@ export function TranscriptPanel({
   };
 
   return (
-    <div className="mx-auto grid max-w-5xl gap-6 md:grid-cols-[1fr_280px]">
-      <div ref={rootRef} className="space-y-4">
-        <div className="flex flex-wrap items-center gap-3 text-sm">
-          <label className="flex items-center gap-1.5">
-            <input type="checkbox" checked={follow} onChange={(e) => setFollow(e.target.checked)} className="accent-[var(--accent)]" />
-            Follow audio
-          </label>
-          {alignment && (
-            <button className="btn" onClick={() => (edit ? (setEdit(false), setDraft(null)) : setEdit(true))}>
-              {edit ? "Cancel timing edits" : "Fix sentence timings"}
-            </button>
-          )}
+    <div className="grid gap-12 md:grid-cols-[1fr_240px]">
+      <div ref={rootRef} className="space-y-6">
+        <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-sm">
+          <button className={`transition ${follow ? "text-accent" : "text-muted hover:text-foreground"}`} onClick={() => setFollow((f) => !f)} aria-pressed={follow}>
+            follow audio
+          </button>
           {edit && (
             <button className="btn-primary" onClick={save} disabled={!draft || saving}>
               {saving ? "Saving…" : "Save timings"}
             </button>
           )}
-          <span className="text-xs text-muted">
-            {timings ? "Click a sentence to play from there." : "Sentence timings not ready yet."} Transcript is not word-for-word.
-          </span>
+          <span className="text-xs text-muted/70">{timings ? "Click a sentence to play from there." : "Sentence timings not ready yet."}</span>
         </div>
 
         {ep.turns.map((turn, ti) => (
-          <div key={ti} className="grid gap-1 sm:grid-cols-[130px_1fr]">
-            <div className="pt-0.5 text-sm font-semibold text-muted">{turn.speaker}</div>
-            <div className="leading-relaxed">
+          <div key={ti} className="grid gap-1 sm:grid-cols-[110px_1fr]">
+            <div className="pt-1 text-xs text-muted">{turn.speaker}</div>
+            <div className="text-lg leading-relaxed text-foreground/85">
               {(byTurn.get(ti) ?? []).map((s) => {
                 const t = timings?.[s.idx];
                 return edit && t ? (
-                  <div key={s.idx} className="mb-2 rounded-lg border border-line p-2">
+                  <div key={s.idx} className="mb-2 rounded-xl bg-surface p-3 text-base">
                     <p className={t.matched < 0.6 ? "text-warn" : ""}>{s.text}</p>
                     <div className="mt-1 flex flex-wrap items-center gap-1 font-mono text-xs">
                       <button className="btn px-2 py-0.5" onClick={() => p.playRange(t.start, t.end)}>▶</button>
@@ -131,8 +123,8 @@ export function TranscriptPanel({
                       p.seek(t.start);
                       p.play();
                     }}
-                    className={`rounded px-0.5 transition ${t ? "cursor-pointer hover:bg-surface-2" : ""} ${
-                      current === s.idx ? "bg-warn-soft" : ""
+                    className={`rounded px-0.5 transition-colors duration-300 ${t ? "cursor-pointer hover:bg-surface-2" : ""} ${
+                      current === s.idx ? "bg-accent-soft text-foreground" : ""
                     }`}
                   >
                     {highlight(s.text, vocabRe)}{" "}
@@ -144,25 +136,30 @@ export function TranscriptPanel({
         ))}
       </div>
 
-      <aside className="space-y-4">
-        <section className="card p-4">
-          <h2 className="text-sm font-semibold">Vocabulary</h2>
-          <dl className="mt-3 space-y-2 text-sm">
+      <aside className="space-y-8">
+        <section>
+          <h2 className="text-sm text-muted">Vocabulary</h2>
+          <dl className="mt-4 space-y-3 text-sm">
             {ep.vocab.map((v) => (
               <div key={v.term}>
-                <dt className="font-medium">{v.term}</dt>
+                <dt className="text-accent">{v.term}</dt>
                 <dd className="text-muted">{v.definition}</dd>
               </div>
             ))}
           </dl>
         </section>
-        <section className="card space-y-1 p-4 text-sm">
-          {ep.worksheetPdf && <a className="block text-accent underline" href={ep.worksheetPdf} target="_blank" rel="noreferrer">Worksheet (PDF)</a>}
-          {ep.transcriptPdf && <a className="block text-accent underline" href={ep.transcriptPdf} target="_blank" rel="noreferrer">Transcript (PDF)</a>}
-          <a className="block text-accent underline" href={`https://www.bbc.co.uk${ep.path}`} target="_blank" rel="noreferrer">Open on BBC</a>
+        <section className="flex flex-col items-start gap-1.5">
+          {ep.worksheetPdf && <a className="link" href={ep.worksheetPdf} target="_blank" rel="noreferrer">worksheet</a>}
+          {ep.transcriptPdf && <a className="link" href={ep.transcriptPdf} target="_blank" rel="noreferrer">transcript pdf</a>}
+          <a className="link" href={`https://www.bbc.co.uk${ep.path}`} target="_blank" rel="noreferrer">bbc</a>
           {alignment && (
-            <button className="mt-2 text-xs text-muted underline" onClick={() => confirm("Re-run Whisper alignment? Manual timing edits will be lost.") && onRealign()}>
-              Re-run timing alignment ({alignment.model})
+            <button className="link" onClick={() => (edit ? (setEdit(false), setDraft(null)) : setEdit(true))}>
+              {edit ? "cancel timing edits" : "fix timings"}
+            </button>
+          )}
+          {alignment && (
+            <button className="link" onClick={() => confirm("Re-run Whisper alignment? Manual timing edits will be lost.") && onRealign()}>
+              re-run alignment
             </button>
           )}
         </section>

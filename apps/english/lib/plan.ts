@@ -75,11 +75,9 @@ function build(date: string): Stored {
   const rot = rotation(book);
   const items: PlanItem[] = [];
 
-  // Listening: 1 deep + 1 light
-  const eps = listeningCandidates([]);
-  if (eps[0]) items.push({ kind: "listening", mode: "deep", episodeId: eps[0].id, title: eps[0].title, done: false });
-  const light = eps.find((e, i) => i > 0 && e.status === "new");
-  if (light) items.push({ kind: "listening", mode: "light", episodeId: light.id, title: light.title, done: false });
+  // Listening: 1 deep episode
+  const ep = listeningCandidates([])[0];
+  if (ep) items.push({ kind: "listening", mode: "deep", episodeId: ep.id, title: ep.title, done: false });
 
   // Speaking: follow the weekly rhythm
   let dayType: DayType = "new";
@@ -92,7 +90,7 @@ function build(date: string): Stored {
     dayType = "revisit";
     for (const t of seeded(rot.previousDone, Number(date.replaceAll("-", ""))).slice(0, 2)) items.push(speakingItem(t, "revisit"));
   } else {
-    for (const t of rot.pending.slice(0, settings.topics_per_day)) items.push(speakingItem(t, "new"));
+    for (const t of rot.pending.slice(0, 1)) items.push(speakingItem(t, "new"));
   }
   if (monthlyDue(date)) {
     const t11 = book.topics.find((t) => t.no === 11);
@@ -113,7 +111,11 @@ function build(date: string): Stored {
 
 function load(date: string): Stored | null {
   const row = db().prepare("SELECT json FROM daily_plan WHERE date = ?").get(date) as { json: string } | undefined;
-  return row ? (JSON.parse(row.json) as Stored) : null;
+  if (!row) return null;
+  const plan = JSON.parse(row.json) as Stored;
+  // plans saved before listening went deep-only may still hold a "light" episode
+  plan.items = plan.items.filter((i) => !(i.kind === "listening" && (i.mode as string) === "light"));
+  return plan;
 }
 
 function save(plan: Stored) {

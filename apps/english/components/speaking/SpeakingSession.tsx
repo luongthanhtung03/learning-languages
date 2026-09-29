@@ -44,7 +44,7 @@ export function SpeakingSession(props: Props) {
     return () => clearInterval(id);
   }, [pending, load]);
 
-  if (error) return <p className="rounded-lg bg-bad-soft p-4 text-bad">{error}</p>;
+  if (error) return <p className="text-bad">{error}</p>;
   if (!detail) return <p className="text-muted">Loading topic…</p>;
   return <Session key={detail.session.id} detail={detail} reload={load} onDone={props.onDone} />;
 }
@@ -120,15 +120,12 @@ function Session({ detail, reload, onDone }: { detail: SessionDetail; reload: ()
   );
 
   const header = (
-    <div className="space-y-2">
-      <div className="flex flex-wrap items-center gap-2 text-xs">
-        <span className="rounded-full bg-surface-2 px-2 py-0.5 font-medium">#{topic.no} · {TYPE_LABEL[topic.type] ?? topic.type}</span>
-        <span className="text-muted">Block {block.no} · {block.name}</span>
-        {session.kind !== "new" && (
-          <span className="rounded-full bg-warn-soft px-2 py-0.5 font-medium text-warn">{session.kind === "revisit" ? "Spaced revisit" : "Monthly self-check"}</span>
-        )}
-      </div>
-      <h2 className="text-2xl font-semibold leading-snug text-balance sm:text-3xl">{topic.text}</h2>
+    <div className="space-y-3">
+      <p className="text-sm text-muted">
+        {TYPE_LABEL[topic.type] ?? topic.type} · {block.name}
+        {session.kind !== "new" && <span className="text-accent"> · {session.kind === "revisit" ? "revisit" : "monthly self-check"}</span>}
+      </p>
+      <h2 className="text-3xl font-semibold leading-snug tracking-tight text-balance">{topic.text}</h2>
     </div>
   );
 
@@ -136,103 +133,95 @@ function Session({ detail, reload, onDone }: { detail: SessionDetail; reload: ()
 
   if (step === "reveal")
     return (
-      <div className="mx-auto max-w-3xl space-y-6">
+      <div key="reveal" className="enter-stagger max-w-3xl space-y-10">
         {header}
-        <div className="grid gap-3 sm:grid-cols-2">
-          <div className="card p-4">
-            <p className="text-xs font-semibold uppercase tracking-wide text-muted">Language target</p>
-            <p className="mt-1">{block.target}</p>
+        <dl className="space-y-4">
+          <div className="flex gap-6">
+            <dt className="w-20 shrink-0 text-sm text-muted">Target</dt>
+            <dd>{block.target}</dd>
           </div>
-          {secondary ? (
-            <div className="card border-warn/40 p-4">
-              <p className="text-xs font-semibold uppercase tracking-wide text-warn">Secondary target (from your error log)</p>
-              <p className="mt-1">
-                {secondary.target || secondary.label} <span className="text-sm text-muted">· {secondary.count} errors in 14 days</span>
-              </p>
-            </div>
-          ) : (
-            <div className="card p-4">
-              <p className="text-xs font-semibold uppercase tracking-wide text-muted">If you get stuck</p>
-              <p className="mt-1">{fillers.map((f) => `“${f}”`).join(" · ")}</p>
+          {secondary && (
+            <div className="flex gap-6">
+              <dt className="w-20 shrink-0 text-sm text-muted">Also</dt>
+              <dd>
+                {secondary.target || secondary.label} <span className="text-sm text-muted">· {secondary.count}× in 14 days</span>
+              </dd>
             </div>
           )}
-        </div>
-        <ol className="card divide-y divide-line text-sm">
+          <div className="flex gap-6">
+            <dt className="w-20 shrink-0 text-sm text-muted">If stuck</dt>
+            <dd className="text-foreground/80">{fillers.map((f) => `“${f}”`).join(" · ")}</dd>
+          </div>
+        </dl>
+        <p className="flex flex-wrap gap-x-4 text-sm text-muted">
           {rounds.map((r, i) => (
-            <li key={r.round} className={`flex justify-between px-4 py-2 ${i < round ? "text-muted line-through" : ""}`}>
-              <span>{r.label}</span>
-              <span className="tabular-nums text-muted">{settings.prep_seconds}s prep · {fmtClock(r.seconds)} speak</span>
-            </li>
+            <span key={r.round} className={i < round ? "line-through opacity-50" : i === round ? "text-foreground" : ""}>
+              {r.label} {fmtClock(r.seconds)}
+            </span>
           ))}
-        </ol>
-        <div className="rounded-lg bg-surface-2 p-4 text-sm">
-          <strong>Rule:</strong> never restart a sentence. There&apos;s no pause and no redo. If you get stuck, use a filler phrase and keep going.
-        </div>
-        {mic.error && <p className="rounded-lg bg-bad-soft p-3 text-sm text-bad">Microphone: {mic.error}. Allow mic access in the browser and try again.</p>}
-        <button className="btn-primary px-5 py-2.5 text-base" onClick={beginRound}>
-          {round === 0 ? "I'm ready: start preparing" : `Continue: ${cur.label}`}
+        </p>
+        <p className="text-sm text-muted">Never restart a sentence. No pause, no redo.</p>
+        {mic.error && <p className="text-sm text-bad">Microphone: {mic.error}. Allow mic access in the browser and try again.</p>}
+        <button className="btn-primary px-8 py-3 text-base" onClick={beginRound}>
+          {round === 0 ? "Start" : `Continue · ${cur.label}`}
         </button>
       </div>
     );
 
   if (step === "prep")
     return (
-      <div className="mx-auto max-w-3xl space-y-6 text-center">
+      <div key="prep" className="enter mx-auto max-w-3xl space-y-8 text-center">
         {header}
-        <p className="text-sm font-medium uppercase tracking-wide text-muted">Prepare · {cur.label}</p>
-        <CountdownRing left={prepLeft} total={settings.prep_seconds} label="to think" />
+        <p className="text-sm text-muted">Prepare · {cur.label}</p>
+        <CountdownRing left={prepLeft} total={settings.prep_seconds} label="think" />
         {cur.round === 2 && (
-          <div className="mx-auto max-w-xl rounded-lg bg-accent-soft p-4 text-left text-sm">
-            <p className="font-semibold text-accent">This round you must use: {block.target}</p>
-            {session.notes.phrases && <p className="mt-2 whitespace-pre-line">{session.notes.phrases}</p>}
-            {session.notes.targetSentence && <p className="mt-2 italic">“{session.notes.targetSentence}”</p>}
-            <p className="mt-2 text-xs text-muted">Notes disappear when recording starts.</p>
+          <div className="mx-auto max-w-xl space-y-2 text-left text-sm">
+            <p className="text-accent">Use: {block.target}</p>
+            {session.notes.phrases && <p className="whitespace-pre-line text-foreground/80">{session.notes.phrases}</p>}
+            {session.notes.targetSentence && <p className="italic text-foreground/80">“{session.notes.targetSentence}”</p>}
+            <p className="text-xs text-muted">Notes disappear when recording starts.</p>
           </div>
         )}
         {cur.round === 3 && <p className="text-muted">Same content, {fmtClock(cur.seconds)} only. Faster, no fillers.</p>}
-        <div className="flex justify-center gap-3">
+        <div className="flex justify-center">
           <MicLevel level={mic.level} />
         </div>
-        <button className="btn" onClick={startRecording}>Skip prep: start speaking now</button>
+        <button className="link" onClick={startRecording}>skip · speak now</button>
       </div>
     );
 
   if (step === "record")
     return (
-      <div className="mx-auto max-w-3xl space-y-6 text-center">
+      <div key="record" className="enter mx-auto max-w-3xl space-y-8 text-center">
         {header}
-        <p className="flex items-center justify-center gap-2 text-sm font-semibold uppercase tracking-wide text-accent">
-          <span className="h-2.5 w-2.5 animate-pulse rounded-full bg-accent" /> Recording · {cur.label}
+        <p className="flex items-center justify-center gap-2 text-sm text-accent">
+          <span className="h-2 w-2 animate-pulse rounded-full bg-accent" /> Recording · {cur.label}
         </p>
         <CountdownRing left={recLeft} total={cur.seconds} tone="rec" label="keep talking" />
         <div className="flex justify-center"><MicLevel level={mic.level} /></div>
-        {cur.round === 2 && <p className="text-sm">Use: <strong>{block.target}</strong></p>}
+        {cur.round === 2 && <p className="text-sm">Use: <span className="text-accent">{block.target}</span></p>}
         <p className="text-sm text-muted">Stuck? {fillers.map((f) => `“${f}”`).join(" · ")}</p>
-        <button className="btn" onClick={finishRecording}>Finish early</button>
+        <button className="link" onClick={finishRecording}>finish early</button>
       </div>
     );
 
   if (step === "uploading")
-    return <div className="mx-auto max-w-3xl space-y-6 text-center">{header}<p className="text-muted">Saving your recording…</p></div>;
+    return <div key="uploading" className="fade mx-auto max-w-3xl space-y-8 text-center">{header}<p className="animate-pulse text-muted">Saving…</p></div>;
 
   if (step === "review") {
     const r1 = recFor(1);
     return (
-      <div className="mx-auto max-w-3xl space-y-5">
+      <div key="review" className="enter-stagger max-w-3xl space-y-10">
         {header}
-        <section className="card space-y-3 p-5">
-          <div className="flex items-center justify-between">
-            <h3 className="font-semibold">Round 1: quick review</h3>
-            <span className="text-xs text-muted">Don&apos;t over-listen. Check one thing, then research.</span>
-          </div>
-          <p className="rounded-lg bg-surface-2 p-3 text-sm">
-            Check one thing: did you use <strong>{block.target}</strong>? Tag the places where you missed it.
+        <section className="space-y-5">
+          <p className="text-sm text-muted">
+            Round 1 · check one thing: did you use <span className="text-accent">{block.target}</span>? Tag where you missed it.
           </p>
           <RecordingView rec={r1} reload={reload} />
           {r1?.stats && <StatsTable columns={[{ label: "Round 1", stats: r1.stats }]} />}
         </section>
-        <button className="btn-primary px-5 py-2.5 text-base" onClick={() => setStep("research")}>
-          Start research ({settings.research_minutes} min) →
+        <button className="btn-primary" onClick={() => setStep("research")}>
+          Research · {settings.research_minutes} min
         </button>
       </div>
     );
@@ -257,14 +246,14 @@ function Session({ detail, reload, onDone }: { detail: SessionDetail; reload: ()
   // compare
   const done = !!session.completed_at;
   return (
-    <div className="mx-auto max-w-3xl space-y-5">
+    <div key="compare" className="enter-stagger max-w-3xl space-y-12">
       {header}
-      <section className="card space-y-3 p-5">
-        <h3 className="font-semibold">{multi ? "Round 1 vs Round 3" : "Your stats"}</h3>
+      <section className="space-y-4">
+        <h3 className="text-sm text-muted">{multi ? "Round 1 → Round 3" : "Your stats"}</h3>
         <StatsTable columns={rounds.map((r) => ({ label: `R${r.round}`, stats: recFor(r.round)?.stats ?? null }))} />
         {detail.recordings.some((r) => r.status === "pending") && <p className="text-xs text-muted">Still transcribing some rounds…</p>}
         {multi && (
-          <label className="flex items-center gap-2 text-sm">
+          <label className="flex items-center gap-2 text-sm text-muted">
             <input
               type="checkbox"
               className="accent-[var(--accent)]"
@@ -274,22 +263,21 @@ function Session({ detail, reload, onDone }: { detail: SessionDetail; reload: ()
                 await reload();
               }}
             />
-            I used the language target ({block.target}) in Round 2
+            I used {block.target} in Round 2
           </label>
         )}
       </section>
-      <section className="card space-y-3 p-5">
-        <h3 className="font-semibold">Listen back to {multi ? "Round 3" : "your recording"}</h3>
-        <p className="text-xs text-muted">Listen once, all the way through. Tag recurring errors: 3 of the same kind becomes your next secondary target.</p>
+      <section className="space-y-4">
+        <h3 className="text-sm text-muted">Listen back to {multi ? "Round 3" : "your recording"} once. Tag recurring errors.</h3>
         <RecordingView rec={recFor(rounds[rounds.length - 1].round)} reload={reload} />
       </section>
       {multi && (
-        <details className="card p-5">
-          <summary className="cursor-pointer font-semibold">Rounds 1 and 2 transcripts</summary>
+        <details >
+          <summary>rounds 1 and 2</summary>
           <div className="mt-4 space-y-6">
             {[1, 2].map((r) => (
               <div key={r}>
-                <p className="mb-2 text-sm font-medium text-muted">Round {r}</p>
+                <p className="mb-2 text-xs text-muted">Round {r}</p>
                 <RecordingView rec={recFor(r)} reload={reload} />
               </div>
             ))}
@@ -305,10 +293,10 @@ function Session({ detail, reload, onDone }: { detail: SessionDetail; reload: ()
             onDone?.();
           }}
         >
-          Finish topic ✓
+          Finish topic
         </button>
       ) : (
-        <p className="font-medium text-ok">✓ Topic finished</p>
+        <p className="pop text-accent">✓ Topic finished</p>
       )}
     </div>
   );
@@ -322,7 +310,7 @@ function RecordingView({ rec, reload }: { rec: RecordingWithErrors | null; reloa
       <div className="space-y-2">
         <audio src={src} controls preload="metadata" className="h-9 w-full" />
         <p className="text-sm text-muted">
-          Transcribing with Whisper ({rec.job?.stage ?? "queued"} {Math.round((rec.job?.progress ?? 0) * 100)}%)…
+          <span className="animate-pulse">Transcribing</span> · {Math.round((rec.job?.progress ?? 0) * 100)}%
         </p>
       </div>
     );
@@ -330,9 +318,9 @@ function RecordingView({ rec, reload }: { rec: RecordingWithErrors | null; reloa
     return (
       <div className="space-y-2">
         <audio src={src} controls preload="metadata" className="h-9 w-full" />
-        <p className="rounded-lg bg-bad-soft p-3 text-sm text-bad">Transcription failed: {rec.error}</p>
+        <p className="text-sm text-bad">Transcription failed: {rec.error}</p>
         <button
-          className="btn"
+          className="link"
           onClick={async () => {
             await api(`/api/speaking/recordings/${rec.id}`, { method: "POST" });
             await reload();
@@ -375,18 +363,15 @@ function Research({
   };
 
   return (
-    <div className="mx-auto max-w-3xl space-y-5">
+    <div className="enter-stagger max-w-3xl space-y-10">
       {header}
-      <section className="card space-y-4 p-5">
-        <div className="flex items-center justify-between">
-          <div>
-            <h3 className="font-semibold">Research: collect language, not facts</h3>
-            <p className="text-xs text-muted">Search the topic, a sample answer, or a dictionary. Fill the card, then speak again.</p>
-          </div>
-          <span className={`font-mono text-2xl tabular-nums ${over ? "text-bad" : ""}`}>{over ? "Time's up" : fmtClock(left)}</span>
+      <section className="space-y-8">
+        <div className="flex items-baseline justify-between gap-4">
+          <p className="text-sm text-muted">Research · collect language, not facts.</p>
+          <span className={`font-mono text-3xl font-light tabular-nums ${over ? "text-accent" : ""}`}>{over ? "time" : fmtClock(left)}</span>
         </div>
-        <label className="block space-y-1">
-          <span className="text-sm font-medium">3–5 phrases / collocations for this topic</span>
+        <label className="block space-y-2">
+          <span className="text-sm text-muted">3–5 phrases for this topic</span>
           <textarea
             className="input min-h-24 text-sm"
             placeholder={"e.g. someone I look up to\nhas a huge following\nshe comes across as…"}
@@ -394,24 +379,24 @@ function Research({
             onChange={(e) => change({ phrases: e.target.value })}
           />
         </label>
-        <label className="block space-y-1">
-          <span className="text-sm font-medium">1 sentence using the target: {target}</span>
+        <label className="block space-y-2">
+          <span className="text-sm text-muted">1 sentence using {target}</span>
           <input className="input text-sm" value={draft.targetSentence ?? ""} onChange={(e) => change({ targetSentence: e.target.value })} />
         </label>
-        <label className="block space-y-1">
-          <span className="text-sm font-medium">1 new idea or example you didn&apos;t use in Round 1</span>
+        <label className="block space-y-2">
+          <span className="text-sm text-muted">1 new idea you didn&apos;t use in Round 1</span>
           <input className="input text-sm" value={draft.idea ?? ""} onChange={(e) => change({ idea: e.target.value })} />
         </label>
       </section>
       <button
-        className="btn-primary px-5 py-2.5 text-base"
+        className="btn-primary"
         onClick={async () => {
           clearTimeout(timer.current);
           await save(draft);
           onNext();
         }}
       >
-        Ready: Round 2 →
+        Round 2
       </button>
     </div>
   );

@@ -53,17 +53,17 @@ export function DictationPanel({
   const [mode, setMode] = useState<"sentence" | "full">("sentence");
   if (!p.timings) return <NeedsTimings />;
   return (
-    <div className="mx-auto max-w-3xl space-y-4">
-      <div className="flex gap-1 rounded-lg bg-surface-2 p-1 text-sm w-fit" role="tablist">
+    <div className="max-w-3xl space-y-8">
+      <div className="flex gap-5 text-sm" role="tablist">
         {(["sentence", "full"] as const).map((m) => (
           <button
             key={m}
             role="tab"
             aria-selected={mode === m}
             onClick={() => setMode(m)}
-            className={`rounded-md px-3 py-1 ${mode === m ? "bg-surface font-medium shadow-sm" : "text-muted"}`}
+            className={`transition ${mode === m ? "text-foreground" : "text-muted hover:text-foreground"}`}
           >
-            {m === "sentence" ? "Sentence by sentence" : "Write the whole script"}
+            {m === "sentence" ? "By sentence" : "Whole script"}
           </button>
         ))}
       </div>
@@ -126,34 +126,26 @@ function SentenceDictation({
   const avgBest = done ? [...best.entries()].filter(([k]) => k >= 0).reduce((a, [, v]) => a + v, 0) / done : null;
 
   return (
-    <div className="space-y-4">
-      <section className="card p-5">
-        <div className="flex flex-wrap items-center justify-between gap-2">
-          <p className="text-sm text-muted">
-            Sentence <strong className="text-foreground">{idx + 1}</strong> / {ep.sentences.length} · {sentence.speaker}
-            {best.has(idx) && <> · best {pct(best.get(idx))}</>}
-          </p>
-          <div className="flex items-center gap-3 text-sm">
-            <label className="flex items-center gap-1.5">
-              <input type="checkbox" checked={loop} onChange={(e) => setLoop(e.target.checked)} className="accent-[var(--accent)]" /> Loop
-            </label>
-            <label className="flex items-center gap-1.5">
-              <input type="checkbox" checked={autoPlay} onChange={(e) => setAutoPlay(e.target.checked)} className="accent-[var(--accent)]" /> Auto-play next
-            </label>
-          </div>
-        </div>
+    <div className="space-y-10">
+      <section>
+        <p className="text-sm text-muted">
+          <span className="text-foreground tabular-nums">{idx + 1}</span> / {ep.sentences.length} · {sentence.speaker}
+          {best.has(idx) && <> · best {pct(best.get(idx))}</>}
+        </p>
 
-        <div className="mt-4 flex flex-wrap gap-2">
-          <button className="btn-primary" onClick={playCurrent}>▶ Play sentence</button>
-          <button className="btn" onClick={() => p.setRate(p.rate === 0.75 ? 1 : 0.75)}>{p.rate === 0.75 ? "Normal speed" : "Slow 0.75×"}</button>
-          <button className="btn" onClick={() => setHint((h) => !h)}>{hint ? "Hide hint" : "Hint"}</button>
+        <div className="mt-5 flex flex-wrap items-center gap-x-5 gap-y-2">
+          <button className="btn-primary" onClick={playCurrent}>▶ Play</button>
+          <Toggle on={p.rate === 0.75} onClick={() => p.setRate(p.rate === 0.75 ? 1 : 0.75)}>slow</Toggle>
+          <Toggle on={loop} onClick={() => setLoop((l) => !l)}>loop</Toggle>
+          <Toggle on={autoPlay} onClick={() => setAutoPlay((a) => !a)}>auto-play</Toggle>
+          <Toggle on={hint} onClick={() => setHint((h) => !h)}>hint</Toggle>
         </div>
-        {hint && <p className="mt-3 font-mono text-sm tracking-wide text-muted">{hintOf(sentence.text)}</p>}
+        {hint && <p className="fade mt-4 font-mono text-sm tracking-wide text-muted">{hintOf(sentence.text)}</p>}
 
         <textarea
           ref={inputRef}
-          className="input mt-4 min-h-24 resize-y"
-          placeholder="Type what you hear…  (Enter = check / next)"
+          className="input mt-6 min-h-24 resize-y"
+          placeholder="Type what you hear…"
           value={text}
           autoFocus
           spellCheck={false}
@@ -166,13 +158,11 @@ function SentenceDictation({
             }
           }}
         />
-        <p className="mt-1 text-xs text-muted">
-          <kbd className="kbd">Ctrl+Space</kbd> replay · <kbd className="kbd">Enter</kbd> check, then next · <kbd className="kbd">Shift+Enter</kbd> new line
-        </p>
+        <p className="mt-2 text-xs text-muted/70">Ctrl+Space replay · Enter check, then next</p>
 
         {result && (
-          <div className="mt-4 space-y-2 rounded-lg bg-surface-2 p-4">
-            <p className="text-sm font-semibold">
+          <div className="enter mt-6 space-y-3">
+            <p className="text-2xl font-light tabular-nums">
               {Math.round(result.accuracy * 100)}% · {result.correct}/{result.total} words
             </p>
             <DiffView parts={result.parts} />
@@ -180,42 +170,48 @@ function SentenceDictation({
           </div>
         )}
 
-        <div className="mt-4 flex justify-between">
-          <button className="btn" onClick={() => go(idx - 1)} disabled={idx === 0}>← Previous</button>
+        <div className="mt-6 flex items-center gap-5">
           {!result ? (
             <button className="btn-primary" onClick={check} disabled={!text.trim()}>Check</button>
           ) : (
-            <div className="flex gap-2">
-              <button className="btn" onClick={() => { setResult(null); setText(""); inputRef.current?.focus(); }}>Try again</button>
-              <button className="btn-primary" onClick={() => go(idx + 1)} disabled={idx === ep.sentences.length - 1}>Next →</button>
-            </div>
+            <>
+              <button className="btn-primary" onClick={() => go(idx + 1)} disabled={idx === ep.sentences.length - 1}>Next sentence</button>
+              <button className="link" onClick={() => { setResult(null); setText(""); inputRef.current?.focus(); }}>try again</button>
+            </>
           )}
         </div>
       </section>
 
-      <section className="card p-4">
-        <div className="mb-2 flex justify-between text-sm">
-          <span className="font-medium">Sentences</span>
-          <span className="text-muted">{done}/{ep.sentences.length} attempted · average best {pct(avgBest)}</span>
-        </div>
-        <div className="flex flex-wrap gap-1">
+      <details>
+        <summary>
+          all sentences · {done}/{ep.sentences.length} done · average {pct(avgBest)}
+        </summary>
+        <div className="mt-4 flex flex-wrap gap-1">
           {ep.sentences.map((s) => {
             const b = best.get(s.idx);
-            const color = b === undefined ? "bg-surface-2 text-muted" : b >= 0.9 ? "bg-ok-soft text-ok" : b >= 0.6 ? "bg-warn-soft text-warn" : "bg-bad-soft text-bad";
+            const color = b === undefined ? "bg-surface text-muted" : b >= 0.9 ? "bg-ok-soft text-ok" : b >= 0.6 ? "bg-warn-soft text-warn" : "bg-bad-soft text-bad";
             return (
               <button
                 key={s.idx}
                 onClick={() => go(s.idx)}
                 title={b === undefined ? "Not attempted" : `Best ${pct(b)}`}
-                className={`h-7 w-8 rounded text-xs tabular-nums ${color} ${s.idx === idx ? "ring-2 ring-foreground" : ""}`}
+                className={`h-7 w-8 rounded-md text-xs tabular-nums transition hover:brightness-125 ${color} ${s.idx === idx ? "ring-1 ring-accent" : ""}`}
               >
                 {s.idx + 1}
               </button>
             );
           })}
         </div>
-      </section>
+      </details>
     </div>
+  );
+}
+
+function Toggle({ on, onClick, children }: { on: boolean; onClick: () => void; children: React.ReactNode }) {
+  return (
+    <button className={`text-sm transition ${on ? "text-accent" : "text-muted hover:text-foreground"}`} onClick={onClick} aria-pressed={on}>
+      {children}
+    </button>
   );
 }
 
@@ -250,19 +246,16 @@ function FullDictation({ ep, post }: { ep: EpisodeDetail; post: (body: object) =
   const reference = ep.sentences.map((s) => s.text).join(" ");
 
   return (
-    <section className="card space-y-3 p-5">
-      <p className="text-sm text-muted">
-        Play the programme with the bar below and write down everything you hear. No speaker names needed. Your draft is saved
-        in this browser. <kbd className="kbd">Ctrl+Space</kbd> play/pause · <kbd className="kbd">Ctrl+[</kbd> back 5s
-      </p>
+    <section className="space-y-3">
+      <p className="text-sm text-muted">Play the programme below and write everything you hear. Ctrl+Space play/pause · Ctrl+[ back 5s</p>
       <textarea
-        className="input min-h-80 resize-y font-[inherit] leading-relaxed"
+        className="input mt-4 min-h-80 resize-y font-[inherit] leading-relaxed"
         value={text}
         spellCheck={false}
         onChange={(e) => save(e.target.value)}
         placeholder="Start typing…"
       />
-      <div className="flex flex-wrap items-center gap-2">
+      <div className="flex flex-wrap items-center gap-5">
         <button
           className="btn-primary"
           disabled={!text.trim()}
@@ -272,14 +265,14 @@ function FullDictation({ ep, post }: { ep: EpisodeDetail; post: (body: object) =
             await post({ type: "dictation", sentenceIdx: -1, accuracy: r.accuracy, text, speed: p.rate });
           }}
         >
-          Compare with transcript
+          Compare
         </button>
-        <button className="btn" onClick={() => confirm("Clear your draft?") && (save(""), setResult(null))}>Clear</button>
+        <button className="link" onClick={() => confirm("Clear your draft?") && (save(""), setResult(null))}>clear</button>
         <span className="text-xs text-muted">{text.split(/\s+/).filter(Boolean).length} words</span>
       </div>
       {result && (
-        <div className="space-y-2 rounded-lg bg-surface-2 p-4">
-          <p className="text-sm font-semibold">
+        <div className="enter space-y-3">
+          <p className="text-2xl font-light tabular-nums">
             {Math.round(result.accuracy * 100)}% of the transcript captured · {result.correct}/{result.total} words
           </p>
           <p className="text-xs text-muted">The BBC transcript is not word-for-word, so 100% isn&apos;t always possible.</p>

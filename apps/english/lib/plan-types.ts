@@ -1,7 +1,7 @@
 // Shapes shared by the plan API and the Today / Focus pages (client-safe).
 
 export type PlanItem =
-  | { kind: "listening"; mode: "deep" | "light"; episodeId: string; title: string; done: boolean }
+  | { kind: "listening"; mode: "deep"; episodeId: string; title: string; done: boolean }
   | { kind: "speaking"; sessionKind: "new" | "revisit" | "monthly"; topicNo: number; title: string; type: string; done: boolean }
   | { kind: "transcribe"; recordingId: number; topicNo: number; title: string; done: boolean };
 

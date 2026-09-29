@@ -9,17 +9,16 @@ export { ERROR_TAGS, type ErrorTag };
 
 export type Settings = {
   start_date: string | null; // first practice day (YYYY-MM-DD), anchors the 7-day rhythm
-  topics_per_day: number;
   prep_seconds: number;
   research_minutes: number;
 };
 
-const DEFAULTS: Settings = { start_date: null, topics_per_day: 1, prep_seconds: 30, research_minutes: 5 };
+const DEFAULTS: Settings = { start_date: null, prep_seconds: 30, research_minutes: 5 };
 
 export function getSettings(): Settings {
   const rows = db().prepare("SELECT key, value FROM settings").all() as { key: string; value: string }[];
   const s: Record<string, unknown> = { ...DEFAULTS };
-  for (const r of rows) s[r.key] = r.key === "start_date" ? r.value : Number(r.value);
+  for (const r of rows) if (r.key in DEFAULTS) s[r.key] = r.key === "start_date" ? r.value : Number(r.value);
   return s as Settings;
 }
 

@@ -89,7 +89,7 @@ export function TranscriptTagger({ rec, onChanged, audioSrc }: { rec: Rec; onCha
                 type="button"
                 onClick={(e) => click(i, e.shiftKey)}
                 title={err ? ERROR_TAGS.find((t) => t.id === err.tag)?.label : (w.p ?? 1) < 0.5 ? "Whisper wasn't sure about this word" : undefined}
-                className={`rounded px-0.5 transition hover:bg-surface-2 ${inSel ? "bg-foreground text-background hover:bg-foreground" : ""} ${
+                className={`rounded px-0.5 transition hover:bg-surface-2 ${inSel ? "bg-accent text-background hover:bg-accent" : ""} ${
                   err && !inSel ? "bg-bad-soft text-bad" : ""
                 } ${filler ? "italic text-muted" : ""} ${repeated.has(i) ? "underline decoration-warn decoration-wavy" : ""} ${
                   (w.p ?? 1) < 0.5 ? "decoration-dotted" : ""
@@ -101,20 +101,17 @@ export function TranscriptTagger({ rec, onChanged, audioSrc }: { rec: Rec; onCha
           );
         })}
       </p>
-      <p className="flex flex-wrap gap-3 text-xs text-muted">
-        <span><span className="italic">italic</span> = filler</span>
-        <span><span className="underline decoration-warn decoration-wavy">wavy</span> = repeated word</span>
-        <span><span className="rounded bg-bad-soft px-0.5 text-bad">red</span> = tagged error</span>
-        <span>Click a word to tag an error · Shift-click to select several</span>
+      <p className="text-xs">
+        <span className="text-muted/70">click a word to tag an error · shift-click for several · <span className="italic">italic</span> filler · <span className="underline decoration-warn decoration-wavy">wavy</span> repeat</span>
       </p>
 
       {sel && (
-        <div className="space-y-3 rounded-lg border border-line bg-surface-2 p-3">
+        <div className="enter space-y-4 rounded-2xl bg-surface p-5">
           <div className="flex flex-wrap items-center gap-2 text-sm">
             <span className="text-muted">Selected:</span>
-            <strong>“{selectedText}”</strong>
+            <span>“{selectedText}”</span>
             {audioSrc && (
-              <button className="btn px-2 py-0.5 text-xs" onClick={() => playFrom(lo)}>▶ Listen</button>
+              <button className="link text-xs" onClick={() => playFrom(lo)}>▶ listen</button>
             )}
           </div>
           <div className="flex flex-wrap gap-1.5">
@@ -122,13 +119,13 @@ export function TranscriptTagger({ rec, onChanged, audioSrc }: { rec: Rec; onCha
               <button
                 key={t.id}
                 onClick={() => setTag(t.id)}
-                className={`rounded-full border px-2.5 py-1 text-xs ${tag === t.id ? "border-foreground bg-foreground text-background" : "border-line bg-surface hover:bg-surface-2"}`}
+                className={`rounded-full px-2.5 py-1 text-xs transition ${tag === t.id ? "bg-accent text-background" : "bg-surface-2 text-muted hover:text-foreground"}`}
               >
                 {t.label}
               </button>
             ))}
           </div>
-          <div className="flex flex-wrap gap-2">
+          <div className="flex flex-wrap items-center gap-4">
             <input
               className="input flex-1 py-1.5 text-sm"
               placeholder="Correct form (optional), e.g. “a friend who lives…”"
@@ -137,7 +134,7 @@ export function TranscriptTagger({ rec, onChanged, audioSrc }: { rec: Rec; onCha
               onKeyDown={(e) => e.key === "Enter" && save()}
             />
             <button className="btn-primary" onClick={save} disabled={saving}>Log error</button>
-            <button className="btn" onClick={() => setSel(null)}>Cancel</button>
+            <button className="link" onClick={() => setSel(null)}>cancel</button>
           </div>
         </div>
       )}

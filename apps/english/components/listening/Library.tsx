@@ -3,15 +3,22 @@
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { api, pct } from "@/lib/client";
-import type { EpisodeRow } from "@/lib/db";
+import type { Dashboard, EpisodeRow } from "@/lib/db";
+import { ListeningStats } from "./ListeningStats";
 
 const PAGE = 30;
+const STATUSES = [
+  { id: "all", label: "All" },
+  { id: "new", label: "New" },
+  { id: "in-progress", label: "Started" },
+  { id: "done", label: "Done" },
+];
 
 export function Library() {
   const [episodes, setEpisodes] = useState<EpisodeRow[] | null>(null);
+  const [dash, setDash] = useState<Dashboard | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [q, setQ] = useState("");
-  const [year, setYear] = useState("all");
   const [status, setStatus] = useState("all");
   const [limit, setLimit] = useState(PAGE);
   const [refreshing, setRefreshing] = useState(false);
@@ -30,127 +37,94 @@ export function Library() {
       (r) => setEpisodes(r.episodes),
       (e: Error) => setError(e.message),
     );
+    api<Dashboard>("/api/progress").then(setDash);
   }, []);
-
-  const years = useMemo(() => [...new Set((episodes ?? []).map((e) => e.date.slice(0, 4)))].sort().reverse(), [episodes]);
 
   const filtered = useMemo(() => {
     const needle = q.trim().toLowerCase();
     return (episodes ?? []).filter(
       (e) =>
-        (year === "all" || e.date.startsWith(year)) &&
         (status === "all" || e.status === status) &&
-        (!needle || e.title.toLowerCase().includes(needle) || e.description.toLowerCase().includes(needle)),
+        (!needle || e.title.toLowerCase().includes(needle) || e.description.toLowerCase().includes(needle) || e.date.startsWith(needle)),
     );
-  }, [episodes, q, year, status]);
-
-  const inProgress = (episodes ?? []).filter((e) => e.status === "in-progress").slice(0, 4);
-  const nextUp = (episodes ?? []).find((e) => e.status === "new");
+  }, [episodes, q, status]);
 
   return (
-    <main className="mx-auto w-full max-w-5xl px-4 py-8">
-      <header className="flex flex-wrap items-end justify-between gap-3">
+    <main className="enter-stagger mx-auto w-full max-w-4xl space-y-14 px-6 py-12">
+      <header className="space-y-8">
         <div>
-          <p className="text-xs uppercase tracking-wide text-muted">BBC Learning English</p>
-          <h1 className="text-3xl font-semibold">Listening · 6 Minute English</h1>
+          <h1 className="text-4xl font-semibold tracking-tight">Listening</h1>
+          <p className="mt-2 text-sm text-muted">BBC 6 Minute English · one deep episode a day</p>
         </div>
-        <button
-          className="btn"
-          disabled={refreshing}
-          onClick={async () => {
-            setRefreshing(true);
-            await load(true);
-            setRefreshing(false);
-          }}
-        >
-          {refreshing ? "Refreshing…" : "Check for new episodes"}
-        </button>
+        {dash && <ListeningStats dash={dash} />}
       </header>
 
-      {(inProgress.length > 0 || nextUp) && (
-        <section className="mt-8">
-          <h2 className="mb-3 text-sm font-semibold uppercase tracking-wide text-muted">Continue</h2>
-          <div className="grid gap-3 sm:grid-cols-2">
-            {inProgress.map((e) => (
-              <EpisodeCard key={e.id} e={e} compact />
-            ))}
-            {inProgress.length === 0 && nextUp && <EpisodeCard e={nextUp} compact label="Newest episode" />}
-          </div>
-        </section>
-      )}
-
-      <section className="mt-8">
-        <div className="mb-3 flex flex-wrap items-center gap-2">
-          <h2 className="mr-auto text-sm font-semibold uppercase tracking-wide text-muted">
-            All episodes {episodes && <span className="font-normal normal-case">({filtered.length})</span>}
-          </h2>
+      <section className="space-y-6">
+        <div className="flex flex-wrap items-center gap-x-5 gap-y-3">
           <input
-            className="input w-full py-1.5 text-sm sm:w-56"
-            placeholder="Search topics…"
+            className="input max-w-56 py-1.5 text-sm"
+            placeholder="Search"
             value={q}
             onChange={(e) => {
               setQ(e.target.value);
               setLimit(PAGE);
             }}
           />
-          <select aria-label="Year" className="btn" value={year} onChange={(e) => (setYear(e.target.value), setLimit(PAGE))}>
-            <option value="all">All years</option>
-            {years.map((y) => (
-              <option key={y} value={y}>{y}</option>
+          <div className="flex gap-4 text-sm">
+            {STATUSES.map((s) => (
+              <button
+                key={s.id}
+                className={`transition ${status === s.id ? "text-foreground" : "text-muted hover:text-foreground"}`}
+                onClick={() => (setStatus(s.id), setLimit(PAGE))}
+              >
+                {s.label}
+              </button>
             ))}
-          </select>
-          <select aria-label="Status" className="btn" value={status} onChange={(e) => (setStatus(e.target.value), setLimit(PAGE))}>
-            <option value="all">Any status</option>
-            <option value="new">Not started</option>
-            <option value="in-progress">In progress</option>
-            <option value="done">Done</option>
-          </select>
-        </div>
-        {error && <p className="rounded-lg bg-bad-soft p-3 text-sm text-bad">Couldn&apos;t load episodes from the BBC: {error}</p>}
-        {!episodes && !error && <p className="text-muted">Loading episodes from the BBC…</p>}
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {filtered.slice(0, limit).map((e) => (
-            <EpisodeCard key={e.id} e={e} />
-          ))}
-        </div>
-        {filtered.length > limit && (
-          <div className="mt-6 text-center">
-            <button className="btn" onClick={() => setLimit((l) => l + PAGE)}>Show more</button>
           </div>
+          <button
+            className="link ml-auto"
+            disabled={refreshing}
+            onClick={async () => {
+              setRefreshing(true);
+              await load(true);
+              setRefreshing(false);
+            }}
+          >
+            {refreshing ? "checking…" : "check for new"}
+          </button>
+        </div>
+        {error && <p className="text-sm text-bad">Couldn&apos;t load episodes from the BBC: {error}</p>}
+        {!episodes && !error && <p className="text-muted">Loading episodes…</p>}
+        <ul>
+          {filtered.slice(0, limit).map((e) => (
+            <li key={e.id}>
+              <Link href={`/listening/${e.id}`} className="group -mx-3 flex items-center gap-4 rounded-xl px-3 py-3 transition hover:bg-surface">
+                {e.image && (
+                  // eslint-disable-next-line @next/next/no-img-element
+                  <img src={e.image} alt="" loading="lazy" className="h-10 w-14 shrink-0 rounded-md object-cover opacity-60 grayscale transition group-hover:opacity-100 group-hover:grayscale-0" />
+                )}
+                <div className="min-w-0 flex-1">
+                  <p className={`truncate transition ${e.status === "done" ? "text-muted" : "text-foreground/90 group-hover:text-foreground"}`}>{e.title}</p>
+                  <p className="text-xs text-muted">
+                    {new Date(e.date).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" })}
+                  </p>
+                </div>
+                <StatusMark e={e} />
+              </Link>
+            </li>
+          ))}
+        </ul>
+        {filtered.length > limit && (
+          <button className="link" onClick={() => setLimit((l) => l + PAGE)}>more</button>
         )}
       </section>
     </main>
   );
 }
 
-function StatusBadge({ e }: { e: EpisodeRow }) {
+function StatusMark({ e }: { e: EpisodeRow }) {
   if (e.status === "done")
-    return (
-      <span className="rounded-full bg-ok-soft px-2 py-0.5 text-xs font-medium text-ok">
-        ✓ {e.mode === "light" ? "Light" : "Deep"}
-        {e.first_listen_score !== null && ` · ${pct(e.first_listen_score)}`}
-      </span>
-    );
-  if (e.status === "in-progress")
-    return <span className="rounded-full bg-warn-soft px-2 py-0.5 text-xs font-medium text-warn">In progress</span>;
+    return <span className="shrink-0 text-xs tabular-nums text-accent">✓{e.first_listen_score !== null && ` ${pct(e.first_listen_score)}`}</span>;
+  if (e.status === "in-progress") return <span className="h-1.5 w-1.5 shrink-0 rounded-full bg-accent" title="In progress" />;
   return null;
-}
-
-function EpisodeCard({ e, compact, label }: { e: EpisodeRow; compact?: boolean; label?: string }) {
-  return (
-    <Link href={`/listening/${e.id}`} className="card group flex overflow-hidden transition hover:border-foreground/30">
-      {e.image && (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img src={e.image} alt="" loading="lazy" className={`${compact ? "w-28" : "w-24"} shrink-0 object-cover`} />
-      )}
-      <div className="min-w-0 flex-1 p-3">
-        <div className="flex items-center justify-between gap-2 text-xs text-muted">
-          <span>{label ?? new Date(e.date).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" })}</span>
-          <StatusBadge e={e} />
-        </div>
-        <h3 className="mt-1 font-medium leading-snug group-hover:underline">{e.title}</h3>
-        <p className="mt-0.5 line-clamp-2 text-sm text-muted">{e.description}</p>
-      </div>
-    </Link>
-  );
 }

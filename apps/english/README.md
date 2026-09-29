@@ -1,6 +1,6 @@
 # English practice: listening and speaking
 
-A local web app with one daily plan and a fullscreen focus mode for two kinds of practice.
+A local, dark, minimal web app: each day is one deep listening episode and one speaking topic, done in a fullscreen focus mode.
 
 - **Listening:** [BBC Learning English: 6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english) with a custom player, a first-listen quiz, dictation and shadowing
 - **Speaking:** the 12-block rotation from [`120-speaking-topics.md`](../../120-speaking-topics.md), three timed rounds per topic, recorded and transcribed
@@ -30,16 +30,16 @@ Open http://localhost:3000. The first Whisper run downloads the ~480 MB `small.e
 
 | Part | What |
 |---|---|
-| Listening | 1 **deep** episode (listen → quiz → dictation → shadowing) + 1 **light** episode (listen + quiz) |
+| Listening | 1 **deep** episode: listen → quiz → dictation → shadow → review |
 | Speaking | Follows the 7-day rhythm from the topics file (below) |
 
-Press **Start focus session** to go fullscreen with only today's plan. If you leave fullscreen (Esc, Alt+Tab), a *Focus paused* screen covers everything, and timers, recording and audio freeze until you click *Return to focus*. You can leave once everything is done, or by holding *End early* for 5 seconds.
+Press **Begin** to go fullscreen with only today's plan. If you leave fullscreen (Esc, Alt+Tab), a *Focus paused* screen covers everything, and timers, recording and audio freeze until you click *Return to focus*. You can leave once everything is done, or by holding *End early* for 5 seconds.
 
 > Browsers never let a page trap you in fullscreen (Esc always works, for security), so focus mode pauses instead of blocking.
 
 ### Speaking rhythm
 
-- **Days 1–5:** new topics from the current block, in order (1 a day by default; change it in Settings). The block advances when all 10 are done.
+- **Days 1–5:** 1 new topic a day from the current block, in order. The block advances when all 10 are done.
 - **Day 6, transcribe day:** correct Whisper's draft of one of this week's recordings into a word-for-word transcript and tag your errors.
 - **Day 7, spaced revisit:** 2 topics from the previous block, one 60s round each.
 - **Every 4 weeks:** a Topic 11 re-record is added. `/speaking/progress` charts words per minute, long pauses and repetitions over time.
@@ -58,8 +58,8 @@ Click any word in a transcript to log an error (article, plural -s, past -ed, he
 
 ## Listening tools
 
-- **Custom player:** ±5s / ±10s, speed 0.5–1.5×, A–B loop, replay the current sentence
-- **Quiz:** the BBC weekly question, listen-and-fill-the-gap, vocabulary matching. Your first attempt is saved as your first-listen score.
+- **Player:** play/pause, seek, speed (click cycles 0.75 / 1 / 1.25×). Skipping, A–B loop and sentence replay are on the keyboard (below)
+- **Quiz:** first about 8 **understanding** questions on the conversation (main idea, details, who thinks what), then the BBC weekly question, listen-and-fill-the-gap, and vocabulary matching last. Everything counts towards your first-listen score, which is saved from your first attempt.
 - **Dictation:** sentence by sentence with a word diff, or write the whole script
 - **Shadowing:** auto-pause after each sentence, repeat N times, record yourself
 - **Level-up check:** over your last 10 episodes, first-listen quiz ≥ 80% and first-try dictation ≥ 90%
@@ -91,6 +91,16 @@ Click any word in a transcript to log an error (article, plural -s, past -ed, he
 
 All of it lives in `data/` (git-ignored): `app.db` (SQLite: progress, plans, transcripts, error log), `audio/` and `align/` (BBC episodes and timings), and `recordings/` (your speaking recordings).
 BBC audio, transcripts and vocabulary belong to the BBC. This app is for personal study only.
+
+## Understanding questions
+
+They live in `content/gist/<episode id>.json` and are committed, so a fresh clone has them for every episode:
+
+```json
+{ "questions": [{ "q": "What is the programme mainly about?", "options": ["…", "…", "…", "…"], "answer": 1, "why": "…" }] }
+```
+
+`answer` is the 0-based index of the correct option; `why` is shown when you get it wrong. Check the files with `node scripts/check-gist.mjs`, and add `--missing` to list new BBC episodes that don't have questions yet (for example, ask Claude Code to write them). An episode without a file just skips the section.
 
 ## Code map
 

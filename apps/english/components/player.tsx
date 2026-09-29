@@ -310,93 +310,60 @@ export function fmt(t: number) {
   return `${m}:${String(s).padStart(2, "0")}`;
 }
 
+const SPEEDS = [0.75, 1, 1.25];
+
 export function PlayerBar() {
   const p = usePlayer();
-  const [showKeys, setShowKeys] = useState(false);
+  const frac = p.duration ? p.time / p.duration : 0;
+  const nextSpeed = SPEEDS.find((r) => r > p.rate) ?? SPEEDS[0];
   return (
-    <div className="sticky bottom-0 z-20 border-t border-line bg-surface/95 backdrop-blur">
-      <div className="mx-auto flex max-w-5xl flex-col gap-2 px-4 py-3">
-        <div className="flex items-center gap-3">
-          <span className="w-10 text-right font-mono text-xs tabular-nums text-muted">{fmt(p.time)}</span>
-          <div className="relative flex-1">
-            {p.abLoop && p.duration > 0 && (
-              <div
-                className="pointer-events-none absolute top-1/2 h-2 -translate-y-1/2 rounded bg-accent/25"
-                style={{
-                  left: `${(p.abLoop.a / p.duration) * 100}%`,
-                  width: `${(((p.abLoop.b ?? p.time) - p.abLoop.a) / p.duration) * 100}%`,
-                }}
-              />
-            )}
-            <input
-              type="range"
-              aria-label="Seek"
-              min={0}
-              max={p.duration || 0}
-              step={0.1}
-              value={p.time}
-              onChange={(e) => p.seek(Number(e.target.value))}
-              className="w-full accent-[var(--accent)]"
+    <div className="group sticky bottom-0 z-20 bg-background/80 backdrop-blur-md">
+      <div className="mx-auto flex max-w-4xl items-center gap-4 px-6 py-4">
+        <button
+          className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-foreground text-background transition duration-200 hover:scale-105 active:scale-95 ${
+            p.playing ? "shadow-[0_0_28px_-6px_var(--accent)]" : ""
+          }`}
+          onClick={() => (p.rangeActive ? p.stopRange() : p.toggle())}
+          title="Play / pause (Space)"
+          aria-label={p.playing ? "Pause" : "Play"}
+        >
+          {p.playing ? (
+            <svg viewBox="0 0 16 16" className="h-4 w-4" fill="currentColor" aria-hidden><rect x="3" y="2" width="3.5" height="12" rx="1" /><rect x="9.5" y="2" width="3.5" height="12" rx="1" /></svg>
+          ) : (
+            <svg viewBox="0 0 16 16" className="ml-0.5 h-4 w-4" fill="currentColor" aria-hidden><path d="M4 2.5v11a.8.8 0 0 0 1.2.7l9-5.5a.8.8 0 0 0 0-1.4l-9-5.5A.8.8 0 0 0 4 2.5Z" /></svg>
+          )}
+        </button>
+        <div className="relative min-w-0 flex-1">
+          {p.abLoop && p.duration > 0 && (
+            <div
+              className="pointer-events-none absolute top-1/2 h-2 -translate-y-1/2 rounded-full bg-accent/25"
+              style={{
+                left: `${(p.abLoop.a / p.duration) * 100}%`,
+                width: `${(((p.abLoop.b ?? p.time) - p.abLoop.a) / p.duration) * 100}%`,
+              }}
             />
-          </div>
-          <span className="w-10 font-mono text-xs tabular-nums text-muted">{fmt(p.duration)}</span>
-        </div>
-        <div className="flex flex-wrap items-center justify-center gap-1.5">
-          <button className="btn" onClick={() => p.skip(-10)} title="Back 10s (Shift+←)">−10</button>
-          <button className="btn" onClick={() => p.skip(-5)} title="Back 5s (←)">−5</button>
-          <button
-            className="btn-primary min-w-20"
-            onClick={() => (p.rangeActive ? p.stopRange() : p.toggle())}
-            title="Play / pause (Space)"
-          >
-            {p.playing ? "Pause" : "Play"}
-          </button>
-          <button className="btn" onClick={() => p.skip(5)} title="Forward 5s (→)">+5</button>
-          <button className="btn" onClick={() => p.skip(10)} title="Forward 10s (Shift+→)">+10</button>
-          <span className="mx-1 h-5 w-px bg-line" />
-          <select
-            aria-label="Speed"
-            className="btn pr-2"
-            value={p.rate}
-            onChange={(e) => p.setRate(Number(e.target.value))}
-            title="Speed ([ and ])"
-          >
-            {RATES.map((r) => (
-              <option key={r} value={r}>
-                {r}×
-              </option>
-            ))}
-          </select>
-          <button
-            className={`btn ${p.abLoop ? "border-accent text-accent" : ""}`}
-            onClick={p.markLoop}
-            title="Set loop start, then loop end (L)"
-          >
-            {!p.abLoop ? "Loop A" : p.abLoop.b === null ? "Loop B" : `A–B ${fmt(p.abLoop.a)}–${fmt(p.abLoop.b)}`}
-          </button>
-          {p.abLoop && (
-            <button className="btn" onClick={p.clearLoop} title="Clear loop (Esc)">✕</button>
           )}
-          {p.timings && (
-            <button className="btn" onClick={() => p.currentIdx >= 0 && p.playSentence(p.currentIdx)} title="Replay sentence (R)">
-              ↺ Sentence
-            </button>
-          )}
-          <button className="btn" onClick={() => setShowKeys((s) => !s)} aria-expanded={showKeys}>
-            ⌨
-          </button>
+          <input
+            type="range"
+            aria-label="Seek"
+            min={0}
+            max={p.duration || 0}
+            step={0.1}
+            value={p.time}
+            onChange={(e) => p.seek(Number(e.target.value))}
+            className="scrub"
+            style={{ "--pct": `${frac * 100}%` } as React.CSSProperties}
+          />
+          <p className="pointer-events-none absolute left-0 right-0 top-full mt-0.5 truncate text-center text-[11px] text-muted opacity-0 transition duration-300 group-hover:opacity-100">
+            space play · ← → 5s · R sentence · L loop · [ ] speed
+          </p>
         </div>
-        {showKeys && (
-          <div className="flex flex-wrap justify-center gap-x-4 gap-y-1 text-xs text-muted">
-            <span><kbd className="kbd">Space</kbd> play/pause</span>
-            <span><kbd className="kbd">←</kbd>/<kbd className="kbd">→</kbd> ±5s (Shift ±10s)</span>
-            <span><kbd className="kbd">[</kbd>/<kbd className="kbd">]</kbd> speed</span>
-            <span><kbd className="kbd">R</kbd> replay sentence</span>
-            <span><kbd className="kbd">L</kbd> loop A→B</span>
-            <span><kbd className="kbd">Esc</kbd> clear loop</span>
-            <span>In a text box: <kbd className="kbd">Ctrl+Space</kbd> replay, <kbd className="kbd">Ctrl+[</kbd>/<kbd className="kbd">]</kbd> ±5s, <kbd className="kbd">Ctrl+P</kbd> play/pause</span>
-          </div>
-        )}
+        <span className="shrink-0 font-mono text-xs tabular-nums text-muted">
+          {fmt(p.time)} / {fmt(p.duration)}
+        </span>
+        <button className="w-12 shrink-0 font-mono text-xs tabular-nums text-muted transition hover:text-foreground" onClick={() => p.setRate(nextSpeed)} title="Speed ([ and ])">
+          {p.rate}×
+        </button>
       </div>
     </div>
   );

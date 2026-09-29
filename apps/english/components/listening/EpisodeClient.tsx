@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useCallback, useEffect, useState } from "react";
 import { api, type EpisodeProgress } from "@/lib/client";
-import type { Alignment, EpisodeDetail, StudyMode } from "@/lib/types";
+import type { Alignment, EpisodeDetail } from "@/lib/types";
 import type { WhisperJob as AlignJob } from "@/lib/whisper";
 import { PlayerBar, PlayerProvider } from "../player";
 import { ListenPanel } from "./ListenPanel";
@@ -12,23 +12,16 @@ import { DictationPanel } from "./DictationPanel";
 import { ShadowPanel } from "./ShadowPanel";
 import { TranscriptPanel } from "./TranscriptPanel";
 
-const TABS = ["Listen", "Quiz", "Dictation", "Shadowing", "Transcript"] as const;
-type Tab = (typeof TABS)[number];
-
-const FLOW: Record<StudyMode, string> = {
-  deep: "Listen → Quiz → Dictation → Shadowing → Transcript review",
-  light: "Listen → Quiz → Transcript review",
-};
+const STEPS = ["Listen", "Quiz", "Dictation", "Shadow", "Review"] as const;
+type Step = (typeof STEPS)[number];
 
 export function EpisodeClient({
   id,
   focus = false,
-  initialMode = "deep",
   onStatusChange,
 }: {
   id: string;
   focus?: boolean; // inside the focus room: no navigation links
-  initialMode?: StudyMode;
   onStatusChange?: () => void;
 }) {
   const [ep, setEp] = useState<EpisodeDetail | null>(null);
@@ -36,16 +29,12 @@ export function EpisodeClient({
   const [alignment, setAlignment] = useState<Alignment | null>(null);
   const [job, setJob] = useState<AlignJob | null>(null);
   const [progress, setProgress] = useState<EpisodeProgress | null>(null);
-  const [tab, setTab] = useState<Tab>("Listen");
-  const [mode, setMode] = useState<StudyMode>(initialMode);
+  const [step, setStep] = useState<Step>("Listen");
   const [guess, setGuess] = useState<string | null>(null);
 
   useEffect(() => {
     api<EpisodeDetail>(`/api/episodes/${id}`).then(setEp, (e: Error) => setError(e.message));
-    api<EpisodeProgress>(`/api/episodes/${id}/progress`).then((p) => {
-      setProgress(p);
-      if (p.status?.mode) setMode(p.status.mode);
-    });
+    api<EpisodeProgress>(`/api/episodes/${id}/progress`).then(setProgress);
   }, [id]);
 
   // Alignment: load, auto-start if missing, poll while running
@@ -94,19 +83,19 @@ export function EpisodeClient({
     },
     [id, onStatusChange],
   );
-  const back = focus ? null : <Link href="/listening" className="text-sm text-muted hover:underline">← All episodes</Link>;
+  const back = focus ? null : <Link href="/listening" className="link">← Listening</Link>;
 
   if (error)
     return (
-      <main className="mx-auto max-w-3xl p-6">
+      <main className="mx-auto w-full max-w-3xl px-6 py-12">
         {back}
-        <p className="mt-6 rounded-lg bg-bad-soft p-4 text-bad">Could not load this episode: {error}</p>
+        <p className="mt-6 text-bad">Could not load this episode: {error}</p>
       </main>
     );
-  if (!ep) return <main className="mx-auto max-w-3xl p-6 text-muted">Loading episode…</main>;
+  if (!ep) return <main className="fade mx-auto w-full max-w-3xl px-6 py-12 text-muted">Loading…</main>;
   if (!ep.mp3)
     return (
-      <main className="mx-auto max-w-3xl p-6">
+      <main className="mx-auto w-full max-w-3xl px-6 py-12">
         {back}
         <p className="mt-6">This episode has no downloadable audio on the BBC page.</p>
       </main>
@@ -114,69 +103,63 @@ export function EpisodeClient({
 
   const done = progress?.status?.status === "done";
   const timings = alignment?.sentences ?? null;
+  const stepIdx = STEPS.indexOf(step);
+  const last = stepIdx === STEPS.length - 1;
+  const go = (i: number) => {
+    setStep(STEPS[i]);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
 
   return (
     <PlayerProvider src={ep.mp3} timings={timings}>
-      <div className={`flex flex-col ${focus ? "min-h-[calc(100vh-57px)]" : "min-h-screen"}`}>
-        <header className="border-b border-line bg-surface">
-          <div className="mx-auto max-w-5xl px-4 pt-4">
-            {back}
-            <div className="mt-2 flex flex-wrap items-end justify-between gap-3">
-              <div className="min-w-0">
-                <p className="text-xs uppercase tracking-wide text-muted">
-                  6 Minute English · {new Date(ep.date).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" })}
-                </p>
-                <h1 className="text-2xl font-semibold text-balance">{ep.title}</h1>
-              </div>
-              <div className="flex items-center gap-2">
-                <label className="text-sm text-muted" htmlFor="mode">Session</label>
-                <select
-                  id="mode"
-                  className="btn"
-                  value={mode}
-                  onChange={(e) => setMode(e.target.value as StudyMode)}
-                  disabled={done}
-                >
-                  <option value="deep">Deep (all steps)</option>
-                  <option value="light">Light (listen + quiz)</option>
-                </select>
-                {done ? (
-                  <button className="btn" onClick={() => post({ type: "status", status: "in-progress" })}>
-                    ✓ Done · undo
-                  </button>
-                ) : (
-                  <button className="btn-primary" onClick={() => post({ type: "status", status: "done", mode })}>
-                    Mark as done
-                  </button>
-                )}
-              </div>
-            </div>
-            <p className="mt-1 text-xs text-muted">Suggested flow: {FLOW[mode]}</p>
-            <AlignBanner alignment={alignment} job={job} onRetry={retryAlign} />
-            <nav className="-mb-px mt-3 flex gap-1 overflow-x-auto" role="tablist">
-              {TABS.map((t) => (
-                <button
-                  key={t}
-                  role="tab"
-                  aria-selected={tab === t}
-                  onClick={() => setTab(t)}
-                  className={`whitespace-nowrap border-b-2 px-3 py-2 text-sm font-medium transition ${
-                    tab === t ? "border-accent text-foreground" : "border-transparent text-muted hover:text-foreground"
-                  }`}
-                >
-                  {t}
-                </button>
-              ))}
-            </nav>
-          </div>
+      <div className={`flex flex-col ${focus ? "min-h-[calc(100vh-57px)]" : "flex-1"}`}>
+        <header className="mx-auto w-full max-w-4xl px-6 pt-10">
+          {back}
+          <p className={`text-sm text-muted ${back ? "mt-6" : ""}`}>
+            {new Date(ep.date).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" })}
+            {done && <span className="text-accent"> · done</span>}
+          </p>
+          <h1 className="mt-1 text-3xl font-semibold tracking-tight text-balance">{ep.title}</h1>
+          <nav className="mt-8 flex gap-6 overflow-x-auto text-sm" role="tablist">
+            {STEPS.map((t, i) => (
+              <button
+                key={t}
+                role="tab"
+                aria-selected={step === t}
+                onClick={() => go(i)}
+                className={`relative whitespace-nowrap pb-2 transition ${
+                  step === t ? "text-foreground" : i < stepIdx ? "text-muted/70 hover:text-foreground" : "text-muted hover:text-foreground"
+                }`}
+              >
+                {t}
+                <span
+                  className={`absolute inset-x-0 bottom-0 h-px origin-left bg-accent transition-transform duration-500 ${step === t ? "scale-x-100" : "scale-x-0"}`}
+                />
+              </button>
+            ))}
+          </nav>
+          <AlignBanner alignment={alignment} job={job} onRetry={retryAlign} />
         </header>
 
-        <main className="mx-auto w-full max-w-5xl flex-1 px-4 py-6">
-          {tab === "Listen" && <ListenPanel ep={ep} guess={guess} setGuess={setGuess} onNext={() => setTab("Quiz")} />}
-          {tab === "Quiz" && <QuizPanel ep={ep} guess={guess} setGuess={setGuess} progress={progress} post={post} />}
-          {tab === "Dictation" && <DictationPanel ep={ep} progress={progress} post={post} />}
-          {tab === "Shadowing" && <ShadowPanel ep={ep} />}
-          {tab === "Transcript" && <TranscriptPanel ep={ep} alignment={alignment} onSaved={setAlignment} onRealign={retryAlign} />}
+        <main key={step} className="enter mx-auto w-full max-w-4xl flex-1 px-6 py-10">
+          {step === "Listen" && <ListenPanel ep={ep} guess={guess} setGuess={setGuess} />}
+          {step === "Quiz" && <QuizPanel ep={ep} guess={guess} setGuess={setGuess} progress={progress} post={post} />}
+          {step === "Dictation" && <DictationPanel ep={ep} progress={progress} post={post} />}
+          {step === "Shadow" && <ShadowPanel ep={ep} />}
+          {step === "Review" && <TranscriptPanel ep={ep} alignment={alignment} onSaved={setAlignment} onRealign={retryAlign} />}
+
+          <div className="mt-14 flex items-center gap-6">
+            {!last ? (
+              <button className="btn-primary" onClick={() => go(stepIdx + 1)}>{STEPS[stepIdx + 1]} →</button>
+            ) : done ? (
+              <>
+                <span className="pop text-accent">✓ Episode finished</span>
+                <button className="link" onClick={() => post({ type: "status", status: "in-progress" })}>undo</button>
+              </>
+            ) : (
+              <button className="btn-primary" onClick={() => post({ type: "status", status: "done", mode: "deep" })}>Finish episode</button>
+            )}
+          </div>
         </main>
 
         <PlayerBar />
@@ -189,31 +172,26 @@ function AlignBanner({ alignment, job, onRetry }: { alignment: Alignment | null;
   if (alignment) return null;
   if (job?.state === "error")
     return (
-      <div className="mt-3 flex flex-wrap items-center gap-3 rounded-lg bg-bad-soft px-3 py-2 text-sm text-bad">
+      <p className="fade mt-3 flex flex-wrap items-center gap-3 text-xs text-bad">
         <span className="min-w-0 flex-1 break-words">Sentence timing failed: {job.error}</span>
-        <button className="btn" onClick={onRetry}>Retry</button>
-      </div>
+        <button className="link" onClick={onRetry}>retry</button>
+      </p>
     );
+  const p = job?.progress ?? 0;
   return (
-    <div className="mt-3 rounded-lg bg-warn-soft px-3 py-2 text-sm text-warn">
-      <div className="flex items-center justify-between gap-3">
-        <span>
-          Preparing sentence timings with Whisper ({job?.stage ?? "starting"}). Dictation and shadowing unlock when
-          it&apos;s done, usually in 1–3 min. Start your first listen now.
-        </span>
-        <span className="font-mono tabular-nums">{Math.round((job?.progress ?? 0) * 100)}%</span>
+    <div className="fade -mt-px">
+      <div className="h-px overflow-hidden bg-line">
+        <div className="h-full bg-accent transition-[width] duration-700" style={{ width: `${Math.max(p, 0.03) * 100}%` }} />
       </div>
-      <div className="mt-2 h-1 overflow-hidden rounded bg-warn/20">
-        <div className="h-full bg-warn transition-all" style={{ width: `${(job?.progress ?? 0) * 100}%` }} />
-      </div>
+      <p className="mt-2 text-xs text-muted">
+        Preparing sentence timings · {Math.round(p * 100)}%. Dictation and shadowing unlock when ready. Start listening now.
+      </p>
     </div>
   );
 }
 
 export function NeedsTimings() {
   return (
-    <div className="card p-6 text-center text-muted">
-      This step needs sentence timings. They&apos;re being prepared. See the banner above.
-    </div>
+    <p className="py-10 text-center text-muted">This step unlocks once the sentence timings are ready.</p>
   );
 }

@@ -8,24 +8,24 @@ export function CountdownRing({ left, total, tone = "neutral", label }: { left: 
   const c = 2 * Math.PI * r;
   const frac = total ? left / total : 0;
   return (
-    <div className="relative mx-auto h-56 w-56">
-      <svg viewBox="0 0 200 200" className="h-full w-full -rotate-90" aria-hidden>
-        <circle cx="100" cy="100" r={r} fill="none" stroke="var(--surface-2)" strokeWidth="10" />
+    <div className="relative mx-auto h-60 w-60">
+      <svg viewBox="0 0 200 200" className={`h-full w-full -rotate-90 ${tone === "rec" ? "breathe" : ""}`} aria-hidden>
+        <circle cx="100" cy="100" r={r} fill="none" stroke="var(--surface-2)" strokeWidth="3" />
         <circle
           cx="100"
           cy="100"
           r={r}
           fill="none"
           stroke={tone === "rec" ? "var(--accent)" : "var(--foreground)"}
-          strokeWidth="10"
+          strokeWidth="3"
           strokeLinecap="round"
           strokeDasharray={c}
           strokeDashoffset={c * (1 - frac)}
-          style={{ transition: "stroke-dashoffset 0.1s linear" }}
+          style={{ transition: "stroke-dashoffset 0.25s linear" }}
         />
       </svg>
       <div className="absolute inset-0 flex flex-col items-center justify-center" role="timer" aria-live="off">
-        <span className="font-mono text-5xl font-semibold tabular-nums">{fmtClock(left)}</span>
+        <span className="font-mono text-6xl font-extralight tabular-nums">{fmtClock(left)}</span>
         {label && <span className="mt-1 text-sm text-muted">{label}</span>}
       </div>
     </div>
@@ -35,9 +35,9 @@ export function CountdownRing({ left, total, tone = "neutral", label }: { left: 
 export function MicLevel({ level }: { level: number }) {
   return (
     <div className="flex items-center gap-2 text-xs text-muted" aria-label="Microphone level">
-      <span>Mic</span>
-      <div className="h-1.5 w-32 overflow-hidden rounded bg-surface-2">
-        <div className="h-full bg-ok transition-[width] duration-75" style={{ width: `${Math.round(level * 100)}%` }} />
+      <span>mic</span>
+      <div className="h-[3px] w-32 overflow-hidden rounded-full bg-surface-2">
+        <div className="h-full rounded-full bg-accent transition-[width] duration-75" style={{ width: `${Math.round(level * 100)}%` }} />
       </div>
     </div>
   );
@@ -73,7 +73,7 @@ export function StatsTable({ columns }: { columns: { label: string; stats: Speec
             const d = showDelta ? (last![row.key] as number) - (first![row.key] as number) : 0;
             const good = row.better === "up" ? d > 0 : d < 0;
             return (
-              <tr key={row.key} className="border-t border-line">
+              <tr key={row.key} className="border-t border-line/60">
                 <td className="py-1.5 pr-3 text-muted">{row.label}</td>
                 {columns.map((c) => (
                   <td key={c.label} className="px-2 py-1.5 text-right">
@@ -81,7 +81,7 @@ export function StatsTable({ columns }: { columns: { label: string; stats: Speec
                   </td>
                 ))}
                 {showDelta && (
-                  <td className={`px-2 py-1.5 text-right font-medium ${d === 0 || row.better === "none" ? "text-muted" : good ? "text-ok" : "text-bad"}`}>
+                  <td className={`px-2 py-1.5 text-right ${d === 0 || row.better === "none" ? "text-muted" : good ? "text-ok" : "text-bad"}`}>
                     {d > 0 ? "+" : ""}
                     {Math.round(d * 10) / 10}
                   </td>

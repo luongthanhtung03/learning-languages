@@ -11,9 +11,9 @@ export default async function TranscribePage({ params }: PageProps<"/speaking/tr
   if (!rec || !session) notFound();
   const topic = findTopic(loadTopics(), session.topic_no);
   return (
-    <main className="mx-auto w-full max-w-5xl px-4 py-6">
-      <Link href="/" className="text-sm text-muted hover:underline">← Today</Link>
-      <div className="mt-4">
+    <main className="mx-auto w-full max-w-4xl px-6 py-10">
+      <Link href="/" className="link">← Today</Link>
+      <div className="mt-10">
         <TranscribeTask recordingId={id} topicText={topic?.text ?? `Topic ${session.topic_no}`} />
       </div>
     </main>

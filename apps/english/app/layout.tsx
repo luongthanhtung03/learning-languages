@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "6 Minute Listening",
-  description: "Practise listening with BBC 6 Minute English: quiz, dictation and shadowing",
+  title: "English",
+  description: "One deep listening episode and one speaking topic a day",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

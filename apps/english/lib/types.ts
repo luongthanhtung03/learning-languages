@@ -11,6 +11,9 @@ export type QuestionOption = { letter: string; text: string };
 
 export type Turn = { speaker: string; text: string };
 
+/** Multiple-choice comprehension question about the conversation (content/gist/<id>.json). */
+export type GistQuestion = { q: string; options: string[]; answer: number; why?: string };
+
 export type Sentence = {
   idx: number;
   turn: number;
@@ -28,6 +31,7 @@ export type EpisodeDetail = EpisodeSummary & {
   mp3: string | null;
   transcriptPdf: string | null;
   worksheetPdf: string | null;
+  gist?: GistQuestion[] | null; // attached at request time, never cached
 };
 
 export type Timing = { idx: number; start: number; end: number; matched: number };

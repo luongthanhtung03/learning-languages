@@ -248,8 +248,7 @@ export function getDashboard() {
 
   return {
     totalDone: done.length,
-    deepDone: done.filter((r) => r.mode === "deep").length,
-    today: { deep: doneToday.filter((r) => r.mode === "deep").length, light: doneToday.filter((r) => r.mode !== "deep").length },
+    doneToday: doneToday.length,
     streak,
     level: { window: recent.length, quizAvg, dictationAvg, ready, thresholds: LEVEL_UP },
   };

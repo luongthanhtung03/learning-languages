@@ -1,5 +1,6 @@
 import { getEpisode } from "@/lib/listening/episodes";
 import { markStarted } from "@/lib/db";
+import { loadGist } from "@/lib/listening/gist";
 
 export async function GET(request: Request, { params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
@@ -7,7 +8,7 @@ export async function GET(request: Request, { params }: { params: Promise<{ id: 
   try {
     const episode = await getEpisode(id, refresh);
     markStarted(id);
-    return Response.json(episode);
+    return Response.json({ ...episode, gist: loadGist(id) });
   } catch (e) {
     return Response.json({ error: (e as Error).message }, { status: 502 });
   }

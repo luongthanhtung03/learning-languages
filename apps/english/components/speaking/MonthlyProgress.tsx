@@ -26,14 +26,14 @@ function LineChart({ points, metric }: { points: Point[]; metric: keyof SpeechSt
     <svg viewBox={`0 0 ${W} ${H}`} className="w-full" role="img" aria-label={`${metric} over time`}>
       {ticks.map((t) => (
         <g key={t}>
-          <line x1={P.l} x2={W - P.r} y1={y(t)} y2={y(t)} stroke="var(--border)" />
+          <line x1={P.l} x2={W - P.r} y1={y(t)} y2={y(t)} stroke="var(--border)" strokeDasharray="2 4" />
           <text x={P.l - 6} y={y(t) + 4} textAnchor="end" fontSize="10" fill="var(--muted)">{t}</text>
         </g>
       ))}
-      <polyline fill="none" stroke="var(--foreground)" strokeWidth="2" points={points.map((p, i) => `${x(i)},${y(p[metric] as number)}`).join(" ")} />
+      <polyline fill="none" stroke="var(--accent)" strokeWidth="1.5" points={points.map((p, i) => `${x(i)},${y(p[metric] as number)}`).join(" ")} />
       {points.map((p, i) => (
         <g key={i}>
-          <circle cx={x(i)} cy={y(p[metric] as number)} r="4" fill="var(--surface)" stroke="var(--foreground)" strokeWidth="2">
+          <circle cx={x(i)} cy={y(p[metric] as number)} r="3" fill="var(--background)" stroke="var(--accent)" strokeWidth="1.5">
             <title>{`${p.date}: ${p[metric]}`}</title>
           </circle>
           <text x={x(i)} y={H - 8} textAnchor="middle" fontSize="10" fill="var(--muted)">{p.date.slice(5)}</text>
@@ -55,29 +55,27 @@ export function MonthlyProgress() {
     last && prev && last.wpm > prev.wpm && last.pauses + last.repetitions >= prev.pauses + prev.repetitions;
 
   return (
-    <main className="mx-auto w-full max-w-5xl space-y-6 px-4 py-8">
+    <main className="enter-stagger mx-auto w-full max-w-4xl space-y-12 px-6 py-12">
       <header>
-        <Link href="/speaking" className="text-sm text-muted hover:underline">← Speaking</Link>
-        <h1 className="mt-2 text-3xl font-semibold">Monthly self-check</h1>
-        <p className="mt-1 text-sm text-muted">
-          Topic 11 (your hometown), cold first round, re-recorded every 4 weeks under the same conditions. It appears in your Today plan when it&apos;s due.
-        </p>
+        <Link href="/speaking" className="link">← Speaking</Link>
+        <h1 className="mt-6 text-4xl font-semibold tracking-tight">Monthly self-check</h1>
+        <p className="mt-2 text-sm text-muted">Topic 11, cold first round, every 4 weeks. It shows up in Today when due.</p>
       </header>
       {!points ? (
         <p className="text-muted">Loading…</p>
       ) : points.length === 0 ? (
-        <p className="card p-6 text-center text-muted">No Topic 11 recordings yet. It comes up in Block 2, and the monthly re-record starts 4 weeks later.</p>
+        <p className="text-center text-muted">No Topic 11 recordings yet. It comes up in Block 2, and the monthly re-record starts 4 weeks later.</p>
       ) : (
         <>
           {fasterButNotCleaner && (
-            <p className="rounded-lg bg-warn-soft p-4 text-sm text-warn">
+            <p className="text-sm text-accent">
               Your speed is rising but errors aren&apos;t falling. You&apos;re getting faster at speaking badly. Add a second transcribe day each week.
             </p>
           )}
-          <div className="grid gap-4 md:grid-cols-2">
+          <div className="grid gap-12">
             {METRICS.map((m) => (
-              <section key={m.key} className="card p-4">
-                <h2 className="text-sm font-semibold">{m.label} <span className="font-normal text-muted">· {m.better}</span></h2>
+              <section key={m.key} >
+                <h2 className="mb-3 text-sm text-muted">{m.label} · {m.better}</h2>
                 <LineChart points={points} metric={m.key} />
               </section>
             ))}

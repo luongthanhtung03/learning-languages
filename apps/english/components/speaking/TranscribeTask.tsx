@@ -28,19 +28,16 @@ export function TranscribeTask({ recordingId, topicText, onDone }: { recordingId
   if (!rec) return <p className="text-muted">Loading recording…</p>;
 
   return (
-    <div className="mx-auto max-w-3xl space-y-5">
-      <div className="space-y-1">
-        <p className="text-xs font-semibold uppercase tracking-wide text-muted">Transcribe day · Round {rec.round} recording</p>
-        <h2 className="text-2xl font-semibold text-balance">{topicText}</h2>
-        <p className="text-sm text-muted">
-          Write it out word for word, including your mistakes. Then mark the errors yourself. This is where accuracy comes from.
-        </p>
+    <div className="enter-stagger max-w-3xl space-y-12">
+      <div className="space-y-3">
+        <p className="text-sm text-muted">Transcribe · Round {rec.round}</p>
+        <h2 className="text-3xl font-semibold tracking-tight text-balance">{topicText}</h2>
       </div>
-      <section className="card space-y-3 p-5">
-        <h3 className="font-semibold">1 · Correct Whisper&apos;s draft so it matches exactly what you said</h3>
+      <section className="space-y-4">
+        <h3 className="text-sm text-muted">Correct the draft word for word, mistakes included.</h3>
         <audio src={`/api/speaking/recordings/${rec.id}/audio`} controls preload="metadata" className="h-9 w-full" />
         <textarea className="input min-h-48 leading-relaxed" value={text ?? ""} onChange={(e) => (setText(e.target.value), setSaved(false))} />
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-5">
           <button
             className="btn-primary"
             disabled={!text?.trim()}
@@ -50,17 +47,17 @@ export function TranscribeTask({ recordingId, topicText, onDone }: { recordingId
               onDone?.();
             }}
           >
-            Save word-for-word transcript
+            Save
           </button>
-          {saved && <span className="text-sm text-ok">✓ Saved</span>}
+          {saved && <span className="pop text-sm text-accent">✓ saved</span>}
         </div>
       </section>
-      <section className="card space-y-3 p-5">
-        <h3 className="font-semibold">2 · Mark your errors</h3>
+      <section className="space-y-4">
+        <h3 className="text-sm text-muted">Mark your errors</h3>
         <TranscriptTagger rec={rec} onChanged={() => void load()} />
       </section>
       {rec.stats && (
-        <section className="card p-5">
+        <section >
           <StatsTable columns={[{ label: `Round ${rec.round}`, stats: rec.stats }]} />
         </section>
       )}
