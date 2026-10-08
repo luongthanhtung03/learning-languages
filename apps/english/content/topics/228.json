@@ -1,0 +1,57 @@
+{
+  "ideas": [
+    "Skills and responsibility you want, not a job title",
+    "Connect it to this role and company",
+    "Show ambition and commitment together"
+  ],
+  "phrases": [
+    { "phrase": "in three years' time", "meaning": "three years from now" },
+    { "phrase": "be trusted with", "meaning": "be given responsibility for" },
+    { "phrase": "what I did was", "meaning": "STAR: introduces your action" },
+    { "phrase": "as a result", "meaning": "STAR: introduces the outcome" },
+    { "phrase": "the situation was", "meaning": "STAR: introduces the context" },
+    { "phrase": "grow into", "meaning": "develop until you can do a bigger role" },
+    { "phrase": "go deep on", "meaning": "learn something in detail" },
+    { "phrase": "give back", "meaning": "help others as you were helped" }
+  ],
+  "learn": {
+    "explain": "The interviewer wants to know three things: are you ambitious, are you realistic, and does this role fit your plan, so you're likely to stay and grow here. Talk about skills and responsibilities rather than titles (\"be the engineer a customer trusts with a full deployment\" rather than \"be a manager\"). Connect it to what you'd learn in this role, and show you plan to grow inside the company. It's fine to be honest that plans change, but have a clear direction. Avoid saying you want to start your own company soon, or that you want a completely different job.",
+    "points": [
+      "Describe skills and responsibilities, not just a title.",
+      "Show the path goes through this role and this company.",
+      "Ambitious but realistic; include helping others grow."
+    ],
+    "mistakes": [
+      "\"I want your job\" or \"I want to be a manager\" with no reason.",
+      "Saying you plan to leave for a master's degree or your own start-up soon.",
+      "\"I don't know\", which sounds like no direction."
+    ]
+  },
+  "framework": [
+    { "step": "Direction", "starter": "In three years' time, I'd like to be…" },
+    { "step": "Skills", "starter": "That means going deep on…" },
+    { "step": "Evidence", "starter": "I've already started: …" },
+    { "step": "Link", "starter": "This role is the right path, because…" }
+  ],
+  "betterWays": [
+    { "weak": "I want to become manager.", "strong": "I'd like to be trusted with leading a full customer deployment from start to finish.", "why": "Responsibility instead of a title." },
+    { "weak": "I don't know, maybe many things.", "strong": "Plans change, but my direction is clear: deeper technical skills and more responsibility with customers.", "why": "Honest and still focused." },
+    { "weak": "I will learn a lot of technology.", "strong": "I want to go deep on building reliable AI systems, especially testing and evaluation.", "why": "Specific and relevant to the role." },
+    { "weak": "Maybe I will study master abroad.", "strong": "I'd like to keep learning, and I think the fastest way for me is real customer projects.", "why": "Avoids signalling you'll leave soon." },
+    { "weak": "I want high salary.", "strong": "I'd also like to give back by helping onboard newer engineers, the way seniors helped me.", "why": "Shows maturity and team thinking." }
+  ],
+  "model": "In three years' time, I'd like to be the kind of engineer a customer can be trusted with a full deployment, from the first discovery call to a system running in production. To get there, I want to go deep on two things. The first is building reliable AI systems, especially the unglamorous parts like testing, monitoring and handling the cases where the model is wrong. The second is the customer side: running meetings, understanding a business quickly, and explaining trade-offs to people who aren't engineers. I've already started on both. The situation was that in my capstone, our assistant sometimes invented rules, and what I did was build a proper test set to measure it. As a result, I became really interested in evaluation, and I've kept studying it since. On the customer side, I'm practising explaining technical concepts in English every day. This role is the right path because it gives me both at the same time, with real customers, which I don't think I could learn as fast anywhere else. And by then, I'd also like to give back by helping new engineers grow into the role, the way seniors helped me in my internship.",
+  "short": "In three years' time, I'd like to be trusted with a full customer deployment, from discovery to production. That means going deep on reliable AI systems, especially testing, and on the customer side: running meetings and explaining trade-offs. I've started on both. This role gives me both at once, with real customers, and I'd also like to help new engineers grow.",
+  "followUps": [
+    { "q": "Do you see yourself in management?", "answer": "Maybe one day, but not in three years. First I want to be really strong technically and with customers. If I later lead a team, I want it to be because people trust my judgement, not just because of a title." },
+    { "q": "What if this role turns out to involve less coding than you expect?", "answer": "I'd talk to my manager early about the balance. But from what I understand, coding is central to the role here; it's just coding for a specific customer. I'm comfortable with that mix changing week to week." },
+    { "q": "How will you know if you're on track?", "answer": "I'd agree on clear goals with my manager, like leading part of a deployment by the end of the first year. And I'd ask customers and teammates for feedback regularly, not just at review time." }
+  ],
+  "selfCheck": [
+    "I described skills and responsibility, not only a title.",
+    "I gave evidence I've already started.",
+    "I linked my plan to this role and company.",
+    "I sounded ambitious but realistic.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

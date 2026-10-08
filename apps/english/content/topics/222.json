@@ -1,0 +1,57 @@
+{
+  "ideas": [
+    "You understand what an FDE actually does",
+    "A real moment when you enjoyed both building and talking to users",
+    "Why it fits your strengths and where you want to grow"
+  ],
+  "phrases": [
+    { "phrase": "what draws me to", "meaning": "what attracts me to" },
+    { "phrase": "the situation was", "meaning": "STAR: introduces the context" },
+    { "phrase": "what I did was", "meaning": "STAR: introduces your action" },
+    { "phrase": "as a result", "meaning": "STAR: introduces the outcome" },
+    { "phrase": "the best of both worlds", "meaning": "the advantages of two things together" },
+    { "phrase": "close to the customer", "meaning": "working directly with the people who use the product" },
+    { "phrase": "real-world impact", "meaning": "a visible effect in real life" },
+    { "phrase": "that's exactly what", "meaning": "emphasises a perfect match" }
+  ],
+  "learn": {
+    "explain": "The interviewer wants to know two things: do you really understand the job, and is your motivation real? Many candidates confuse FDE with sales engineering or pure consulting. A Forward Deployed Engineer writes real code, but inside the customer's world: understanding their problem, adapting the product to their systems, deploying it, and bringing feedback back to the product team. A strong answer shows you know this, gives one concrete story where you enjoyed both the engineering and the people side, and connects the role to your strengths. Avoid general phrases like \"I like challenges\" or anything that sounds like you want to avoid coding.",
+    "points": [
+      "You can describe the role accurately: engineering inside the customer's world.",
+      "One real story shows you enjoy both building and working with users.",
+      "You connect the role to your strengths and how you want to grow."
+    ],
+    "mistakes": [
+      "Saying \"I like talking more than coding\", which sounds like you want to avoid engineering.",
+      "Generic motivation: \"I like challenges and learning new things\".",
+      "No story, so it sounds memorised."
+    ]
+  },
+  "framework": [
+    { "step": "The role", "starter": "As I understand it, an FDE…" },
+    { "step": "Story", "starter": "I realised this was for me when…" },
+    { "step": "Fit", "starter": "What draws me to it is…" },
+    { "step": "Growth", "starter": "And it's where I want to grow, because…" }
+  ],
+  "betterWays": [
+    { "weak": "I want to be FDE because I like to talk with people.", "strong": "I want to be an FDE because I enjoy building things, and I do my best work when I'm close to the customer.", "why": "Engineering first, people second, and the article \"an\"." },
+    { "weak": "I like challenge.", "strong": "I like problems that don't arrive as a clear ticket, where I have to figure out what the customer really needs.", "why": "Specific to the FDE job instead of generic." },
+    { "weak": "FDE is like a consultant.", "strong": "As I understand it, an FDE writes production code, but inside the customer's systems and problems.", "why": "Shows you understand the difference from consulting." },
+    { "weak": "I learned many things in internship.", "strong": "In my internship, the moment I sat with the operations team, the work suddenly made sense.", "why": "A specific moment is more convincing than a summary." },
+    { "weak": "This job is good for my career.", "strong": "It's where I can have real-world impact quickly, and learn the product and the customer at the same time.", "why": "Focuses on contribution, not just personal benefit." }
+  ],
+  "model": "As I understand it, an FDE writes real production code, but inside the customer's world: understanding their problem, connecting the product to their systems, and bringing what you learn back to the product team. That's exactly what I enjoyed most in my internship, although I didn't have a name for it then. The situation was that I'd been asked to build a dashboard for the operations team at a logistics start-up. The ticket was quite vague, and my first version followed it exactly, but nobody used it. So what I did was sit with the operators for two days and watch how they actually worked. I realised they didn't need more charts; they needed one list of late deliveries they could act on. I rebuilt it around that, and as a result the team stopped doing about two hours of manual updates every day. What draws me to the FDE role is that combination. I get to write code, but the problems are real, they're messy, and I can see the real-world impact quickly. For me, it's the best of both worlds. And it's where I want to grow: in a few years, I'd like to be the engineer a customer trusts to turn a vague problem into a working system.",
+  "short": "As I understand it, an FDE writes production code inside the customer's world. I discovered I loved that in my internship: my first dashboard wasn't used, so I sat with the operators for two days, rebuilt it around what they really needed, and saved them two hours a day. What draws me to the role is that combination: real engineering, close to the customer, with impact I can see.",
+  "followUps": [
+    { "q": "FDEs travel a lot and deal with difficult customers. How do you feel about that?", "answer": "Honestly, it's part of what attracts me. I know it can be tiring, and some customers will be frustrated. But a frustrated customer usually has a real problem, and I'd rather be in the room hearing it than reading about it in a ticket." },
+    { "q": "Why not a normal software engineering role?", "answer": "I'd enjoy that too, but I noticed I do my best work when I understand who I'm building for. In a normal role that's often filtered through several people. As an FDE, I get that understanding first-hand." },
+    { "q": "What do you think will be the hardest part for you?", "answer": "Probably switching quickly between deep technical work and customer conversations in the same day. I'm working on it by practising explaining technical ideas simply, and by keeping clear notes so I can pick up the code again quickly." }
+  ],
+  "selfCheck": [
+    "I described the FDE role accurately, with code at the centre.",
+    "I told one specific story with a result.",
+    "I didn't sound like I want to avoid engineering.",
+    "I connected the role to how I want to grow.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

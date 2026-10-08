@@ -32,6 +32,7 @@ export function SpeakingOverview() {
   if (!data) return <main className="mx-auto w-full max-w-4xl px-6 py-12 text-muted">Loading…</main>;
 
   const doneTotal = data.blocks.reduce((a, b) => a + b.topics.filter((t) => t.done > 0).length, 0);
+  const topicTotal = data.blocks.reduce((a, b) => a + b.topics.length, 0);
   const { trend } = data;
 
   return (
@@ -39,7 +40,7 @@ export function SpeakingOverview() {
       <header className="space-y-6">
         <div>
           <h1 className="text-4xl font-semibold tracking-tight">Speaking</h1>
-          <p className="mt-2 text-sm text-muted">{doneTotal} of 120 topics</p>
+          <p className="mt-2 text-sm text-muted">{doneTotal} of {topicTotal} topics</p>
         </div>
         {trend && (
           <div className="flex gap-10">
@@ -49,6 +50,7 @@ export function SpeakingOverview() {
           </div>
         )}
         <div className="flex gap-5">
+          <Link className="link" href="/speaking/stories">Story bank</Link>
           <Link className="link" href="/speaking/errors">Error log</Link>
           <Link className="link" href="/speaking/progress">Monthly self-check</Link>
         </div>
@@ -67,7 +69,7 @@ export function SpeakingOverview() {
                   <span className={`transition ${current ? "text-foreground" : "text-foreground/80 group-hover:text-foreground"}`}>{b.name}</span>
                   <span className="block text-xs text-muted">{b.target}</span>
                 </span>
-                <span className="text-xs tabular-nums text-muted">{done}/10</span>
+                <span className="text-xs tabular-nums text-muted">{done}/{b.topics.length}</span>
               </button>
               <div className={`grid transition-[grid-template-rows] duration-300 ${isOpen ? "grid-rows-[1fr]" : "grid-rows-[0fr]"}`}>
                 <ul className="overflow-hidden">
@@ -116,7 +118,7 @@ export function SpeakingOverview() {
             </select>
           </label>
           <label className="flex items-center gap-2">
-            Research
+            Study
             <select className="text-foreground outline-none" value={settings.research_minutes} onChange={(e) => updateSettings({ research_minutes: Number(e.target.value) })}>
               {withValue([3, 5, 8, 10], settings.research_minutes).map((n) => <option key={n} value={n}>{n} min</option>)}
             </select>

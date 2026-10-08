@@ -1,0 +1,162 @@
+{
+  "ideas": [
+    "Speak the PM's language: speed, bugs, predictability",
+    "Evidence: how much the current state costs us now",
+    "A small, time-boxed proposal with a measurable result"
+  ],
+  "phrases": [
+    {
+      "phrase": "there are two things",
+      "meaning": "signposting: introduces a list"
+    },
+    {
+      "phrase": "does that make sense",
+      "meaning": "checks understanding"
+    },
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "what this means for you is",
+      "meaning": "links the idea to the listener's benefit"
+    },
+    {
+      "phrase": "the numbers show",
+      "meaning": "introduces evidence"
+    },
+    {
+      "phrase": "in exchange for",
+      "meaning": "as payment for, as a trade"
+    },
+    {
+      "phrase": "time-boxed",
+      "meaning": "limited to a fixed amount of time"
+    },
+    {
+      "phrase": "pay off",
+      "meaning": "bring a good result later"
+    }
+  ],
+  "learn": {
+    "explain": "Refactoring means improving the internal structure of code without changing what users see. To a product manager, that sounds like time spent producing nothing, so arguments like \"the code is ugly\" don't work. Translate it into what they care about: how fast features ship, how many bugs reach customers, and how predictable the plan is. Bring evidence, like how long recent changes took in that area or how many bugs came from it. Then make a small, specific, time-boxed request, for example two weeks or 20% of each sprint, with a clear way to measure whether it worked. Show you understand their pressures and offer to protect the most important deadlines.",
+    "points": [
+      "Talk about speed, bugs and predictability, not code quality.",
+      "Bring evidence of what the current state costs.",
+      "Make a small, time-boxed request with a measurable result."
+    ],
+    "analogy": "Think of it like a restaurant kitchen that's never cleaned properly during service. For a while it's fine, but slowly the cooks spend more time searching for clean pans than cooking. Closing for one afternoon to reorganise makes every service after that faster.",
+    "glossary": [
+      {
+        "term": "refactoring",
+        "meaning": "improving code structure without changing behaviour"
+      },
+      {
+        "term": "technical debt",
+        "meaning": "the future cost of past shortcuts"
+      },
+      {
+        "term": "velocity",
+        "meaning": "how much work a team completes per sprint"
+      },
+      {
+        "term": "regression",
+        "meaning": "something that used to work breaks after a change"
+      },
+      {
+        "term": "time-box",
+        "meaning": "a fixed limit on how long something can take"
+      }
+    ],
+    "mistakes": [
+      "\"The code is a mess\" without evidence or business impact.",
+      "Asking for a big rewrite with no end date.",
+      "Ignoring the PM's deadlines and pressures."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Their goal",
+      "starter": "I know the priority is shipping…, so…"
+    },
+    {
+      "step": "Evidence",
+      "starter": "The numbers show that…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like a kitchen that's never cleaned…"
+    },
+    {
+      "step": "Request",
+      "starter": "What I'm asking for is a time-boxed…"
+    },
+    {
+      "step": "Measure",
+      "starter": "We'll know it worked if…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "The code is very bad, we need to refactor.",
+      "strong": "The billing area is slowing every feature we build there, and the numbers show it.",
+      "why": "Impact and evidence instead of opinion."
+    },
+    {
+      "weak": "Refactor will make code clean.",
+      "strong": "What this means for you is faster features and fewer bugs reaching customers.",
+      "why": "Benefits the PM actually cares about."
+    },
+    {
+      "weak": "We need one month.",
+      "strong": "What I'm asking for is a time-boxed two weeks, in exchange for faster delivery for the rest of the year.",
+      "why": "Small, limited, with a clear trade."
+    },
+    {
+      "weak": "Trust me, it will be better.",
+      "strong": "We'll know it worked if billing changes take half the time next quarter.",
+      "why": "A measurable result instead of trust."
+    },
+    {
+      "weak": "We can't build new features now.",
+      "strong": "We'll keep the customer-facing launch on schedule and do this right after.",
+      "why": "Shows you respect their deadlines."
+    }
+  ],
+  "model": "I know the priority this quarter is shipping the new pricing plans, so I'll keep this short. There are two things I want to show you. First, the problem. Every feature that touches billing is taking us much longer than it should. The numbers show that the last three billing changes took an average of eleven days each, when we estimated four. And five of the eight bugs customers reported last month came from that same area. Think of it like a restaurant kitchen that's never been cleaned properly during service. For a while it's fine, but slowly the cooks spend more time looking for clean pans than cooking. The second thing is my proposal. What I'm asking for is a time-boxed two weeks for two engineers to reorganise the billing code, right after the pricing launch, so your deadline isn't affected. What this means for you is that the new pricing plans, and everything after them, ship faster and with fewer surprises. In exchange for two weeks now, I expect it to pay off within the quarter. We'll know it worked if billing changes take half the time and billing bugs drop. If they don't, I'll tell you honestly. Does that make sense?",
+  "short": "Billing changes are taking eleven days instead of four, and most customer bugs come from there. It's like a kitchen never cleaned during service: cooks spend more time looking for pans than cooking. I'm asking for a time-boxed two weeks after the pricing launch. What this means for you is faster, more predictable delivery, and we'll measure it.",
+  "audience": {
+    "engineer": "The billing module is our biggest hotspot. It has the highest churn, the lowest test coverage, and pricing rules duplicated across four services, so every change needs edits in four places and manual regression testing. Proposal for the two weeks: first, characterisation tests around current invoice generation. Then pull the pricing rules into one module with a clear interface, and delete the duplicates behind a feature flag so we can compare old and new output on real invoices before switching. We won't touch the payment provider integration this round. Success metric: cycle time on billing tickets, and billing-related bug count over the next quarter."
+  },
+  "followUps": [
+    {
+      "q": "Can't you just do it bit by bit while building features?",
+      "answer": "We've been trying, and it helps a little, but the core problem is the duplicated pricing rules, and that needs a focused effort. After these two weeks, I'd agree we keep improving it bit by bit as part of normal work."
+    },
+    {
+      "q": "What if something urgent comes up during those two weeks?",
+      "answer": "Then we handle it, of course. The two engineers can pause, and we'd extend by the same number of days. I'd just ask that we protect the time from non-urgent requests."
+    },
+    {
+      "q": "How do I explain this to my boss?",
+      "answer": "I'd say: we're investing two weeks to make every billing feature faster and more reliable for the rest of the year, and we'll report the results next quarter. I can give you a one-page summary with the numbers."
+    }
+  ],
+  "jargon": [
+    "refactor",
+    "test coverage",
+    "regression",
+    "churn",
+    "module",
+    "feature flag",
+    "cycle time",
+    "codebase"
+  ],
+  "selfCheck": [
+    "I started from the PM's priorities.",
+    "I used numbers as evidence.",
+    "I used one analogy and finished it.",
+    "My request was small and time-boxed.",
+    "I said how we'd measure success."
+  ]
+}

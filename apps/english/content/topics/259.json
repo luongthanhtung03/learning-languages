@@ -1,0 +1,162 @@
+{
+  "ideas": [
+    "Why: the problem this change solves",
+    "What changed, in reading order, and what didn't",
+    "How it was tested, risks, and where you want careful eyes"
+  ],
+  "phrases": [
+    {
+      "phrase": "there are three changes",
+      "meaning": "signposting: introduces a structure"
+    },
+    {
+      "phrase": "does that make sense so far",
+      "meaning": "checks understanding"
+    },
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "the context is",
+      "meaning": "introduces the background"
+    },
+    {
+      "phrase": "I'd start with",
+      "meaning": "suggests a reading order"
+    },
+    {
+      "phrase": "I'm not sure about",
+      "meaning": "honestly flags uncertainty"
+    },
+    {
+      "phrase": "out of scope",
+      "meaning": "not included in this piece of work"
+    },
+    {
+      "phrase": "I'd appreciate a close look at",
+      "meaning": "asks for careful review of a specific part"
+    }
+  ],
+  "learn": {
+    "explain": "A pull request (PR) is a proposed code change that others review before it's added to the main code. Walking a reviewer through it saves their time and gets you better feedback. Explain why the change is needed (the problem or ticket), then what changed, in the order that's easiest to read, often from the core logic outward. Say what you deliberately didn't change, how you tested it, and what the risks are. Most importantly, point to the parts where you're unsure and want careful review. The same skill applies when you explain a change to a non-technical stakeholder: why, what users will notice, and what the risk is.",
+    "points": [
+      "Why first: the problem the change solves.",
+      "What changed, in a good reading order, plus what's out of scope.",
+      "Testing, risks, and the parts you want reviewed carefully."
+    ],
+    "analogy": "Think of it like handing over a renovated room to the house owner. You don't just say \"done\". You explain why you moved the socket, what you didn't touch, how you tested the lights, and which corner you'd like them to check carefully because the wall was uneven.",
+    "glossary": [
+      {
+        "term": "pull request (PR)",
+        "meaning": "a proposed code change waiting for review"
+      },
+      {
+        "term": "diff",
+        "meaning": "the lines that were added or removed"
+      },
+      {
+        "term": "unit test",
+        "meaning": "an automatic test of one small piece of code"
+      },
+      {
+        "term": "backward compatible",
+        "meaning": "old data and old users still work after the change"
+      },
+      {
+        "term": "out of scope",
+        "meaning": "deliberately not included in this change"
+      }
+    ],
+    "mistakes": [
+      "Opening a big PR with no description.",
+      "Explaining file by file in alphabetical order.",
+      "Hiding the part you're unsure about."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Why",
+      "starter": "The context is…"
+    },
+    {
+      "step": "What",
+      "starter": "There are three changes. I'd start with…"
+    },
+    {
+      "step": "Not changed",
+      "starter": "Out of scope for this PR is…"
+    },
+    {
+      "step": "Testing",
+      "starter": "I tested it by…"
+    },
+    {
+      "step": "Ask",
+      "starter": "I'd appreciate a close look at…, because I'm not sure about…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "I changed many files, please review.",
+      "strong": "The context is that customers were getting duplicate refund emails; this PR stops that.",
+      "why": "Why first, so the reviewer can judge the change."
+    },
+    {
+      "weak": "Look at file A, then B, then C.",
+      "strong": "I'd start with the refund service, because that's where the actual fix is.",
+      "why": "A useful reading order."
+    },
+    {
+      "weak": "I also fixed some other things.",
+      "strong": "Out of scope for this PR is the email template; I'll do that separately.",
+      "why": "Keeps the change focused and clear."
+    },
+    {
+      "weak": "I tested, it works.",
+      "strong": "I tested it by replaying last week's refunds, including the ones that were duplicated.",
+      "why": "Specific, realistic testing."
+    },
+    {
+      "weak": "Everything is fine.",
+      "strong": "I'd appreciate a close look at the retry logic, because I'm not sure about the timing.",
+      "why": "Directs the reviewer's attention where it matters."
+    }
+  ],
+  "model": "Thanks for reviewing this. The context is that some customers were getting the same refund confirmation email two or three times, and a few of them contacted support, worried they'd been refunded twice. They hadn't; only the email was repeated. Think of it like a doorbell that rings three times when you press it once: the visitor only comes in once, but it's confusing. There are three changes. I'd start with the main one: before sending the confirmation, the system now checks whether it has already sent one for that refund. The second change records each email that's sent, so the check has something to look at. The third adds a small page for the support team, showing which emails a customer received. Out of scope for this change is the email wording; I'll do that separately. I tested it by replaying last week's refunds, including the ones that were duplicated, and every customer got exactly one email. Does that make sense so far? I'd appreciate a close look at what happens when the email service is slow. I'm not sure about the timing in that case, and that's exactly when duplicates happened before. Once merged, customers should only ever get one refund email, and support should get fewer worried calls.",
+  "short": "Some customers got the same refund email two or three times, like a doorbell ringing three times for one visitor. Now the system checks if it already sent the email, records each one, and support can see what was sent. I replayed last week's refunds: one email each. I'd appreciate a close look at the slow-email case. Fewer worried calls for support.",
+  "audience": {
+    "engineer": "Context: duplicate refund confirmation emails, caused by retries when the email provider times out after actually accepting the message. Three changes. The core one is in the refund notifier: we now write an idempotency key, the refund ID plus the email type, to a sent_notifications table inside the same transaction, and skip sending if it already exists. Second, the migration for that table, with a unique index on the key. Third, a read-only admin endpoint for support. Tested with unit tests for the retry path and by replaying last week's refund events in staging. Please look closely at the timeout path: if the provider accepts the email but we time out, do we still record it?"
+  },
+  "followUps": [
+    {
+      "q": "Why not just stop retrying when the email service is slow?",
+      "answer": "Because sometimes the first attempt really does fail, and then the customer gets no confirmation at all, which is worse. The check lets us keep retrying safely without sending duplicates."
+    },
+    {
+      "q": "Is this change risky to release?",
+      "answer": "The risk is low. If the new check failed for some reason, the worst case is the old behaviour: a duplicate email. No refunds are affected, only the confirmation messages. I'd still release it on a weekday morning and watch the support queue."
+    },
+    {
+      "q": "How long did this take you?",
+      "answer": "About two days: half a day to find the cause in the logs, a day to build and test it, and half a day replaying real data. Finding the cause took longest, because the duplicates only happened when the email service was slow."
+    }
+  ],
+  "jargon": [
+    "idempotency",
+    "transaction",
+    "migration",
+    "unique index",
+    "endpoint",
+    "staging",
+    "unit test",
+    "timeout"
+  ],
+  "selfCheck": [
+    "I started with why the change is needed.",
+    "I explained the changes in a helpful order.",
+    "I said what was out of scope and how I tested it.",
+    "I pointed to the part I was unsure about.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

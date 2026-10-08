@@ -1,0 +1,167 @@
+{
+  "ideas": [
+    "An API is a fixed way for two programs to talk",
+    "One side asks, the other answers, in an agreed format",
+    "Why it matters: speed, reuse, and connecting to the customer's systems"
+  ],
+  "phrases": [
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "in simple terms",
+      "meaning": "said without technical detail"
+    },
+    {
+      "phrase": "what this means for you is",
+      "meaning": "links the idea to the listener's benefit"
+    },
+    {
+      "phrase": "behind the scenes",
+      "meaning": "happening where the user can't see it"
+    },
+    {
+      "phrase": "talk to each other",
+      "meaning": "(of systems) exchange information"
+    },
+    {
+      "phrase": "plug into",
+      "meaning": "connect to an existing system easily"
+    },
+    {
+      "phrase": "reinvent the wheel",
+      "meaning": "build again something that already exists"
+    },
+    {
+      "phrase": "the good news is",
+      "meaning": "introduces a positive point"
+    }
+  ],
+  "learn": {
+    "explain": "API stands for Application Programming Interface. It is a set of rules that lets one piece of software ask another piece of software for data or for an action. The program that offers the API decides what you can ask for, what information you must send, and what you will get back. You don't need to know how the other system works inside; you only need to follow its rules. For example, a weather app doesn't measure the weather itself. It sends a question like \"what's the temperature in Hanoi?\" to a weather service's API, and gets a short structured answer back. Almost every modern product is built by connecting APIs together.",
+    "points": [
+      "An API is a contract: what you can ask, what you must send, what comes back.",
+      "It hides the inside of a system, so teams can change it without breaking others.",
+      "For a customer, APIs mean faster integration and no need to rebuild existing tools."
+    ],
+    "analogy": "Think of a waiter in a restaurant. You don't go into the kitchen; you look at the menu, tell the waiter your order, and the waiter brings back your food. The menu is the list of things you can ask for, the waiter is the API, and the kitchen is the system you never see.",
+    "glossary": [
+      {
+        "term": "endpoint",
+        "meaning": "one specific address of an API, for one kind of question (e.g. /weather)"
+      },
+      {
+        "term": "request / response",
+        "meaning": "the question you send and the answer that comes back"
+      },
+      {
+        "term": "JSON",
+        "meaning": "a common text format for structured data that APIs send back"
+      },
+      {
+        "term": "REST",
+        "meaning": "the most common style of web API, using normal web addresses"
+      },
+      {
+        "term": "API key",
+        "meaning": "a secret code that identifies who is calling the API"
+      },
+      {
+        "term": "rate limit",
+        "meaning": "the maximum number of calls you're allowed in a period of time"
+      }
+    ],
+    "mistakes": [
+      "Listing technical words (endpoint, JSON, REST) to a manager instead of one clear analogy.",
+      "Explaining what an API is but never saying why the listener should care.",
+      "Saying \"it's like a bridge\" with no example of what crosses the bridge."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Define",
+      "starter": "In simple terms, an API is…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like a waiter in a restaurant…"
+    },
+    {
+      "step": "Example",
+      "starter": "For example, when you check the weather on your phone…"
+    },
+    {
+      "step": "So what",
+      "starter": "What this means for you is…"
+    },
+    {
+      "step": "Check",
+      "starter": "Does that make sense so far?"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "API is a thing that connect two system.",
+      "strong": "An API is a set of rules that lets two systems talk to each other.",
+      "why": "Article \"an\", plural \"systems\", and \"talk to each other\" sounds natural."
+    },
+    {
+      "weak": "We call the endpoint and it return JSON.",
+      "strong": "Our software asks their system a question, and it sends back the answer in a standard format.",
+      "why": "For a manager, describe what happens, not the technical names."
+    },
+    {
+      "weak": "It is very useful and convenient.",
+      "strong": "What this means for you is that we can connect to your CRM in days, not months.",
+      "why": "A concrete benefit with a time frame beats general adjectives."
+    },
+    {
+      "weak": "You don't need to understand how it works.",
+      "strong": "The good news is you never have to see what happens behind the scenes.",
+      "why": "Same idea, but positive and less like you are talking down to them."
+    },
+    {
+      "weak": "So, that's all, I think.",
+      "strong": "So in short: an API is how software asks other software for help. Does that make sense?",
+      "why": "Close with a one-line summary and a check, not a weak ending."
+    }
+  ],
+  "model": "In simple terms, an API is a set of rules that lets two pieces of software talk to each other. Think of it like a waiter in a restaurant. You don't walk into the kitchen and cook your own meal. You look at the menu, you tell the waiter what you want, and the waiter comes back with your food. The menu tells you what you're allowed to ask for, the waiter carries the message, and the kitchen does the work behind the scenes. Software works the same way. When you open a weather app, the app doesn't measure the weather itself. It asks a weather service through its API, and a second later it gets the temperature back. So what does this mean for you? It means we don't have to reinvent the wheel. Your company already has systems, like your customer database and your billing tool, and most of them have APIs. What this means for you is that our product can plug into those systems and use the data you already have, instead of someone copying it by hand. The good news is that this usually takes days, not months. Does that make sense so far?",
+  "short": "In simple terms, an API is how one piece of software asks another for information. Think of it like a waiter: you order from the menu, and you never need to see the kitchen. What this means for you is speed. Your existing tools already have these connections, so we can plug into them in days instead of rebuilding anything. Less manual work, fewer copy-paste mistakes, and a faster launch.",
+  "audience": {
+    "engineer": "An API is the contract a service exposes so other programs can use it without knowing its internals. In practice it's usually a REST API over HTTP: you call an endpoint like GET /customers/42 with an API key in the header, and you get JSON back with a status code. The contract defines the paths, the request and response schemas, authentication, and limits like rate limiting and pagination. The nice thing is decoupling: as long as the contract stays stable, the team behind it can change the database or rewrite the service and clients won't break. For our integration, I'd start by reading their API docs, checking auth and rate limits, and writing a thin client with retries."
+  },
+  "followUps": [
+    {
+      "q": "Is it safe to connect your product to our systems like that?",
+      "answer": "That's a fair question. Every connection needs a secret key that you control, and you decide exactly what we're allowed to read or change. If you ever want to stop it, you just switch the key off, and the connection stops immediately."
+    },
+    {
+      "q": "What happens if their system changes?",
+      "answer": "Good question. Well-run systems keep their API stable and announce changes in advance, usually months ahead. We also monitor the connection, so if something breaks we see it before your team does."
+    },
+    {
+      "q": "So how long would it take to connect to our CRM?",
+      "answer": "It depends on the CRM, but for the common ones, usually a few days to a couple of weeks. The first step is a short call with your IT team to get access, and then we can show you real data flowing within the first week."
+    }
+  ],
+  "jargon": [
+    "endpoint",
+    "JSON",
+    "HTTP",
+    "REST",
+    "payload",
+    "status code",
+    "SDK",
+    "schema",
+    "rate limit"
+  ],
+  "selfCheck": [
+    "I gave a one-sentence definition before any detail.",
+    "I used one clear analogy and finished it.",
+    "I said what it means for the listener.",
+    "I answered the follow-up without restarting a sentence.",
+    "I ended with a summary or a check, not \"that's all\"."
+  ]
+}

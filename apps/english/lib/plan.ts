@@ -2,7 +2,7 @@ import { db, getEpisodeRows, localDay } from "./db";
 import { DAY_LABEL, itemKey, type DayType, type PlanItem, type TodayPlan } from "./plan-types";
 import { activeCardCount, sessionStatus } from "./flashcards/store";
 import { completedTopicCounts, getSettings, recentRecordings, saveSettings } from "./speaking/store";
-import { loadTopics, type Topic, type TopicBook } from "./speaking/topics";
+import { loadTopics, MONTHLY_TOPIC, type Topic, type TopicBook } from "./speaking/topics";
 
 type Stored = TodayPlan & { exclude: { episodes: string[]; topics: number[]; recordings: number[] } };
 
@@ -42,12 +42,12 @@ function seeded<T>(xs: T[], seed: number) {
 }
 
 function monthlyDue(date: string) {
-  // Topic 11 is re-recorded every 4 weeks, starting 28 days after it was first done
+  // The monthly topic is re-recorded every 4 weeks, starting 28 days after it was first done
   const row = db()
     .prepare(
-      `SELECT MAX(date) AS last FROM speaking_sessions WHERE topic_no = 11 AND completed_at IS NOT NULL AND date < ?`,
+      `SELECT MAX(date) AS last FROM speaking_sessions WHERE topic_no = ? AND completed_at IS NOT NULL AND date < ?`,
     )
-    .get(date) as { last: string | null };
+    .get(MONTHLY_TOPIC, date) as { last: string | null };
   return !!row.last && daysBetween(row.last, date) >= 28;
 }
 
@@ -94,8 +94,8 @@ function build(date: string): Stored {
     for (const t of rot.pending.slice(0, 1)) items.push(speakingItem(t, "new"));
   }
   if (monthlyDue(date)) {
-    const t11 = book.topics.find((t) => t.no === 11);
-    if (t11) items.push(speakingItem(t11, "monthly"));
+    const t = book.topics.find((x) => x.no === MONTHLY_TOPIC);
+    if (t) items.push(speakingItem(t, "monthly"));
   }
 
   return {
@@ -162,6 +162,14 @@ export function getPlan(date = today()): TodayPlan {
   let plan = load(date);
   if (!plan) {
     plan = build(date);
+    save(plan);
+  }
+  // a plan saved before the topics file changed can point at topics that no longer exist
+  const known = new Set(loadTopics().topics.map((t) => t.no));
+  if (plan.items.some((i) => i.kind === "speaking" && !known.has(i.topicNo))) {
+    const fresh = build(date);
+    plan.items = [...plan.items.filter((i) => i.kind !== "speaking"), ...fresh.items.filter((i) => i.kind === "speaking")];
+    plan.block = fresh.block;
     save(plan);
   }
   return withStatus(plan);

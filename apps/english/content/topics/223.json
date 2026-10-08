@@ -1,0 +1,57 @@
+{
+  "ideas": [
+    "Something specific about the company's product or mission",
+    "Evidence you've done research: a customer story, a blog post, the product",
+    "How your skills match what they need now"
+  ],
+  "phrases": [
+    { "phrase": "what stood out to me", "meaning": "what I noticed as special" },
+    { "phrase": "I came across", "meaning": "I found, often by chance" },
+    { "phrase": "as a result", "meaning": "STAR: introduces the outcome" },
+    { "phrase": "what I did was", "meaning": "STAR: introduces your action" },
+    { "phrase": "line up with", "meaning": "match, fit together with" },
+    { "phrase": "I'd love to be part of", "meaning": "I really want to join" },
+    { "phrase": "first-hand", "meaning": "directly, from your own experience" },
+    { "phrase": "it's not just about", "meaning": "introduces a deeper reason" }
+  ],
+  "learn": {
+    "explain": "This question tests whether you did your research and whether you're choosing this company or just any job. Generic answers, \"it's a big company with a good culture\", are a red flag. A strong answer names something specific: the product and what makes it different, a customer case study you read, a blog post or talk by the team, the company's values in action, or the stage of the company. Then connect it to yourself: a relevant project, the type of customers you'd like to work with, or a skill they need. Prepare this fresh for each company. In this pack the example uses an AI company; replace the details with real research.",
+    "points": [
+      "You name one or two specific things, proving real research.",
+      "You link them to your own experience or interests.",
+      "You show what you'd contribute, not only what you'd gain."
+    ],
+    "mistakes": [
+      "Generic praise that could apply to any company.",
+      "Talking only about salary, brand or benefits.",
+      "Getting facts about the company wrong, which is worse than being general."
+    ]
+  },
+  "framework": [
+    { "step": "Specific thing", "starter": "What stood out to me was…" },
+    { "step": "Evidence", "starter": "When I came across…, I…" },
+    { "step": "Link to you", "starter": "That lines up with my experience, because…" },
+    { "step": "Contribution", "starter": "I'd love to be part of… and help…" }
+  ],
+  "betterWays": [
+    { "weak": "Your company is big and famous.", "strong": "What stood out to me was how your team works directly inside customers' systems, not just selling a tool.", "why": "Specific to how the company works." },
+    { "weak": "I like your culture.", "strong": "I read your engineering blog post about the logistics customer, and I liked that you described the mistakes too.", "why": "Concrete evidence of research." },
+    { "weak": "I want to learn from the best.", "strong": "I'd learn a lot here, and I think I can contribute quickly on integration work, because I've done it before.", "why": "Balances learning with contribution." },
+    { "weak": "Your product is very good and useful.", "strong": "I tried the free version and built a small assistant for my university's FAQ in an afternoon.", "why": "First-hand experience beats adjectives." },
+    { "weak": "Because AI is the future.", "strong": "It's not just about AI being popular; I want to help companies actually get value from it, which is the hard part.", "why": "A thoughtful reason instead of a trend." }
+  ],
+  "model": "What stood out to me was how your company works with customers. A lot of AI companies sell a tool and leave the customer to figure it out. You put engineers inside the customer's business, and that's the part of the work I care about most. I came across your blog post about the logistics customer, where your team cut their support backlog by half, and what I liked was that you also wrote about what didn't work at first. That honesty made me want to know more. So what I did was try the product myself. I built a small assistant for my university's student FAQ in an afternoon, and as a result I got a feel for both what's powerful about it and where a real customer would need help, like connecting it to their own documents. That lines up with my experience. In my internship I built tools for a logistics operations team, so I've seen first-hand how messy real processes are. It's not just about AI being popular; the hard part is helping a company actually get value from it. I'd love to be part of the team that does that, and I think my integration experience means I can contribute quickly.",
+  "short": "What stood out to me is that you put engineers inside customers' businesses instead of just selling a tool. I read your post about the logistics customer and liked that you included what didn't work. I tried the product and built a small FAQ assistant in an afternoon. With my logistics internship, I've seen first-hand how messy real processes are, and I'd love to help customers get real value.",
+  "followUps": [
+    { "q": "Who do you think our main competitors are?", "answer": "From what I've read, the main competitors are the other large AI labs and some consulting firms that build on top of them. I think your difference is the combination of a strong model and engineers who deploy it, but I'd be curious how you see it." },
+    { "q": "What would you change about our product?", "answer": "From my short experience, connecting it to existing documents took me the longest. A simpler setup for that would help smaller customers a lot. But I'd want to understand your customers better before suggesting anything seriously." },
+    { "q": "Are you applying to other companies?", "answer": "Yes, a few, mostly for similar customer-facing engineering roles. But this is the one I'm most excited about, because of how directly your engineers work with customers." }
+  ],
+  "selfCheck": [
+    "I named something specific about the company.",
+    "I showed evidence of research or first-hand use.",
+    "I linked it to my own experience.",
+    "I said what I would contribute.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

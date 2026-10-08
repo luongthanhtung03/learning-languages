@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Requirements were vague or kept changing",
+    "You clarified with questions, examples and a quick prototype",
+    "You wrote down decisions and moved forward"
+  ],
+  "phrases": [
+    { "phrase": "looking back", "meaning": "thinking about the past now" },
+    { "phrase": "what I learned was", "meaning": "introduces the lesson" },
+    { "phrase": "I took responsibility for", "meaning": "I accepted that something was my job" },
+    { "phrase": "a moving target", "meaning": "a goal that keeps changing" },
+    { "phrase": "make some assumptions", "meaning": "decide what to believe without full information" },
+    { "phrase": "rough prototype", "meaning": "a quick, simple first version" },
+    { "phrase": "in writing", "meaning": "documented, not only spoken" },
+    { "phrase": "as a result", "meaning": "introduces the outcome" }
+  ],
+  "learn": {
+    "explain": "Unclear requirements are the normal state of an FDE's job: customers often know their pain but not the solution. This question tests whether you freeze, wait, or build the wrong thing, or whether you reduce the uncertainty yourself. Strong answers show you asked good questions, used concrete examples (\"show me the last time this happened\"), built something small and rough to get feedback, made reasonable assumptions and wrote them down, and agreed on what \"done\" means. Show you were comfortable moving forward without perfect information, while checking often.",
+    "points": [
+      "You didn't wait; you reduced the uncertainty yourself.",
+      "Concrete examples and a rough prototype got real feedback fast.",
+      "You wrote down assumptions and agreed what done means."
+    ],
+    "mistakes": [
+      "Complaining that the requirements were bad.",
+      "Waiting until someone gave you a perfect specification.",
+      "Building everything and only then showing it."
+    ]
+  },
+  "framework": [
+    { "step": "Situation", "starter": "The requirements were a moving target…" },
+    { "step": "Clarify", "starter": "First I asked for real examples…" },
+    { "step": "Prototype", "starter": "Then I built a rough prototype in…" },
+    { "step": "Agree", "starter": "I wrote down the assumptions and agreed…" },
+    { "step": "Lesson", "starter": "Looking back, what I learned was…" }
+  ],
+  "betterWays": [
+    { "weak": "The requirement was not clear so I waited.", "strong": "The requirement was vague, so I booked thirty minutes with the team lead to walk through real examples.", "why": "Action instead of waiting." },
+    { "weak": "They changed their mind many times.", "strong": "It was a bit of a moving target, which is normal when people see something real for the first time.", "why": "Understanding instead of complaining." },
+    { "weak": "I built the whole system then showed them.", "strong": "I built a rough prototype in two days, just enough to get feedback.", "why": "Early feedback is the key skill." },
+    { "weak": "I guessed what they want.", "strong": "I had to make some assumptions, so I wrote them down and asked them to confirm.", "why": "Turns guessing into a controlled process." },
+    { "weak": "In the end it was ok.", "strong": "As a result, the final version needed almost no changes after launch.", "why": "A specific outcome." }
+  ],
+  "model": "In my internship, the operations manager asked for \"a report on driver performance\". That was the whole requirement. I didn't know who would read it, what \"performance\" meant, or how often it was needed. And it was a bit of a moving target, because different people had different ideas. Instead of waiting for a clearer description, I took responsibility for making it clear. First, I asked the manager to show me the last time he needed this information. It turned out he was deciding which drivers to give bonuses to, every month, using his memory and a few spreadsheets. That told me a lot. Then I had to make some assumptions, so I wrote them in a short document: monthly, per driver, on-time rate, number of deliveries, and customer complaints. I built a rough prototype in two days with real data, and showed it to him and two team leads. They immediately said complaints needed to be split by type, and that one city had different working hours. I changed it, and we agreed in writing what the first version would include. As a result, the final report needed almost no changes after launch. Looking back, what I learned was that a rough prototype gets better feedback than any meeting.",
+  "short": "My manager asked for \"a report on driver performance\", nothing more. I asked him to show me the last time he needed it, and learned it was for monthly bonuses. I wrote down my assumptions, built a rough prototype with real data in two days, and got feedback from three people. As a result, the final version barely changed after launch. A prototype beats any meeting.",
+  "followUps": [
+    { "q": "What if he had been too busy to meet you?", "answer": "I'd have asked for ten minutes instead of thirty, or asked who else uses the information. And I'd have sent my written assumptions by message, with \"I'll go ahead with these unless you say otherwise by Thursday.\"" },
+    { "q": "How do you decide which assumptions are safe to make?", "answer": "I ask what it costs if I'm wrong. If an assumption is cheap to change later, I make it and move on. If it's expensive, like the data source or who has access, I confirm it before building." },
+    { "q": "How would this be different at a customer?", "answer": "At a customer, it's even more important to write assumptions down, because there are more people involved and they change more often. I'd also confirm who actually has the authority to decide." }
+  ],
+  "selfCheck": [
+    "I showed I reduced the uncertainty myself.",
+    "I used real examples and a quick prototype.",
+    "I wrote down assumptions and got agreement.",
+    "I avoided complaining about the requester.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

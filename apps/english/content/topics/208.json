@@ -1,0 +1,158 @@
+{
+  "ideas": [
+    "A bug is a mistake in the code; an incident is when users are affected now",
+    "Bugs go into the normal plan; incidents get an urgent response",
+    "Severity decides how fast we react"
+  ],
+  "phrases": [
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "right now",
+      "meaning": "at this moment"
+    },
+    {
+      "phrase": "drop everything",
+      "meaning": "stop all other work to deal with something"
+    },
+    {
+      "phrase": "what this means for you is",
+      "meaning": "links the idea to the listener's benefit"
+    },
+    {
+      "phrase": "on the list",
+      "meaning": "planned to be done"
+    },
+    {
+      "phrase": "get things back to normal",
+      "meaning": "restore the service"
+    },
+    {
+      "phrase": "keep you posted",
+      "meaning": "give you regular updates"
+    },
+    {
+      "phrase": "how serious it is",
+      "meaning": "the level of impact"
+    }
+  ],
+  "learn": {
+    "explain": "A bug is a mistake in the software: something doesn't work the way it should, like a button with the wrong label or a report that rounds numbers incorrectly. Most bugs are small; they get written down, prioritised and fixed in the normal plan. An incident is an event that is hurting users or the business right now: the website is down, payments are failing, or data is exposed. Incidents need an immediate, coordinated response. The priority in an incident is to restore the service first, often with a quick workaround or a rollback, and to find the deeper cause later. Teams classify incidents by severity, for example SEV1 for a full outage. A bug can cause an incident, but not every bug is one.",
+    "points": [
+      "Bug = a mistake in the software. Incident = users or the business are affected right now.",
+      "Bugs are planned; incidents get an immediate response and regular updates.",
+      "In an incident, restore service first, then find the root cause."
+    ],
+    "analogy": "Think of it like a house. A bug is a dripping tap: annoying, you put it on the list and fix it this week. An incident is a burst pipe flooding the kitchen: you turn off the water now, call for help, and repair the pipe properly afterwards.",
+    "glossary": [
+      {
+        "term": "severity (SEV1, SEV2…)",
+        "meaning": "how serious an incident is; SEV1 is the worst"
+      },
+      {
+        "term": "outage",
+        "meaning": "a period when the service is not working"
+      },
+      {
+        "term": "on-call",
+        "meaning": "the engineer responsible for responding to problems at that time"
+      },
+      {
+        "term": "root cause",
+        "meaning": "the real underlying reason a problem happened"
+      },
+      {
+        "term": "post-mortem",
+        "meaning": "a meeting and document after an incident to learn from it"
+      }
+    ],
+    "mistakes": [
+      "Calling every bug an incident, which creates panic.",
+      "Trying to find the root cause before the service is restored.",
+      "Not telling the customer what happens next and when."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Define both",
+      "starter": "A bug is…, whereas an incident is…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like a dripping tap versus a burst pipe…"
+    },
+    {
+      "step": "Process",
+      "starter": "When it's an incident, we…"
+    },
+    {
+      "step": "So what",
+      "starter": "What this means for you is…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "Bug and incident is different.",
+      "strong": "A bug is a mistake in the software, whereas an incident is when users are affected right now.",
+      "why": "Agreement fixed, and \"whereas\" makes the contrast clear."
+    },
+    {
+      "weak": "This is SEV2.",
+      "strong": "This is serious but not critical: some users are affected, but the main system still works.",
+      "why": "Explain what the severity label means."
+    },
+    {
+      "weak": "We will find root cause first.",
+      "strong": "Our first priority is to get things back to normal; then we'll find out why it happened.",
+      "why": "Shows the correct order: restore, then investigate."
+    },
+    {
+      "weak": "Don't worry, it's only small bug.",
+      "strong": "It's a small bug, so we've put it on the list for next week's release.",
+      "why": "Article \"a\", and gives a concrete plan instead of dismissing it."
+    },
+    {
+      "weak": "I will update you later.",
+      "strong": "I'll keep you posted every thirty minutes until it's fixed.",
+      "why": "A fixed update interval builds trust."
+    }
+  ],
+  "model": "A bug is a mistake in the software, something that doesn't work the way it should. An incident is when something is hurting your users or your business right now. Think of it like a house. A bug is a dripping tap. It's annoying, so you put it on the list and fix it this week. An incident is a burst pipe flooding the kitchen. You don't plan that for next week; you drop everything, turn off the water, and repair the pipe properly later. So, for example, if a report shows the wrong date format, that's a bug. We write it down, decide how serious it is, and fix it in a normal release. But if your customers can't pay, or the system is down, that's an incident. Someone on our team responds within fifteen minutes, day or night. Our first goal is to get things back to normal, even with a temporary fix, and only after that do we look for the deeper cause. What this means for you is that you'll always know which kind of problem you're dealing with. For bugs, you get a date. For incidents, we keep you posted every thirty minutes until it's solved, and afterwards you get a short written report.",
+  "short": "A bug is a mistake in the software; an incident is when users are affected right now. A bug is a dripping tap, so it goes on the list. An incident is a burst pipe, so we drop everything, restore the service first, and investigate after. What this means for you is clear expectations: bugs get a date, incidents get updates every thirty minutes.",
+  "audience": {
+    "engineer": "Rule of thumb: a bug becomes an incident when there's current user or business impact that can't wait for the normal release cycle. Anything that breaks login, payments or data integrity is at least SEV2. When you declare one, open the incident channel, assign an incident commander, and focus on mitigation first: roll back, flip the feature flag, or scale up. Don't start debugging the root cause while users are still affected. Post a status update every thirty minutes, even if there's nothing new. Once it's mitigated, we lower the severity, write the timeline while it's fresh, and schedule a blameless post-mortem within a week."
+  },
+  "followUps": [
+    {
+      "q": "Who decides if something is an incident?",
+      "answer": "Anyone can raise it, including you. Our on-duty engineer then confirms how serious it is in the first few minutes. If in doubt, we treat it as an incident; it's better to react too fast than too slowly."
+    },
+    {
+      "q": "How quickly will you respond at night?",
+      "answer": "For the most serious problems, within fifteen minutes, any time, including weekends. For smaller ones, the next working morning. We can write these times into the support agreement."
+    },
+    {
+      "q": "Will you tell us what caused it?",
+      "answer": "Yes. After every serious incident you get a short written report: what happened, what the impact was, why it happened, and what we're changing so it doesn't happen again."
+    }
+  ],
+  "jargon": [
+    "SEV1",
+    "SEV2",
+    "on-call",
+    "mitigation",
+    "post-mortem",
+    "incident commander",
+    "feature flag",
+    "rollback"
+  ],
+  "selfCheck": [
+    "I defined bug and incident with one clear contrast.",
+    "I used one analogy and finished it.",
+    "I said what happens in an incident: restore first.",
+    "I promised something concrete: response time or updates.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

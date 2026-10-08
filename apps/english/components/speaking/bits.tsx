@@ -96,7 +96,7 @@ export function StatsTable({ columns }: { columns: { label: string; stats: Speec
 }
 
 export const TYPE_LABEL: Record<string, string> = {
-  P2: "IELTS Part 2 · long turn",
-  P3: "IELTS Part 3 · discussion",
-  TQ: "TOEIC Q11 · opinion + 2 reasons",
+  EX: "Explain a concept",
+  BQ: "Behavioural interview",
+  WS: "Work situation",
 };

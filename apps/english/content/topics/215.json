@@ -1,0 +1,158 @@
+{
+  "ideas": [
+    "Embeddings turn text into numbers that capture meaning",
+    "Similar meanings get similar numbers, so search finds ideas, not just words",
+    "Customers search the way they talk and still find the right answer"
+  ],
+  "phrases": [
+    {
+      "phrase": "by meaning",
+      "meaning": "based on what something means, not its exact words"
+    },
+    {
+      "phrase": "close together",
+      "meaning": "near each other"
+    },
+    {
+      "phrase": "the trade-off is",
+      "meaning": "the cost of one advantage is"
+    },
+    {
+      "phrase": "in most cases",
+      "meaning": "usually, but not always"
+    },
+    {
+      "phrase": "it depends on",
+      "meaning": "the answer changes based on something"
+    },
+    {
+      "phrase": "word for word",
+      "meaning": "exactly the same words"
+    },
+    {
+      "phrase": "under the hood",
+      "meaning": "in the internal mechanism"
+    },
+    {
+      "phrase": "the best of both",
+      "meaning": "the advantages of two approaches combined"
+    }
+  ],
+  "learn": {
+    "explain": "An embedding is a way of turning a piece of text into a long list of numbers that represents its meaning. A special AI model does the conversion. The key property is that texts with similar meanings get similar numbers, even if they use completely different words. \"How do I get my money back?\" and \"refund process\" end up close together, while \"refund process\" and \"refurbished products\" don't, even though they share letters. This makes semantic search possible: you convert every document and every question into embeddings and find the documents whose numbers are closest to the question. It's the engine behind RAG and recommendation systems. Its weakness is exact things like product codes, names and numbers, where traditional keyword search is still better, so good systems combine both.",
+    "points": [
+      "Embeddings represent meaning as numbers; similar meaning means close numbers.",
+      "They let search find the right document even with different words.",
+      "Keyword search is still better for exact codes and names, so combine them."
+    ],
+    "analogy": "Think of a huge library where books aren't sorted by title but placed on a map by topic. Cooking books sit near each other, and books about Vietnamese food sit near books about Thai food. Embeddings give every sentence a location on that map, so searching becomes \"find what's nearby\".",
+    "glossary": [
+      {
+        "term": "vector",
+        "meaning": "a list of numbers; an embedding is a vector"
+      },
+      {
+        "term": "semantic search",
+        "meaning": "searching by meaning instead of exact words"
+      },
+      {
+        "term": "keyword search",
+        "meaning": "traditional search that matches exact words"
+      },
+      {
+        "term": "similarity",
+        "meaning": "a score for how close two embeddings are"
+      },
+      {
+        "term": "hybrid search",
+        "meaning": "combining semantic and keyword search"
+      }
+    ],
+    "mistakes": [
+      "Starting with \"a vector in high-dimensional space\" for a non-technical listener.",
+      "Claiming semantic search is always better than keyword search.",
+      "Not giving a concrete before/after search example."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Problem",
+      "starter": "Normal search only finds exact words, so…"
+    },
+    {
+      "step": "Define",
+      "starter": "Embeddings turn each sentence into numbers that represent…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of a library arranged on a map by topic…"
+    },
+    {
+      "step": "Trade-off",
+      "starter": "The trade-off is that for exact codes and names…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "Embedding is high-dimensional vector.",
+      "strong": "An embedding turns a sentence into numbers that capture what it means.",
+      "why": "Starts from the purpose, not the maths."
+    },
+    {
+      "weak": "Semantic search is always better.",
+      "strong": "Search by meaning is better for questions in normal language, but exact codes still need keyword search.",
+      "why": "Balanced, with the specific weakness."
+    },
+    {
+      "weak": "Customer search \"money back\" but cannot find.",
+      "strong": "Right now, if a customer types \"money back\", they find nothing, because your page says \"refund\".",
+      "why": "A concrete example of the current problem."
+    },
+    {
+      "weak": "The similarity is high.",
+      "strong": "The system sees these two sentences as close in meaning, even with no words in common.",
+      "why": "Explains what the score means."
+    },
+    {
+      "weak": "We use both methods together.",
+      "strong": "We combine both, so you get the best of both: meaning for questions, exact match for codes.",
+      "why": "Ends on the benefit."
+    }
+  ],
+  "model": "Here's the problem. Right now, if a customer types \"how do I get my money back\" into your help centre, they find nothing, because your page is called \"refund policy\". Normal search only matches words word for word. Embeddings fix that by searching by meaning. Under the hood, an AI model turns every sentence into a long list of numbers that represents what it means. Sentences that mean similar things get similar numbers, even if they share no words at all. Think of a huge library where books aren't sorted alphabetically, but placed on a map by topic. Cooking books are close together, and Vietnamese cooking sits right next to Thai cooking. Embeddings give every sentence a location on that map, and searching becomes \"find what's nearby\". So \"money back\" lands right next to \"refund policy\". What this means for your customers is that they can search the way they talk and still find the right answer. The trade-off is that search by meaning is weaker for exact things, like an order number or a product code. So in most cases, we combine both methods, which gives you the best of both: meaning for normal questions, exact match for codes.",
+  "short": "Normal search only finds exact words, so \"money back\" doesn't find \"refund policy\". Embeddings turn sentences into numbers that capture meaning, so similar ideas end up close together, like books on a map. Customers can search the way they talk. For exact codes, keyword search is still better, so we combine both.",
+  "audience": {
+    "engineer": "We'll embed every help-centre article chunk and every query with the same embedding model, store the vectors in pgvector so we don't add a new database, and retrieve by cosine similarity. On our test queries pure vector search does well on paraphrases but misses SKUs and order numbers, so I'd run hybrid search: BM25 and vector in parallel, merge with reciprocal rank fusion, then re-rank the top twenty. Two things to watch: re-embed everything if we ever change embedding models, since vectors from different models aren't comparable, and keep chunks small enough that one chunk is about one topic."
+  },
+  "followUps": [
+    {
+      "q": "Does this work in Vietnamese too?",
+      "answer": "Yes, modern embedding models handle many languages, including Vietnamese. Some can even match a Vietnamese question to an English document. We'd test it on your real customer questions to confirm the quality."
+    },
+    {
+      "q": "Is it expensive?",
+      "answer": "Not really. Converting your documents is a one-time cost that's usually small, and each search costs a tiny fraction of a cent. The bigger cost is the time to set it up and tune it properly."
+    },
+    {
+      "q": "What happens when we add new articles?",
+      "answer": "New articles are converted automatically when they're published, usually within minutes. Your team doesn't need to do anything different."
+    }
+  ],
+  "jargon": [
+    "vector",
+    "cosine",
+    "pgvector",
+    "BM25",
+    "dimension",
+    "re-rank",
+    "SKU",
+    "fusion"
+  ],
+  "selfCheck": [
+    "I started with a concrete search problem.",
+    "I explained \"meaning as numbers\" without maths.",
+    "I used one analogy and finished it.",
+    "I mentioned the weakness with exact codes.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

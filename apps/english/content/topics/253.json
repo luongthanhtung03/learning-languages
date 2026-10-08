@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Thank them and make sure you understand their concern",
+    "Explain your reasoning with facts, briefly",
+    "Suggest a way forward; it's about the code, not winning"
+  ],
+  "phrases": [
+    { "phrase": "thanks for taking the time", "meaning": "a polite thank-you for effort" },
+    { "phrase": "does that make sense", "meaning": "checks understanding" },
+    { "phrase": "there are two reasons", "meaning": "signposting: introduces reasons" },
+    { "phrase": "if I understand you correctly", "meaning": "introduces a summary of their view" },
+    { "phrase": "I see your point", "meaning": "I understand your argument" },
+    { "phrase": "the reason I went with", "meaning": "explains your decision" },
+    { "phrase": "how about we", "meaning": "introduces a suggestion" },
+    { "phrase": "happy to change it", "meaning": "willing to modify it" }
+  ],
+  "learn": {
+    "explain": "Code review disagreements are normal and healthy. The reviewer cares about the codebase, and so do you. The goal is the best result for the code, not winning. First, make sure you understand their concern exactly; often the disagreement disappears once you do. Then explain your reasoning briefly, with facts: constraints, data, deadlines. Be open to being wrong. If you still disagree, suggest a way forward: a compromise, a follow-up task, a quick test, or asking a third person. Long comment threads go badly; a short call is often better. Written comments should be polite because tone is easy to misread.",
+    "points": [
+      "Understand the concern exactly before defending your code.",
+      "Explain with facts; be genuinely open to their view.",
+      "Suggest a way forward: compromise, follow-up, a test, or a short call."
+    ],
+    "mistakes": [
+      "Taking review comments personally.",
+      "Long, defensive comment threads.",
+      "Agreeing silently to everything even when you see a real problem."
+    ]
+  },
+  "framework": [
+    { "step": "Thanks", "starter": "Thanks for taking the time to review this." },
+    { "step": "Understand", "starter": "If I understand you correctly, your concern is…" },
+    { "step": "Reasoning", "starter": "The reason I went with this approach is…" },
+    { "step": "Way forward", "starter": "How about we…?" },
+    { "step": "Open", "starter": "I'm happy to change it if…" }
+  ],
+  "betterWays": [
+    { "weak": "My code is fine, why I need to rewrite?", "strong": "Thanks for the review. If I understand you correctly, your concern is that this will be hard to extend later?", "why": "Starts by understanding, not defending." },
+    { "weak": "Your way is too complicated.", "strong": "I see your point. The reason I went with the simpler version is the Friday deadline.", "why": "Acknowledges, then explains with a fact." },
+    { "weak": "I don't agree.", "strong": "How about we keep this version for the release, and I open a follow-up task for the refactor?", "why": "Turns disagreement into a plan." },
+    { "weak": "Let's argue in the comments.", "strong": "Would a ten-minute call be easier than going back and forth in comments?", "why": "Moves a long debate to a better channel." },
+    { "weak": "OK, I will change everything.", "strong": "You're right about the error handling; I'm happy to change that part.", "why": "Agreeing on specific points shows you're listening." }
+  ],
+  "model": "Thanks for taking the time to review this, I appreciate the detailed comments. If I understand you correctly, your main concern is that I've written the export logic directly inside the API handler, and you'd like it rewritten as a separate service, so we can reuse it for other report types later. Is that right? … OK, I see your point, and I agree that's the better long-term design. There are two reasons I went with the simpler version. First, the customer needs this export by Friday, and the separate service would take about two more days, including tests. Second, right now there's only one report type, and we're not sure yet what the others will need, so I was worried about designing for cases we don't understand. That said, you're right about the error handling. That's a real problem, and I'm happy to change it today. So how about we do this: I fix the error handling now, we keep the simpler structure for Friday, and I open a follow-up task to move it into a separate service next sprint, when we know more about the second report. Does that make sense? If you still think it should be done now, I'm happy to change it, and I'd tell the customer it'll be Monday.",
+  "short": "Thanks for the review. If I understand you correctly, you'd like the export moved into a separate service for reuse. I see your point. The reason I kept it simple is the Friday deadline, and we only have one report type so far. You're right about the error handling, and I'll fix that today. How about a follow-up task for the refactor next sprint? Does that make sense?",
+  "followUps": [
+    { "q": "Follow-up tasks never get done. Why would this one?", "answer": "That's a fair worry. I'll create the task today, link it in the code with a comment, and add it to next sprint's planning myself. If it's not done in two sprints, I'd agree we've built up debt and should stop and do it." },
+    { "q": "What if the reviewer is more senior and just insists?", "answer": "Then I'd do it their way, and make sure the impact on the deadline is clear to whoever owns the deadline. My job is to share the trade-off clearly; I don't need to win the decision." },
+    { "q": "How do you give review comments yourself?", "answer": "I try to explain why, not just what, and I separate real problems from personal preferences, often by writing \"nit\" for small style points. And I always mention something that's good in the code too." }
+  ],
+  "selfCheck": [
+    "I thanked them and checked I understood the concern.",
+    "I explained my reasoning with facts, briefly.",
+    "I agreed on the points where they were right.",
+    "I suggested a concrete way forward.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Several urgent requests at once, more than you could do",
+    "You judged by impact and deadlines, not by who shouted loudest",
+    "You told people clearly what would happen and when"
+  ],
+  "phrases": [
+    { "phrase": "looking back", "meaning": "thinking about the past now" },
+    { "phrase": "what I learned was", "meaning": "introduces the lesson" },
+    { "phrase": "I took responsibility for", "meaning": "I accepted that something was my job" },
+    { "phrase": "on my plate", "meaning": "the tasks I have to do" },
+    { "phrase": "first things first", "meaning": "the most important thing comes before others" },
+    { "phrase": "set expectations", "meaning": "tell people clearly what to expect" },
+    { "phrase": "it can wait", "meaning": "it is not urgent" },
+    { "phrase": "as a result", "meaning": "introduces the outcome" }
+  ],
+  "learn": {
+    "explain": "FDEs usually have more requests than time: several customers, bugs, meetings, internal tasks. The interviewer wants to see a clear way of deciding, not just working harder. Good answers mention judging by impact (how many people, how much money or risk) and urgency (real deadlines), doing quick tasks immediately if they unblock others, asking your manager when priorities truly conflict, and, most importantly, telling everyone affected what you will do and when. Saying no or \"not this week\" clearly is part of prioritising.",
+    "points": [
+      "You used clear criteria: impact, urgency, and unblocking others.",
+      "You asked for help deciding when priorities truly conflicted.",
+      "You set expectations with everyone, including what would wait."
+    ],
+    "mistakes": [
+      "\"I just worked late and did everything.\"",
+      "Choosing based on who complained loudest.",
+      "Not telling the people whose work was delayed."
+    ]
+  },
+  "framework": [
+    { "step": "Situation", "starter": "I had… on my plate, all marked urgent…" },
+    { "step": "Criteria", "starter": "I asked myself two questions: what's the impact, and…" },
+    { "step": "Decision", "starter": "First things first, I…; the… could wait." },
+    { "step": "Communicate", "starter": "Then I set expectations with each person…" },
+    { "step": "Lesson", "starter": "Looking back, what I learned was…" }
+  ],
+  "betterWays": [
+    { "weak": "Everything was urgent so I did everything.", "strong": "Everything was marked urgent, so I had to decide what was really urgent.", "why": "Shows judgement instead of exhaustion." },
+    { "weak": "I did the manager task first because he is boss.", "strong": "I prioritised by impact: the bug was affecting forty operators every hour.", "why": "Clear criteria, not hierarchy." },
+    { "weak": "I didn't reply to the others.", "strong": "I messaged the other two people to set expectations: Thursday for one, next week for the other.", "why": "Communication is half of prioritising." },
+    { "weak": "I am not sure so I just choose.", "strong": "When two requests really conflicted, I asked my lead to decide, with a short summary of both.", "why": "Escalating well is a skill." },
+    { "weak": "Small tasks I do later.", "strong": "One task took ten minutes and unblocked a colleague, so I did it first.", "why": "Shows an understanding of unblocking others." }
+  ],
+  "model": "Near the end of my internship, I had four things on my plate on the same Monday, and all of them were marked urgent. The import job had a bug that was showing wrong statuses to the whole operations team. The sales team wanted a new chart for a client meeting on Thursday. A colleague needed me to review his code before he could continue. And my lead had asked me to write documentation before I left. I took responsibility for deciding, instead of just starting with whatever came first. I asked myself two questions: what's the impact if this waits, and is there a real deadline? First things first: the import bug affected forty people every hour, so that came first. Before starting it, though, I did the code review, because it took ten minutes and unblocked my colleague for the whole day. The chart had a real deadline, Thursday, so it came next. The documentation was important but it could wait until Friday. Then I set expectations: I messaged the sales contact to confirm Thursday morning, and told my lead the documentation would be done Friday, and why. As a result, everything was done on time, and nobody was surprised. Looking back, what I learned was that prioritising is half deciding and half telling people.",
+  "short": "On one Monday I had four urgent tasks: an import bug affecting forty operators, a sales chart for Thursday, a code review blocking a colleague, and documentation. I judged by impact and real deadlines. I did the ten-minute review first, then the bug, then the chart, and the documentation on Friday. I told everyone what to expect. Prioritising is half deciding and half telling people.",
+  "followUps": [
+    { "q": "What if two customers both say they're the top priority?", "answer": "I'd look at the actual impact for each and the commitments we've made, and if it's still a real conflict, I'd ask my manager to decide, with a short summary. Then I'd tell both customers honestly when they'll get what." },
+    { "q": "How do you keep track of everything?", "answer": "One simple list, reviewed every morning, ordered by impact and deadline. I also write down every request when it arrives, even small ones, because forgotten small promises damage trust the most." },
+    { "q": "What do you do when you can't do everything?", "answer": "I say so early, with options: what I can do by when, and what would need more time or another person. Saying \"not this week\" clearly is much better than a silent delay." }
+  ],
+  "selfCheck": [
+    "I gave clear criteria for prioritising.",
+    "I explained the order and why.",
+    "I said how I set expectations with others.",
+    "Working late wasn't my main solution.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

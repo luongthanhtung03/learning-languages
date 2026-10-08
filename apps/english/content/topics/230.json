@@ -1,0 +1,57 @@
+{
+  "ideas": [
+    "Always have questions; \"no questions\" sounds uninterested",
+    "Ask about the work, the team and success, not salary first",
+    "Use something said earlier in the interview"
+  ],
+  "phrases": [
+    { "phrase": "you mentioned earlier", "meaning": "refers back to something the interviewer said" },
+    { "phrase": "I'm curious about", "meaning": "I'd like to know more about" },
+    { "phrase": "what does success look like", "meaning": "how is good performance measured" },
+    { "phrase": "the situation was", "meaning": "STAR: introduces the context" },
+    { "phrase": "as a result", "meaning": "STAR: introduces the outcome" },
+    { "phrase": "what I did was", "meaning": "STAR: introduces your action" },
+    { "phrase": "day to day", "meaning": "in normal daily work" },
+    { "phrase": "if you don't mind me asking", "meaning": "a polite way to ask a personal question" }
+  ],
+  "learn": {
+    "explain": "\"Do you have any questions for us?\" is part of the interview. Saying \"no, everything is clear\" sounds like low interest. Prepare four or five questions and ask two or three, chosen based on what you heard. The best questions show you're already imagining doing the job: what the first months look like, what success means, what makes the role hard, how FDEs work with the product team, or about the interviewer's own experience. Referring to something they said earlier shows you were listening. Leave salary and holidays for the HR conversation, and don't ask things that are easy to find on the website.",
+    "points": [
+      "Always ask two or three questions; prepare more than you need.",
+      "Ask about the work, success, challenges and the team.",
+      "Link at least one question to something said in the interview."
+    ],
+    "mistakes": [
+      "\"No, I think you covered everything.\"",
+      "Asking first about salary, holidays or remote work.",
+      "Asking something clearly answered on the company website."
+    ]
+  },
+  "framework": [
+    { "step": "Thanks", "starter": "Yes, a few, thank you…" },
+    { "step": "About the role", "starter": "What does success look like in the first six months?" },
+    { "step": "From the interview", "starter": "You mentioned earlier…, I'm curious about…" },
+    { "step": "Personal", "starter": "If you don't mind me asking, what do you enjoy most…?" }
+  ],
+  "betterWays": [
+    { "weak": "No, I don't have any question.", "strong": "Yes, a few, thank you. I'd like to start with the first six months.", "why": "Shows interest; \"questions\" is plural." },
+    { "weak": "How much is the salary?", "strong": "What does success look like for someone in this role after six months?", "why": "Shows you're thinking about performing well." },
+    { "weak": "What does your company do?", "strong": "You mentioned the logistics customer earlier; what made that deployment difficult?", "why": "Links to the conversation and asks something only they can answer." },
+    { "weak": "Is the job hard?", "strong": "What's the most common reason someone struggles in this role?", "why": "A precise version of the same question, with more useful answers." },
+    { "weak": "What do you like?", "strong": "If you don't mind me asking, what do you enjoy most about working here?", "why": "Polite and personal; interviewers usually enjoy answering it." }
+  ],
+  "model": "Yes, a few, thank you. First, I'd like to understand what success looks like. If I joined, what would you expect me to have done by the end of my first six months? Second, you mentioned earlier that the logistics deployment was one of your hardest projects. I'm curious about what made it difficult. Was it more the technology, like their old systems, or more the people side? I ask because I've seen a small version of that. In my internship, the situation was that the operations team didn't trust the new dashboard at first, and what I did was sit with them and rebuild it around how they actually worked. As a result, adoption went from almost zero to the whole team. So I'd love to know how your FDEs handle that at a much bigger scale. Third, how do FDEs work with the product team day to day? For example, if I see the same problem at three customers, how does that feedback reach the product? And finally, if you don't mind me asking, what do you enjoy most about working here?",
+  "short": "Yes, a few, thank you. What does success look like after six months? You mentioned the logistics deployment was hard; was that more the technology or the people side? I ask because I saw a small version of that in my internship. And if you don't mind me asking, what do you enjoy most about working here?",
+  "followUps": [
+    { "q": "Is there anything about the role that worries you?", "answer": "Not worries exactly, but I'm aware the travel and the variety of customers will be a big change from university. I'd like to know how new FDEs are supported in their first deployments, for example whether they shadow someone first." },
+    { "q": "Anything else you'd like to ask?", "answer": "Just one practical question: what are the next steps in the process, and when could I expect to hear from you?" },
+    { "q": "What would make you choose another offer over ours?", "answer": "Honestly, the main thing for me is the quality of learning and the people. From today's conversation, this role is very strong on both, so it's my first choice." }
+  ],
+  "selfCheck": [
+    "I asked at least two real questions.",
+    "One question referred to something said earlier.",
+    "I didn't start with salary or benefits.",
+    "My questions showed I'm imagining doing the job.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

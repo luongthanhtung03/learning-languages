@@ -1,0 +1,162 @@
+{
+  "ideas": [
+    "Where the data goes, who can see it, how long it's kept",
+    "Business agreements: no training on your data, limited retention",
+    "We add our own protections: masking, permissions, logging"
+  ],
+  "phrases": [
+    {
+      "phrase": "that's a fair question",
+      "meaning": "acknowledges a reasonable concern"
+    },
+    {
+      "phrase": "it depends on",
+      "meaning": "the answer changes based on something"
+    },
+    {
+      "phrase": "in most cases",
+      "meaning": "usually, but not always"
+    },
+    {
+      "phrase": "the trade-off is",
+      "meaning": "the cost of one advantage is"
+    },
+    {
+      "phrase": "on top of that",
+      "meaning": "in addition"
+    },
+    {
+      "phrase": "in writing",
+      "meaning": "officially documented"
+    },
+    {
+      "phrase": "need to know",
+      "meaning": "only the people who must have the information"
+    },
+    {
+      "phrase": "stays within",
+      "meaning": "doesn't leave a certain place or limit"
+    }
+  ],
+  "learn": {
+    "explain": "When a company sends data to an AI model, the real questions are: where does the data travel, who can see it, is it stored, for how long, and is it used to train future models? With business and enterprise agreements from major providers, customer data is typically not used for training, is kept only for a limited time (sometimes zero days for approved customers), and is protected by encryption and security certifications. Some customers can choose the region where data is processed, or run models inside their own cloud account. On top of the provider's guarantees, the FDE's own system design matters: send only the data that's needed, mask personal details like ID numbers, apply permissions, and log access. Honest answers matter; never say \"100% safe\".",
+    "points": [
+      "Ask: where does it go, who sees it, how long is it kept, is it used for training?",
+      "Business agreements usually mean no training and limited retention, in writing.",
+      "Our design adds protection: send less, mask personal data, control access, log everything."
+    ],
+    "analogy": "Think of it like sending documents through a professional courier. The courier company has strict rules: sealed envelopes, no reading the contents, and records are destroyed after a set time. But you still decide what goes in the envelope, and you don't send the whole filing cabinet when one page is enough.",
+    "glossary": [
+      {
+        "term": "data retention",
+        "meaning": "how long data is stored before being deleted"
+      },
+      {
+        "term": "zero data retention (ZDR)",
+        "meaning": "an arrangement where requests are not stored after processing"
+      },
+      {
+        "term": "encryption",
+        "meaning": "scrambling data so only authorised systems can read it"
+      },
+      {
+        "term": "PII",
+        "meaning": "personally identifiable information, like names, ID numbers, phone numbers"
+      },
+      {
+        "term": "SOC 2 / ISO 27001",
+        "meaning": "common security certifications that companies are audited against"
+      }
+    ],
+    "mistakes": [
+      "Saying \"don't worry, it's 100% safe\".",
+      "Answering only about the AI provider and forgetting our own system design.",
+      "Making legal promises yourself instead of sharing the official documents."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Acknowledge",
+      "starter": "That's a fair question, and the right one to ask…"
+    },
+    {
+      "step": "Four questions",
+      "starter": "It comes down to four things: where it goes, who…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like a professional courier…"
+    },
+    {
+      "step": "Our part",
+      "starter": "On top of that, on our side we…"
+    },
+    {
+      "step": "Next step",
+      "starter": "I'd suggest we share the documents with your security team…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "Don't worry, it is 100% safe.",
+      "strong": "No system is a hundred percent safe, but there are strong protections, and I can show you exactly what they are.",
+      "why": "Honesty earns more trust than reassurance."
+    },
+    {
+      "weak": "They don't train on data.",
+      "strong": "Under the business agreement, your data isn't used to train their models, and that's in writing.",
+      "why": "Specific and verifiable."
+    },
+    {
+      "weak": "We send all the customer info to AI.",
+      "strong": "We only send what's needed for the task, and we mask ID numbers before anything leaves your system.",
+      "why": "Shows data minimisation in action."
+    },
+    {
+      "weak": "I am not sure about legal things.",
+      "strong": "For the legal details, I'll get you the official documents so your legal team can review them.",
+      "why": "Knows the limits of your role, professionally."
+    },
+    {
+      "weak": "Data is encrypted so it's fine.",
+      "strong": "It's encrypted on the way and at rest, and on top of that, every access is logged.",
+      "why": "Layers of protection are more convincing than one feature."
+    }
+  ],
+  "model": "That's a fair question, and honestly, it's the right one to ask before any AI project. It comes down to four things: where your data goes, who can see it, how long it's kept, and whether it's used to train the AI. Think of it like sending documents through a professional courier. The courier has strict rules: sealed envelopes, nobody reads the contents, and records are destroyed after a set time. But you still decide what goes in the envelope. Under the business agreement we use, your data isn't used to train their models, it's encrypted, and it's only kept for a short, defined period. That's in writing, not just a promise from me. On top of that, our own design protects you. We only send what's needed for the task, not your whole customer database. We mask personal details, like ID numbers and phone numbers, before anything leaves your system. Inside the tool, people can only see data on a need-to-know basis, and every access is logged. Can I promise it's a hundred percent safe? No system is. But in most cases, this is safer than the spreadsheets being emailed around today. I'd suggest we share the official documents with your security team this week.",
+  "short": "That's a fair question. It comes down to four things: where data goes, who sees it, how long it's kept, and whether it trains the AI. Under our business agreement, it isn't used for training, it's encrypted, and kept only briefly, in writing. On our side, we send only what's needed, mask personal details, and log every access. I'll share the documents with your security team.",
+  "audience": {
+    "engineer": "The customer's security team will ask about retention, training, residency and subprocessors, so let's have answers ready. We're on the commercial API terms: no training on inputs or outputs, encryption in transit and at rest, and they can request zero data retention. Processing region matters for them, so we'll confirm which regions are available. On our side: a PII redaction step before the model call for national ID and phone patterns, per-user authorisation enforced at retrieval, prompts and outputs logged in their tenant only with ninety-day retention, and no PII in our application logs. I'll draft the data-flow diagram for their review."
+  },
+  "followUps": [
+    {
+      "q": "Can we keep everything inside Vietnam?",
+      "answer": "It depends on the model and the provider. Some offer processing in specific regions, and there are options to run models inside your own cloud account. I'll check what's available for the model we need and come back to you with the options and their costs."
+    },
+    {
+      "q": "What if the AI company gets hacked?",
+      "answer": "It's a real risk with any supplier, which is why we limit what we send and mask personal details. Even in a worst case, the damage is much smaller. Their security certifications and incident policies are also in the documents I'll share."
+    },
+    {
+      "q": "Can our employees see each other's conversations?",
+      "answer": "No, not by default. Each person sees only their own conversations. Admins can see logs for audits, and you decide who those admins are."
+    }
+  ],
+  "jargon": [
+    "PII",
+    "ZDR",
+    "SOC 2",
+    "ISO 27001",
+    "subprocessor",
+    "redaction",
+    "tenant",
+    "data residency"
+  ],
+  "selfCheck": [
+    "I acknowledged the concern before answering.",
+    "I covered the four questions: where, who, how long, training.",
+    "I used one analogy and finished it.",
+    "I didn't promise \"100% safe\".",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

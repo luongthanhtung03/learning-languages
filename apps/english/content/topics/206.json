@@ -1,0 +1,158 @@
+{
+  "ideas": [
+    "Authentication: proving who you are",
+    "Authorisation: deciding what you're allowed to do",
+    "Both together keep the right people on the right data"
+  ],
+  "phrases": [
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "prove who you are",
+      "meaning": "show evidence of your identity"
+    },
+    {
+      "phrase": "what you're allowed to do",
+      "meaning": "your permissions"
+    },
+    {
+      "phrase": "what this means for you is",
+      "meaning": "links the idea to the listener's benefit"
+    },
+    {
+      "phrase": "two sides of the same coin",
+      "meaning": "two closely connected parts of one thing"
+    },
+    {
+      "phrase": "only see what they need",
+      "meaning": "access limited to their job"
+    },
+    {
+      "phrase": "in charge of",
+      "meaning": "responsible for"
+    },
+    {
+      "phrase": "on the safe side",
+      "meaning": "being careful to avoid risk"
+    }
+  ],
+  "learn": {
+    "explain": "These two words sound similar and are often confused. Authentication answers the question \"who are you?\". It is the login step: a password, a code on your phone, a fingerprint, or signing in with your company Google or Microsoft account. Authorisation answers \"what are you allowed to do?\". After the system knows who you are, it checks your permissions: a sales rep can see their own customers, a manager can see the whole team, an admin can change settings. Authentication always comes first. Many security problems happen when authentication is strong but authorisation is too generous, so people can see data they shouldn't. In enterprise projects, customers care a lot about connecting to their existing login system.",
+    "points": [
+      "Authentication = who you are (login). Authorisation = what you can do (permissions).",
+      "Authentication comes first; authorisation is checked on every action.",
+      "Good practice: give people the minimum access they need for their job."
+    ],
+    "analogy": "Think of it like a hotel. At reception you show your passport, and they check you are really you: that's authentication. Then they give you a key card that opens only your room and the gym, not other guests' rooms or the staff office: that's authorisation.",
+    "glossary": [
+      {
+        "term": "SSO (single sign-on)",
+        "meaning": "log in once with your company account and access many tools"
+      },
+      {
+        "term": "MFA / 2FA",
+        "meaning": "a second proof, like a code on your phone, after the password"
+      },
+      {
+        "term": "role-based access (RBAC)",
+        "meaning": "permissions given by job role, e.g. viewer, editor, admin"
+      },
+      {
+        "term": "least privilege",
+        "meaning": "give each person only the access they really need"
+      },
+      {
+        "term": "OAuth",
+        "meaning": "a standard that lets one app access another on your behalf, without your password"
+      }
+    ],
+    "mistakes": [
+      "Using the two words as if they mean the same thing.",
+      "Saying \"we have login, so it's secure\" and ignoring permissions.",
+      "Listing protocols (OAuth, SAML) instead of explaining the two questions."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Two questions",
+      "starter": "There are two questions: who are you, and…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like checking into a hotel…"
+    },
+    {
+      "step": "Example",
+      "starter": "In your company, that would mean…"
+    },
+    {
+      "step": "So what",
+      "starter": "What this means for you is…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "Authentication and authorisation is same thing.",
+      "strong": "They sound similar, but they answer two different questions.",
+      "why": "Corrects the idea politely and sets up your explanation."
+    },
+    {
+      "weak": "User need to login by SSO with SAML.",
+      "strong": "Your staff will log in with the same company account they use for email.",
+      "why": "Plural \"staff\", and the benefit instead of the protocol name."
+    },
+    {
+      "weak": "We use RBAC.",
+      "strong": "Each person gets access based on their role, so a sales rep only sees their own customers.",
+      "why": "Explain the idea with an example from their company."
+    },
+    {
+      "weak": "It is very secure, don't worry.",
+      "strong": "To be on the safe side, we give everyone the minimum access they need and review it every quarter.",
+      "why": "Specific practice is more convincing than reassurance."
+    },
+    {
+      "weak": "Admin can do everything.",
+      "strong": "Only two people in IT will be in charge of settings, and every change they make is logged.",
+      "why": "Shows control and accountability."
+    }
+  ],
+  "model": "There are really two questions here: who are you, and what are you allowed to do? Authentication is the first one. It's how you prove who you are, with a password, a code on your phone, or your company login. Authorisation is the second one: once the system knows it's you, what you're allowed to do. Think of it like checking into a hotel. At reception, you show your passport and they check it's really you. That's authentication. Then they give you a key card that opens your room and the gym, but not other guests' rooms or the staff office. That's authorisation. They're two sides of the same coin, and you need both. In your company, that would mean your staff log in with the same company account they already use for email, so nobody needs another password. Then, based on their role, a sales rep can only see their own customers, a team lead sees their team, and only two people in IT are in charge of the settings. What this means for you is that people only see what they need for their job. That protects your customers' data, and it makes your audits much easier.",
+  "short": "Two questions: who are you, and what are you allowed to do? Authentication is proving who you are, like showing your passport at a hotel. Authorisation is what your key card opens. Your staff will log in with their normal company account, and each role only sees what they need. What this means for you is safer customer data and easier audits.",
+  "audience": {
+    "engineer": "For authentication we'll integrate with their Azure AD through SSO, using OIDC, so we never store passwords and offboarding is automatic when IT disables an account. MFA is enforced on their side. Authorisation is the harder part. Their requirement is that reps only see their own accounts, so a simple viewer, editor, admin RBAC isn't enough; we need row-level filtering by owner and by team. I'd map their AD groups to our roles, enforce the checks in the API layer rather than the UI, and log every permission denial. We should also confirm whether the AI assistant inherits the user's permissions when it searches documents, because that's where data leaks usually happen."
+  },
+  "followUps": [
+    {
+      "q": "What happens when someone leaves the company?",
+      "answer": "Because they log in with their company account, the moment your IT team disables that account, they lose access to our system too. There's no separate account to forget about."
+    },
+    {
+      "q": "Can the AI assistant see everything?",
+      "answer": "No, and that's important. The assistant only sees what the person asking is allowed to see. If a sales rep asks a question, it only searches documents that rep already has access to."
+    },
+    {
+      "q": "Who decides the roles?",
+      "answer": "You do. We'll suggest a starting set based on what we've seen at similar companies, maybe three or four roles, and your team confirms or changes them. It's easy to adjust later."
+    }
+  ],
+  "jargon": [
+    "SSO",
+    "OAuth",
+    "OIDC",
+    "SAML",
+    "RBAC",
+    "MFA",
+    "token",
+    "Azure AD"
+  ],
+  "selfCheck": [
+    "I separated the two ideas: who you are vs what you can do.",
+    "I used one analogy and finished it.",
+    "I gave an example from the customer's company.",
+    "I said what the listener gets: safety, easier audits.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

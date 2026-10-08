@@ -1,0 +1,158 @@
+{
+  "ideas": [
+    "Prompting: telling the existing model clearly what you want",
+    "Fine-tuning: further training the model on many examples",
+    "Start with prompting; fine-tune only when there's a clear reason"
+  ],
+  "phrases": [
+    {
+      "phrase": "start with",
+      "meaning": "begin by doing"
+    },
+    {
+      "phrase": "the trade-off is",
+      "meaning": "the cost of one advantage is"
+    },
+    {
+      "phrase": "it depends on",
+      "meaning": "the answer changes based on something"
+    },
+    {
+      "phrase": "in most cases",
+      "meaning": "usually, but not always"
+    },
+    {
+      "phrase": "go a long way",
+      "meaning": "achieve a lot"
+    },
+    {
+      "phrase": "overkill",
+      "meaning": "much more than is needed"
+    },
+    {
+      "phrase": "worth it",
+      "meaning": "the benefit is bigger than the cost"
+    },
+    {
+      "phrase": "down the line",
+      "meaning": "later in the future"
+    }
+  ],
+  "learn": {
+    "explain": "There are two main ways to make a general AI model do your specific job well. Prompting means writing clear instructions and giving a few examples each time you ask: the role, the format, the rules, what good output looks like. It's fast, cheap and easy to change. Fine-tuning means training the model further on hundreds or thousands of example inputs and correct outputs, so the behaviour is built into the model itself. It can give more consistent style or format, and sometimes lets you use a smaller, cheaper model, but it costs more, takes weeks, needs good training data, and must be repeated when the base model improves. A common misunderstanding: fine-tuning is not the best way to teach a model new facts; for knowledge, retrieval (RAG) usually works better.",
+    "points": [
+      "Prompting: fast, cheap, flexible; it goes a long way and is always the first step.",
+      "Fine-tuning: for consistent style or format at large scale, when prompting isn't enough.",
+      "For new facts or company knowledge, use retrieval, not fine-tuning."
+    ],
+    "analogy": "Think of hiring an experienced consultant. Prompting is giving them a clear brief and two examples of past reports before each task. Fine-tuning is sending them on a three-month training course in your company's way of working. The course can help, but you'd only pay for it once you know a good brief isn't enough.",
+    "glossary": [
+      {
+        "term": "prompt engineering",
+        "meaning": "designing and testing instructions to get better outputs"
+      },
+      {
+        "term": "few-shot examples",
+        "meaning": "a few sample inputs and outputs included in the prompt"
+      },
+      {
+        "term": "training data",
+        "meaning": "the example inputs and correct outputs used for fine-tuning"
+      },
+      {
+        "term": "base model",
+        "meaning": "the general model before any fine-tuning"
+      },
+      {
+        "term": "system prompt",
+        "meaning": "standing instructions given to the model for every conversation"
+      }
+    ],
+    "mistakes": [
+      "Recommending fine-tuning first because it sounds more advanced.",
+      "Saying fine-tuning is how the model learns your company's facts.",
+      "Not mentioning that a fine-tuned model must be redone when better models come out."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Two options",
+      "starter": "There are two ways to make it do your job well…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of hiring a consultant…"
+    },
+    {
+      "step": "Trade-off",
+      "starter": "The trade-off is…"
+    },
+    {
+      "step": "Recommend",
+      "starter": "In most cases, I'd start with… and only…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "Fine-tuning is better because it's more advanced.",
+      "strong": "Fine-tuning can help, but in most cases a well-designed prompt gets you most of the way.",
+      "why": "Hedged, and resists the \"more advanced = better\" assumption."
+    },
+    {
+      "weak": "We fine-tune so model know your products.",
+      "strong": "For product knowledge, it's better to let the model look things up than to retrain it.",
+      "why": "Corrects a common misunderstanding."
+    },
+    {
+      "weak": "Fine-tuning is expensive and long.",
+      "strong": "Fine-tuning takes weeks and needs a few thousand good examples, so it's only worth it for a clear reason.",
+      "why": "Specific costs make the trade-off concrete."
+    },
+    {
+      "weak": "Prompt is just a question.",
+      "strong": "A good prompt is more like a job brief: the role, the rules, the format, and a couple of examples.",
+      "why": "Helps the customer see that prompting is real work."
+    },
+    {
+      "weak": "Maybe later we fine-tune.",
+      "strong": "If we hit a clear limit down the line, like cost at high volume, fine-tuning becomes worth it.",
+      "why": "Names the condition that would change the decision."
+    }
+  ],
+  "model": "There are two ways to make an AI model do your specific job well. The first is prompting: we give the existing model a clear brief every time, its role, your rules, the format you want, and a couple of good examples. The second is fine-tuning: we train the model further on a few thousand examples, so the behaviour is built in. Think of hiring an experienced consultant. Prompting is giving them a clear brief and two sample reports before each task. Fine-tuning is sending them on a three-month course in your company's way of working. The course can help, but you'd only pay for it once you know a good brief isn't enough. The trade-off is simple. Prompting is fast and cheap, and we can change it in an afternoon. Fine-tuning takes weeks, needs lots of high-quality examples, and has to be redone when a better model comes out. And one common misunderstanding: fine-tuning isn't the best way to teach it your product facts; for that, we let it look things up. So in most cases, I'd start with prompting. It goes a long way. If we hit a clear limit down the line, like cost at very high volume, then fine-tuning is worth it. Right now, it would be overkill.",
+  "short": "Prompting means giving the model a clear brief every time; fine-tuning means training it further on thousands of examples. Prompting is fast, cheap and easy to change; fine-tuning takes weeks and must be redone for new models. In most cases I'd start with prompting, and only fine-tune if we hit a clear limit, like cost at very high volume.",
+  "audience": {
+    "engineer": "I'd hold off on fine-tuning. The failures we're seeing are mostly format drift and missing policy knowledge. Format drift we can fix with structured outputs and two or three few-shot examples in the system prompt. Missing knowledge is a retrieval problem, and fine-tuning is a poor way to inject facts anyway. Fine-tuning makes sense if, after that, we still need a very specific tone that prompting can't hold, or if volume gets high enough that distilling into a smaller model saves real money. Either way, we need the eval set first, otherwise we can't tell whether a fine-tuned model is actually better than a good prompt."
+  },
+  "followUps": [
+    {
+      "q": "Our competitor says they have their own fine-tuned AI. Are we behind?",
+      "answer": "Not necessarily. \"Fine-tuned\" sounds impressive, but what matters is how well it works on real tasks. A well-designed system on a top model often beats a fine-tuned older one. I'd compare results, not labels."
+    },
+    {
+      "q": "How do we know when prompting isn't enough?",
+      "answer": "We measure. We build a test set of real examples and track the results. If we've improved the prompt several times and the scores stop improving, or the costs are too high at your volume, that's the signal."
+    },
+    {
+      "q": "How much would fine-tuning cost?",
+      "answer": "It depends on the model and the amount of data, but the bigger cost is usually people's time: collecting and checking a few thousand good examples. I'd estimate several weeks of work before we even start training."
+    }
+  ],
+  "jargon": [
+    "few-shot",
+    "system prompt",
+    "distill",
+    "structured output",
+    "eval set",
+    "base model",
+    "weights",
+    "drift"
+  ],
+  "selfCheck": [
+    "I explained both options in plain words.",
+    "I used one analogy and finished it.",
+    "I stated the trade-off: speed and cost vs consistency.",
+    "I gave a clear recommendation and when it would change.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

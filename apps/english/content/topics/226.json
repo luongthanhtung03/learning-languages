@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "A real deadline that forced you to learn something new",
+    "Your learning method: focus, build early, ask the right people",
+    "The result and the method you'd reuse at a customer"
+  ],
+  "phrases": [
+    { "phrase": "the situation was", "meaning": "STAR: introduces the context" },
+    { "phrase": "what I did was", "meaning": "STAR: introduces your action" },
+    { "phrase": "as a result", "meaning": "STAR: introduces the outcome" },
+    { "phrase": "from scratch", "meaning": "from the very beginning, with no previous knowledge" },
+    { "phrase": "get up to speed", "meaning": "learn enough to work effectively" },
+    { "phrase": "learn by doing", "meaning": "learn through practice, not only reading" },
+    { "phrase": "the 20 percent that matters", "meaning": "the most important small part" },
+    { "phrase": "in the end", "meaning": "finally, after everything" }
+  ],
+  "learn": {
+    "explain": "FDEs constantly land in unfamiliar territory: a new customer's industry, a technology they've never used, a strange legacy system. So this question tests your learning method, not just your intelligence. A strong answer has a real time pressure, a specific skill you didn't have, and, most importantly, how you learned: what you focused on first, how you practised, who you asked, and how you checked you were right. End with a result and the method you'd use again. Show that you learn by building something small quickly, rather than reading everything first.",
+    "points": [
+      "A real deadline and a clear gap in your knowledge.",
+      "A repeatable method: focus on essentials, build early, ask experts, verify.",
+      "A result, plus how you'd apply the same method at a customer."
+    ],
+    "mistakes": [
+      "\"I watched YouTube tutorials\" with no strategy.",
+      "Choosing something too easy, with no real pressure.",
+      "Forgetting to say how you checked your understanding was correct."
+    ]
+  },
+  "framework": [
+    { "step": "Situation", "starter": "The situation was that I had… to learn…" },
+    { "step": "Method", "starter": "What I did was focus on the 20 percent that matters…" },
+    { "step": "Help", "starter": "I also asked…" },
+    { "step": "Result", "starter": "As a result,…" },
+    { "step": "Reuse", "starter": "It's the same approach I'd use at a new customer…" }
+  ],
+  "betterWays": [
+    { "weak": "I learn very fast.", "strong": "My approach is to build something small on day one, even if it's ugly, and learn from what breaks.", "why": "Shows a method instead of a claim." },
+    { "weak": "I read all the documentation.", "strong": "I skipped most of the documentation and focused on the 20 percent I needed for the feature.", "why": "Shows prioritisation under pressure." },
+    { "weak": "I didn't know nothing about it.", "strong": "I had never used it before; I was starting from scratch.", "why": "Fixes the double negative, sounds natural." },
+    { "weak": "I asked senior a lot.", "strong": "I asked a senior engineer for thirty minutes to review my plan before I wrote much code.", "why": "Specific and shows respect for others' time." },
+    { "weak": "Finally it was ok.", "strong": "In the end, I shipped the feature on time, and it's still running in production.", "why": "A clear, concrete result." }
+  ],
+  "model": "The situation was in the second month of my internship. The team needed a map view in the operations dashboard, showing live driver locations, and the engineer who knew the mapping library had just left. I had never used it, or worked with location data at all, and the deadline was two weeks away. So I was really starting from scratch. What I did was, first, not try to learn everything. I wrote down the three things the feature actually needed: show points on a map, update them every few seconds, and group them when zoomed out. That was the 20 percent that matters. Then I learned by doing: on day one I built a tiny, ugly version with fake data, just to see what broke. On day three, I booked thirty minutes with a senior engineer to review my plan, and she warned me about a performance problem with thousands of points that would have cost me days. Finally, I tested it with the real operators before the deadline, not after. As a result, I got up to speed in about a week, shipped on time, and the map is still in use. It's the same approach I'd use at a new customer: find what matters, build early, and ask the right person early.",
+  "short": "In my internship, I had two weeks to build a live map feature with a library I'd never used. What I did was list the three things the feature really needed, build an ugly version on day one, and get a thirty-minute review from a senior engineer, which saved me days. As a result, I shipped on time. I'd use the same approach at a new customer.",
+  "followUps": [
+    { "q": "How do you know when you understand something well enough?", "answer": "When I can explain it simply to someone else and predict what will happen before I run it. If my predictions are often wrong, I don't understand it yet, even if the code works." },
+    { "q": "What are you learning right now?", "answer": "Two things: how to build reliable AI systems, especially testing them properly, and spoken English for technical conversations. For both, I practise with real tasks every day rather than only reading." },
+    { "q": "What if there's no senior engineer to ask?", "answer": "Then I look for other sources of truth: the official documentation for the specific problem, the source code, or the people who use the system every day. At a customer, their own staff often know things no document says." }
+  ],
+  "selfCheck": [
+    "There was a real deadline and a real knowledge gap.",
+    "I described my learning method, not just \"I learned\".",
+    "I mentioned asking the right person.",
+    "I gave a result and how I'd reuse the method.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "ideas": [
+    "A real weakness that matters but doesn't break the job",
+    "A specific example of when it caused a problem",
+    "What you're doing about it and the progress so far"
+  ],
+  "phrases": [
+    { "phrase": "to be honest", "meaning": "introduces a sincere admission" },
+    { "phrase": "I tend to", "meaning": "I usually do something, often a habit" },
+    { "phrase": "the situation was", "meaning": "STAR: introduces the context" },
+    { "phrase": "what I did was", "meaning": "STAR: introduces your action" },
+    { "phrase": "as a result", "meaning": "STAR: introduces the outcome" },
+    { "phrase": "I've been working on", "meaning": "I have been improving something over time" },
+    { "phrase": "still a work in progress", "meaning": "not finished, still improving" },
+    { "phrase": "speak up", "meaning": "say what you think, especially in a group" }
+  ],
+  "learn": {
+    "explain": "The interviewer is testing self-awareness and honesty, not looking for a reason to reject you. Fake weaknesses like \"I'm a perfectionist\" or \"I work too hard\" lose trust immediately. Choose a real weakness that is not a core requirement of the job (for an FDE, don't say \"I can't explain things\" or \"I don't like customers\"), give a short specific example of when it caused a problem, and spend most of the answer on what you're doing about it and the evidence that it's improving. Good options for a new graduate: not asking for help early enough, hesitating to speak up in meetings, over-polishing before sharing work, or underestimating tasks.",
+    "points": [
+      "It's a real weakness, with a specific example.",
+      "It isn't a core requirement of the role.",
+      "Most of the answer is about the improvement plan and the progress."
+    ],
+    "mistakes": [
+      "Fake weaknesses: \"I'm a perfectionist\", \"I care too much\".",
+      "A weakness that disqualifies you for the role.",
+      "Describing the weakness for a long time and the improvement in one sentence."
+    ]
+  },
+  "framework": [
+    { "step": "Weakness", "starter": "To be honest, I tend to…" },
+    { "step": "Example", "starter": "For example, during my internship…" },
+    { "step": "Action", "starter": "So what I've been working on is…" },
+    { "step": "Progress", "starter": "It's still a work in progress, but…" }
+  ],
+  "betterWays": [
+    { "weak": "My weakness is I am perfectionist.", "strong": "To be honest, I tend to wait too long before asking for help.", "why": "A believable, real weakness." },
+    { "weak": "I have no weakness.", "strong": "Like everyone, I have a few. The one I'm working on most right now is…", "why": "Shows self-awareness." },
+    { "weak": "I am not good at English.", "strong": "My spoken English is less fluent than my written English, so I practise speaking every day with recorded sessions.", "why": "Honest, specific, and shows a concrete plan." },
+    { "weak": "Then I fixed it.", "strong": "Now I set myself a rule: if I'm stuck for more than an hour, I ask, with notes on what I've tried.", "why": "A specific habit is more credible than \"I fixed it\"." },
+    { "weak": "It is not a problem anymore.", "strong": "It's still a work in progress, but my lead noticed the difference in my last two months.", "why": "Honest about ongoing effort, with evidence." }
+  ],
+  "model": "To be honest, I tend to wait too long before asking for help. I think it comes from wanting to prove I can solve things myself, especially as the most junior person. The situation was in my internship. I was stuck on a bug in the data import for almost two days. I didn't want to bother anyone, so I kept trying things on my own. When I finally asked a senior engineer, she found the problem in about twenty minutes: a configuration setting I didn't even know existed. As a result, the feature was a day late, and that was completely avoidable. That made me realise that waiting isn't independence; it just costs the team time. So what I did was set myself a simple rule: if I'm stuck for more than an hour, I ask. And when I ask, I bring short notes on what I've already tried, so I'm not wasting the other person's time. I've also been working on being the one who speaks up first in stand-ups when something is blocked. It's still a work in progress, but by the end of the internship, my lead mentioned that I was flagging problems much earlier. For an FDE role, where you're often working alone at a customer, I think that habit matters even more.",
+  "short": "To be honest, I tend to wait too long before asking for help. In my internship, I spent two days on a bug that a senior engineer solved in twenty minutes, and the feature was late. Now I have a rule: stuck for an hour, I ask, and I bring notes on what I've tried. It's still a work in progress, but my lead noticed I was flagging problems much earlier.",
+  "followUps": [
+    { "q": "Isn't asking for help a lot a problem too?", "answer": "Yes, it can be, which is why I try a few things first and bring notes. The goal isn't to ask more; it's to ask at the right time, with the work already done, so the conversation is short and useful." },
+    { "q": "What other weaknesses do you have?", "answer": "My spoken English is less fluent than my written English, especially under pressure. I practise every day by recording myself explaining technical topics, and I'm noticeably more comfortable than six months ago." },
+    { "q": "How would this weakness show up at a customer site?", "answer": "It could mean a customer waiting longer than necessary. That's exactly why I want to fix it before I'm in that situation. At a customer, my one-hour rule would probably be even shorter." }
+  ],
+  "selfCheck": [
+    "The weakness was real, not a disguised strength.",
+    "I gave a specific example with a consequence.",
+    "Most of my answer was about improvement.",
+    "I gave evidence of progress.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

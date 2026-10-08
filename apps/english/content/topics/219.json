@@ -1,0 +1,158 @@
+{
+  "ideas": [
+    "Bigger, smarter models are slower and cost more",
+    "The right choice depends on the task and how fast users need an answer",
+    "Often: fast model for simple steps, strong model for hard ones"
+  ],
+  "phrases": [
+    {
+      "phrase": "the trade-off is",
+      "meaning": "the cost of one advantage is"
+    },
+    {
+      "phrase": "it depends on",
+      "meaning": "the answer changes based on something"
+    },
+    {
+      "phrase": "in most cases",
+      "meaning": "usually, but not always"
+    },
+    {
+      "phrase": "good enough",
+      "meaning": "acceptable for the purpose"
+    },
+    {
+      "phrase": "you can't have it all",
+      "meaning": "you must accept some disadvantage"
+    },
+    {
+      "phrase": "where it matters",
+      "meaning": "in the places that are important"
+    },
+    {
+      "phrase": "on the other hand",
+      "meaning": "introduces the opposite point"
+    },
+    {
+      "phrase": "a sweet spot",
+      "meaning": "the best balance between options"
+    }
+  ],
+  "learn": {
+    "explain": "With AI systems there is a constant tension between speed (latency), quality and cost. Larger models, and models that \"think\" longer before answering, tend to give better answers on complex tasks, but they take longer and cost more per request. Smaller models are fast and cheap and are good enough for many simple tasks, like classifying a message or extracting a date. The right choice depends on the task: a live chat with a customer needs an answer in a second or two, while a nightly report can take minutes. Common patterns: use a fast model for easy steps and a strong model only for hard ones, show the answer as it's being written (streaming) so it feels faster, and measure both quality and speed instead of guessing.",
+    "points": [
+      "Quality, speed and cost pull against each other; you can't maximise all three.",
+      "The task decides: real-time chat needs speed; complex analysis can wait.",
+      "Mix models: fast for simple steps, strong where it matters, and measure."
+    ],
+    "analogy": "Think of it like choosing between a motorbike taxi and a car for a trip in Hanoi. The motorbike is fast and cheap through traffic and perfect for one person with a small bag. For a family with luggage, you need the car, even though it's slower and costs more. You pick per trip, not once for life.",
+    "glossary": [
+      {
+        "term": "latency",
+        "meaning": "how long you wait for the answer"
+      },
+      {
+        "term": "streaming",
+        "meaning": "showing the answer word by word as it's generated"
+      },
+      {
+        "term": "model tier",
+        "meaning": "a size/price level of model, e.g. small, medium, large"
+      },
+      {
+        "term": "reasoning / thinking effort",
+        "meaning": "how much the model thinks before answering"
+      },
+      {
+        "term": "routing",
+        "meaning": "sending each request to the most suitable model"
+      }
+    ],
+    "mistakes": [
+      "Always choosing the biggest model \"to be safe\".",
+      "Choosing the cheapest model without testing quality.",
+      "Talking about milliseconds instead of what the user experiences."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Name the tension",
+      "starter": "You can't have it all: the smartest models are…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like choosing a motorbike or a car…"
+    },
+    {
+      "step": "Depends on",
+      "starter": "It depends on the task. For…, speed matters most; for…"
+    },
+    {
+      "step": "Recommend",
+      "starter": "So what I'd suggest is…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "We should use the best model for everything.",
+      "strong": "The strongest model isn't always the right one; for simple tasks, it's slower and costs more for no real gain.",
+      "why": "Shows judgement instead of \"bigger is better\"."
+    },
+    {
+      "weak": "Small model is bad quality.",
+      "strong": "A smaller model is good enough for simple tasks, like sorting messages into categories.",
+      "why": "Precise about where it works."
+    },
+    {
+      "weak": "Latency is 8 seconds.",
+      "strong": "Customers wait about eight seconds, and most of them leave a chat after five.",
+      "why": "Connects the number to the business impact."
+    },
+    {
+      "weak": "We can make it faster but worse.",
+      "strong": "The trade-off is that a faster setup may miss some details in complex questions.",
+      "why": "States the trade-off clearly and specifically."
+    },
+    {
+      "weak": "I think this is good.",
+      "strong": "I think there's a sweet spot: fast for the first reply, the strong model only for complex questions.",
+      "why": "Names a concrete balanced solution."
+    }
+  ],
+  "model": "You can't have it all. The smartest AI models give the best answers, but they're slower and cost more. Smaller models are fast and cheap, but they make more mistakes on complex questions. Think of it like choosing between a motorbike taxi and a car in Hanoi. For one person with a small bag, the motorbike is faster and cheaper. For a family with luggage, you need the car. You choose per trip, not once for life. So it depends on the task. Right now, your customer chat uses the strongest model for everything, and customers wait about eight seconds for a reply. That's too long; most people leave a chat after five. On the other hand, your monthly risk report is run overnight, so nobody cares if it takes ten minutes, and quality matters much more there. What I'd suggest is a sweet spot for the chat. A fast model handles the simple questions, like opening hours and order status, which are most of them. When a question is complex, it goes to the strong model. In most cases, customers get an answer in about two seconds, and you get quality where it matters. The trade-off is a little more setup, and we'll test that the fast model is really good enough.",
+  "short": "You can't have it all: the smartest models are slower and cost more. Like choosing a motorbike or a car, it depends on the trip. Your chat waits eight seconds, which is too long, while your overnight report needs quality, not speed. For the chat, I'd use a fast model for simple questions and the strong one only for complex ones.",
+  "audience": {
+    "engineer": "Chat p50 is around eight seconds end to end, almost all of it generation time on the large model with high reasoning effort. About seventy percent of traffic is simple intents, order status, hours, password reset, which a small model handles fine in our evals. Proposal: a cheap classifier step routes simple intents to the small model at low effort, and everything else to the large model. We enable streaming so time to first token is what users feel. For the overnight risk report we go the other way: large model, high effort, batch processing for the discount. We validate routing accuracy on the eval set and track misroutes."
+  },
+  "followUps": [
+    {
+      "q": "What if the fast model gets a question wrong?",
+      "answer": "That's the main risk, so we'll test it on real questions first. And if the fast model isn't confident, it passes the question to the stronger one. A slightly slower right answer is better than a fast wrong one."
+    },
+    {
+      "q": "Can't we make the strong model faster?",
+      "answer": "A bit. We can show the answer as it's being written, so customers see something within a second, and we can ask it to think less for simple questions. But it will never be as fast as a small model."
+    },
+    {
+      "q": "Will this save money too?",
+      "answer": "Yes, likely quite a lot, because most questions will go to the cheaper model. I'd expect a noticeable drop in the chat costs, but I'll confirm the number after a week of real traffic."
+    }
+  ],
+  "jargon": [
+    "p50",
+    "latency",
+    "time to first token",
+    "classifier",
+    "routing",
+    "reasoning effort",
+    "batch",
+    "intent"
+  ],
+  "selfCheck": [
+    "I named the tension: quality vs speed vs cost.",
+    "I used one analogy and finished it.",
+    "I said what it depends on, with two different tasks.",
+    "I made a balanced recommendation.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

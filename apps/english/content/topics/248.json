@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Understand the pressure behind the request",
+    "A clear no, explained by risk to them, not by rules",
+    "Offer ways to go faster safely"
+  ],
+  "phrases": [
+    { "phrase": "I completely understand", "meaning": "shows empathy" },
+    { "phrase": "what I'd suggest is", "meaning": "a polite way to recommend" },
+    { "phrase": "I'm afraid", "meaning": "a polite way to say no" },
+    { "phrase": "I'm not able to", "meaning": "a polite but firm refusal" },
+    { "phrase": "it's not worth the risk", "meaning": "the danger is bigger than the benefit" },
+    { "phrase": "speed things up", "meaning": "make something happen faster" },
+    { "phrase": "on the same side", "meaning": "having the same goal" },
+    { "phrase": "let me make sure", "meaning": "introduces checking something" }
+  ],
+  "learn": {
+    "explain": "Sometimes a customer, under deadline pressure, asks you to skip something important: a security review, testing, or approval steps. This is a moment where you must say no clearly, while showing you're on their side. They need to feel you understand the pressure, and they need a reason that matters to them, like the risk to their customers' data, a regulator, or their own reputation, rather than \"our policy says so\". Be firm and calm; don't negotiate the no. Then work hard on the real problem: find ways to go faster safely, like reviewing in parallel, reducing scope for the first launch, or escalating to get the review prioritised.",
+    "points": [
+      "Acknowledge the pressure; you're on the same side.",
+      "A clear, calm no, explained by risk to them.",
+      "Offer real ways to speed things up safely."
+    ],
+    "mistakes": [
+      "Agreeing \"just this once\" to keep the customer happy.",
+      "Hiding behind \"it's our policy\" without explaining the risk.",
+      "Saying no and offering nothing else."
+    ]
+  },
+  "framework": [
+    { "step": "Empathy", "starter": "I completely understand the pressure you're under…" },
+    { "step": "Clear no", "starter": "I'm afraid I'm not able to skip the security review…" },
+    { "step": "Why it matters", "starter": "The reason is that it's your customers' data, and…" },
+    { "step": "Alternatives", "starter": "What I'd suggest to speed things up is…" },
+    { "step": "Same side", "starter": "We're on the same side here; we both want…" }
+  ],
+  "betterWays": [
+    { "weak": "No, it's our company rule.", "strong": "I'm afraid I'm not able to skip it, because a problem here would affect your customers' data.", "why": "The reason matters to them, not just to you." },
+    { "weak": "OK, just this one time.", "strong": "I understand why you're asking, but it's not worth the risk for either of us.", "why": "Firm, without negotiating the no." },
+    { "weak": "Security is very important.", "strong": "If customer data leaked, a one-week delay would look very small by comparison.", "why": "Concrete comparison instead of a general statement." },
+    { "weak": "Then you need to wait.", "strong": "What I'd suggest is that we start the review today, in parallel with the final testing.", "why": "Turns a no into a plan." },
+    { "weak": "I can't do anything.", "strong": "Let me make sure the review is prioritised; I'll speak to our security lead this afternoon.", "why": "Shows you're actively helping." }
+  ],
+  "model": "I completely understand the pressure you're under. Your CEO announced the launch date publicly, and every day of delay is visible. I want to hit that date too; we're on the same side here. But I'm afraid I'm not able to skip the security review. Let me explain why, because it's not just a rule on our side. This system reads your customers' personal information, their names, phone numbers and order history. The review checks things like who can access that data and whether it could leak through the assistant's answers. If something went wrong after launch, the damage to your customers and your reputation would be much bigger than a one-week delay. It's simply not worth the risk, for you or for us. What I'd suggest is three things to speed things up. First, we start the review today, in parallel with final testing, instead of after it. Second, I'll speak to our security lead this afternoon and ask for it to be prioritised. Third, if it still doesn't fit, we could launch on the date with the parts that don't touch personal data, and add the rest a week later. Let me make sure we have a clear plan by tomorrow morning, so you have something concrete to tell your CEO.",
+  "short": "I completely understand the pressure, and we're on the same side. But I'm afraid I'm not able to skip the security review. This system reads your customers' personal data, and a leak would cost far more than a week. To speed things up: we start the review today in parallel, I'll ask our security lead to prioritise it, or we launch the parts without personal data first.",
+  "followUps": [
+    { "q": "Your competitor would just do it.", "answer": "Maybe, and I can't speak for them. But I'd be worried about any partner who skips security for your customers' data under pressure. I'd rather be the partner you can trust when it really matters." },
+    { "q": "Can I speak to your manager about this?", "answer": "Of course, and I'll set that up today. I should be honest, though: my manager will say the same thing on the review itself. Where they can really help is getting it prioritised, so it's a good conversation to have." },
+    { "q": "What exactly will the review check?", "answer": "Mainly three things: who can access the data, whether the assistant could reveal one customer's information to another, and how the data is stored and logged. I'll send you a one-page summary so your team knows what to expect." }
+  ],
+  "selfCheck": [
+    "I acknowledged their pressure first.",
+    "My no was clear and I didn't negotiate it.",
+    "I explained the risk in terms that matter to them.",
+    "I offered concrete ways to go faster safely.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

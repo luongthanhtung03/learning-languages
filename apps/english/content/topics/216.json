@@ -1,0 +1,158 @@
+{
+  "ideas": [
+    "Evals: a fixed set of test questions with known good answers",
+    "Run them on every change to see if quality goes up or down",
+    "Agree on the pass mark with the customer before launch"
+  ],
+  "phrases": [
+    {
+      "phrase": "good enough",
+      "meaning": "of acceptable quality for the purpose"
+    },
+    {
+      "phrase": "the trade-off is",
+      "meaning": "the cost of one advantage is"
+    },
+    {
+      "phrase": "it depends on",
+      "meaning": "the answer changes based on something"
+    },
+    {
+      "phrase": "in most cases",
+      "meaning": "usually, but not always"
+    },
+    {
+      "phrase": "gut feeling",
+      "meaning": "an opinion based on instinct, not evidence"
+    },
+    {
+      "phrase": "move the needle",
+      "meaning": "make a measurable difference"
+    },
+    {
+      "phrase": "catch it before",
+      "meaning": "notice a problem before it causes harm"
+    },
+    {
+      "phrase": "agree on",
+      "meaning": "reach a shared decision about"
+    }
+  ],
+  "learn": {
+    "explain": "An eval (short for evaluation) is a test set for an AI system: a collection of realistic inputs, like a few hundred real customer questions, each with a description of what a good answer looks like. You run the system on all of them and score the results, either automatically, with another AI as a judge, or by people. Evals matter because AI outputs vary and you can't check quality by trying five questions by hand. With evals you can compare two prompts or two models with numbers, catch it before a change makes things worse, and agree with the customer on a clear launch target, like \"95% correct on the test set and never inventing a refund policy\". Building a good eval set is often the most valuable work in an AI project.",
+    "points": [
+      "An eval is a fixed set of realistic test cases with a way to score answers.",
+      "Run it on every change, so decisions are based on numbers, not gut feeling.",
+      "Agree the pass mark with the customer, including the mistakes that must never happen."
+    ],
+    "analogy": "Think of it like a driving test. You don't let someone drive alone because they drove well around one block. You test them on a fixed set of situations: parking, a roundabout, an emergency stop. Some mistakes just lose points; running a red light fails you immediately.",
+    "glossary": [
+      {
+        "term": "test set / golden set",
+        "meaning": "the fixed collection of test inputs and expected answers"
+      },
+      {
+        "term": "LLM-as-judge",
+        "meaning": "using an AI model to score another model's answers"
+      },
+      {
+        "term": "regression",
+        "meaning": "when a change makes something that used to work get worse"
+      },
+      {
+        "term": "baseline",
+        "meaning": "the score before a change, used for comparison"
+      },
+      {
+        "term": "accuracy",
+        "meaning": "the share of test cases answered correctly"
+      }
+    ],
+    "mistakes": [
+      "Testing with a handful of questions and calling it good.",
+      "Only measuring an average and ignoring the rare but serious mistakes.",
+      "Building the test set without the customer's real data and their experts."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Problem",
+      "starter": "Trying a few questions by hand doesn't tell us…"
+    },
+    {
+      "step": "Define",
+      "starter": "An eval is a fixed set of test questions with…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like a driving test…"
+    },
+    {
+      "step": "Agree",
+      "starter": "Before launch, let's agree on what good enough means…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "I tested it and it looks good.",
+      "strong": "It looked good on the ten questions I tried, but that's a gut feeling; we need a proper test set.",
+      "why": "Shows you know the difference between a demo and evidence."
+    },
+    {
+      "weak": "Accuracy is 92%.",
+      "strong": "It answered 92 out of 100 real customer questions correctly, and none of the mistakes were about money.",
+      "why": "Concrete and addresses the type of mistake, not just the number."
+    },
+    {
+      "weak": "We use LLM-as-judge.",
+      "strong": "We use a second AI to score the answers, and we spot-check its scoring by hand.",
+      "why": "Explains the method and how it is trusted."
+    },
+    {
+      "weak": "The new prompt is better I think.",
+      "strong": "The new prompt moved the needle: 88 to 94 percent on the same test set.",
+      "why": "Numbers on the same test replace \"I think\"."
+    },
+    {
+      "weak": "When it is good we launch.",
+      "strong": "Let's agree on the launch target now, so we both know exactly what good enough means.",
+      "why": "Turns a vague promise into a shared, checkable goal."
+    }
+  ],
+  "model": "Trying five questions by hand, like we did in the demo, doesn't really tell us if the system is good enough. The answers vary, and the problems usually hide in the unusual cases. So we use what's called an eval: a fixed set of a few hundred real questions from your customers, and for each one, a description of what a good answer looks like. Every time we change something, a new instruction, a new model, new documents, we run the whole set and score it. Think of it like a driving test. You don't let someone drive alone because they drove well around one block. You test them on parking, roundabouts, an emergency stop. And some mistakes just lose points, but running a red light fails you immediately. It's the same here. In most cases, a slightly awkward answer is fine. But inventing a refund policy is a red light. What this means for you is that decisions are based on numbers, not gut feeling, and we catch it before a change makes things worse. The trade-off is that building a good test set takes your experts a few days. Before launch, let's agree on what good enough means, for example ninety-five percent correct and zero red-light mistakes.",
+  "short": "Trying a few questions by hand isn't enough. An eval is a fixed set of real customer questions with good answers defined, and we run it on every change. Like a driving test, some mistakes lose points and some fail immediately. Let's agree the pass mark now, for example ninety-five percent correct and zero invented policies.",
+  "audience": {
+    "engineer": "I'd build the eval set from about three hundred real tickets, stratified by intent, plus fifty adversarial cases: out-of-scope questions, prompt injection attempts, and questions where the right behaviour is to escalate. Each case gets a rubric rather than one exact expected string. Scoring is LLM-as-judge with the rubric, calibrated against about a hundred human-labelled cases so we know the judge agrees with the customer's experts. We track overall pass rate plus a separate hard-fail metric for critical errors like invented policies. It runs in CI on every prompt or retrieval change, and we compare against the last baseline before merging."
+  },
+  "followUps": [
+    {
+      "q": "Who writes the test questions?",
+      "answer": "Mostly we take them from your real customer messages, so they reflect what people actually ask. Then your experts, maybe two people from customer service, spend a few days defining what a good answer is. Their judgement is what we're measuring against."
+    },
+    {
+      "q": "Why can't we just launch and see?",
+      "answer": "We will learn a lot after launch too. But without a test set, we can't tell whether a change helped or hurt. And it's much cheaper to catch a serious mistake in testing than in front of your customers."
+    },
+    {
+      "q": "What if it never reaches ninety-five percent?",
+      "answer": "Then we have a clear conversation with real data. Maybe we narrow the scope to the topics where it's strong, or keep a person reviewing some answers. Either way, you decide based on evidence."
+    }
+  ],
+  "jargon": [
+    "rubric",
+    "LLM-as-judge",
+    "regression",
+    "baseline",
+    "stratified",
+    "adversarial",
+    "prompt injection",
+    "CI"
+  ],
+  "selfCheck": [
+    "I explained why a few manual tries aren't enough.",
+    "I used one analogy and finished it.",
+    "I separated small mistakes from serious ones.",
+    "I proposed agreeing on a concrete target.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

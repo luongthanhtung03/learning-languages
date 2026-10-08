@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "It's fine not to understand; asking is professional",
+    "Ask for a concrete example and the reason behind it",
+    "Summarise back and confirm in writing"
+  ],
+  "phrases": [
+    { "phrase": "let me make sure I've got this right", "meaning": "introduces a summary to check understanding" },
+    { "phrase": "I completely understand", "meaning": "shows empathy" },
+    { "phrase": "what I'd suggest is", "meaning": "a polite way to recommend" },
+    { "phrase": "could you give me an example", "meaning": "asks for a concrete case" },
+    { "phrase": "just to clarify", "meaning": "introduces a question to remove confusion" },
+    { "phrase": "when you say", "meaning": "introduces a question about a specific word" },
+    { "phrase": "I'm not familiar with", "meaning": "I don't know about" },
+    { "phrase": "so that I don't get it wrong", "meaning": "explains why you're asking" }
+  ],
+  "learn": {
+    "explain": "Customers use their own business language, internal terms and abbreviations, and they often describe requirements vaguely. Pretending to understand is one of the most expensive mistakes an FDE can make, because you'll build the wrong thing. Asking well is a professional skill: be honest that you don't know a term, ask what a specific word means, ask for a concrete example (\"show me the last time this happened\"), ask why it matters, and then summarise the requirement back in your own words. Finish by confirming it in writing. Customers usually appreciate careful questions; it shows you take their business seriously.",
+    "points": [
+      "Not understanding is normal; pretending is the real mistake.",
+      "Ask about specific words, ask for an example and the reason.",
+      "Summarise back in your own words and confirm in writing."
+    ],
+    "mistakes": [
+      "Nodding and saying \"OK, understood\" when you're not sure.",
+      "Asking \"can you explain again?\", which gets the same explanation.",
+      "Not writing the agreed version down."
+    ]
+  },
+  "framework": [
+    { "step": "Honest", "starter": "Just to clarify, I'm not familiar with…" },
+    { "step": "Specific word", "starter": "When you say \"…\", do you mean…?" },
+    { "step": "Example", "starter": "Could you give me an example of the last time…?" },
+    { "step": "Summarise", "starter": "Let me make sure I've got this right…" },
+    { "step": "Confirm", "starter": "So that I don't get it wrong, I'll write it up and send it to you." }
+  ],
+  "betterWays": [
+    { "weak": "OK, I understand.", "strong": "Just to clarify, I'm not familiar with the term \"reconciliation\" in your context.", "why": "Honesty now prevents building the wrong thing later." },
+    { "weak": "Can you explain again?", "strong": "Could you give me an example of the last time this happened?", "why": "A concrete example gives new information." },
+    { "weak": "What is that mean?", "strong": "When you say \"urgent\", do you mean within the same day, or within the hour?", "why": "Correct grammar, and asks about a specific word." },
+    { "weak": "I will do like you said.", "strong": "Let me make sure I've got this right: …", "why": "A summary catches misunderstandings." },
+    { "weak": "Thanks, bye.", "strong": "So that I don't get it wrong, I'll write this up and send it to you today to confirm.", "why": "Written confirmation protects both sides." }
+  ],
+  "model": "Thanks, that's really helpful. Just to clarify, I'm not familiar with the term \"reconciliation\" in your context, and I'd rather ask now than build the wrong thing. When you say the assistant should \"flag reconciliation issues\", do you mean differences between what the bank says you received and what your system says customers paid? … OK, that makes sense. Could you give me an example of the last time this happened? … I see. So a customer paid two invoices in one bank transfer, and your system only matched it to the first invoice, so the second one looked unpaid, and the customer got a reminder they didn't deserve. And I'm guessing that's why it matters: it annoys good customers. When you say \"flag\", do you mean the assistant should fix it automatically, or just tell your finance team? … Got it, just tell the team, at least for now. Let me make sure I've got this right. Every morning, the assistant compares yesterday's bank transfers with your open invoices, and for any payment that doesn't match exactly, it sends your finance team a short list with its best guess and the reason. It never changes anything itself. Is that right? … Great. So that I don't get it wrong, I'll write this up and send it to you today. What I'd suggest is that your team checks it with two or three real examples.",
+  "short": "Just to clarify, I'm not familiar with \"reconciliation\" in your context. Do you mean differences between bank payments and your system? Could you give me an example? … Let me make sure I've got this right: every morning, the assistant compares bank transfers with open invoices and sends finance a list of mismatches, without changing anything. I'll write it up today so we don't get it wrong.",
+  "followUps": [
+    { "q": "Don't you know accounting basics?", "answer": "Some, but every company uses these terms a little differently, and the details matter a lot here. I'd rather ask a simple question now than make an expensive mistake later. And I'm learning your process quickly." },
+    { "q": "Can't you just figure it out from our data?", "answer": "The data will help a lot, and I'll definitely look at it. But data shows what happened, not what you want to happen. A short conversation with your finance team tells me which mismatches really matter." },
+    { "q": "How many more questions will you have?", "answer": "A few more as we go, but fewer each week. To keep it efficient, I'll collect them and send them together twice a week, instead of interrupting your team every day." }
+  ],
+  "selfCheck": [
+    "I admitted honestly what I didn't understand.",
+    "I asked about specific words and for an example.",
+    "I summarised the requirement back in my own words.",
+    "I offered to confirm it in writing.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

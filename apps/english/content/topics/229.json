@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "A real user, internal or external, with a problem",
+    "How you listened, clarified and adjusted",
+    "The result and what you learned about users"
+  ],
+  "phrases": [
+    { "phrase": "the situation was", "meaning": "STAR: introduces the context" },
+    { "phrase": "what I did was", "meaning": "STAR: introduces your action" },
+    { "phrase": "as a result", "meaning": "STAR: introduces the outcome" },
+    { "phrase": "what they actually needed", "meaning": "the real need, not the first request" },
+    { "phrase": "put myself in their shoes", "meaning": "imagine their situation" },
+    { "phrase": "on the same page", "meaning": "sharing the same understanding" },
+    { "phrase": "push back", "meaning": "disagree or resist, politely" },
+    { "phrase": "what I learned was", "meaning": "introduces the lesson" }
+  ],
+  "learn": {
+    "explain": "This is a core FDE question: can you work directly with the people who use your software? The interviewer wants to see empathy, listening, clarifying requirements, managing expectations, and turning feedback into changes. As a new graduate, internal users count: an operations team, teachers using your capstone, a small business owned by a relative, a club's members. The best stories show a moment where what the user asked for was different from what they needed, and how you discovered it. Include how you kept them informed and one time you had to say no or explain a limitation.",
+    "points": [
+      "You listened and discovered the real need behind the request.",
+      "You kept the user informed and managed expectations, including saying no.",
+      "You turned feedback into a change with a visible result."
+    ],
+    "mistakes": [
+      "Saying you have no customer experience instead of using internal users.",
+      "A story where you just did what you were told.",
+      "Describing users as difficult or stupid."
+    ]
+  },
+  "framework": [
+    { "step": "Situation", "starter": "The situation was that…" },
+    { "step": "Listen", "starter": "What they asked for was…, but what they actually needed was…" },
+    { "step": "Action", "starter": "So what I did was…" },
+    { "step": "Result", "starter": "As a result,…" },
+    { "step": "Lesson", "starter": "What I learned was…" }
+  ],
+  "betterWays": [
+    { "weak": "I don't have customer experience.", "strong": "My users were internal, the operations team, but they were real users with real deadlines.", "why": "Reframes internal users as valid experience." },
+    { "weak": "They wanted many features.", "strong": "They asked for ten new charts, but what they actually needed was one list they could act on.", "why": "Shows you found the real need." },
+    { "weak": "The users didn't know what they want.", "strong": "It's normal for users to describe solutions; my job was to understand the problem behind them.", "why": "Respectful and professional." },
+    { "weak": "I said no to them.", "strong": "I pushed back on the export feature, explained why, and offered a simpler alternative.", "why": "Saying no with a reason and an alternative." },
+    { "weak": "They were happy.", "strong": "As a result, the team used the dashboard every morning, and the lead asked us to roll it out to another city.", "why": "Behaviour proves satisfaction better than \"happy\"." }
+  ],
+  "model": "My users were internal, but they were real users with real deadlines. The situation was in my internship. The operations team, about twelve people, asked for ten new charts in their dashboard. I built the first three, and when I checked a week later, nobody was using them. So what I did was ask the team lead if I could sit with them for two mornings. I put myself in their shoes: they started every day by phoning drivers about late deliveries, and they were switching between three screens to find who to call. What they asked for was charts, but what they actually needed was one list of deliveries at risk, sorted by urgency, with the driver's phone number. I showed them a rough paper sketch first, to make sure we were on the same page before I wrote any code. They also wanted to export everything to Excel, and I pushed back a little, because that would recreate the old problem; instead I offered a one-click export of just the at-risk list. As a result, the whole team used the dashboard every morning, and the lead asked us to roll it out to the Da Nang office. What I learned was that users often describe a solution, and my job is to find the problem behind it.",
+  "short": "In my internship, the operations team asked for ten new charts, but nobody used the first three. So I sat with them for two mornings and saw that what they actually needed was one list of at-risk deliveries with the driver's number. I checked a paper sketch with them first. As a result, the whole team used it daily. What I learned was to look for the problem behind the request.",
+  "followUps": [
+    { "q": "What if the team lead had insisted on the charts?", "answer": "I'd build them, because it's their decision. But I'd show the usage data after two weeks and suggest we revisit. Usually real data convinces people better than my opinion." },
+    { "q": "How did you keep them updated?", "answer": "A short message in their group chat every Friday: what's done, what's next, and one question for them. And every two weeks, a five-minute demo during their morning meeting." },
+    { "q": "Did any user ever get frustrated with you?", "answer": "Yes, once, when an update broke their export on a busy morning. I apologised, rolled it back within twenty minutes, and after that I always released changes in the afternoon, not before their busiest time." }
+  ],
+  "selfCheck": [
+    "I used a real user, even if internal.",
+    "I showed the gap between the request and the real need.",
+    "I described how I checked understanding before building.",
+    "I gave a result shown by behaviour, not just \"they were happy\".",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

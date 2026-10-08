@@ -1,0 +1,159 @@
+{
+  "ideas": [
+    "An LLM predicts the next word, learned from huge amounts of text",
+    "That simple trick produces writing, summaries and reasoning",
+    "It's powerful but not a database of facts"
+  ],
+  "phrases": [
+    {
+      "phrase": "in most cases",
+      "meaning": "usually, but not always"
+    },
+    {
+      "phrase": "the trade-off is",
+      "meaning": "the cost of one advantage is"
+    },
+    {
+      "phrase": "it depends on",
+      "meaning": "the answer changes based on something"
+    },
+    {
+      "phrase": "at its core",
+      "meaning": "at the most basic level"
+    },
+    {
+      "phrase": "pick up patterns",
+      "meaning": "learn regularities from examples"
+    },
+    {
+      "phrase": "surprisingly good at",
+      "meaning": "better than you'd expect at"
+    },
+    {
+      "phrase": "that said",
+      "meaning": "however (introduces a limitation)"
+    },
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    }
+  ],
+  "learn": {
+    "explain": "A large language model (LLM), like Claude or GPT, is a program trained on an enormous amount of text: books, websites, code. During training it plays one game billions of times: given some text, predict the next word. To get good at that game, it has to pick up grammar, facts, styles, and even patterns of reasoning. When you ask it something, it writes the answer one small piece (a token) at a time, each time choosing a likely next piece. The result can summarise, translate, write code and answer questions surprisingly well. But it doesn't look facts up in a database; it generates text from patterns, so it can sound confident and still be wrong. It also only knows what it saw in training, unless we give it extra information.",
+    "points": [
+      "At its core, an LLM predicts the next piece of text, very well.",
+      "That one skill gives it many abilities: writing, summarising, coding, reasoning.",
+      "It isn't a fact database, so important answers need checking or grounding."
+    ],
+    "analogy": "Think of it like an extremely well-read assistant who has read millions of documents but has no internet and no notes. Ask them anything and they'll answer fluently from memory. Usually they're right, but sometimes they misremember, and they sound just as confident either way.",
+    "glossary": [
+      {
+        "term": "token",
+        "meaning": "a small piece of text, about three-quarters of a word"
+      },
+      {
+        "term": "training",
+        "meaning": "the long, expensive process where the model learns from text"
+      },
+      {
+        "term": "parameters",
+        "meaning": "the billions of numbers inside the model that store what it learned"
+      },
+      {
+        "term": "prompt",
+        "meaning": "the instructions and question you give the model"
+      },
+      {
+        "term": "context window",
+        "meaning": "how much text the model can read at once"
+      }
+    ],
+    "mistakes": [
+      "Saying the model \"understands\" or \"thinks\" like a human, or the opposite, \"it's just autocomplete\".",
+      "Explaining neural networks and transformers to a manager.",
+      "Not mentioning the main limitation: it can be confidently wrong."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Core idea",
+      "starter": "At its core, it does one thing: predict…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like a very well-read assistant…"
+    },
+    {
+      "step": "Strengths",
+      "starter": "That makes it surprisingly good at…"
+    },
+    {
+      "step": "Limits",
+      "starter": "That said, the trade-off is…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "LLM is a neural network with transformer architecture.",
+      "strong": "At its core, it's a program that has learned to predict the next word extremely well.",
+      "why": "The core idea in plain words, without architecture names."
+    },
+    {
+      "weak": "AI knows everything.",
+      "strong": "It has read a huge amount, but it doesn't look things up, so it can misremember.",
+      "why": "Corrects a common misunderstanding precisely."
+    },
+    {
+      "weak": "It is just autocomplete, not intelligent.",
+      "strong": "It started as next-word prediction, but at this scale it can summarise, reason and write code.",
+      "why": "Fair to both sides, and more accurate."
+    },
+    {
+      "weak": "It always give correct answer.",
+      "strong": "In most cases it's right, but for important facts we should check or give it the source.",
+      "why": "Hedging with \"in most cases\" is honest and professional."
+    },
+    {
+      "weak": "The model learn from our data automatically.",
+      "strong": "It doesn't learn from your conversations unless we choose to train it, which we don't plan to.",
+      "why": "Agreement fixed, and addresses a real customer worry."
+    }
+  ],
+  "model": "At its core, a large language model does one thing: it predicts the next word. It was trained on an enormous amount of text, millions of books and web pages, and it played that guessing game billions of times. To get good at it, it had to pick up grammar, facts, writing styles and even patterns of reasoning. Think of it like a very well-read assistant who has read almost everything but has no internet and no notes. Ask them a question and they answer fluently from memory. That makes it surprisingly good at drafting emails, summarising long reports, answering customer questions and even writing code. That said, the trade-off is reliability. Because it answers from memory, in most cases it's right, but sometimes it misremembers, and it sounds just as confident when it's wrong. So how useful it is for you depends on the task. For drafting and summarising, it's excellent, and a person checks the result anyway. For anything where a wrong answer is costly, like prices or legal terms, we don't let it answer from memory; we give it your official documents and ask it to answer only from those. Does that make sense?",
+  "short": "At its core, it predicts the next word, and it learned that from a huge amount of text. That makes it surprisingly good at drafting, summarising and answering questions. The trade-off is that it answers from memory, so it can be confidently wrong. For important answers, we connect it to your own documents.",
+  "audience": {
+    "engineer": "Under the hood it's a transformer trained with next-token prediction on a huge corpus, then fine-tuned with human feedback to follow instructions. Inference is autoregressive: it samples one token at a time, conditioned on everything in the context window. So the practical levers we control are the prompt, the context we inject, sampling settings, and output constraints like structured output. It has no access to anything outside its weights and the context, which is why it hallucinates on facts it hasn't seen. For this customer that means retrieval over their policy documents, structured outputs for the fields we parse, and an eval set before we ship."
+  },
+  "followUps": [
+    {
+      "q": "Does it learn from our conversations?",
+      "answer": "Not with the business setup we use. Your data isn't used to train the model, and it doesn't remember one conversation in the next unless we build that on purpose. I can share the provider's data policy with your legal team."
+    },
+    {
+      "q": "Is it actually intelligent?",
+      "answer": "It depends on what you mean. It can reason through many problems and explain its steps, which is genuinely useful. But it doesn't have experience of the world like a person. I'd treat it as a very capable assistant whose work still gets reviewed."
+    },
+    {
+      "q": "Why does it give different answers to the same question?",
+      "answer": "Because it chooses each word with a little randomness, a bit like a person never phrasing something exactly the same way twice. For tasks that need consistency, we can reduce that randomness and use fixed formats."
+    }
+  ],
+  "jargon": [
+    "transformer",
+    "neural network",
+    "parameters",
+    "token",
+    "weights",
+    "autoregressive",
+    "inference",
+    "corpus",
+    "context window"
+  ],
+  "selfCheck": [
+    "I gave the core idea in one sentence: predicting the next word.",
+    "I used one analogy and finished it.",
+    "I named strengths with real business examples.",
+    "I hedged honestly about reliability.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

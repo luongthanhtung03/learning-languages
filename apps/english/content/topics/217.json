@@ -1,0 +1,157 @@
+{
+  "ideas": [
+    "AI is priced by tokens: small pieces of text read and written",
+    "The bill grows with usage, long documents and long answers",
+    "We can control it: shorter context, caching, the right model per task"
+  ],
+  "phrases": [
+    {
+      "phrase": "pay per use",
+      "meaning": "the cost depends on how much you use"
+    },
+    {
+      "phrase": "the trade-off is",
+      "meaning": "the cost of one advantage is"
+    },
+    {
+      "phrase": "it depends on",
+      "meaning": "the answer changes based on something"
+    },
+    {
+      "phrase": "in most cases",
+      "meaning": "usually, but not always"
+    },
+    {
+      "phrase": "adds up",
+      "meaning": "small amounts become a large total"
+    },
+    {
+      "phrase": "keep costs under control",
+      "meaning": "stop spending from growing too much"
+    },
+    {
+      "phrase": "a rough estimate",
+      "meaning": "an approximate number"
+    },
+    {
+      "phrase": "bang for your buck",
+      "meaning": "value for the money you spend"
+    }
+  ],
+  "learn": {
+    "explain": "AI models are usually priced by tokens. A token is a small piece of text, roughly three-quarters of an English word; Vietnamese often uses more tokens for the same meaning. You pay for input tokens, everything the model reads, including the instructions, the conversation history and any documents you send, and for output tokens, everything it writes, which are more expensive. So the monthly bill depends on how many requests there are, how much text goes into each one, and how long the answers are. Bills change when usage grows, when a new feature sends whole documents instead of short extracts, or when conversations get long, because the history is re-sent every time. Costs can be controlled with shorter prompts, sending only relevant text, caching repeated content, limiting answer length and using smaller models for simple tasks.",
+    "points": [
+      "You pay for text read (input) and text written (output); output costs more.",
+      "Bills grow with traffic, document length and long conversations.",
+      "Controls: send less text, cache repeated parts, use cheaper models for easy tasks."
+    ],
+    "analogy": "Think of it like a taxi meter. You pay for distance, and the meter runs both ways: reading is like the trip there, writing is the trip back, and the trip back costs more per kilometre. A bill doubles not because the price changed, but because more trips were taken, or longer ones.",
+    "glossary": [
+      {
+        "term": "input / output tokens",
+        "meaning": "text sent to the model / text the model writes"
+      },
+      {
+        "term": "context",
+        "meaning": "everything the model reads for one request"
+      },
+      {
+        "term": "prompt caching",
+        "meaning": "reusing repeated parts of a request at a much lower price"
+      },
+      {
+        "term": "model tiers",
+        "meaning": "larger, smarter, pricier models vs smaller, faster, cheaper ones"
+      },
+      {
+        "term": "rate limit",
+        "meaning": "a maximum number of requests or tokens per minute"
+      }
+    ],
+    "mistakes": [
+      "Explaining tokens without explaining what actually changed in this month's bill.",
+      "Promising a fixed monthly cost for a pay-per-use service.",
+      "Cutting cost by switching to a cheaper model without measuring quality."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Define",
+      "starter": "The AI is priced by tokens, which are small pieces of text…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like a taxi meter…"
+    },
+    {
+      "step": "Why it changed",
+      "starter": "This month the bill went up because…"
+    },
+    {
+      "step": "Controls",
+      "starter": "To keep costs under control, we can…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "The price per token is $3 per million input.",
+      "strong": "Each customer conversation costs about two cents on average.",
+      "why": "Convert unit prices into a number the customer can budget with."
+    },
+    {
+      "weak": "Bill is high because many tokens.",
+      "strong": "The bill went up because the new feature sends the whole contract, not just the relevant pages.",
+      "why": "Explains the specific cause, with articles fixed."
+    },
+    {
+      "weak": "We will use cheaper model.",
+      "strong": "For simple tasks like sorting emails, a smaller model does the job for a fraction of the price.",
+      "why": "Says where the cheaper model is safe to use."
+    },
+    {
+      "weak": "Cost is not fixed, sorry.",
+      "strong": "It's pay per use, but I can give you a rough estimate and an alert if it goes over budget.",
+      "why": "Turns uncertainty into control."
+    },
+    {
+      "weak": "Caching make it cheaper.",
+      "strong": "The instructions are the same for every request, so we can reuse them at a much lower price.",
+      "why": "Explains the idea behind caching in plain words."
+    }
+  ],
+  "model": "The AI is priced like a taxi meter: you pay per use. The unit is a token, a small piece of text, roughly three-quarters of a word. You pay for everything the AI reads, your instructions, the conversation and any documents, and everything it writes, and writing costs more. So the bill depends on three things: how many requests there are, how much text goes into each one, and how long the answers are. This month the bill almost doubled, and when I looked into it, the price didn't change at all. Two things happened. Your usage grew about thirty percent, which is good news. And the new contract-review feature sends the whole contract every time, instead of just the relevant pages. Those small amounts add up. The good news is that we can keep costs under control. First, we send only the relevant pages, which should cut that feature's cost by more than half. Second, the instructions are the same for every request, so we can reuse them at a much lower price. And for simple tasks, like sorting emails, a smaller model gives you better bang for your buck. The trade-off is quality, so we'll test each change first. Based on that, my rough estimate is that next month comes back close to the old level.",
+  "short": "AI is priced per use, like a taxi meter, in small pieces of text called tokens. The bill almost doubled because usage grew thirty percent and the new contract feature sends whole contracts. We'll send only the relevant pages, reuse repeated instructions, and use a smaller model for simple tasks. My rough estimate: back near last month's level.",
+  "audience": {
+    "engineer": "Cost breakdown from the usage logs: requests up about thirty percent month on month, but tokens per request on the contract-review endpoint went from roughly six thousand input tokens to forty-five thousand, because we're stuffing the full contract into context. That one endpoint is now sixty percent of spend. Fixes, in order: retrieve only the relevant clauses instead of the full document; restructure the prompt so the long static system prompt and the tool definitions come first and enable prompt caching on them; cap max tokens on the summary output; and route email triage to a smaller model after checking it holds quality on the eval set. I'd also add a per-tenant cost dashboard with an alert."
+  },
+  "followUps": [
+    {
+      "q": "Can you give us a fixed monthly price instead?",
+      "answer": "The provider charges us per use, so a fixed price would mean either you overpay in quiet months or we take a risk in busy ones. What I can do is set a monthly budget with an alert at eighty percent, so there are never surprises."
+    },
+    {
+      "q": "Will using a cheaper model make the answers worse?",
+      "answer": "For some tasks, yes, which is why we only switch where tests show the quality holds. Sorting emails into five categories is easy; drafting legal summaries is not. We'll match the model to the task."
+    },
+    {
+      "q": "Why is Vietnamese more expensive?",
+      "answer": "Because the text is cut into more, smaller pieces for Vietnamese than for English, so the same message uses more units. It's usually a moderate difference, and we include it in the estimate."
+    }
+  ],
+  "jargon": [
+    "endpoint",
+    "prompt caching",
+    "context window",
+    "max tokens",
+    "tenant",
+    "inference",
+    "throughput"
+  ],
+  "selfCheck": [
+    "I explained pay per use with one analogy.",
+    "I gave the specific reason this bill changed.",
+    "I gave practical ways to reduce the cost.",
+    "I mentioned the quality trade-off.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

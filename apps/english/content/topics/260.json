@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Lead with the risk to the deadline, early",
+    "What's blocking, what you've tried, what you need from them",
+    "Options and your recommendation"
+  ],
+  "phrases": [
+    { "phrase": "I wanted to flag", "meaning": "I wanted to make you aware of a problem" },
+    { "phrase": "there are two options", "meaning": "signposting: introduces options" },
+    { "phrase": "does that make sense", "meaning": "checks understanding" },
+    { "phrase": "at risk", "meaning": "in danger of failing" },
+    { "phrase": "so far I've tried", "meaning": "introduces what you attempted" },
+    { "phrase": "what I need from you is", "meaning": "a clear, specific request" },
+    { "phrase": "my recommendation is", "meaning": "introduces your suggestion" },
+    { "phrase": "sooner rather than later", "meaning": "as early as possible" }
+  ],
+  "learn": {
+    "explain": "Escalating is not complaining or giving up; it's giving your manager the information they need early enough to act. Many juniors escalate too late, because they feel they should solve everything themselves. A good escalation starts with the impact (\"the Friday deadline is at risk\"), explains the blocker briefly, says what you've already tried, makes a specific request (a decision, an introduction, someone's time), and offers options with your recommendation. Keep it short and calm, without blaming anyone. Escalating early, with options, makes you look reliable, not weak.",
+    "points": [
+      "Impact first: what is at risk and by when.",
+      "What's blocking, what you've tried, and a specific request.",
+      "Options with your recommendation; no blame."
+    ],
+    "mistakes": [
+      "Escalating the day before the deadline.",
+      "Complaining about another team or person.",
+      "Bringing the problem without any options."
+    ]
+  },
+  "framework": [
+    { "step": "Impact", "starter": "I wanted to flag that the… deadline is at risk." },
+    { "step": "Blocker", "starter": "The reason is…" },
+    { "step": "Tried", "starter": "So far I've tried…" },
+    { "step": "Options", "starter": "There are two options… My recommendation is…" },
+    { "step": "Request", "starter": "What I need from you is…" }
+  ],
+  "betterWays": [
+    { "weak": "The other team is very slow, it's not my fault.", "strong": "The data team hasn't been able to give us the export yet, so Friday is at risk.", "why": "Facts and impact, without blame." },
+    { "weak": "Maybe we will be late, I'm not sure.", "strong": "I wanted to flag sooner rather than later that Friday is at risk.", "why": "Clear and early." },
+    { "weak": "What should I do?", "strong": "There are two options, and my recommendation is the first one.", "why": "Brings solutions, not just problems." },
+    { "weak": "Can you help?", "strong": "What I need from you is a quick message to their manager to prioritise it.", "why": "A specific request is easy to act on." },
+    { "weak": "I tried everything.", "strong": "So far I've asked three times, and offered to write the export query for them myself.", "why": "Concrete evidence of effort." }
+  ],
+  "model": "Hi Hung, have you got five minutes? I wanted to flag sooner rather than later that the Friday launch for the retail customer is at risk. The reason is that we still don't have the product data export from their data team, and without it the assistant can't answer stock questions, which is the main feature. So far I've tried a few things. I've asked their contact three times since Monday, and I offered to write the export query for them myself, but they say their team is busy with month-end work until next Wednesday. I don't think anyone is doing anything wrong; it's just not a priority for them right now. There are two options. Option one: you or our account manager message their head of IT and ask for it to be prioritised. It's about two hours of work on their side, so if it arrives by Wednesday, we can still launch on Friday. Option two: we launch on Friday without stock questions, and add them the week after. My recommendation is to try option one today, and if there's no answer by Wednesday morning, switch to option two. What I need from you is that message to their head of IT, or the right contact if it shouldn't be you. Does that make sense?",
+  "short": "I wanted to flag that Friday's launch is at risk. We still don't have the product data export from their data team, which the main feature needs. I've asked three times and offered to write the query myself. Two options: you ask their head of IT to prioritise it, or we launch without stock questions. My recommendation is to try the first today. What I need from you is that message.",
+  "followUps": [
+    { "q": "Why didn't you tell me earlier?", "answer": "Fair point. On Monday it still looked like it would arrive in time, but I should have mentioned it as a risk then. In future, I'll flag anything on the critical path as soon as it's late, even by a day." },
+    { "q": "Isn't asking their head of IT going to annoy their team?", "answer": "It might a little, which is why I'd frame it as asking for help with priorities, not complaining. I'd also thank their contact for their effort, and copy them on the message so nothing happens behind their back." },
+    { "q": "What if we launch without stock questions? Will the customer be unhappy?", "answer": "Probably a little, but less than with a late launch. I'd tell them honestly why, and give them a firm date for the stock questions. And their team would get a week of experience with the other features first." }
+  ],
+  "selfCheck": [
+    "I started with what's at risk and by when.",
+    "I explained the blocker without blaming anyone.",
+    "I said what I'd already tried.",
+    "I gave options and a recommendation.",
+    "I made a specific request."
+  ]
+}

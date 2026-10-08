@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Choose a project with a real user and a real result",
+    "Focus on your own decisions and the hardest problem",
+    "End with the impact and what you learned"
+  ],
+  "phrases": [
+    { "phrase": "the situation was", "meaning": "STAR: introduces the context" },
+    { "phrase": "my role was", "meaning": "STAR: says what you were responsible for" },
+    { "phrase": "what I did was", "meaning": "STAR: introduces your action" },
+    { "phrase": "as a result", "meaning": "STAR: introduces the outcome" },
+    { "phrase": "the tricky part was", "meaning": "the most difficult part was" },
+    { "phrase": "I'm proud of", "meaning": "I feel satisfied about my achievement" },
+    { "phrase": "made a real difference", "meaning": "had a significant positive effect" },
+    { "phrase": "if I did it again", "meaning": "introduces what you'd improve" }
+  ],
+  "learn": {
+    "explain": "This question lets the interviewer see how you work: what you think is important, how deep your technical understanding is, and whether you can explain clearly. Pick a project with real users and a real result, where you personally made key decisions. Use STAR, but give the most time to Action: the hardest problem, the options you considered and why you chose one. Say \"I\" for your work, while being fair to your team. Finish with the impact, ideally a number, and one thing you'd do differently. Be ready for deep technical follow-up questions; never claim work you didn't do.",
+    "points": [
+      "The project has a real user and a measurable result.",
+      "Most of the time goes on your decisions and the hardest problem.",
+      "You show reflection: what you'd do differently."
+    ],
+    "mistakes": [
+      "Describing what the project does instead of what you did.",
+      "Saying \"we\" all the time, so your role is unclear.",
+      "Choosing a project that's impressive on paper but you can't explain in depth."
+    ]
+  },
+  "framework": [
+    { "step": "Situation", "starter": "The situation was…" },
+    { "step": "Task", "starter": "My role was…" },
+    { "step": "Action", "starter": "The tricky part was…, so what I did was…" },
+    { "step": "Result", "starter": "As a result,…" },
+    { "step": "Reflection", "starter": "If I did it again, I'd…" }
+  ],
+  "betterWays": [
+    { "weak": "We made a chatbot for university.", "strong": "I led the backend of a chatbot that answers students' questions about university rules.", "why": "Clear about your role with \"I\"." },
+    { "weak": "It use RAG, LangChain, FastAPI, React.", "strong": "The tricky part was making it answer only from official documents, so it didn't invent rules.", "why": "The problem you solved is more interesting than the tool list." },
+    { "weak": "Many students used it.", "strong": "Over the first month, about eight hundred students used it, and the faculty office got thirty percent fewer emails.", "why": "Numbers make the impact real." },
+    { "weak": "I am proud because it is difficult.", "strong": "I'm proud of it because it was the first time something I built made a real difference to people I'd never met.", "why": "A personal, memorable reason." },
+    { "weak": "Everything was perfect.", "strong": "If I did it again, I'd build the test questions at the start, not at the end.", "why": "Reflection shows maturity." }
+  ],
+  "model": "The project I'm proudest of is my capstone. The situation was that students at my university were sending hundreds of emails to the faculty office with the same questions about rules: deadlines, credit transfers, retaking exams. The answers existed, but they were spread across forty PDF documents nobody read. My role was leading the backend in a team of four. We built an assistant that answers students' questions using the official documents. The tricky part was that the first version sometimes invented rules that sounded right but weren't, which is dangerous for something like exam regulations. So what I did was change the design. I made the assistant search the documents first, answer only from what it found, show the exact source, and say \"I don't know, please contact the office\" when it wasn't sure. I also wrote a set of a hundred real questions with the correct answers, so we could measure accuracy after every change. As a result, accuracy went from about seventy to over ninety percent, about eight hundred students used it in the first month, and the office got roughly thirty percent fewer emails. I'm proud of it because it made a real difference to people I'd never met. If I did it again, I'd write those test questions at the very start.",
+  "short": "My capstone: an assistant that answers students' questions about university rules from forty PDF documents. I led the backend. The tricky part was that it invented rules, so I made it answer only from the documents, show the source, and say \"I don't know\" when unsure, and I built a hundred test questions to measure it. Accuracy went from seventy to over ninety percent, and the office got thirty percent fewer emails.",
+  "followUps": [
+    { "q": "How did you measure accuracy exactly?", "answer": "I collected a hundred real student questions from the office's inbox and wrote the correct answer for each, checked by a staff member. After every change, we ran all of them and I marked each answer correct, partly correct or wrong. It was manual, but it gave us honest numbers." },
+    { "q": "What did your teammates do?", "answer": "One built the web interface, one handled collecting and cleaning the documents, and one did the testing with real students. I designed the backend and the answer logic. We met twice a week, and honestly, the document cleaning was harder than any of the code." },
+    { "q": "What would you change if it had ten thousand users?", "answer": "First, cost and speed: I'd cache answers to the most common questions. Second, I'd add a simple way for staff to update documents and see which questions failed, so it improves without an engineer." }
+  ],
+  "selfCheck": [
+    "My role was clear; I said \"I\" for my work.",
+    "Most time went on the hardest problem and my decision.",
+    "I gave a measurable result.",
+    "I said what I'd do differently.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

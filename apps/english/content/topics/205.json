@@ -1,0 +1,158 @@
+{
+  "ideas": [
+    "On-premise: you own and run the servers in your building",
+    "Cloud: you rent computing from a provider and pay for what you use",
+    "The right choice depends on rules, cost pattern and your team"
+  ],
+  "phrases": [
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "pay as you go",
+      "meaning": "pay only for what you use"
+    },
+    {
+      "phrase": "up front",
+      "meaning": "at the beginning, before you get the benefit"
+    },
+    {
+      "phrase": "what this means for you is",
+      "meaning": "links the idea to the listener's benefit"
+    },
+    {
+      "phrase": "it depends on",
+      "meaning": "the answer changes based on something"
+    },
+    {
+      "phrase": "in-house",
+      "meaning": "done inside your own company"
+    },
+    {
+      "phrase": "peace of mind",
+      "meaning": "the feeling of not worrying"
+    },
+    {
+      "phrase": "the best of both worlds",
+      "meaning": "the advantages of two options together"
+    }
+  ],
+  "learn": {
+    "explain": "On-premise (often shortened to on-prem) means the company buys its own servers, puts them in its own building or data centre, and its own IT team runs them. Cloud means renting computing power and storage from a provider like AWS, Azure or Google Cloud over the internet, and paying monthly for what you use. Cloud is faster to start, scales up and down easily, and the provider handles hardware. On-prem gives full control and can be cheaper for steady, predictable workloads, and some industries, like banks or government, have rules that data must stay inside the company or the country. Many companies use both, which is called hybrid. As an FDE you will often deploy into either.",
+    "points": [
+      "On-prem: you own the hardware, big cost up front, full control.",
+      "Cloud: you rent, pay monthly, start fast and scale easily.",
+      "The choice depends on regulations, cost pattern and the skills of the team."
+    ],
+    "analogy": "Think of it like owning a car versus using taxis and rental cars. Owning means a big payment up front, insurance and repairs, but it's always yours and you control everything. Renting means no big payment and someone else fixes it, but if you drive all day every day, renting can end up more expensive.",
+    "glossary": [
+      {
+        "term": "AWS / Azure / GCP",
+        "meaning": "the three biggest cloud providers (Amazon, Microsoft, Google)"
+      },
+      {
+        "term": "hybrid",
+        "meaning": "using both cloud and on-premise together"
+      },
+      {
+        "term": "data residency",
+        "meaning": "rules about which country the data must stay in"
+      },
+      {
+        "term": "CapEx / OpEx",
+        "meaning": "big one-time spending vs regular monthly spending"
+      },
+      {
+        "term": "VPC",
+        "meaning": "a private, isolated network inside the cloud"
+      }
+    ],
+    "mistakes": [
+      "Saying cloud is always better. It depends on the customer.",
+      "Ignoring regulations, which often decide the answer in banks and government.",
+      "Talking only about technology and not about cost and the team."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Define both",
+      "starter": "On-premise means…, while cloud means…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like owning a car versus renting one…"
+    },
+    {
+      "step": "Trade-off",
+      "starter": "It depends on three things…"
+    },
+    {
+      "step": "Recommend",
+      "starter": "For your situation, I'd suggest…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "Cloud is better, everybody use cloud now.",
+      "strong": "Cloud is the default for most companies, but for you it depends on your data rules.",
+      "why": "Doesn't oversell, and ties the answer to the customer's situation."
+    },
+    {
+      "weak": "On-prem has high CapEx.",
+      "strong": "On-premise means a big payment up front for the hardware.",
+      "why": "Replace finance jargon with plain words."
+    },
+    {
+      "weak": "Cloud can scale.",
+      "strong": "With the cloud, if traffic doubles during Tet, we add capacity in minutes and remove it afterwards.",
+      "why": "A local, concrete example of scaling."
+    },
+    {
+      "weak": "I don't know which is better.",
+      "strong": "There's no single right answer, so let me ask you a few questions first.",
+      "why": "Turns uncertainty into a professional next step."
+    },
+    {
+      "weak": "Your data is safe in cloud 100%.",
+      "strong": "The cloud can be very secure, but security depends on how we set it up, not only where it is.",
+      "why": "Never promise 100%; be precise."
+    }
+  ],
+  "model": "On-premise means you buy your own servers, keep them in your building, and your team runs them. The cloud means you rent computing power from a company like Amazon or Microsoft and pay as you go, every month. Think of it like owning a car versus renting one. Owning means a big payment up front, plus insurance and repairs, but it's always yours and you control everything. Renting means no big payment and someone else handles the repairs, but if you drive all day, every day, renting can end up costing more. So which one should you choose? Honestly, it depends on three things. First, rules: as a bank, you may be required to keep customer data in-house or inside Vietnam, and that can decide the question for you. Second, your usage: if traffic jumps around, the cloud is cheaper because you only pay for the busy days. Third, your team: running servers in-house needs people with those skills. What this means for you is that I wouldn't pick yet. For your situation, I'd suggest a quick review with your compliance team. Many banks end up with the best of both worlds: sensitive data on-premise, and everything else in the cloud.",
+  "short": "On-premise means owning your servers; cloud means renting them and paying as you go. It depends on three things: data rules, how steady your usage is, and your team's skills. For a bank, regulations often decide. My suggestion is a short review with compliance first; many banks end up with the best of both worlds, sensitive data in-house and the rest in the cloud.",
+  "audience": {
+    "engineer": "For this customer the main constraint is data residency. Their regulator requires customer PII to stay in their own data centre, so a pure SaaS deployment is off the table. I see two options. One: deploy our whole stack on-prem on their Kubernetes cluster, which means we own upgrades through their change process and lose a lot of velocity. Two: hybrid, where the components that touch PII run on-prem and the stateless parts, like the model gateway and monitoring, run in our cloud VPC, connected through a private link. I'd push for hybrid, but we need their security team to confirm what counts as PII before we commit."
+  },
+  "followUps": [
+    {
+      "q": "Is the cloud safe for bank data?",
+      "answer": "The big providers are used by many banks around the world, and their security is very strong. But safety depends mostly on how we set things up, who has access, and what rules apply to you. That's why I'd involve your security and compliance teams early."
+    },
+    {
+      "q": "Which one is cheaper?",
+      "answer": "In the first year, the cloud is almost always cheaper, because there's no big payment up front. Over five years, if your usage is steady and high, owning can be cheaper. I can put together a simple comparison with your real numbers."
+    },
+    {
+      "q": "Can we change our mind later?",
+      "answer": "Yes, but moving is real work, usually months, not days. So it's worth designing in a way that keeps the option open, for example by not depending on features that only one provider has."
+    }
+  ],
+  "jargon": [
+    "Kubernetes",
+    "VPC",
+    "CapEx",
+    "OpEx",
+    "SaaS",
+    "PII",
+    "data residency",
+    "private link"
+  ],
+  "selfCheck": [
+    "I defined both options in one sentence each.",
+    "I used one analogy and finished it.",
+    "I said \"it depends\" and named what it depends on.",
+    "I gave a recommendation or a clear next step.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

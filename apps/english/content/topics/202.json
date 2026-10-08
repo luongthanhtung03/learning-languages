@@ -1,0 +1,159 @@
+{
+  "ideas": [
+    "A database is organised storage built for many users and lots of data",
+    "Spreadsheets break when many people edit, data grows, or rules matter",
+    "The benefit: one trusted source of truth, fast and safe"
+  ],
+  "phrases": [
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "single source of truth",
+      "meaning": "one place everyone trusts for the correct data"
+    },
+    {
+      "phrase": "at the same time",
+      "meaning": "simultaneously"
+    },
+    {
+      "phrase": "falls apart",
+      "meaning": "stops working well"
+    },
+    {
+      "phrase": "what this means for you is",
+      "meaning": "links the idea to the listener's benefit"
+    },
+    {
+      "phrase": "keeps everything in sync",
+      "meaning": "makes sure all copies show the same data"
+    },
+    {
+      "phrase": "out of date",
+      "meaning": "no longer correct or current"
+    },
+    {
+      "phrase": "at scale",
+      "meaning": "when the amount of data or users is very large"
+    }
+  ],
+  "learn": {
+    "explain": "A database is software designed to store data in an organised way so that many people and programs can read and change it safely and quickly. A spreadsheet like Excel is great for one person exploring a few thousand rows. A database is built for different problems: millions of rows, hundreds of users or apps writing at the same moment, strict rules (an order must belong to a real customer), and the guarantee that a change is either fully saved or not saved at all. Databases also control who can see what, keep backups, and can answer questions over huge amounts of data in milliseconds. Most apps you use have a database behind them.",
+    "points": [
+      "Spreadsheets are for one person analysing; databases are for many people and programs working together.",
+      "Databases enforce rules, so bad or half-saved data doesn't get in.",
+      "The business benefit is trust: everyone sees the same, correct numbers."
+    ],
+    "analogy": "Think of a spreadsheet as a personal notebook and a database as a bank's ledger. A notebook is fine for your own notes, but if fifty people write in it at once, pages get lost and nobody knows which version is right. A bank's ledger has strict rules, records every change, and never shows two different balances for the same account.",
+    "glossary": [
+      {
+        "term": "SQL",
+        "meaning": "the standard language for asking a database questions"
+      },
+      {
+        "term": "query",
+        "meaning": "a question you ask the database, e.g. all orders from May"
+      },
+      {
+        "term": "schema",
+        "meaning": "the structure of the data: which tables and columns exist"
+      },
+      {
+        "term": "transaction",
+        "meaning": "a group of changes that is saved completely or not at all"
+      },
+      {
+        "term": "index",
+        "meaning": "a shortcut that makes finding data much faster, like a book's index"
+      }
+    ],
+    "mistakes": [
+      "Saying spreadsheets are \"bad\". They're fine for small, personal analysis.",
+      "Talking about SQL and indexes instead of the business problem they solve.",
+      "Forgetting the strongest point: many users editing at the same time."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Define",
+      "starter": "A database is basically organised storage for…"
+    },
+    {
+      "step": "Contrast",
+      "starter": "A spreadsheet works well until…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like a notebook versus a bank's ledger…"
+    },
+    {
+      "step": "So what",
+      "starter": "What this means for you is…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "Excel is not good, database is better.",
+      "strong": "Spreadsheets are great for small analysis, but they fall apart when many people use them at the same time.",
+      "why": "Fair to the spreadsheet, and it names the real problem."
+    },
+    {
+      "weak": "Database has ACID and transactions.",
+      "strong": "A database makes sure a change is either fully saved or not saved at all, so you never get half an order.",
+      "why": "Describe the guarantee, not the technical label."
+    },
+    {
+      "weak": "Many people edit the file and it become a mess.",
+      "strong": "When five people edit the same file, nobody knows which version is the right one.",
+      "why": "Past/plural fixed, and a concrete picture of the mess."
+    },
+    {
+      "weak": "It is faster.",
+      "strong": "It can find one customer among ten million in a fraction of a second.",
+      "why": "A number makes \"faster\" believable."
+    },
+    {
+      "weak": "So you should use database.",
+      "strong": "So I'd suggest we move the order data into a database and keep spreadsheets for reporting.",
+      "why": "Article \"a\", and a recommendation that keeps what already works."
+    }
+  ],
+  "model": "A database is basically organised storage for your company's data, built so that many people and many systems can use it at the same time. Now, spreadsheets are great. If you're one person looking at a few thousand rows, a spreadsheet is perfect. But they fall apart in three situations. First, when lots of people edit the same file at the same time, and suddenly there are four versions and nobody knows which one is correct. Second, when the data grows very large and the file takes a minute to open. And third, when you need rules, like every order must belong to a real customer. Think of it like the difference between a personal notebook and a bank's ledger. The notebook is fine for your own notes. The ledger has strict rules, records every change, and never shows two different balances for the same account. What this means for you is a single source of truth. Your sales team, your finance team, and our AI tool all read the same numbers, nothing is out of date, and the system keeps everything in sync automatically, even at scale. Does that make sense?",
+  "short": "A database is organised storage that many people and systems can use at the same time. Spreadsheets are fine for one person, but they fall apart when ten people edit them or the data gets large. What this means for you is a single source of truth: everyone works from the same, up-to-date numbers, so decisions are based on data you can trust.",
+  "audience": {
+    "engineer": "The short version: a spreadsheet has no concurrency control, no constraints and no real query engine. A relational database like Postgres gives us ACID transactions, so concurrent writes don't corrupt each other and a failed write rolls back cleanly. We get a schema with types and foreign keys, so bad data is rejected at write time instead of discovered in a report. Indexes let us filter millions of rows in milliseconds, and we get access control, backups and point-in-time recovery for free. For this customer, I'd keep their Excel exports for the finance team's reporting, but move the order data into Postgres and expose it through our API."
+  },
+  "followUps": [
+    {
+      "q": "Will my team have to learn a new tool?",
+      "answer": "Not necessarily. Your team can keep working in the tools they know. We can connect the database to Excel or to a simple dashboard, so they see the same data, just more reliable and always up to date."
+    },
+    {
+      "q": "Isn't a database expensive?",
+      "answer": "Less than people expect. For a company your size, a managed database in the cloud usually costs less per month than one day of a person fixing spreadsheet errors. And you only pay more if you grow."
+    },
+    {
+      "q": "What happens to the data in our existing spreadsheets?",
+      "answer": "We import it. The first step is cleaning it, because we'll probably find duplicates and missing values. That's actually useful: it's often the first time a company sees how messy its data really is."
+    }
+  ],
+  "jargon": [
+    "SQL",
+    "schema",
+    "query",
+    "index",
+    "ACID",
+    "primary key",
+    "foreign key",
+    "concurrency",
+    "Postgres"
+  ],
+  "selfCheck": [
+    "I was fair to spreadsheets before explaining their limits.",
+    "I gave concrete situations where spreadsheets fall apart.",
+    "I used one analogy and finished it.",
+    "I named the business benefit: one source of truth.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

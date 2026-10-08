@@ -1,0 +1,159 @@
+{
+  "ideas": [
+    "Every change is checked automatically before it reaches users",
+    "Steps: write, review, test, release in small pieces",
+    "Benefit: small, frequent, safe releases instead of big risky ones"
+  ],
+  "phrases": [
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "step by step",
+      "meaning": "in a series of stages"
+    },
+    {
+      "phrase": "catch problems early",
+      "meaning": "find mistakes before they cause damage"
+    },
+    {
+      "phrase": "what this means for you is",
+      "meaning": "links the idea to the listener's benefit"
+    },
+    {
+      "phrase": "a safety net",
+      "meaning": "protection if something goes wrong"
+    },
+    {
+      "phrase": "roll back",
+      "meaning": "return to the previous working version"
+    },
+    {
+      "phrase": "in small batches",
+      "meaning": "a little at a time"
+    },
+    {
+      "phrase": "goes live",
+      "meaning": "becomes available to real users"
+    }
+  ],
+  "learn": {
+    "explain": "CI/CD stands for Continuous Integration and Continuous Delivery (or Deployment). It is the automated path that takes code from a developer's laptop to real users. When a developer finishes a change, they open a pull request. Another engineer reviews it, and at the same time automated tests run to check that nothing is broken: that's continuous integration. If everything passes, the change is merged and the pipeline builds the app and releases it, often first to a test environment, then to a small group of users, then to everyone: that's continuous delivery. Because each change is small and checked automatically, teams can release many times a day with less risk, and if something goes wrong they can quickly go back to the previous version.",
+    "points": [
+      "Every change goes through the same automatic checks; no manual copying of files.",
+      "Small, frequent releases are safer than one big release every few months.",
+      "If something breaks, rolling back to the last good version takes minutes."
+    ],
+    "analogy": "Think of it like a car factory production line. Every car passes the same quality checks at every station, automatically, before it leaves the factory. If one station finds a problem, the line stops and that car never reaches a customer.",
+    "glossary": [
+      {
+        "term": "pull request (PR)",
+        "meaning": "a request to add your change to the main code, so others can review it"
+      },
+      {
+        "term": "pipeline",
+        "meaning": "the automated sequence of steps: build, test, release"
+      },
+      {
+        "term": "staging",
+        "meaning": "a copy of the real system used for final testing"
+      },
+      {
+        "term": "canary release",
+        "meaning": "releasing to a small group of users first to see if it's safe"
+      },
+      {
+        "term": "rollback",
+        "meaning": "going back to the previous working version"
+      }
+    ],
+    "mistakes": [
+      "Describing the tool (GitHub Actions, Jenkins) instead of the process.",
+      "Forgetting why it matters to the business: speed and safety together.",
+      "Saying \"tests mean no bugs\". Tests reduce risk; they don't remove it."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Overview",
+      "starter": "Every change goes through the same path, step by step…"
+    },
+    {
+      "step": "Steps",
+      "starter": "First it's reviewed, then it's tested, then…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like a factory production line…"
+    },
+    {
+      "step": "So what",
+      "starter": "What this means for you is…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "We have CI/CD pipeline with GitHub Actions.",
+      "strong": "Every change goes through the same automatic checks before it reaches your users.",
+      "why": "The process and the benefit, not the tool."
+    },
+    {
+      "weak": "Developer push code and it deploy automatically.",
+      "strong": "Once a change is reviewed and the tests pass, it goes live automatically.",
+      "why": "Passive voice keeps the focus on the change; agreement fixed."
+    },
+    {
+      "weak": "If there is bug we can rollback.",
+      "strong": "If something goes wrong, we can roll back to the last working version in a few minutes.",
+      "why": "Article \"a\", \"roll back\" as a verb, and a time frame."
+    },
+    {
+      "weak": "We release very often so it's good.",
+      "strong": "We release in small batches, so each release is easy to check and easy to undo.",
+      "why": "Explains why frequent releases are safer."
+    },
+    {
+      "weak": "Testing is very important.",
+      "strong": "The tests act as a safety net that catches problems early, before any customer sees them.",
+      "why": "A clear image instead of a general statement."
+    }
+  ],
+  "model": "Every change our developers make goes through the same path, step by step, before it reaches your users. First, the developer finishes a small change on their laptop and asks a colleague to review it. While the colleague reads it, a set of automatic tests runs, checking that nothing that worked yesterday is broken today. If the review and the tests pass, the change is released, first to a test copy of the system, then to a small group of users, and finally to everyone. Think of it like a production line in a car factory. Every car passes the same quality checks at every station, and if one station finds a problem, the line stops and that car never leaves the factory. The automatic tests are our safety net: they catch problems early. What this means for you is two things. First, speed: we release in small batches, several times a week, so the improvements you ask for arrive in days, not months. Second, safety: because each change is small, if something does go wrong after it goes live, we can roll back to the last working version in a few minutes.",
+  "short": "Every change goes through the same automatic path: a colleague reviews it, tests check nothing is broken, and only then does it reach your users, first a small group, then everyone. What this means for you is speed and safety together: improvements arrive in days, and if something goes wrong, we roll back in minutes.",
+  "audience": {
+    "engineer": "Our flow is trunk-based. You branch, open a PR, and the pipeline in GitHub Actions runs lint, unit tests and integration tests against a Postgres container, usually in about eight minutes. One approval plus a green build lets you merge. Merging to main builds a Docker image, deploys it to staging, and runs smoke tests. Production deploys are a canary: five percent of traffic for fifteen minutes while we watch error rate and latency, then a full rollout. Rollback is just redeploying the previous image tag. Feature flags let us merge unfinished work safely, so please wrap anything user-facing in a flag."
+  },
+  "followUps": [
+    {
+      "q": "Can we test new features before our users see them?",
+      "answer": "Yes. We can switch a new feature on just for your team first. You try it in the real system, give us feedback, and only then do we turn it on for everyone."
+    },
+    {
+      "q": "What if a bug still gets through?",
+      "answer": "It can happen; tests reduce risk, they don't remove it. That's why we release to a small group first and watch closely. If we see a problem, we roll back in minutes, then fix it properly."
+    },
+    {
+      "q": "Why can't you release on Friday afternoon?",
+      "answer": "We technically can, but we usually avoid it. If something goes wrong on Friday evening, fewer people are around to fix it. It's a small habit that protects your weekend and ours."
+    }
+  ],
+  "jargon": [
+    "pipeline",
+    "pull request",
+    "merge",
+    "staging",
+    "canary",
+    "Docker",
+    "GitHub Actions",
+    "trunk",
+    "feature flag"
+  ],
+  "selfCheck": [
+    "I described the steps in order, with first / then / finally.",
+    "I used one analogy and finished it.",
+    "I gave both benefits: speed and safety.",
+    "I avoided tool names with the non-technical listener.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

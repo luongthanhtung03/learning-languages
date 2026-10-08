@@ -1,7 +1,7 @@
 import { db } from "../db";
 import type { SpeechStats } from "./stats";
 import { completedTopicCounts, listSessions, sessionRecordings } from "./store";
-import { loadTopics } from "./topics";
+import { loadTopics, MONTHLY_TOPIC } from "./topics";
 
 export function speakingOverview() {
   const book = loadTopics();
@@ -48,13 +48,13 @@ export function speakingTrend() {
   };
 }
 
-/** Monthly self-check: Topic 11, first (cold) round each time, compared over time. */
+/** Monthly self-check: the monthly topic, first (cold) round each time, compared over time. */
 export function monthlySeries() {
   const rows = db()
     .prepare(
       `SELECT s.date, s.kind, r.stats FROM speaking_sessions s JOIN recordings r ON r.session_id = s.id
-       WHERE s.topic_no = 11 AND r.round = 1 AND r.stats IS NOT NULL ORDER BY s.date`,
+       WHERE s.topic_no = ? AND r.round = 1 AND r.stats IS NOT NULL ORDER BY s.date`,
     )
-    .all() as { date: string; kind: string; stats: string }[];
+    .all(MONTHLY_TOPIC) as { date: string; kind: string; stats: string }[];
   return rows.map((r) => ({ date: r.date, kind: r.kind, ...(JSON.parse(r.stats) as SpeechStats) }));
 }

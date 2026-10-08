@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "One-sentence summary: the problem, the users, your role",
+    "How it works, at the level the interviewer wants",
+    "A key decision, the result, what you'd improve"
+  ],
+  "phrases": [
+    { "phrase": "in a nutshell", "meaning": "in a short summary" },
+    { "phrase": "the situation was", "meaning": "STAR: introduces the context" },
+    { "phrase": "my role was", "meaning": "STAR: says what you were responsible for" },
+    { "phrase": "what I did was", "meaning": "STAR: introduces your action" },
+    { "phrase": "as a result", "meaning": "STAR: introduces the outcome" },
+    { "phrase": "at a high level", "meaning": "without detail, the big picture" },
+    { "phrase": "happy to go deeper", "meaning": "offer to give more detail" },
+    { "phrase": "the main trade-off", "meaning": "the most important compromise" }
+  ],
+  "learn": {
+    "explain": "\"Walk me through\" questions test whether you really understand your own work and whether you can structure a technical explanation for different listeners. Start with a one-sentence summary: the problem, the users, and your role. Then give a high-level picture of how it works, the main parts and how data flows, before any details. Choose one important decision, explain the trade-off you made, and give the result. Stop after about two minutes and offer to go deeper, so the interviewer can steer. Watch their reaction and adjust the level: an engineering interviewer may want architecture details, a hiring manager wants impact.",
+    "points": [
+      "One-sentence summary first: problem, users, your role.",
+      "Big picture before details; one key decision with its trade-off.",
+      "Stop and offer to go deeper; let the interviewer steer."
+    ],
+    "mistakes": [
+      "Starting with the tech stack instead of the problem.",
+      "Talking for five minutes without checking if the level is right.",
+      "Not being able to explain a decision when asked \"why?\"."
+    ]
+  },
+  "framework": [
+    { "step": "Summary", "starter": "In a nutshell, it's a … that helps … to …" },
+    { "step": "Big picture", "starter": "At a high level, it has three parts…" },
+    { "step": "Decision", "starter": "The main trade-off was… so what I did was…" },
+    { "step": "Result", "starter": "As a result,…" },
+    { "step": "Offer", "starter": "I'm happy to go deeper into any part." }
+  ],
+  "betterWays": [
+    { "weak": "We used React, FastAPI, Postgres and Docker.", "strong": "In a nutshell, it's a dashboard that helps the operations team find late deliveries before customers complain.", "why": "Problem and users first; the stack can come later." },
+    { "weak": "First the user open the page and then…", "strong": "At a high level, it has three parts: data import, the delivery status logic, and the dashboard.", "why": "Structure first, then details." },
+    { "weak": "We chose Postgres because it's good.", "strong": "We chose Postgres over a NoSQL database because the data was very relational and the team already knew it.", "why": "A real reason with context." },
+    { "weak": "That's it.", "strong": "I'm happy to go deeper into any part, maybe the data import, which was the trickiest.", "why": "Invites the interviewer and suggests your strongest area." },
+    { "weak": "It is working well.", "strong": "As a result, late deliveries were spotted on average three hours earlier.", "why": "A measurable result." }
+  ],
+  "model": "Sure. In a nutshell, it's a dashboard that helps a logistics company's operations team find late deliveries before customers complain. The situation was that the team tracked around two thousand deliveries a day in shared spreadsheets, updated by hand from three different systems. My role was building the backend and part of the frontend, during a six-month internship. At a high level, it has three parts. First, an import job that pulls delivery updates from the three systems every five minutes. Second, the status logic, which decides if a delivery is on time, at risk, or late, based on distance and the driver's current position. And third, the dashboard itself, which shows the at-risk list first. The main trade-off was in the import. Real-time updates would have been nicer, but one of the systems only offered file exports. So what I did was choose a five-minute schedule for all three, which kept the design simple and consistent, and I made the dashboard show when each source was last updated, so nobody was misled. As a result, late deliveries were spotted about three hours earlier on average, and the team stopped two hours of manual updates a day. I'm happy to go deeper into any part; the import was probably the trickiest.",
+  "short": "In a nutshell, it's a dashboard that helps a logistics operations team find late deliveries early. It has three parts: an import job pulling from three systems, the status logic, and the dashboard. The main trade-off: one system only had file exports, so I used a simple five-minute schedule for all of them. As a result, delays were spotted three hours earlier.",
+  "followUps": [
+    { "q": "How did you handle it when one of the source systems was down?", "answer": "The import for each source ran separately, so one failure didn't stop the others. The dashboard showed a warning with the time of the last successful update for that source, and the job retried a few times before alerting us." },
+    { "q": "How did you decide what counts as \"at risk\"?", "answer": "I didn't decide alone. I sat with two operators and asked how they judged it in their heads. Their rule was roughly: if the remaining distance can't be covered by the promised time at normal speed. I turned that into code and we tuned it together over two weeks." },
+    { "q": "What would you change now?", "answer": "I'd add automated tests around the status logic much earlier. We had a bug where deliveries crossing midnight were marked late, and a few simple tests would have caught it before the operators did." }
+  ],
+  "selfCheck": [
+    "I started with a one-sentence summary.",
+    "I gave the big picture before details.",
+    "I explained one decision and its trade-off.",
+    "I gave a result and offered to go deeper.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

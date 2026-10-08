@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "You noticed a problem nobody had asked you to solve",
+    "You checked it was worth it, did it without dropping your main work",
+    "It helped others, and you learned from it"
+  ],
+  "phrases": [
+    { "phrase": "looking back", "meaning": "thinking about the past now" },
+    { "phrase": "what I learned was", "meaning": "introduces the lesson" },
+    { "phrase": "I took responsibility for", "meaning": "I accepted that something was my job" },
+    { "phrase": "nobody had asked me to", "meaning": "it wasn't part of my assigned work" },
+    { "phrase": "go the extra mile", "meaning": "do more than is expected" },
+    { "phrase": "scratch my own itch", "meaning": "solve a problem that bothered me personally" },
+    { "phrase": "without dropping", "meaning": "while still doing other responsibilities" },
+    { "phrase": "as a result", "meaning": "introduces the outcome" }
+  ],
+  "learn": {
+    "explain": "This question looks for initiative and ownership, the habit of noticing problems and fixing them without being told, which is central to the FDE role. A good story shows you noticed something that hurt users or the team, checked that it was worth solving and told your lead, did it without neglecting your assigned work, and produced a result others benefited from. Avoid stories where you just worked extra hours on the same task, or where you went beyond scope in a way that caused problems, like changing things nobody approved.",
+    "points": [
+      "You noticed a real problem outside your assigned work.",
+      "You checked with your lead and didn't neglect your main work.",
+      "Others benefited, ideally in a lasting way."
+    ],
+    "mistakes": [
+      "\"I stayed late every day\" as the example of going beyond.",
+      "Doing unapproved changes that surprised people.",
+      "A story with no benefit to anyone else."
+    ]
+  },
+  "framework": [
+    { "step": "Notice", "starter": "Nobody had asked me to, but I noticed that…" },
+    { "step": "Check", "starter": "Before starting, I checked with my lead…" },
+    { "step": "Action", "starter": "So I took responsibility for… without dropping…" },
+    { "step": "Result", "starter": "As a result,…" },
+    { "step": "Lesson", "starter": "Looking back, what I learned was…" }
+  ],
+  "betterWays": [
+    { "weak": "I worked overtime many days.", "strong": "Nobody had asked me to, but I noticed every new intern lost their first week setting up.", "why": "Initiative is about noticing problems, not hours." },
+    { "weak": "I just did it by myself.", "strong": "Before starting, I checked with my lead that it was worth my time.", "why": "Shows initiative with good judgement." },
+    { "weak": "I made a document.", "strong": "I wrote a setup guide and a script that set up the whole project in one command.", "why": "Specific output." },
+    { "weak": "It was helpful.", "strong": "As a result, the next two interns were writing code on their first day.", "why": "Measurable benefit to others." },
+    { "weak": "I like to help.", "strong": "What I learned was that small fixes to everyday annoyances often have the biggest impact.", "why": "A thoughtful lesson rather than a personality claim." }
+  ],
+  "model": "Nobody had asked me to, but in my first week as an intern, I noticed that setting up the project on a new laptop took almost four days. The instructions were out of date, some steps were only in one senior engineer's head, and I kept interrupting people with questions. I realised every new person was losing a week, and taking time from the seniors too. Before starting, I checked with my lead that it was worth my time, and she agreed, as long as my main task stayed on track. So I took responsibility for fixing it without dropping my actual work. Every time I hit a problem during setup, I wrote it down with the solution. Then, over the next two weeks, mostly at the end of the day, I turned my notes into a clear setup guide and a script that set up the whole project, including test data, with one command. I asked another intern to try it on a fresh laptop and fixed the steps that confused her. As a result, the next two interns were writing code on their first day, and the seniors got their time back. Looking back, what I learned was that small fixes to everyday annoyances often have the biggest impact, and that new people see these problems most clearly.",
+  "short": "Nobody had asked me to, but I noticed project setup took new people almost four days. I checked with my lead, then, alongside my main task, I turned my setup notes into a clear guide and a one-command setup script, tested by another intern. As a result, the next two interns were coding on day one. Small fixes to everyday annoyances often have the biggest impact.",
+  "followUps": [
+    { "q": "How do you decide if something outside your job is worth doing?", "answer": "I ask how many people it affects, how often, and how long it would take me. If it's small, frequent and painful, it's usually worth it. And I always mention it to my lead first, so it doesn't surprise anyone." },
+    { "q": "Did this affect your main work?", "answer": "No, I kept my main task on schedule. Most of the guide was written from notes I was taking anyway, and the script took about three evenings. If it had started affecting my main task, I would have paused it." },
+    { "q": "What would you do if you saw a problem at a customer that's not in the project scope?", "answer": "I'd tell the customer and my manager about it, with my estimate of the impact. Then we'd decide together whether to add it, plan it for later, or leave it, because changing scope at a customer affects cost and timelines." }
+  ],
+  "selfCheck": [
+    "The problem was outside my assigned work.",
+    "I showed I checked with my lead.",
+    "My main work didn't suffer.",
+    "Others benefited in a measurable way.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

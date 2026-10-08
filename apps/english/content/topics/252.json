@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Respect their time: ask if it's a good moment",
+    "Goal, what you tried, what happened, your best guess",
+    "A specific question, not \"it doesn't work\""
+  ],
+  "phrases": [
+    { "phrase": "have you got a few minutes", "meaning": "a polite way to ask for someone's time" },
+    { "phrase": "there are three things", "meaning": "signposting: introduces a list" },
+    { "phrase": "does that make sense", "meaning": "checks understanding" },
+    { "phrase": "I've been stuck on", "meaning": "I have been unable to solve" },
+    { "phrase": "so far I've tried", "meaning": "introduces the things you already attempted" },
+    { "phrase": "my best guess is", "meaning": "my most likely explanation" },
+    { "phrase": "point me in the right direction", "meaning": "give me a hint about where to look" },
+    { "phrase": "I'd really appreciate it", "meaning": "a polite way to thank in advance" }
+  ],
+  "learn": {
+    "explain": "Asking for help well is a skill senior engineers notice immediately. A good request respects their time and makes it easy to help: ask if it's a good moment, state your goal (what you're trying to achieve, not just the error), what you've already tried and what happened, your best guess, and a specific question. Have the error message, logs or a small example ready. This often lets them answer in five minutes, and sometimes you solve it yourself while preparing. Afterwards, say thanks and share what fixed it, so the knowledge isn't lost.",
+    "points": [
+      "Goal first, then what you tried and what happened.",
+      "Your best guess and a specific question make it easy to help.",
+      "Have the evidence ready, and share the solution afterwards."
+    ],
+    "mistakes": [
+      "\"It doesn't work, can you help?\" with no context.",
+      "Waiting days before asking.",
+      "Asking the senior to take over instead of guiding you."
+    ]
+  },
+  "framework": [
+    { "step": "Permission", "starter": "Have you got a few minutes? I've been stuck on…" },
+    { "step": "Goal", "starter": "What I'm trying to do is…" },
+    { "step": "Tried", "starter": "So far I've tried… and…" },
+    { "step": "Guess", "starter": "My best guess is…" },
+    { "step": "Question", "starter": "Could you point me in the right direction on…?" }
+  ],
+  "betterWays": [
+    { "weak": "My code doesn't work, can you check?", "strong": "Have you got a few minutes? I've been stuck on the order sync since yesterday.", "why": "Polite, and gives context immediately." },
+    { "weak": "I tried many things.", "strong": "So far I've tried increasing the timeout and running it with a single order; the single order works.", "why": "Specific attempts help them skip obvious ideas." },
+    { "weak": "I don't know why.", "strong": "My best guess is that their system limits how many requests we send per minute.", "why": "Shows you've thought about it." },
+    { "weak": "Can you fix it for me?", "strong": "Could you point me in the right direction? I'd like to fix it myself, but I'm not sure where to look.", "why": "Asks for guidance, not rescue." },
+    { "weak": "Thanks.", "strong": "Thanks a lot. I'll write down the fix in the team notes so the next person doesn't get stuck.", "why": "Shares the knowledge and shows ownership." }
+  ],
+  "model": "Hi Lan, have you got a few minutes? I've been stuck on the order sync since yesterday, and I think I've reached the point where asking is faster than guessing. There are three things I'd like to tell you quickly. First, what I'm trying to do: sync the customer's orders into our system every hour. It works for small batches, but when there are more than about two hundred orders, it fails halfway with a timeout error. Second, so far I've tried increasing the timeout, which didn't help, and running it with a single order, which works fine. I also checked their system's status page, and there was no outage. Third, my best guess is that their system limits how many requests we can send per minute, and we're hitting that limit. But I can't find anything about it in their documentation, so I'm not sure. I've got the error logs and the exact times open here. Could you point me in the right direction? I'd like to fix it myself, but I'm not sure whether to look at our code or at their settings. Does that make sense? I'd really appreciate it, and once it's fixed, I'll write it up in the team notes so the next person doesn't get stuck on the same thing.",
+  "short": "Have you got a few minutes? I've been stuck on the order sync. It fails with a timeout above about two hundred orders. So far I've tried a longer timeout, which didn't help, and a single order, which works. My best guess is a rate limit on their side, but it's not documented. Could you point me in the right direction? I'll write up the fix afterwards.",
+  "followUps": [
+    { "q": "Why didn't you ask yesterday?", "answer": "I wanted to rule out the obvious causes first, so I didn't waste your time. But you're right that a full day is too long; I'm trying to stick to a rule of asking after about an hour of being truly stuck." },
+    { "q": "What would you do if I wasn't available?", "answer": "I'd post the same summary in the team channel, so anyone could answer. Meanwhile, I'd try contacting the customer's IT team to ask about limits, and continue with another task so I'm not blocked." },
+    { "q": "Have you checked the response headers?", "answer": "Not yet, good idea. If they're limiting us, the headers might show how many requests we have left. Let me check that now; that might answer the question without taking more of your time." }
+  ],
+  "selfCheck": [
+    "I asked if it was a good moment.",
+    "I explained the goal, not just the error.",
+    "I said what I'd tried and my best guess.",
+    "I asked a specific question and for guidance, not rescue.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

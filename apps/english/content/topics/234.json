@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "A real, fixed deadline and too much work",
+    "You cut scope, focused on what mattered, and communicated early",
+    "Delivered the core on time and followed up on the rest"
+  ],
+  "phrases": [
+    { "phrase": "looking back", "meaning": "thinking about the past now" },
+    { "phrase": "what I learned was", "meaning": "introduces the lesson" },
+    { "phrase": "I took responsibility for", "meaning": "I accepted that something was my job" },
+    { "phrase": "under pressure", "meaning": "in a stressful situation with little time" },
+    { "phrase": "must-have", "meaning": "absolutely necessary" },
+    { "phrase": "nice-to-have", "meaning": "useful but not necessary" },
+    { "phrase": "flag it early", "meaning": "warn people about a problem as soon as possible" },
+    { "phrase": "as a result", "meaning": "introduces the outcome" }
+  ],
+  "learn": {
+    "explain": "The interviewer is checking how you behave under pressure: do you panic, work all night silently, cut quality secretly, or manage it professionally? Strong answers show you understood what really had to be delivered (the must-haves), cut or postponed the nice-to-haves after agreeing with the right person, communicated early about risks, and protected quality in the parts that matter. Working long hours can be part of the story but shouldn't be the main solution. End with what was delivered and what happened to the postponed parts.",
+    "points": [
+      "You separated must-haves from nice-to-haves and agreed the cut.",
+      "You flagged the risk early instead of hoping.",
+      "You delivered the core on time and handled the rest later."
+    ],
+    "mistakes": [
+      "\"I worked all night for a week\" as the whole solution.",
+      "Quietly lowering quality without telling anyone.",
+      "A story where the deadline was missed and nothing was learned."
+    ]
+  },
+  "framework": [
+    { "step": "Situation", "starter": "We had… days until…, and…" },
+    { "step": "Prioritise", "starter": "I split the work into must-haves and nice-to-haves…" },
+    { "step": "Communicate", "starter": "I flagged it early with…" },
+    { "step": "Result", "starter": "As a result,…" },
+    { "step": "Lesson", "starter": "Looking back, what I learned was…" }
+  ],
+  "betterWays": [
+    { "weak": "I worked very hard, every night until 2am.", "strong": "I worked some long days, but what really saved us was cutting the scope.", "why": "Effort is fine; good decisions matter more." },
+    { "weak": "We didn't have time so we skip testing.", "strong": "We kept testing on the core feature and postponed the extra reports instead.", "why": "Protects quality where it matters; tense fixed." },
+    { "weak": "I told them at the last day.", "strong": "I flagged it early, on day two, so the teacher had time to react.", "why": "Early communication is the key skill." },
+    { "weak": "All features are important.", "strong": "Not everything was a must-have; the demo only needed the question-answering to work well.", "why": "Shows prioritisation." },
+    { "weak": "Finally it was done.", "strong": "As a result, we delivered the core on time, and added the rest in the following two weeks.", "why": "Clear result, including the postponed work." }
+  ],
+  "model": "In my final year, our capstone demo was moved forward by ten days because the faculty changed the schedule. We suddenly had two weeks for about four weeks of work, and the demo was in front of the whole department, so the date couldn't move. I took responsibility for re-planning, because I was the team lead for the technical side. First, I listed everything left and split it into must-haves and nice-to-haves. The must-have was simple: students ask a question and get a correct answer with the source. The nice-to-haves were the admin page, the usage statistics and the Vietnamese-English switch. Then I flagged it early. On day two I wrote to our supervisor with the new plan, explaining what we'd show at the demo and what would come two weeks later. She agreed straight away, and she was glad to know before the demo rather than during it. Under pressure, the team wanted to skip testing, but we kept our hundred test questions running every day, because a wrong answer in the demo would be worse than a missing feature. As a result, the demo went smoothly, and we added the other features in the next two weeks. Looking back, what I learned was that cutting scope early is much better than working all night.",
+  "short": "Our capstone demo was moved ten days earlier, leaving two weeks for four weeks of work. I split the work into must-haves and nice-to-haves, flagged the new plan to our supervisor on day two, and kept daily testing on the core feature. As a result, the demo went smoothly and the extras followed two weeks later. Cutting scope early beats working all night.",
+  "followUps": [
+    { "q": "What if your supervisor had said no to cutting features?", "answer": "Then I'd have asked which feature mattered most to her and swapped it for something else on the list. If everything truly had to be done, I'd be honest about the risk and ask for help, like extra people for the admin page." },
+    { "q": "How did the team feel about the pressure?", "answer": "Stressed at first. What helped was a fifteen-minute meeting every morning, so everyone knew exactly what to do that day, and celebrating small wins, like the first full test run passing." },
+    { "q": "How do you handle deadlines you think are unrealistic?", "answer": "I say so early, with reasons, and offer options: less scope by the same date, or the full scope later. The worst thing is to agree to something I know is impossible." }
+  ],
+  "selfCheck": [
+    "I separated must-haves from nice-to-haves.",
+    "I said when and how I flagged the risk.",
+    "I protected quality where it mattered.",
+    "Long hours weren't my main solution.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

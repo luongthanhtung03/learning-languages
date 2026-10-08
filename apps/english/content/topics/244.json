@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Welcome the idea; don't say no immediately",
+    "Make the trade-off visible: time, cost or something else moves",
+    "Offer options and let them choose"
+  ],
+  "phrases": [
+    { "phrase": "I completely understand", "meaning": "shows empathy" },
+    { "phrase": "what I'd suggest is", "meaning": "a polite way to recommend" },
+    { "phrase": "let me make sure I've got this right", "meaning": "introduces a summary to check understanding" },
+    { "phrase": "it's a great idea", "meaning": "shows positive reaction" },
+    { "phrase": "something has to give", "meaning": "one thing must be reduced or delayed" },
+    { "phrase": "there are two options", "meaning": "introduces choices" },
+    { "phrase": "it's your call", "meaning": "you decide" },
+    { "phrase": "put it in writing", "meaning": "document the agreement" }
+  ],
+  "learn": {
+    "explain": "Scope creep is when small extra requests keep being added to a project. Each one sounds small, but together they delay launch and exhaust the team. The customer isn't being difficult; they simply see new possibilities as the project becomes real. They need you to stay positive about the idea while being clear that time and capacity are fixed: if something is added, something else has to give. Present options, such as adding it after launch, swapping it for another feature, or extending the timeline, and let them decide. Then confirm the decision in writing. This protects the project and the relationship.",
+    "points": [
+      "Be positive about the idea; it often shows they're engaged.",
+      "Make the trade-off visible: adding means delaying or swapping.",
+      "Offer options, let them choose, and confirm in writing."
+    ],
+    "mistakes": [
+      "Saying yes to every small request to keep them happy.",
+      "Saying \"that's not in the contract\" in a cold way.",
+      "Agreeing verbally and never writing it down."
+    ]
+  },
+  "framework": [
+    { "step": "Welcome", "starter": "It's a great idea, and I can see why you'd want it." },
+    { "step": "Clarify", "starter": "Let me make sure I've got this right…" },
+    { "step": "Trade-off", "starter": "The honest answer is that something has to give…" },
+    { "step": "Options", "starter": "There are two options…" },
+    { "step": "Confirm", "starter": "It's your call; I'll put it in writing once you decide." }
+  ],
+  "betterWays": [
+    { "weak": "It's not in the contract, so no.", "strong": "It's a great idea; let's look at how we can fit it in.", "why": "Positive first; the contract can come later if needed." },
+    { "weak": "OK, we will add it.", "strong": "We can add it, but something has to give: either the launch moves a week, or we swap it with another feature.", "why": "Makes the trade-off visible." },
+    { "weak": "It is not small, it is big.", "strong": "It looks small from the outside, but it touches the login system, so it's about a week of work.", "why": "Explains why without contradicting them." },
+    { "weak": "What do you want to do?", "strong": "There are two options, and it's your call.", "why": "Gives structure and respects their authority." },
+    { "weak": "OK, deal.", "strong": "Great, I'll put it in writing today so everyone on both teams is on the same page.", "why": "Protects both sides." }
+  ],
+  "model": "It's a great idea, and I can see why you'd want it now that the team is using the assistant every day. Let me make sure I've got this right: you'd like staff to be able to ask the assistant about their leave balance as well, not just about company policies. Is that right? … OK. I completely understand it sounds like one more small thing. From the outside, it's just one more question type. But behind the scenes, it means connecting to your HR system, which handles personal data, so it needs extra security checks and testing with your HR team. Realistically, that's about a week and a half of work. Our launch is in three weeks, and the plan is full. So, honestly, something has to give. There are two options. Option one: we launch on time as planned, and add leave balances in the first two weeks after launch. Option two: we add it now and move the launch back by about ten days. What I'd suggest is option one, because the team gets value sooner and we can take our time with the HR data. But it's your call. Once you decide, I'll put it in writing so both teams are on the same page.",
+  "short": "It's a great idea. Let me make sure I've got this right: staff asking about their leave balance? It needs a connection to your HR system, so about ten days of work. Something has to give. Option one: launch on time, add it two weeks after. Option two: add it now, launch ten days later. I'd suggest option one, but it's your call.",
+  "followUps": [
+    { "q": "Can't your team just work a bit harder to fit it in?", "answer": "I understand the wish, but the plan is already full, and rushing the part that touches personal data is exactly where mistakes happen. I'd rather deliver it properly two weeks later than risk a problem with your staff's data." },
+    { "q": "What if we add more small things later?", "answer": "That's completely normal once people start using it. I'd suggest we keep a shared list, and every two weeks we look at it together and decide what goes into the next phase. That way, nothing gets lost and the launch stays safe." },
+    { "q": "Will this cost more?", "answer": "If we add it after launch, it fits inside the support phase we've already agreed. If several more requests come in, we might need to discuss a second phase, but I'd always tell you before any extra cost, never after." }
+  ],
+  "selfCheck": [
+    "I welcomed the idea first.",
+    "I explained why it's bigger than it looks, without arguing.",
+    "I said clearly that something has to give.",
+    "I gave options and let them decide.",
+    "I offered to confirm in writing."
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "ideas": [
+    "RAG: find the relevant documents first, then let the AI answer from them",
+    "It lets the AI use your private, up-to-date information",
+    "Answers can show their sources"
+  ],
+  "phrases": [
+    {
+      "phrase": "look it up",
+      "meaning": "search for information"
+    },
+    {
+      "phrase": "open-book exam",
+      "meaning": "a test where you can use your notes"
+    },
+    {
+      "phrase": "the trade-off is",
+      "meaning": "the cost of one advantage is"
+    },
+    {
+      "phrase": "in most cases",
+      "meaning": "usually, but not always"
+    },
+    {
+      "phrase": "it depends on",
+      "meaning": "the answer changes based on something"
+    },
+    {
+      "phrase": "up to date",
+      "meaning": "current, recent"
+    },
+    {
+      "phrase": "garbage in, garbage out",
+      "meaning": "bad input data gives bad results"
+    },
+    {
+      "phrase": "point to the source",
+      "meaning": "show where information came from"
+    }
+  ],
+  "learn": {
+    "explain": "RAG stands for retrieval-augmented generation. A language model only knows what it saw in training; it has never seen your company's contracts, product manuals or support tickets. RAG solves this in two steps. First, retrieval: when a question comes in, the system searches your documents and picks the few passages most likely to contain the answer. Second, generation: those passages are given to the model together with the question, and it is told to answer using them. Because the information is looked up each time, it stays up to date without retraining the model, and the answer can point to the exact source. The quality depends heavily on the search step and on the documents themselves: if the right passage isn't found, or the documents are wrong, the answer will be too.",
+    "points": [
+      "Two steps: search your documents, then answer using what was found.",
+      "Works with private and recent information, without retraining the model.",
+      "Quality depends on search and on clean, current documents."
+    ],
+    "analogy": "Think of it as the difference between a closed-book and an open-book exam. Without RAG, the model answers from memory. With RAG, before each question, an assistant runs to the library, finds the three most relevant pages, and puts them on the desk. The student still writes the answer, but now from the right pages.",
+    "glossary": [
+      {
+        "term": "retrieval",
+        "meaning": "the search step that finds relevant passages"
+      },
+      {
+        "term": "chunk",
+        "meaning": "a small piece of a document, e.g. a few paragraphs"
+      },
+      {
+        "term": "embedding",
+        "meaning": "a list of numbers representing meaning, used to search by meaning"
+      },
+      {
+        "term": "vector database",
+        "meaning": "a database designed to search embeddings quickly"
+      },
+      {
+        "term": "re-ranking",
+        "meaning": "a second step that sorts search results by relevance"
+      }
+    ],
+    "mistakes": [
+      "Explaining embeddings and vector databases before the simple two-step idea.",
+      "Promising perfect answers when the customer's documents are outdated or messy.",
+      "Forgetting the business benefits: private data, freshness, sources."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Problem",
+      "starter": "The model has never seen your documents, so…"
+    },
+    {
+      "step": "Two steps",
+      "starter": "RAG works in two steps: first it looks up…, then…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it as an open-book exam…"
+    },
+    {
+      "step": "Benefits",
+      "starter": "This gives you three things…"
+    },
+    {
+      "step": "Trade-off",
+      "starter": "The trade-off is that it depends on…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "RAG is retrieval augmented generation with vector database.",
+      "strong": "It means the AI looks up the right pages in your documents before it answers.",
+      "why": "Describe what it does in one plain sentence."
+    },
+    {
+      "weak": "The model will know all your data.",
+      "strong": "The model doesn't learn your data; it reads the relevant pages each time it answers.",
+      "why": "Accurate, and reassures about privacy."
+    },
+    {
+      "weak": "We need to fine-tune with your documents.",
+      "strong": "We don't need to retrain anything; when you update a document, the answers update too.",
+      "why": "Highlights a key advantage simply."
+    },
+    {
+      "weak": "If document is wrong, answer is wrong.",
+      "strong": "It's garbage in, garbage out: if a policy document is outdated, the answer will be too.",
+      "why": "A memorable phrase; articles fixed."
+    },
+    {
+      "weak": "User can trust the answer.",
+      "strong": "Each answer can point to the source, so your staff can check it in one click.",
+      "why": "Shows how trust is earned, not just claimed."
+    }
+  ],
+  "model": "Here's the problem RAG solves. The AI model has read a huge amount of public text, but it has never seen your contracts, your manuals or your internal policies. So if you ask it about your refund rules, it can only guess. RAG works in two steps. First, when a question comes in, the system searches your documents and picks out the few pages most likely to contain the answer. Then it gives those pages to the model and says: answer using these. Think of it as the difference between a closed-book and an open-book exam. Without RAG, the model answers from memory. With it, someone runs to the library before each question and puts the three most relevant pages on the desk. This gives you three things. The answers are based on your information. They stay up to date, because when you change a document, the next answer changes too, with no retraining. And every answer can point to the source, so your staff can check it in one click. The trade-off is that it depends on your documents. It's garbage in, garbage out: if a policy is outdated, the answer will be outdated too. In most cases, the first month of a project is actually cleaning up documents.",
+  "short": "RAG means the AI looks up the right pages in your documents first, then answers from them, like an open-book exam. You get answers based on your own information, always up to date, with a link to the source. The trade-off is that it depends on your documents: if they're outdated, so are the answers.",
+  "audience": {
+    "engineer": "Pipeline: we ingest their SharePoint and Confluence exports, chunk by section with some overlap, and embed each chunk into a vector index. Retrieval is hybrid: BM25 plus vector search, merged and re-ranked, keeping the top five chunks. Those go into the prompt with their document IDs, and the model must cite the chunk IDs it used. Most failures will come from retrieval, not generation, so the eval set measures recall at five separately from answer quality. We also need permission filtering at retrieval time so users only see chunks they're allowed to read, and a re-index job when documents change."
+  },
+  "followUps": [
+    {
+      "q": "Does the AI company get to see our documents?",
+      "answer": "The relevant pages are sent to the model each time it answers, so they do pass through the provider. With a business agreement, they're not stored long-term or used for training. If that's still a concern, there are options to keep everything inside your own cloud."
+    },
+    {
+      "q": "How many documents can it handle?",
+      "answer": "Practically, as many as you have, even hundreds of thousands. The limit isn't the number; it's how well organised and current they are. Ten clean documents often beat a thousand messy ones."
+    },
+    {
+      "q": "What if two documents say different things?",
+      "answer": "Good question, and it happens a lot. The model might pick either, or mention both. That's why early on we look for conflicting documents and ask your team which one is correct. It often reveals problems people didn't know about."
+    }
+  ],
+  "jargon": [
+    "embedding",
+    "vector",
+    "chunk",
+    "BM25",
+    "re-rank",
+    "index",
+    "recall",
+    "ingest"
+  ],
+  "selfCheck": [
+    "I started with the problem: the model hasn't seen their documents.",
+    "I explained the two steps clearly.",
+    "I used one analogy and finished it.",
+    "I mentioned the limit: document quality.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

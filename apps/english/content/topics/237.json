@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "You wanted a change but had no authority to require it",
+    "You used evidence, a small trial, and other people's interests",
+    "People chose to adopt it, and it stuck"
+  ],
+  "phrases": [
+    { "phrase": "looking back", "meaning": "thinking about the past now" },
+    { "phrase": "what I learned was", "meaning": "introduces the lesson" },
+    { "phrase": "I took responsibility for", "meaning": "I accepted that something was my job" },
+    { "phrase": "get people on board", "meaning": "persuade people to support something" },
+    { "phrase": "what's in it for them", "meaning": "how something benefits the other person" },
+    { "phrase": "a small trial", "meaning": "a limited test before full adoption" },
+    { "phrase": "win over", "meaning": "persuade someone to support you" },
+    { "phrase": "as a result", "meaning": "introduces the outcome" }
+  ],
+  "learn": {
+    "explain": "FDEs constantly need people to do things without being their boss: a customer's IT team to give access, a product team to prioritise a fix, a reluctant user to try a new tool. This question tests influence. Strong answers show you understood what the other people cared about, made it easy for them to say yes, used evidence or a small trial instead of pressure, involved someone respected early, and let them take ownership. Avoid stories where you went over people's heads or nagged until they gave in.",
+    "points": [
+      "You understood what the other people cared about.",
+      "You used evidence and a small, low-risk trial.",
+      "People adopted it willingly, and it lasted."
+    ],
+    "mistakes": [
+      "Escalating to a manager to force people.",
+      "Persuading only with your opinion, repeated louder.",
+      "Taking all the credit for the change."
+    ]
+  },
+  "framework": [
+    { "step": "Situation", "starter": "I wanted to change…, but I had no authority to…" },
+    { "step": "Their view", "starter": "First, I tried to understand what was in it for them…" },
+    { "step": "Trial", "starter": "So I suggested a small trial…" },
+    { "step": "Result", "starter": "As a result,…" },
+    { "step": "Lesson", "starter": "Looking back, what I learned was…" }
+  ],
+  "betterWays": [
+    { "weak": "I told everyone to use my tool.", "strong": "I couldn't make anyone use it, so I had to get people on board.", "why": "Acknowledges the lack of authority, which is the point of the question." },
+    { "weak": "I explained many times why it is better.", "strong": "Instead of repeating my arguments, I asked what was in it for them.", "why": "Shifts from pushing to understanding." },
+    { "weak": "Everybody must change at the same time.", "strong": "I suggested a small trial with one volunteer for one week.", "why": "Low risk makes yes easy." },
+    { "weak": "I asked the manager to force them.", "strong": "I won over the most experienced operator first, and others followed her.", "why": "Influence through respected people." },
+    { "weak": "My idea was successful.", "strong": "As a result, the whole team switched, and they suggested the next improvement themselves.", "why": "Shows real adoption and shared ownership." }
+  ],
+  "model": "In my internship, I wanted the operations team to report problems through a simple form instead of messaging me on Zalo at random times. Messages got lost, and I couldn't see patterns. But I was an intern; I had no authority to change how they worked, and the manager didn't want to force it. So I needed to get people on board. First, I tried to understand what was in it for them. I talked to three operators, and they said messaging was fast, while forms usually meant waiting days for an answer. That was the real objection. So I took responsibility for that part. I built a very short form, three fields, that took less than a minute, and I promised that anything sent through it would get a reply the same day. Then I suggested a small trial: one week, with one volunteer, the most experienced operator, whom everyone respected. She liked that she could see the status of her reports, and she started telling others about it. As a result, within a month the whole team used the form, and they even suggested adding a photo field themselves. Looking back, what I learned was that people change when the new way is easier for them, not when you explain why it's better for you.",
+  "short": "In my internship I wanted operators to report problems through a form instead of random messages, but I had no authority. I asked what they cared about: speed. So I built a one-minute form with a same-day reply promise, and ran a one-week trial with the most respected operator. Within a month, the whole team used it. People change when the new way is easier for them.",
+  "followUps": [
+    { "q": "What if the trial had failed?", "answer": "Then I'd have learned something real about what they needed, and either changed the form or dropped the idea. A failed small trial is cheap, which is exactly why I prefer them to big changes." },
+    { "q": "How would you get a customer's IT team to prioritise your request?", "answer": "Similar approach: understand their pressures, make the request small and clear, and show how it helps them too, like reducing their support tickets. And build a good relationship before I need something." },
+    { "q": "Did you ever fail to persuade someone?", "answer": "Yes. I tried to convince my capstone group to write tests from the start, and they preferred to focus on features. I accepted it, but when bugs appeared near the deadline, they agreed to add tests. Sometimes people need to see the problem first." }
+  ],
+  "selfCheck": [
+    "I made clear I had no formal authority.",
+    "I explained what the others cared about.",
+    "I used a small trial or evidence, not pressure.",
+    "The result showed real, lasting adoption.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

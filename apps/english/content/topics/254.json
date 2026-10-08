@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Don't guess a single number; give a range",
+    "Say what makes it uncertain, and how to reduce it",
+    "Offer a quick investigation and a firmer estimate by a date"
+  ],
+  "phrases": [
+    { "phrase": "there are two parts", "meaning": "signposting: introduces parts" },
+    { "phrase": "does that make sense", "meaning": "checks understanding" },
+    { "phrase": "my honest estimate is", "meaning": "introduces a realistic number" },
+    { "phrase": "somewhere between", "meaning": "introduces a range" },
+    { "phrase": "the big unknown is", "meaning": "the main uncertain thing is" },
+    { "phrase": "I'd rather not guess", "meaning": "I prefer to give a reliable answer" },
+    { "phrase": "a firmer estimate", "meaning": "a more certain estimate" },
+    { "phrase": "by the end of", "meaning": "before a certain time finishes" }
+  ],
+  "learn": {
+    "explain": "When a manager asks \"how long will this take?\", they usually need to plan: tell a customer, schedule other work, or decide if it's worth doing. A confident but wrong single number is worse than an honest range. Good practice: split the work into parts, give a range (\"three to five days\"), name the biggest unknown that causes the range, and offer a quick investigation to narrow it down with a firmer estimate by a specific time. Include testing and review, not only coding. Junior engineers tend to underestimate, so think about what usually goes wrong. Update the estimate early when you learn something new.",
+    "points": [
+      "Give a range, not a single guess; include testing and review.",
+      "Name the biggest unknown and how you'll reduce it.",
+      "Offer a firmer estimate by a specific time, and update early."
+    ],
+    "mistakes": [
+      "Giving an optimistic number to please the manager.",
+      "\"I don't know\" with nothing else.",
+      "Estimating only the coding time."
+    ]
+  },
+  "framework": [
+    { "step": "Honest range", "starter": "My honest estimate is somewhere between…" },
+    { "step": "Parts", "starter": "There are two parts: …, which I'm confident about, and…" },
+    { "step": "Unknown", "starter": "The big unknown is…" },
+    { "step": "Reduce it", "starter": "If I spend… investigating, I can give you a firmer estimate by…" },
+    { "step": "Check", "starter": "Does that work for your planning?" }
+  ],
+  "betterWays": [
+    { "weak": "Maybe two days.", "strong": "My honest estimate is somewhere between three and six days, and I can narrow that down by tomorrow.", "why": "A range plus a plan to reduce uncertainty." },
+    { "weak": "I don't know, it's difficult.", "strong": "I'd rather not guess a single number, because there's one big unknown.", "why": "Explains the uncertainty professionally." },
+    { "weak": "Coding is one day.", "strong": "The coding is about a day, but with testing and review it's closer to three.", "why": "Includes the full cost of the work." },
+    { "weak": "It depends.", "strong": "The big unknown is whether their system can send us the data in bulk.", "why": "Names exactly what it depends on." },
+    { "weak": "I will tell you later.", "strong": "I'll give you a firmer estimate by the end of tomorrow.", "why": "A specific time for the next answer." }
+  ],
+  "model": "Good question. I'd rather not guess a single number, because I'd probably get it wrong. My honest estimate is somewhere between four days and two weeks, and I know that's a wide range, so let me explain why. There are two parts to this. The first part is building the new screen in our product, showing the customer's invoices. I've done similar work before, so I'm confident about that: about three days, including tests and review. The second part is getting the invoice data from their accounting system, and the big unknown is how. If their system can export the data in bulk, it's maybe one more day. If we have to read it invoice by invoice through their old interface, it could be a week or more, because of speed limits and testing. So what I'd suggest is this: let me spend half a day today looking at their documentation and asking their IT contact. Then I can give you a firmer estimate by the end of tomorrow, probably within a few days either way. And if anything changes after that, I'll tell you straight away rather than at the end. Does that make sense? Does that work for your planning with the customer?",
+  "short": "My honest estimate is somewhere between four days and two weeks. There are two parts: the new screen, about three days, which I'm confident about, and getting the invoice data, where the big unknown is whether their system supports bulk export. Let me spend half a day investigating, and I'll give you a firmer estimate by the end of tomorrow. Does that work?",
+  "followUps": [
+    { "q": "The customer wants a date today. What can I tell them?", "answer": "You could say the screen will be ready in about a week, and the full feature date will be confirmed tomorrow. If they really need one date now, I'd say two weeks, because I'd rather we deliver early than late." },
+    { "q": "Your last estimate was wrong. Why should I trust this one?", "answer": "That's fair; last time I didn't account for testing with real data. This time I've included testing and review, and I'm giving you a range with the main risk named, so you can see where the uncertainty is." },
+    { "q": "Can you do it faster if someone helps you?", "answer": "Partly. Someone could build the screen while I investigate the data, which might save two or three days. But the data question takes the same time no matter how many people work on it." }
+  ],
+  "selfCheck": [
+    "I gave a range instead of a single guess.",
+    "I split the work and included testing.",
+    "I named the biggest unknown.",
+    "I offered a firmer estimate by a specific time.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "ideas": [
+    "Technical debt: shortcuts taken to go faster that must be repaid later",
+    "Like money debt, it charges interest: every new change gets slower",
+    "Some debt is smart; ignoring it is what hurts"
+  ],
+  "phrases": [
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "cut corners",
+      "meaning": "do something quickly and cheaply, not properly"
+    },
+    {
+      "phrase": "pay it back",
+      "meaning": "repay a debt"
+    },
+    {
+      "phrase": "what this means for you is",
+      "meaning": "links the idea to the listener's benefit"
+    },
+    {
+      "phrase": "slows us down",
+      "meaning": "makes us work more slowly"
+    },
+    {
+      "phrase": "sooner or later",
+      "meaning": "at some point in the future, definitely"
+    },
+    {
+      "phrase": "a smart trade-off",
+      "meaning": "a sensible choice between two costs"
+    },
+    {
+      "phrase": "bit by bit",
+      "meaning": "gradually, in small pieces"
+    }
+  ],
+  "learn": {
+    "explain": "Technical debt is the future cost of shortcuts taken in software today. To hit a deadline, a team might copy code instead of designing it properly, skip tests, or hard-code a value. That's often a sensible decision: you ship faster now. But like borrowing money, it has interest. Every future change in that area takes longer, breaks more easily, and needs more testing. If the debt is never repaid, the team slows down until simple features take weeks. Repaying it is called refactoring: improving the internal structure without changing what users see. Managers care because technical debt shows up as slower delivery, more bugs and unhappy engineers, even though users never see the debt directly.",
+    "points": [
+      "Debt is not always bad: a deliberate shortcut can be a smart business decision.",
+      "The \"interest\" is slower delivery and more bugs on every future change.",
+      "Repay it bit by bit, by reserving some time in every sprint."
+    ],
+    "analogy": "Think of it like a credit card. Buying something on credit lets you have it today, which can be smart. But if you only pay the minimum each month, the interest keeps growing, and one day most of your salary goes to interest instead of new things.",
+    "glossary": [
+      {
+        "term": "refactoring",
+        "meaning": "improving the code's structure without changing what it does"
+      },
+      {
+        "term": "legacy code",
+        "meaning": "old code that is hard to change and often poorly understood"
+      },
+      {
+        "term": "hard-coding",
+        "meaning": "writing a fixed value directly in the code instead of making it configurable"
+      },
+      {
+        "term": "test coverage",
+        "meaning": "how much of the code is checked by automatic tests"
+      },
+      {
+        "term": "sprint",
+        "meaning": "a fixed work period, often two weeks"
+      }
+    ],
+    "mistakes": [
+      "Complaining that the old code is \"bad\" instead of explaining the business cost.",
+      "Asking for months to rewrite everything instead of a steady, small investment.",
+      "Not giving a concrete example of how it slows the team."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Define",
+      "starter": "Technical debt is what happens when we cut corners to…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like a credit card…"
+    },
+    {
+      "step": "Evidence",
+      "starter": "For example, last month a simple change took…"
+    },
+    {
+      "step": "Ask",
+      "starter": "What I'd suggest is that we spend…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "The code is very bad and messy.",
+      "strong": "We took some shortcuts last year to hit the launch date, and now they're slowing us down.",
+      "why": "Explains the cause without blaming anyone."
+    },
+    {
+      "weak": "We need to refactor everything.",
+      "strong": "I'd suggest we spend about twenty percent of each sprint paying it back bit by bit.",
+      "why": "A small, steady request is much easier to approve."
+    },
+    {
+      "weak": "Technical debt is important to fix.",
+      "strong": "Last month, a change that should take two days took two weeks, because of this debt.",
+      "why": "A concrete example is more persuasive than a general claim."
+    },
+    {
+      "weak": "Manager doesn't understand.",
+      "strong": "Users don't see this debt, which is exactly why it's easy to ignore.",
+      "why": "Shows empathy instead of frustration."
+    },
+    {
+      "weak": "If we don't fix, the system will die.",
+      "strong": "Sooner or later, every new feature will take twice as long, and bugs will increase.",
+      "why": "Realistic, specific consequences instead of drama."
+    }
+  ],
+  "model": "Technical debt is what happens when we cut corners to deliver something faster. Sometimes that's a smart trade-off. Last year, to hit the launch date, the team copied some code and skipped some tests, and that was the right business decision. But think of it like a credit card. Buying on credit lets you have something today. If you never pay it back, though, the interest keeps growing, and one day most of your money goes on interest instead of new things. In software, the interest is time. For example, last month we wanted to add a new payment option. It should have taken two days, and it took two weeks, because that part of the system is fragile and every change breaks something else. Users can't see this debt, which is exactly why it's easy to ignore. But sooner or later, it slows everything down, and bugs start increasing. What this means for you is that ignoring it makes your roadmap slower and less predictable. What I'd suggest is not a big rewrite. Instead, let's spend about twenty percent of each sprint paying it back bit by bit, starting with the payment area, because that's where we lose the most time.",
+  "short": "Technical debt is the cost of shortcuts we took to move fast. Like a credit card, it was useful, but the interest grows: last month a two-day change took two weeks. What this means for you is a slower, less predictable roadmap. I'm not asking for a rewrite, just twenty percent of each sprint to pay it back, starting with payments.",
+  "audience": {
+    "engineer": "The payments module is our worst hotspot. It has three copy-pasted versions of the checkout flow, almost no test coverage, and the provider config is hard-coded in about forty places. Over the last quarter it had the highest churn and the most bug reports of any module. My proposal: first, characterisation tests around the current behaviour so we can change it safely. Then consolidate the three flows behind one interface, and move config into the settings service. I'd do it incrementally, behind a feature flag, over three or four sprints, using about twenty percent of capacity, rather than a big-bang rewrite that blocks the roadmap."
+  },
+  "followUps": [
+    {
+      "q": "Why didn't you write it properly the first time?",
+      "answer": "At the time, speed mattered more. Launching three months earlier brought in real customers, and some of the code we'd have perfected was later thrown away anyway. Taking on debt was the right call; the mistake would be never repaying it."
+    },
+    {
+      "q": "How will I know it's working?",
+      "answer": "We'll track how long typical changes take in that area and how many bugs come from it. If the investment works, both numbers should go down within two or three months, and I'll report them to you."
+    },
+    {
+      "q": "Can't we do it after the next big release?",
+      "answer": "We could, but there's always a next big release. If we wait, the next release itself gets slower because of the debt. A small, steady amount every sprint means we never have to stop everything."
+    }
+  ],
+  "jargon": [
+    "refactoring",
+    "test coverage",
+    "hard-coded",
+    "module",
+    "churn",
+    "codebase",
+    "legacy",
+    "big-bang"
+  ],
+  "selfCheck": [
+    "I explained debt without blaming anyone.",
+    "I used one analogy and finished it.",
+    "I gave a concrete example of the cost.",
+    "I made a small, specific request.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

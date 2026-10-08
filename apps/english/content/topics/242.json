@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Stay calm, acknowledge it honestly and briefly",
+    "Switch to a backup: recording, screenshots, or explain the flow",
+    "Promise a follow-up with a working version and the cause"
+  ],
+  "phrases": [
+    { "phrase": "I completely understand", "meaning": "shows empathy" },
+    { "phrase": "what I'd suggest is", "meaning": "a polite way to recommend" },
+    { "phrase": "let me make sure", "meaning": "introduces checking or confirming something" },
+    { "phrase": "bear with me", "meaning": "please be patient for a moment" },
+    { "phrase": "not the impression we wanted", "meaning": "admits something looked bad" },
+    { "phrase": "in the meantime", "meaning": "while waiting for something else" },
+    { "phrase": "get back to you", "meaning": "reply later with information" },
+    { "phrase": "by the end of the day", "meaning": "before today finishes" }
+  ],
+  "learn": {
+    "explain": "A demo crashing in front of a senior stakeholder is stressful, but the room is watching how you react more than the bug itself. The boss needs to feel the team is competent and honest. The right response is: stay calm, acknowledge it briefly and honestly without long excuses or blaming anyone, try one quick recovery, and if it doesn't work within a minute, switch to a backup, like a recording or screenshots of the same flow. Keep the focus on the value for their business. Then promise a specific follow-up: a working demo, a short explanation of what happened, and a time. Preparation prevents most of this: always have a backup recording.",
+    "points": [
+      "Stay calm; your reaction matters more than the bug.",
+      "Acknowledge briefly, try once, then switch to a backup.",
+      "Bring the focus back to their value and promise a specific follow-up."
+    ],
+    "mistakes": [
+      "Long technical explanations or apologies in front of the boss.",
+      "Blaming the Wi-Fi, a colleague or the customer's environment.",
+      "Trying to debug live for five minutes while everyone waits."
+    ]
+  },
+  "framework": [
+    { "step": "Acknowledge", "starter": "Well, that's not the impression we wanted to make…" },
+    { "step": "Recover", "starter": "Bear with me for a moment while I…" },
+    { "step": "Backup", "starter": "In the meantime, let me show you a recording of…" },
+    { "step": "Refocus", "starter": "What matters for your team is…" },
+    { "step": "Follow up", "starter": "I'll get back to you by the end of the day with…" }
+  ],
+  "betterWays": [
+    { "weak": "Sorry sorry, I don't know why, it worked yesterday!", "strong": "Well, that's not the impression we wanted to make. Bear with me for a moment.", "why": "Calm, light and confident." },
+    { "weak": "Maybe your Wi-Fi is slow.", "strong": "I'll find out exactly what happened, but let's not lose your time on it now.", "why": "No blaming, and respects their time." },
+    { "weak": "Wait, I am fixing it… one more minute…", "strong": "Rather than debug it live, let me show you a recording of exactly the same flow.", "why": "Switches to a backup quickly." },
+    { "weak": "The error is a null pointer in the API.", "strong": "It's a problem with the test connection, not the feature itself, and I'll confirm that in writing.", "why": "Simple, honest, and promises proof." },
+    { "weak": "We will fix it.", "strong": "I'll send you a short explanation and a working link by the end of the day.", "why": "A specific promise with a time." }
+  ],
+  "model": "Well, that's not the impression we wanted to make. Bear with me for a moment; let me try reloading it once. … OK, it's still not responding, so rather than make you wait while I debug it, what I'd suggest is this. In the meantime, let me show you a recording of exactly the same flow, made this morning with your test data. … So here, your agent receives a customer email, and on the right, you can see the draft reply the assistant prepared, with the order status already looked up. Your agent checks it, changes one sentence, and sends it. That's about one minute instead of eight, and that's really what matters for your team. Now, I completely understand that a crash in a demo isn't reassuring. Let me make sure you get a clear answer, not just an apology. I'll find out exactly what happened, and I'll get back to you by the end of the day with a short explanation of the cause, and a link where you and your team can try it yourselves. And if you have any questions about what you've seen so far, I'm very happy to answer them now.",
+  "short": "Well, that's not the impression we wanted to make. Bear with me; let me try once. … Rather than debug it now, let me show you a recording of the same flow with your data. … What matters is that each reply takes one minute instead of eight. I'll get back to you by the end of the day with the cause and a working link you can try yourselves.",
+  "followUps": [
+    { "q": "How do I know this won't happen when we go live?", "answer": "That's a fair question. A demo setup is much simpler than the live system, which will have monitoring, testing and automatic recovery. But I'd rather prove it than ask you to trust me: we'll run a pilot with your team, and you'll see the reliability numbers." },
+    { "q": "Is this product actually ready?", "answer": "The feature itself is used by other customers every day. What failed today was our demo connection. I'll confirm the exact cause in writing today, so you have the facts rather than my word." },
+    { "q": "Can we see it working live another time?", "answer": "Absolutely. I'd suggest a short session later this week, maybe thirty minutes, where your team tries it with real emails. That's actually a better test than a demo anyway." }
+  ],
+  "selfCheck": [
+    "I stayed calm and acknowledged it briefly.",
+    "I switched to a backup instead of debugging live.",
+    "I didn't blame anyone.",
+    "I brought the focus back to their value.",
+    "I promised a specific follow-up with a time."
+  ]
+}

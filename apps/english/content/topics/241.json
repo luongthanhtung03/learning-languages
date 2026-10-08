@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Don't pitch AI first; ask about their work and their pain",
+    "Find one problem that is frequent, costly and has data",
+    "Agree a small first step"
+  ],
+  "phrases": [
+    { "phrase": "I completely understand", "meaning": "shows empathy before continuing" },
+    { "phrase": "what I'd suggest is", "meaning": "a polite way to recommend" },
+    { "phrase": "let me make sure I've got this right", "meaning": "introduces a summary to check understanding" },
+    { "phrase": "walk me through", "meaning": "explain step by step" },
+    { "phrase": "where does it hurt most", "meaning": "what is the biggest problem" },
+    { "phrase": "a quick win", "meaning": "an early, easy success" },
+    { "phrase": "rather than", "meaning": "instead of" },
+    { "phrase": "as a next step", "meaning": "introduces what happens next" }
+  ],
+  "learn": {
+    "explain": "In a first discovery call, the customer often feels pressure to \"do something with AI\" but doesn't know what. They need someone to guide them calmly, not a sales pitch or a technical lecture. Your job is to ask about their business and daily work, find where it hurts most, and identify a good first use case: something frequent, time-consuming, with existing data, and low risk if the AI makes a mistake. Ask open questions, ask for concrete examples, summarise to check you understood, and finish with a small, clear next step. Talk less than the customer: roughly 30% you, 70% them.",
+    "points": [
+      "Ask about their work and pain before talking about AI.",
+      "A good first use case is frequent, costly, has data, and is low-risk.",
+      "Summarise what you heard and agree one small next step."
+    ],
+    "mistakes": [
+      "Starting with a demo or a list of AI capabilities.",
+      "Promising big transformation in the first call.",
+      "Ending the call without a clear next step."
+    ]
+  },
+  "framework": [
+    { "step": "Acknowledge", "starter": "I completely understand; most companies start exactly there." },
+    { "step": "Explore", "starter": "Could you walk me through a typical day for your team?" },
+    { "step": "Find the pain", "starter": "Where does it hurt most? What takes the most time?" },
+    { "step": "Summarise", "starter": "Let me make sure I've got this right…" },
+    { "step": "Next step", "starter": "What I'd suggest as a next step is…" }
+  ],
+  "betterWays": [
+    { "weak": "AI can do many things: chatbot, summarise, analyse…", "strong": "Before we talk about AI, could you walk me through what your team spends most of its time on?", "why": "Starts from their problems, not your product." },
+    { "weak": "You should use AI for everything.", "strong": "I'd start with one problem rather than trying to change everything at once.", "why": "Realistic and reduces risk." },
+    { "weak": "OK, I understand.", "strong": "Let me make sure I've got this right: your team answers about three hundred similar emails a day, mostly by hand?", "why": "A summary proves you listened and catches misunderstandings." },
+    { "weak": "So what do you want?", "strong": "Where does it hurt most, if you had to pick one thing?", "why": "Focused and friendly." },
+    { "weak": "We will contact you later.", "strong": "As a next step, could you send me twenty example emails, and we'll meet again on Thursday?", "why": "A concrete, small next step with a date." }
+  ],
+  "model": "I completely understand. Honestly, most companies start exactly there, so you're in good company. Before we talk about AI at all, I'd love to understand your business a bit better. Could you walk me through a typical day for your customer service team? What do they spend most of their time on? … OK, that's really helpful. So, where does it hurt most? If you could take one task off their plate tomorrow, what would it be? … Let me make sure I've got this right. Your team of eight answers around three hundred emails a day, and about half of them are the same few questions: order status, delivery changes and refunds. Each one takes five to ten minutes, because they have to look things up in two different systems. Is that right? … Great. That sounds like a very good place to start, for three reasons: it happens a lot, it's costly in time, and there's plenty of history we can learn from. And if the AI drafts an answer, a person still checks it before it's sent, so the risk is low. What I'd suggest is that we start there, rather than trying to change everything at once, and aim for a quick win in the first month. As a next step, could you send me around fifty example emails, with the replies your team sent?",
+  "short": "I completely understand; most companies start there. Could you walk me through your team's day, and where it hurts most? … Let me make sure I've got this right: three hundred emails a day, half of them the same few questions. That's a good place to start: frequent, costly, and low risk if a person checks the drafts. As a next step, could you send fifty example emails?",
+  "followUps": [
+    { "q": "Can't AI just replace the whole customer service team?", "answer": "I'd be careful with that. Today, the safest value is helping your team answer faster, so they handle more and focus on the difficult cases. Once we see how accurate it is on your real emails, we can talk about automating more." },
+    { "q": "How long until we see results?", "answer": "For a focused first step like this, we can usually show something working with your real emails within two to four weeks. Then a few more weeks of testing with your team before using it for real." },
+    { "q": "What will this cost?", "answer": "It depends on the scope, so I'd rather not guess today. After I've seen the example emails, I can give you a clear estimate for the first phase, including both our work and the running costs." }
+  ],
+  "selfCheck": [
+    "I asked about their work before talking about AI.",
+    "I asked where it hurts most.",
+    "I summarised to check my understanding.",
+    "I proposed one small, concrete next step.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

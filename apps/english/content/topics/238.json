@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Feedback that was hard to hear, but fair",
+    "You listened without defending, asked for examples",
+    "A visible change and you followed up later"
+  ],
+  "phrases": [
+    { "phrase": "looking back", "meaning": "thinking about the past now" },
+    { "phrase": "what I learned was", "meaning": "introduces the lesson" },
+    { "phrase": "I took responsibility for", "meaning": "I accepted that something was my job" },
+    { "phrase": "hard to hear", "meaning": "unpleasant to receive" },
+    { "phrase": "get defensive", "meaning": "react by protecting yourself instead of listening" },
+    { "phrase": "act on it", "meaning": "do something because of it" },
+    { "phrase": "check in", "meaning": "ask for an update or opinion" },
+    { "phrase": "as a result", "meaning": "introduces the outcome" }
+  ],
+  "learn": {
+    "explain": "This question tests whether you're coachable. FDEs get direct feedback from customers, managers and peers, sometimes in tough ways. A good story has real feedback that stung, your first reaction (honest, but you didn't argue), how you asked questions to understand it with specific examples, what you changed, and how you checked later whether it worked. It's even better if you went back to the person who gave the feedback and asked again. Avoid stories where the feedback was unfair and you proved them wrong.",
+    "points": [
+      "The feedback was real and a little painful.",
+      "You listened, asked for examples, and didn't get defensive.",
+      "You changed something visible and checked in later."
+    ],
+    "mistakes": [
+      "Choosing harmless feedback (\"you work too hard\").",
+      "Explaining why the feedback was wrong.",
+      "No follow-up to show the change worked."
+    ]
+  },
+  "framework": [
+    { "step": "Feedback", "starter": "My lead told me that… It was hard to hear because…" },
+    { "step": "Reaction", "starter": "My first instinct was to…, but instead I asked…" },
+    { "step": "Change", "starter": "So I acted on it by…" },
+    { "step": "Follow-up", "starter": "A month later, I checked in with her, and…" },
+    { "step": "Lesson", "starter": "Looking back, what I learned was…" }
+  ],
+  "betterWays": [
+    { "weak": "She said my presentation was bad but I disagree.", "strong": "She said my demos were too technical for the operations team, which was hard to hear.", "why": "Specific feedback, accepted." },
+    { "weak": "I explained to her why I did that.", "strong": "My first instinct was to get defensive, but instead I asked for a specific example.", "why": "Shows self-awareness and listening." },
+    { "weak": "Then I improved.", "strong": "I started every demo with what the change means for their day, and kept the technical details for questions.", "why": "A concrete change." },
+    { "weak": "Now I am good at presentation.", "strong": "A month later, I checked in with her, and she said the team was asking more questions, which was a good sign.", "why": "Evidence from the person who gave the feedback." },
+    { "weak": "Feedback is important.", "strong": "What I learned was that the most useful feedback is usually the one I least want to hear.", "why": "A personal, memorable lesson." }
+  ],
+  "model": "In my internship, after my second demo to the operations team, my lead told me privately that my demos were too technical. She said the operators didn't understand half of what I said, and that they'd stopped asking questions because they felt stupid. That was hard to hear, because I'd prepared a lot and I thought the demo had gone well. My first instinct was to get defensive and explain why the details mattered, but instead I asked her for a specific example. She pointed out that I'd spent five minutes on how the import job worked, when the operators only wanted to know whether their morning list would be more accurate. So I took responsibility for changing how I prepare. I acted on it in three ways. I started every demo with one sentence about what the change means for their day. I showed it using their real deliveries, not test data. And I kept the technical details for questions, if anyone asked. A month later, I checked in with her and asked if it was better. She said the team was asking many more questions, and one operator had suggested a feature in the demo. As a result, demos became the most useful meetings we had. Looking back, what I learned was that the most useful feedback is usually the one I least want to hear.",
+  "short": "My lead told me my demos were too technical, and the operators felt stupid asking questions. It was hard to hear. Instead of getting defensive, I asked for an example. Then I started each demo with what it means for their day, used their real data, and kept technical details for questions. A month later, I checked in: they were asking far more questions.",
+  "followUps": [
+    { "q": "Have you ever received feedback you disagreed with?", "answer": "Yes. A classmate said my code had too many comments. I thought about it, and I agreed some were unnecessary, but I kept the ones explaining why, not what. I thanked him and explained my reasoning; I think partly agreeing is fine." },
+    { "q": "How do you give feedback to others?", "answer": "Privately, soon after, with a specific example, and focused on the effect rather than the person. I learned that style from receiving it, because it made it easy for me to act on it." },
+    { "q": "How do you ask for feedback?", "answer": "I ask a specific question, like \"what's one thing that would have made that demo clearer?\" A specific question gets a much more useful answer than \"any feedback?\"" }
+  ],
+  "selfCheck": [
+    "The feedback was real and a little painful.",
+    "I showed I didn't argue, and asked for examples.",
+    "I described specific changes.",
+    "I followed up to check it worked.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

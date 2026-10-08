@@ -1,0 +1,162 @@
+{
+  "ideas": [
+    "The problem and the goal before the solution",
+    "The design in three parts, and one alternative you rejected",
+    "Risks, open questions, and what you need from the audience"
+  ],
+  "phrases": [
+    {
+      "phrase": "there are three parts",
+      "meaning": "signposting: introduces a structure"
+    },
+    {
+      "phrase": "does that make sense so far",
+      "meaning": "checks understanding mid-explanation"
+    },
+    {
+      "phrase": "the problem we're solving",
+      "meaning": "introduces the goal"
+    },
+    {
+      "phrase": "we considered",
+      "meaning": "introduces an alternative you thought about"
+    },
+    {
+      "phrase": "the main risk is",
+      "meaning": "introduces the biggest danger"
+    },
+    {
+      "phrase": "I'd love your input on",
+      "meaning": "invites feedback on a specific point"
+    },
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "to sum up",
+      "meaning": "signposting: introduces a summary"
+    }
+  ],
+  "learn": {
+    "explain": "Presenting a design means getting people to understand and challenge your plan before you build it, which is much cheaper than finding problems afterwards. Start with the problem and the goal, not the solution, so people can judge whether the design fits. Then show the design at a high level, usually in three parts, then one or two alternatives you considered and why you rejected them. Be honest about risks and open questions, and ask for specific input. For engineers, include data flow and failure handling; for managers, focus on what users get, timing and risk. A simple diagram helps a lot. Signpost clearly and check understanding along the way.",
+    "points": [
+      "Problem and goal first, then the design in a few parts.",
+      "Show alternatives you rejected and why.",
+      "Be open about risks and ask for specific input."
+    ],
+    "analogy": "Think of it like an architect showing house plans before building. You explain what the family needs, show the layout, mention the option you didn't choose, like two floors instead of one, and ask them to point out problems now, while changing a line on paper is still cheap.",
+    "glossary": [
+      {
+        "term": "design doc",
+        "meaning": "a written description of a planned system, shared for review"
+      },
+      {
+        "term": "data flow",
+        "meaning": "how data moves between the parts of a system"
+      },
+      {
+        "term": "trade-off",
+        "meaning": "accepting one disadvantage to gain an advantage"
+      },
+      {
+        "term": "edge case",
+        "meaning": "an unusual situation the design must still handle"
+      },
+      {
+        "term": "MVP",
+        "meaning": "minimum viable product: the smallest useful first version"
+      }
+    ],
+    "mistakes": [
+      "Starting with the database tables instead of the problem.",
+      "Presenting only one option, so it looks like you didn't think.",
+      "Hiding risks to get quick approval."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Problem",
+      "starter": "The problem we're solving is…"
+    },
+    {
+      "step": "Design",
+      "starter": "There are three parts to the design…"
+    },
+    {
+      "step": "Alternative",
+      "starter": "We considered…, but…"
+    },
+    {
+      "step": "Risk",
+      "starter": "The main risk is…"
+    },
+    {
+      "step": "Ask",
+      "starter": "I'd love your input on…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "So I have a table with five columns and a cron job…",
+      "strong": "The problem we're solving is that managers find out about unhappy customers too late.",
+      "why": "Problem first, so people can judge the design."
+    },
+    {
+      "weak": "This is the best way.",
+      "strong": "We considered a real-time version, but it would take three times longer for a small benefit.",
+      "why": "Shows you compared options."
+    },
+    {
+      "weak": "There is no risk.",
+      "strong": "The main risk is false alarms, so we'll start with a high threshold and tune it.",
+      "why": "Honest and shows a mitigation."
+    },
+    {
+      "weak": "Any question?",
+      "strong": "I'd love your input on one thing in particular: how often managers want these alerts.",
+      "why": "A specific question gets useful feedback."
+    },
+    {
+      "weak": "That's all.",
+      "strong": "To sum up: daily alerts, three parts, two weeks of work, and one open question.",
+      "why": "A clear summary helps people remember."
+    }
+  ],
+  "model": "The problem we're solving is that managers find out about unhappy customers too late, usually when the customer has already cancelled. The goal is simple: tell a manager within a day when one of their important customers seems unhappy. Think of it like a smoke alarm: it doesn't put out the fire, but it warns you early enough to act. There are three parts to the design. First, every night, the system reads the previous day's customer emails and support conversations. Second, the AI checks each one for signs of frustration, like repeated complaints or words about cancelling, and gives the customer a score. Third, if an important customer's score crosses a line, their manager gets a short message with the reason and the original emails. Does that make sense so far? We considered checking every message the moment it arrives, but it would take about three times longer to build, and managers told us a daily summary is enough. The main risk is false alarms; if managers get too many, they'll ignore them. So we'll start strict, only alerting on strong signals, and adjust with feedback. I'd love your input on how many alerts per week feels useful. To sum up: daily alerts, about two weeks of work, and one open question.",
+  "short": "The problem: managers learn about unhappy customers too late. The design works like a smoke alarm: every night, the AI reads yesterday's customer messages, scores frustration, and alerts the manager when an important customer looks unhappy. About two weeks of work. The main risk is false alarms, so we'll start strict. I'd love your input on how many alerts feel useful.",
+  "audience": {
+    "engineer": "Quick context: churn signals currently reach managers days late. Design has three components. A nightly batch job pulls the last twenty-four hours of tickets and emails from the CRM API. A scoring step sends each conversation to the model with structured output: a frustration score, the evidence quotes, and a churn-risk flag. Then a rule engine aggregates per account and notifies the owner through Slack when the score crosses a threshold, deduplicated per account per week. We considered streaming on webhooks, but that's roughly three times the work and the users said daily is fine. Risks: false positives, and cost if volume spikes, so the batch API and a per-run cap. I'd like eyes on the threshold logic."
+  },
+  "followUps": [
+    {
+      "q": "What happens if the AI misjudges a customer?",
+      "answer": "The alert always includes the original emails, so the manager can see the reason in ten seconds and ignore it if it's wrong. They can also mark it as a false alarm, and we use that feedback to adjust how strict it is."
+    },
+    {
+      "q": "Why not just ask customers how they feel?",
+      "answer": "We should do that too, and surveys are useful. But most unhappy customers never answer a survey; they just leave. This catches the signals that are already in their messages."
+    },
+    {
+      "q": "When can we try it?",
+      "answer": "If the team agrees on the design this week, we can have a first version running for one sales team in about two weeks, and decide after a month whether to roll it out."
+    }
+  ],
+  "jargon": [
+    "batch",
+    "webhook",
+    "threshold",
+    "structured output",
+    "CRM",
+    "API",
+    "deduplicate",
+    "Slack"
+  ],
+  "selfCheck": [
+    "I started with the problem and the goal.",
+    "I signposted the design in clear parts.",
+    "I mentioned an alternative and why we didn't choose it.",
+    "I was open about the main risk.",
+    "I asked for specific input."
+  ]
+}

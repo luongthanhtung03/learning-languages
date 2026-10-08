@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "A bug you wrote that affected real users",
+    "Fix fast, communicate openly, then find the root cause",
+    "A process change so it can't happen the same way again"
+  ],
+  "phrases": [
+    { "phrase": "looking back", "meaning": "thinking about the past now" },
+    { "phrase": "I took responsibility for", "meaning": "I accepted that something was my fault" },
+    { "phrase": "what I learned was", "meaning": "introduces the lesson" },
+    { "phrase": "slipped through", "meaning": "passed a check without being noticed" },
+    { "phrase": "rolled it back", "meaning": "returned to the previous version" },
+    { "phrase": "root cause", "meaning": "the underlying reason for a problem" },
+    { "phrase": "make sure it doesn't happen again", "meaning": "prevent it in the future" },
+    { "phrase": "as a result", "meaning": "introduces the outcome" }
+  ],
+  "learn": {
+    "explain": "Every engineer ships bugs; this question tests how you respond. The interviewer wants a calm, honest sequence: notice or accept the report quickly, take ownership, limit the impact (roll back or hot-fix), communicate clearly to the affected people, then find the root cause and change something so this class of bug can't easily happen again, like a test, a check, or a review step. Blameless culture means focusing on the process gap, not on feeling guilty, but you still say \"my mistake\" clearly. For an FDE, also show how you handled the customer or users affected.",
+    "points": [
+      "You owned it clearly: \"my code, my mistake\".",
+      "Order: limit the impact, communicate, then find the root cause.",
+      "You added a safeguard, not just a fix."
+    ],
+    "mistakes": [
+      "Hiding the bug or hoping nobody noticed.",
+      "Spending the answer on technical details of the bug.",
+      "Ending with \"I'll be more careful\" instead of a real safeguard."
+    ]
+  },
+  "framework": [
+    { "step": "What happened", "starter": "A bug in my code slipped through and…" },
+    { "step": "Own it", "starter": "I took responsibility for it straight away…" },
+    { "step": "Limit damage", "starter": "First, we rolled it back, and I told…" },
+    { "step": "Root cause", "starter": "The root cause was…, so I added…" },
+    { "step": "Lesson", "starter": "Looking back, what I learned was…" }
+  ],
+  "betterWays": [
+    { "weak": "There was a bug in the system.", "strong": "A bug in my code slipped through and reached the operations team.", "why": "Clear ownership instead of passive distance." },
+    { "weak": "The tester should catch it.", "strong": "The root cause was that I'd only tested with one city's data, and nothing in our process caught that.", "why": "Focuses on the process gap, not blaming others." },
+    { "weak": "I fixed the bug quickly, no problem.", "strong": "Within twenty minutes we rolled it back, and then I fixed it properly that afternoon.", "why": "Shows the right order: restore, then fix." },
+    { "weak": "I said sorry.", "strong": "I messaged the team lead directly, explained which deliveries were affected, and offered to help check them.", "why": "Concrete communication and help." },
+    { "weak": "I will be more careful next time.", "strong": "I added tests with data from every city, so this kind of bug fails before it's released.", "why": "A safeguard beats a promise." }
+  ],
+  "model": "In my internship, a bug in my code slipped through and reached the operations team. I'd changed how delivery times were calculated, and for deliveries in Da Nang, the times were shown one hour off. For about half a morning, operators were calling drivers who weren't late at all. When the team lead reported it, I took responsibility for it straight away; it was my change. First, we rolled it back, which took about twenty minutes. Then I messaged the team lead directly, explained which deliveries had been affected and what had happened, and offered to help them check the morning's calls. After that, I looked for the root cause. The bug itself was simple: I'd assumed every city used the same time zone setting. But the real problem was that my tests only used Hanoi data, and nothing in our process would catch that. So I fixed the code and added tests with data from every city, and I suggested we add a quick check by an operator before releasing changes to anything time-related. As a result, the fixed version went out the next day, and that check caught another issue a month later. Looking back, what I learned was that the fix is only half the job; the other half is making sure it doesn't happen again.",
+  "short": "A bug in my code showed Da Nang deliveries one hour off, and operators called drivers who weren't late. I owned it straight away: we rolled it back in twenty minutes, I told the team lead exactly what was affected, and offered help. The root cause was tests with only Hanoi data, so I added tests for every city and an operator check. Fixing is half the job.",
+  "followUps": [
+    { "q": "How did you feel when you realised it was your bug?", "answer": "Embarrassed for a minute, honestly. But I'd seen that the worst reaction is to go quiet, so I focused on what needed to happen next. Having a clear order, roll back, tell people, then investigate, helped a lot." },
+    { "q": "Why didn't code review catch it?", "answer": "The reviewer saw the code, but not the data. The code looked correct for one time zone. That's why I think tests with realistic data are more reliable than hoping a reviewer imagines every case." },
+    { "q": "What would you do if this happened at a customer site?", "answer": "Same order, but faster communication: I'd tell the customer contact immediately, even before I understood the cause, and give regular updates. Customers forgive bugs much more easily than silence." }
+  ],
+  "selfCheck": [
+    "I said clearly it was my mistake.",
+    "I followed the order: limit, communicate, root cause.",
+    "I described a safeguard, not just \"be careful\".",
+    "I kept technical detail short.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "ideas": [
+    "Latency is the waiting time between asking and getting an answer",
+    "It adds up across many steps: phone, network, servers, other services",
+    "We find the slowest step and fix that first"
+  ],
+  "phrases": [
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "adds up",
+      "meaning": "small amounts combine into a big amount"
+    },
+    {
+      "phrase": "the bottleneck",
+      "meaning": "the slowest part that limits everything else"
+    },
+    {
+      "phrase": "what this means for you is",
+      "meaning": "links the idea to the listener's benefit"
+    },
+    {
+      "phrase": "round trip",
+      "meaning": "a journey there and back"
+    },
+    {
+      "phrase": "pin down",
+      "meaning": "find out exactly"
+    },
+    {
+      "phrase": "at peak times",
+      "meaning": "when the most people are using it"
+    },
+    {
+      "phrase": "make a noticeable difference",
+      "meaning": "improve something in a way people can feel"
+    }
+  ],
+  "learn": {
+    "explain": "Latency is the delay between a request and its response: the time between a user tapping a button and seeing the result. It is measured in milliseconds. One action in an app usually involves many steps: the phone sends a message over the internet, a server receives it, asks a database, maybe calls another company's service, builds the answer and sends it back. Each step adds a little delay, and together they add up. Latency is different from bandwidth, which is how much data can move at once. An app can feel slow because of distance, a busy server, a slow database query, or waiting for an outside service. Fixing it starts with measuring where the time goes.",
+    "points": [
+      "Latency is waiting time, made of many small delays that add up.",
+      "Slowness usually comes from one or two bottlenecks, not everything.",
+      "Measure first, then fix the slowest step; users notice anything above about one second."
+    ],
+    "analogy": "Think of ordering food delivery. The total wait is the time to send the order, the time the restaurant takes to cook, and the time the driver spends in traffic. If the kitchen is slow at lunchtime, a faster driver won't help much. You have to find the slowest part.",
+    "glossary": [
+      {
+        "term": "millisecond (ms)",
+        "meaning": "one thousandth of a second"
+      },
+      {
+        "term": "bandwidth",
+        "meaning": "how much data can move at once, not how fast one answer comes back"
+      },
+      {
+        "term": "p95 / p99",
+        "meaning": "the time that 95% / 99% of requests are faster than; shows the slow cases"
+      },
+      {
+        "term": "timeout",
+        "meaning": "the maximum time a system waits before giving up"
+      },
+      {
+        "term": "profiling",
+        "meaning": "measuring exactly where the time is spent"
+      }
+    ],
+    "mistakes": [
+      "Promising a fix before you have measured where the time goes.",
+      "Confusing latency (delay) with bandwidth (amount of data).",
+      "Blaming the user's internet without evidence."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Define",
+      "starter": "Latency is simply the waiting time between…"
+    },
+    {
+      "step": "Why",
+      "starter": "The reason it's slow sometimes is that the delays add up…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like ordering food delivery…"
+    },
+    {
+      "step": "Plan",
+      "starter": "What we'll do is measure each step and…"
+    },
+    {
+      "step": "So what",
+      "starter": "What this means for you is…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "The latency is high because of many reasons.",
+      "strong": "The app is slow because several small delays add up, and one of them is much bigger than the others.",
+      "why": "Specific, and points to the bottleneck idea."
+    },
+    {
+      "weak": "Maybe it is your internet.",
+      "strong": "It could be the network, but I'd like to measure it before we jump to conclusions.",
+      "why": "Never blame the customer without evidence."
+    },
+    {
+      "weak": "p99 is 4000 ms.",
+      "strong": "One in a hundred users waits about four seconds, which feels broken.",
+      "why": "Translate the metric into the user's experience."
+    },
+    {
+      "weak": "We will fix all of it.",
+      "strong": "We'll fix the slowest step first, because that's where most of the waiting comes from.",
+      "why": "Shows prioritisation."
+    },
+    {
+      "weak": "It is slow in peak hour.",
+      "strong": "It slows down at peak times, when everyone logs in at nine.",
+      "why": "Plural \"times\" and a concrete example."
+    }
+  ],
+  "model": "Latency is simply the waiting time between when you click something and when you see the result. The reason the app is slow sometimes is that one click actually triggers a whole chain of steps. Your browser sends a message across the internet, our server receives it, it asks the database, sometimes it asks your payment provider too, and then the answer travels all the way back. Each round trip is small, but they add up. Think of it like ordering food delivery. Your total wait is the time to send the order, the cooking time, and the driving time. If the kitchen is slow at lunchtime, a faster driver won't make a noticeable difference. You have to find the bottleneck. In our case, it gets worse at peak times, around nine in the morning when everyone logs in at once, which tells me something is overloaded. What we'll do is measure each step this week to pin down exactly where the time goes, and then fix the biggest delay first. What this means for you is that instead of guessing, in a week you'll get a clear answer and a plan, and most of the improvement usually comes from fixing just one or two things.",
+  "short": "Latency is waiting time. One click triggers a chain of steps, and the small delays add up. It's worst at peak times, so something is overloaded. This week we'll measure each step, pin down the bottleneck, and fix that first. What this means for you is a clear answer in a week, and most of the speed gain from one or two fixes.",
+  "audience": {
+    "engineer": "Users report the dashboard is slow, mostly around 9 a.m. Median latency is fine at about 400 milliseconds, but p95 jumps to over three seconds at peak, so this is load-related, not a constant cost. My guess is either connection pool exhaustion on the database or the synchronous call to the payment provider, which has no timeout. Before changing anything, I'd add tracing so we get a per-span breakdown of each request, then look at the slowest traces at peak. If it's the pool, we tune it and add a read replica. If it's the external call, we add a timeout and move it off the critical path."
+  },
+  "followUps": [
+    {
+      "q": "Can't we just buy bigger servers?",
+      "answer": "Sometimes that helps, but it's a bit like hiring more drivers when the kitchen is the problem. If the delay is in the database or an outside service, bigger servers cost more and change nothing. That's why I want to measure first."
+    },
+    {
+      "q": "How fast should it be?",
+      "answer": "As a rule of thumb, under half a second feels instant, and over two seconds feels broken. I'd suggest a target like: ninety-five percent of page loads under one second, even at nine in the morning."
+    },
+    {
+      "q": "Is it something we did wrong?",
+      "answer": "Not at all. This is very normal as more people use a system. Something that was fine for fifty users can struggle with five hundred. It's a sign the product is growing."
+    }
+  ],
+  "jargon": [
+    "p95",
+    "p99",
+    "millisecond",
+    "tracing",
+    "connection pool",
+    "replica",
+    "span",
+    "timeout"
+  ],
+  "selfCheck": [
+    "I defined latency as waiting time in plain words.",
+    "I explained why delays add up, with one analogy.",
+    "I didn't promise a fix before measuring.",
+    "I said what the listener gets and when.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

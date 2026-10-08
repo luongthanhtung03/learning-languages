@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Summarise what was built and why, at a high level",
+    "What they need to run it: documentation, access, monitoring",
+    "Training, a support period, and who to contact"
+  ],
+  "phrases": [
+    { "phrase": "what I'd suggest is", "meaning": "a polite way to recommend" },
+    { "phrase": "let me make sure", "meaning": "introduces checking something" },
+    { "phrase": "I completely understand", "meaning": "shows empathy" },
+    { "phrase": "hand over", "meaning": "give responsibility to someone else" },
+    { "phrase": "there are three things", "meaning": "introduces a structured list" },
+    { "phrase": "you're in good hands", "meaning": "you'll be well taken care of" },
+    { "phrase": "reach out", "meaning": "contact" },
+    { "phrase": "make it your own", "meaning": "take ownership and adapt it" }
+  ],
+  "learn": {
+    "explain": "A good handover is part of an FDE's job: the goal is that the customer's own team can run, fix and improve the system without you. Their engineers need a clear overview of what was built and why the main decisions were made, documentation for running it day to day, access to everything (code, accounts, keys, dashboards), knowledge of what to monitor and what typically goes wrong, and a support period during which they can ask questions. Structure it, check their understanding by letting them do things themselves, and be honest about known weaknesses and unfinished work. A handover with hidden problems damages trust later.",
+    "points": [
+      "Overview and key decisions, then how to run it day to day.",
+      "Access, monitoring, known issues, and honest gaps.",
+      "Let them practise, then a support period with a clear contact."
+    ],
+    "mistakes": [
+      "Sending a long document and calling it a handover.",
+      "Hiding known problems or unfinished parts.",
+      "Doing everything yourself during training instead of letting them try."
+    ]
+  },
+  "framework": [
+    { "step": "Purpose", "starter": "The goal today is that your team can run this without us…" },
+    { "step": "Structure", "starter": "There are three things I'd like to cover…" },
+    { "step": "Honesty", "starter": "There are a couple of known issues I want to be open about…" },
+    { "step": "Practice", "starter": "What I'd suggest is that you…, and I'll watch." },
+    { "step": "Support", "starter": "For the next four weeks, reach out to… if…" }
+  ],
+  "betterWays": [
+    { "weak": "All the information is in the document.", "strong": "The document has the details, but let's go through the most important parts together.", "why": "A conversation transfers knowledge better than a file." },
+    { "weak": "Everything works perfectly.", "strong": "There are two known issues I want to be open about, so they don't surprise you.", "why": "Honesty about weaknesses builds long-term trust." },
+    { "weak": "I will show you how to deploy.", "strong": "What I'd suggest is that you do the deployment yourself today, and I'll just watch.", "why": "Learning by doing; checks real understanding." },
+    { "weak": "If problem, call me.", "strong": "For the next four weeks, reach out to me directly; after that, our support team takes over.", "why": "Clear support period and contact." },
+    { "weak": "Now it's your system.", "strong": "It's yours now, so please make it your own; you'll know your users better than we do.", "why": "Encourages ownership positively." }
+  ],
+  "model": "Thanks, everyone. The goal today is simple: by the end of this handover, your team should be able to run, fix and improve this system without us. There are three things I'd like to cover. First, the big picture: what we built, and why we made the main decisions, like reading from the order system once an hour instead of in real time. Second, running it day to day: where the logs are, what the dashboard shows, and what to do when the most common alerts appear. And third, changing it: how to update the assistant's instructions and documents, and how to test a change before it goes live. There are also two known issues I want to be open about, so they don't surprise you. Very long customer emails are sometimes answered too briefly, and one report is slow on Mondays. Both are written up with suggested fixes. Rather than me clicking through everything, what I'd suggest is that one of you does a real deployment today, and I'll just watch and help. Let me make sure everyone has access to the code, the dashboards and the accounts before we finish. For the next four weeks, reach out to me directly with anything. After that, our support team takes over, and you're in good hands. It's yours now, so please make it your own.",
+  "short": "The goal today is that your team can run this without us. There are three things: why we built it this way, running it day to day, and how to change it safely. Two known issues are documented with fixes. I'd suggest you do a deployment yourselves today while I watch. For four weeks, reach out to me directly; then our support team takes over.",
+  "followUps": [
+    { "q": "What if something breaks after the four weeks?", "answer": "Our support team takes over, with the same documentation and access to my notes. For serious problems, they'll respond within the agreed times. And if it's something only I would know, they can still reach me internally." },
+    { "q": "Which part do you think we'll find hardest?", "answer": "Probably testing changes to the assistant's instructions, because a small change can affect answers in unexpected ways. That's why we built the test set, and I'd strongly suggest always running it before any change goes live." },
+    { "q": "Can you stay one more month?", "answer": "I understand why you'd want that, and I can discuss it with my manager. But my honest view is that your team is ready, and the best way to build confidence is to start running it while support is still close by." }
+  ],
+  "selfCheck": [
+    "I stated the goal: they can run it without us.",
+    "I structured the handover into clear parts.",
+    "I was open about known issues.",
+    "I let them practise rather than just showing.",
+    "I gave a clear support period and contact."
+  ]
+}

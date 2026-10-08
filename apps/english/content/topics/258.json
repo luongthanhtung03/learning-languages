@@ -1,0 +1,162 @@
+{
+  "ideas": [
+    "Start with what the system does for whom",
+    "The main parts and how a request travels through them",
+    "Where to start, what's tricky, and who to ask"
+  ],
+  "phrases": [
+    {
+      "phrase": "the big picture",
+      "meaning": "the overall view without detail"
+    },
+    {
+      "phrase": "there are four main parts",
+      "meaning": "signposting: introduces a structure"
+    },
+    {
+      "phrase": "does that make sense so far",
+      "meaning": "checks understanding"
+    },
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "let's follow",
+      "meaning": "introduces tracing a journey step by step"
+    },
+    {
+      "phrase": "don't worry about",
+      "meaning": "this isn't important for now"
+    },
+    {
+      "phrase": "the tricky part is",
+      "meaning": "the difficult part is"
+    },
+    {
+      "phrase": "feel free to",
+      "meaning": "you are welcome to"
+    }
+  ],
+  "learn": {
+    "explain": "Explaining your system to a new joiner is a common task and a great test of your understanding. New people get overwhelmed easily, so start with the big picture: what the system does and for whom. Then show the main parts, usually three to five, and follow one real request or user action through them from start to finish; that's much easier to remember than a list of services. Tell them what they can safely ignore for now, what the tricky or surprising parts are, and who to ask about what. Check understanding often and encourage questions. A simple drawing helps a lot.",
+    "points": [
+      "Big picture first: what it does, and for whom.",
+      "Follow one real request through the main parts.",
+      "Say what to ignore for now, what's tricky, and who to ask."
+    ],
+    "analogy": "Think of it like showing a new waiter around a restaurant. You don't start with the supplier contracts. You follow one order: the customer orders at the table, it goes to the kitchen screen, the chef cooks, the waiter delivers, and the bill goes to the till.",
+    "glossary": [
+      {
+        "term": "architecture",
+        "meaning": "the overall structure: the main parts and how they connect"
+      },
+      {
+        "term": "service",
+        "meaning": "an independent part of the system that does one job"
+      },
+      {
+        "term": "queue",
+        "meaning": "a waiting line where tasks are stored until a worker processes them"
+      },
+      {
+        "term": "frontend / backend",
+        "meaning": "the part users see / the part that runs on servers"
+      },
+      {
+        "term": "onboarding",
+        "meaning": "helping a new person become productive"
+      }
+    ],
+    "mistakes": [
+      "Listing every service and database in the first ten minutes.",
+      "Never checking whether they're following.",
+      "Hiding the messy parts, which they'll discover anyway."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Big picture",
+      "starter": "The big picture is that our system helps… to…"
+    },
+    {
+      "step": "Parts",
+      "starter": "There are four main parts…"
+    },
+    {
+      "step": "Journey",
+      "starter": "Let's follow one customer question through the system…"
+    },
+    {
+      "step": "Tips",
+      "starter": "Don't worry about… for now. The tricky part is…"
+    },
+    {
+      "step": "Check",
+      "starter": "Does that make sense so far? Feel free to stop me."
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "We have twelve microservices: auth, gateway, ingest…",
+      "strong": "The big picture is that our system answers customers' questions for online shops.",
+      "why": "Purpose before components."
+    },
+    {
+      "weak": "The request go to the gateway then the service.",
+      "strong": "Let's follow one customer question from the moment they type it.",
+      "why": "A journey is easier to remember than a list."
+    },
+    {
+      "weak": "You need to learn all of it.",
+      "strong": "Don't worry about the billing part for now; you won't touch it for a few months.",
+      "why": "Reduces overload."
+    },
+    {
+      "weak": "Everything is very clean.",
+      "strong": "The tricky part is the document import; it's older and has some surprises.",
+      "why": "Honest warnings save the new person time."
+    },
+    {
+      "weak": "Any question?",
+      "strong": "Feel free to stop me at any point; there are no silly questions in week one.",
+      "why": "Warm and encouraging."
+    }
+  ],
+  "model": "Welcome to the team! Let me give you the big picture first, and we'll go into details over the next weeks. Our system answers customers' questions for online shops, things like \"where is my order?\" or \"can I return this?\", so the shop's staff only handle the difficult cases. There are four main parts. Think of it like a restaurant. There's the part customers see, the chat window on the shop's website, like the dining room. There's the part that understands the question and writes the answer, like the kitchen. There's our library of each shop's information, their policies and product details, like the pantry. And there's the dashboard where shop staff see conversations and take over when needed, like the manager's office. Let's follow one question. A customer asks about a return. The chat window sends it to the kitchen, which looks up the shop's return policy in the library, writes an answer, and sends it back in about two seconds. If the customer is upset, the conversation appears in the dashboard for a person. Does that make sense so far? Don't worry about billing for now. The tricky part is how shop information gets into the library; it's older and has surprises. Feel free to ask me anything.",
+  "short": "Our system answers online shoppers' questions so shop staff only handle the hard cases. Like a restaurant, there are four parts: the chat window, the part that writes answers, a library of each shop's information, and a dashboard for staff. A question travels from the chat to the answer writer, which checks the library and replies in seconds. Ignore billing for now.",
+  "audience": {
+    "engineer": "Four main components. The chat widget is a small JavaScript embed on the shop's site that talks to our API over a websocket. The API service handles sessions and auth per shop, and calls the answer service, which does retrieval over that shop's documents in a vector index and then calls the model. The knowledge store is fed by the ingestion pipeline, which crawls the shop's pages and imports product feeds on a queue; that's the oldest and flakiest code, so be careful there. The agent dashboard is a React app on the same API. Everything is multi-tenant, so every query is scoped by shop ID; never skip that filter."
+  },
+  "followUps": [
+    {
+      "q": "Where should I start in the code?",
+      "answer": "I'd start with the part that writes answers, because it's the heart of the system and fairly clean. Pick one small bug from the starter list, follow the code path, and ask me when something doesn't make sense. Understanding one part well is better than skimming everything."
+    },
+    {
+      "q": "Who do I ask about what?",
+      "answer": "For the answer part, ask me. For the document import, ask Hoa; she wrote most of it. For anything about customers and priorities, ask our product manager, Tuan. And in your first month, any question is fine to post in the team channel."
+    },
+    {
+      "q": "What's the most common mistake new people make here?",
+      "answer": "Forgetting that every shop's data must stay separate. Every time you read data, it must be filtered by the shop. It's the one rule that really matters, so the code review always checks it."
+    }
+  ],
+  "jargon": [
+    "microservice",
+    "API",
+    "websocket",
+    "vector",
+    "multi-tenant",
+    "queue",
+    "pipeline",
+    "React"
+  ],
+  "selfCheck": [
+    "I started with what the system does and for whom.",
+    "I gave the main parts with one analogy.",
+    "I followed one request through the system.",
+    "I said what to ignore and what's tricky.",
+    "I checked understanding and invited questions."
+  ]
+}

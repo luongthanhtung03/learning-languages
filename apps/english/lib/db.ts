@@ -72,6 +72,12 @@ export function db(): DatabaseSync {
     CREATE INDEX IF NOT EXISTS review_card ON card_reviews(card_id);
     CREATE INDEX IF NOT EXISTS err_rec ON speaking_errors(recording_id);
 
+    -- your own STAR stories, reused across behavioural questions
+    CREATE TABLE IF NOT EXISTS stories (
+      id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT NOT NULL, situation TEXT, task TEXT,
+      action TEXT, result TEXT, lesson TEXT, created_at TEXT NOT NULL, updated_at TEXT NOT NULL
+    );
+
     -- active study seconds per local day
     CREATE TABLE IF NOT EXISTS study_time (
       day TEXT NOT NULL, skill TEXT NOT NULL, seconds INTEGER NOT NULL, PRIMARY KEY (day, skill)

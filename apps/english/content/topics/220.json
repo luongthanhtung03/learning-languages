@@ -1,0 +1,159 @@
+{
+  "ideas": [
+    "Old systems often have no modern connection points",
+    "Options: use what exists, add a small connector, or read exported files",
+    "Start read-only, small and safe, then expand"
+  ],
+  "phrases": [
+    {
+      "phrase": "it depends on",
+      "meaning": "the answer changes based on something"
+    },
+    {
+      "phrase": "the trade-off is",
+      "meaning": "the cost of one advantage is"
+    },
+    {
+      "phrase": "in most cases",
+      "meaning": "usually, but not always"
+    },
+    {
+      "phrase": "work around",
+      "meaning": "find a way to avoid a problem without solving it directly"
+    },
+    {
+      "phrase": "leave it as it is",
+      "meaning": "not change it"
+    },
+    {
+      "phrase": "start small",
+      "meaning": "begin with a limited, low-risk version"
+    },
+    {
+      "phrase": "a middle layer",
+      "meaning": "a component between two systems"
+    },
+    {
+      "phrase": "step by step",
+      "meaning": "gradually, in stages"
+    }
+  ],
+  "learn": {
+    "explain": "Legacy software is old software that is still important to the business: a 15-year-old accounting system, a mainframe at a bank, an ERP heavily customised over years. These systems often have no modern API, little documentation, and the people who built them may have left. Customers usually can't replace them, so the AI must connect to them. Common options: use whatever interface exists (an old API, database read access, scheduled file exports), build a small connector, a middle layer, that translates between the old system and the new one, or, as a last resort, automate the screens a human uses. The safest approach is to start read-only, with one small use case, avoid changing the old system, and add write access only later, with approval steps.",
+    "points": [
+      "Legacy systems are critical and fragile; the goal is to connect, not replace.",
+      "Use what exists first: exports, database read access, or an old interface.",
+      "Start read-only and small; add actions later with human approval."
+    ],
+    "analogy": "Think of it like connecting a new smart TV to an old sound system that only has a cable from the 1990s. You don't throw away the expensive speakers. You buy a small adapter box in the middle, test it with one song, and only later connect everything else.",
+    "glossary": [
+      {
+        "term": "legacy system",
+        "meaning": "old software still critical to the business"
+      },
+      {
+        "term": "ERP",
+        "meaning": "a large system that runs core business processes: finance, stock, HR"
+      },
+      {
+        "term": "middleware / connector",
+        "meaning": "software in the middle that translates between systems"
+      },
+      {
+        "term": "batch export",
+        "meaning": "a file of data produced on a schedule, e.g. every night"
+      },
+      {
+        "term": "RPA",
+        "meaning": "software that clicks through screens like a human would"
+      }
+    ],
+    "mistakes": [
+      "Suggesting the customer replace their old system.",
+      "Promising real-time, two-way integration before seeing what the system supports.",
+      "Starting with write access to a critical system."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Acknowledge",
+      "starter": "Your system has worked for years, so we'll leave it as it is…"
+    },
+    {
+      "step": "Options",
+      "starter": "It depends on what the system offers. There are usually three ways…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like an adapter between a new TV and old speakers…"
+    },
+    {
+      "step": "Plan",
+      "starter": "I'd suggest we start small, read-only…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "Your system is too old, you should change it.",
+      "strong": "Your system has run the business for fifteen years, so we'll work with it, not replace it.",
+      "why": "Respects the customer's investment."
+    },
+    {
+      "weak": "It has no API so we cannot integrate.",
+      "strong": "It doesn't have a modern connection point, but in most cases there's a way to work around that.",
+      "why": "Positive and realistic."
+    },
+    {
+      "weak": "We will build middleware.",
+      "strong": "We'll build a small middle layer that translates between your system and the AI.",
+      "why": "Describes the idea instead of the jargon."
+    },
+    {
+      "weak": "AI will update the data automatically.",
+      "strong": "At first, the AI will only read data; any changes will still be approved by a person.",
+      "why": "Shows safety and builds trust."
+    },
+    {
+      "weak": "It will take long time.",
+      "strong": "The first step, reading last night's export, could be ready in two weeks.",
+      "why": "A concrete, small first milestone."
+    }
+  ],
+  "model": "Your system has run the business for fifteen years, so the plan is not to replace it. We'll leave it as it is and connect to it carefully. How we do that depends on what it offers, and in most cases there are three ways. The simplest is to use what already exists: many older systems can export a file every night, or let us read their database. The second is to build a small middle layer, a translator that sits between your system and the AI. The third, if nothing else works, is to automate the screens your staff already use, but that's more fragile. Think of it like connecting a new smart TV to an old sound system. You don't throw away good speakers; you buy a small adapter box, test it with one song, and connect the rest later. So I'd suggest we start small. First, the AI only reads data from last night's export, to answer your staff's questions about stock levels. Nothing is written back into the old system. If that works well, we move step by step: fresher data, then actions, always with a person approving them. The trade-off is that the first version won't be real-time. But it's safe, and it could be ready in about two weeks.",
+  "short": "We won't replace your system; we'll connect to it carefully. It depends on what it offers: a nightly export, read access to the database, or a small middle layer that translates. Like an adapter between a new TV and old speakers. We'll start small and read-only, answering stock questions from last night's data, then add more step by step, with people approving any changes.",
+  "audience": {
+    "engineer": "Their ERP is an on-prem system with a SOAP interface that IT says is unreliable, plus an Oracle database we could get read access to through a replica. I'd avoid both for the first phase. They already produce nightly CSV exports for finance, so phase one is: pick those up from SFTP, validate and load them into our own store, and have the agent query that. Zero writes to the ERP and no load on production. Phase two: read replica access for fresher data. Phase three, only if needed: write-back through the SOAP interface, wrapped in an idempotent service with a human approval step and full audit logging."
+  },
+  "followUps": [
+    {
+      "q": "Will this slow down our old system?",
+      "answer": "Not in the first phase. We only read a file it already produces every night, so the system doesn't even know we're there. Later, if we read directly, we'd use a copy of the data, not the live system your staff use."
+    },
+    {
+      "q": "Why can't it be real-time from day one?",
+      "answer": "It could be, but it means connecting directly to a critical system we don't know well yet. That's risky. Starting with last night's data lets us prove the value safely, then we can make it fresher once we understand the system."
+    },
+    {
+      "q": "Who on our side do you need?",
+      "answer": "Mainly one person from IT who knows the system, for a few hours a week, to help us get access and explain the data. And one person from the business side to tell us which questions matter most."
+    }
+  ],
+  "jargon": [
+    "API",
+    "SOAP",
+    "middleware",
+    "ERP",
+    "SFTP",
+    "replica",
+    "idempotent",
+    "RPA",
+    "CSV"
+  ],
+  "selfCheck": [
+    "I respected the old system instead of criticising it.",
+    "I gave the options in order of safety.",
+    "I used one analogy and finished it.",
+    "I proposed a small, read-only first step with a time frame.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

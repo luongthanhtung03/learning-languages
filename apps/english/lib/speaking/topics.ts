@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 
-export type TopicType = "P2" | "P3" | "TQ";
+export type TopicType = "EX" | "BQ" | "WS";
 
 export type Topic = { no: number; type: TopicType; text: string; block: number };
 
@@ -9,13 +9,16 @@ export type Block = { no: number; name: string; target: string; topics: Topic[] 
 
 export type TopicBook = { blocks: Block[]; topics: Topic[]; fillers: string[]; file: string };
 
-const DEFAULT_FILLERS = ["the thing is…", "what I mean is…", "something along those lines"];
+const DEFAULT_FILLERS = ["let me put it another way…", "the key point is…", "good question — so…"];
+
+/** Re-recorded cold every 4 weeks to measure progress ("Tell me about yourself"). */
+export const MONTHLY_TOPIC = 221;
 
 export function topicsFile() {
-  return process.env.TOPICS_FILE ?? path.join(process.cwd(), "..", "..", "120-speaking-topics.md");
+  return process.env.TOPICS_FILE ?? path.join(process.cwd(), "..", "..", "fde-speaking-topics.md");
 }
 
-/** Parse 120-speaking-topics.md. Read on every call so edits to the file show up immediately. */
+/** Parse fde-speaking-topics.md. Read on every call so edits to the file show up immediately. */
 export function loadTopics(): TopicBook {
   const file = topicsFile();
   const md = fs.readFileSync(/*turbopackIgnore: true*/ file, "utf-8");
@@ -40,7 +43,7 @@ export function loadTopics(): TopicBook {
       cur.target = clean(t[1]);
       continue;
     }
-    const q = line.match(/^(\d+)\.\s*\((P2|P3|TQ)\)\s*(.+)$/);
+    const q = line.match(/^(\d+)\.\s*\((EX|BQ|WS)\)\s*(.+)$/);
     if (q && cur.no > 0) cur.topics.push({ no: Number(q[1]), type: q[2] as TopicType, text: q[3].trim(), block: cur.no });
   }
 

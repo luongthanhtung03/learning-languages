@@ -59,12 +59,12 @@ export function MonthlyProgress() {
       <header>
         <Link href="/speaking" className="link">← Speaking</Link>
         <h1 className="mt-6 text-4xl font-semibold tracking-tight">Monthly self-check</h1>
-        <p className="mt-2 text-sm text-muted">Topic 11, cold first round, every 4 weeks. It shows up in Today when due.</p>
+        <p className="mt-2 text-sm text-muted">“Tell me about yourself”, cold first round, every 4 weeks. It shows up in Today when due.</p>
       </header>
       {!points ? (
         <p className="text-muted">Loading…</p>
       ) : points.length === 0 ? (
-        <p className="text-center text-muted">No Topic 11 recordings yet. It comes up in Block 2, and the monthly re-record starts 4 weeks later.</p>
+        <p className="text-center text-muted">No “Tell me about yourself” recordings yet. It comes up in Block 3, and the monthly re-record starts 4 weeks later.</p>
       ) : (
         <>
           {fasterButNotCleaner && (

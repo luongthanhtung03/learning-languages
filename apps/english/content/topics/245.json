@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Say the bad news early and directly, in the first sentence",
+    "Explain why briefly, and what you've already done",
+    "New date, what they get in the meantime, how you'll update them"
+  ],
+  "phrases": [
+    { "phrase": "I'm afraid", "meaning": "a polite way to introduce bad news" },
+    { "phrase": "I completely understand", "meaning": "shows empathy" },
+    { "phrase": "what I'd suggest is", "meaning": "a polite way to recommend" },
+    { "phrase": "I wanted to tell you as soon as", "meaning": "shows you didn't hide the news" },
+    { "phrase": "take full responsibility", "meaning": "accept that it's your team's fault" },
+    { "phrase": "in the meantime", "meaning": "while waiting" },
+    { "phrase": "we're confident that", "meaning": "we strongly believe" },
+    { "phrase": "keep you updated", "meaning": "give you regular news" }
+  ],
+  "learn": {
+    "explain": "Telling a customer about a delay is uncomfortable, so people often delay the message too, which makes it worse. The customer needs three things: to hear it early, to understand why without a long technical story, and to have a realistic new plan they can rely on. Put the bad news in the first sentence. Explain the cause briefly and honestly, taking responsibility where it's yours. Describe what you're doing about it, give a new date you're confident in, offer something useful in the meantime if possible, and say how often you'll update them. Don't blame them, even if their delays contributed; describe facts.",
+    "points": [
+      "Bad news first, early, and clearly.",
+      "A short, honest reason; take responsibility for your part.",
+      "A realistic new date, something useful in the meantime, regular updates."
+    ],
+    "mistakes": [
+      "Hiding the news at the end after ten minutes of good news.",
+      "A long technical explanation that sounds like an excuse.",
+      "Giving an optimistic new date that also slips."
+    ]
+  },
+  "framework": [
+    { "step": "Bad news first", "starter": "I'm afraid I have some bad news: the launch will be two weeks late." },
+    { "step": "Why", "starter": "I wanted to tell you as soon as we knew. The reason is…" },
+    { "step": "Action", "starter": "What we've done about it is…" },
+    { "step": "New plan", "starter": "We're confident that… In the meantime,…" },
+    { "step": "Updates", "starter": "I'll keep you updated every…" }
+  ],
+  "betterWays": [
+    { "weak": "The project is going well, many features are done, but small problem…", "strong": "I'm afraid I have some bad news: the launch will be two weeks late.", "why": "Bad news first; burying it destroys trust." },
+    { "weak": "Your IT team was slow to give us access.", "strong": "Access to the order system took longer than we planned, and we should have flagged that risk earlier.", "why": "Facts without blame, plus ownership." },
+    { "weak": "Maybe one week, maybe two.", "strong": "The new date is the twentieth, and we're confident in it because the remaining work is already tested.", "why": "One date, with a reason to trust it." },
+    { "weak": "Sorry for that.", "strong": "I take full responsibility for not warning you sooner.", "why": "A real apology names what you're sorry for." },
+    { "weak": "We will tell you if anything change.", "strong": "I'll keep you updated every Friday until launch, even if nothing changes.", "why": "Regular updates reduce anxiety." }
+  ],
+  "model": "I'm afraid I have some bad news: the launch will be two weeks late. The new date is the twentieth. I wanted to tell you as soon as we knew, rather than wait until the end of the month. The reason is that when we connected to your order system with real data, we found that about ten percent of orders are stored in an older format the assistant couldn't read. If we'd launched anyway, it would have given wrong delivery information to around one customer in ten, and we didn't want to take that risk with your customers. We should have tested with real data earlier, and I take full responsibility for not flagging that risk sooner. What we've done about it is this: we've already fixed the format issue for most of the orders, and we're testing the rest this week. We're confident that the new date is realistic, because the remaining work is small and the main features are already tested. In the meantime, what I'd suggest is that we let your support team start using the assistant internally next week, so they're fully trained by launch day. I completely understand this affects your plans, and I'm sorry. I'll keep you updated every Friday until launch.",
+  "short": "I'm afraid the launch will be two weeks late; the new date is the twentieth. With real data, we found ten percent of orders in an older format, and launching would have given wrong information. I take responsibility for not flagging it sooner. Most of it is already fixed. In the meantime, your team can start using it internally next week. I'll update you every Friday.",
+  "followUps": [
+    { "q": "How do I know it won't slip again?", "answer": "The cause is now known and mostly fixed, and the rest is already being tested. If anything threatens the new date, you'll hear it from me the same day, not at the end. That's why I'm sending updates every Friday." },
+    { "q": "I have to explain this to my boss. What should I tell him?", "answer": "I can help with that. I'll send you a short written summary today: what happened, why we chose to delay rather than risk wrong answers, and the new plan. I'm also happy to join a call with him if that helps." },
+    { "q": "Is there any way to launch partly on time?", "answer": "Possibly. We could launch on time for the questions that don't depend on order data, like opening hours and return policies. It's a smaller first step, but it gets value to your customers sooner. Let me check with the team and confirm by tomorrow." }
+  ],
+  "selfCheck": [
+    "The bad news was in my first sentence.",
+    "I gave a short, honest reason without blaming them.",
+    "I took responsibility for my part.",
+    "I gave one new date and a reason to trust it.",
+    "I promised regular updates."
+  ]
+}

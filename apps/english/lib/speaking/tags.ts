@@ -1,4 +1,4 @@
-// Error categories for the speaking error log (from the typical Vietnamese-L1 patterns in 120-speaking-topics.md)
+// Error categories for the speaking error log (from the typical Vietnamese-L1 patterns in fde-speaking-topics.md)
 export const ERROR_TAGS = [
   { id: "article", label: "Missing / wrong article", target: "articles (a / the / zero)" },
   { id: "plural", label: "Missing plural -s", target: "plural -s" },

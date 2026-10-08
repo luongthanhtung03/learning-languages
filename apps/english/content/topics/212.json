@@ -1,0 +1,163 @@
+{
+  "ideas": [
+    "Hallucination: the model invents something that sounds right but isn't",
+    "Why: it generates likely text, it doesn't look facts up",
+    "Fix: give it sources, let it say \"I don't know\", check important answers"
+  ],
+  "phrases": [
+    {
+      "phrase": "sounds right",
+      "meaning": "seems correct but might not be"
+    },
+    {
+      "phrase": "fill in the gaps",
+      "meaning": "supply missing information, possibly by guessing"
+    },
+    {
+      "phrase": "the trade-off is",
+      "meaning": "the cost of one advantage is"
+    },
+    {
+      "phrase": "in most cases",
+      "meaning": "usually, but not always"
+    },
+    {
+      "phrase": "it depends on",
+      "meaning": "the answer changes based on something"
+    },
+    {
+      "phrase": "reduce the risk",
+      "meaning": "make something bad less likely"
+    },
+    {
+      "phrase": "a human in the loop",
+      "meaning": "a person checks or approves the AI's output"
+    },
+    {
+      "phrase": "rather than guess",
+      "meaning": "instead of guessing"
+    }
+  ],
+  "learn": {
+    "explain": "A hallucination is when an AI model states something false or made up as if it were true: an invented statistic, a policy that doesn't exist, a fake reference. It happens because the model generates the most likely-sounding text rather than retrieving verified facts. If it doesn't know, it often fills in the gaps with something plausible. Hallucinations are more likely when the question is about very specific or recent facts, internal company information the model never saw, or when the prompt pushes it to always give an answer. You can't remove them completely, but you can reduce the risk a lot: give the model the right documents to answer from, instruct it to say \"I don't know\", ask it to cite its sources, test it with an evaluation set, and keep a human in the loop for high-stakes answers.",
+    "points": [
+      "The model generates plausible text; it doesn't check facts by itself.",
+      "Most risk comes from specific, recent or internal facts it never saw.",
+      "Grounding in your documents, allowing \"I don't know\", and human review reduce it."
+    ],
+    "analogy": "Think of a new employee in their first week who really wants to be helpful. When a customer asks a question they don't know, instead of saying \"let me check\", they give a confident answer that sounds right. The fix isn't firing them: it's giving them the handbook and making it OK to say \"I'm not sure\".",
+    "glossary": [
+      {
+        "term": "grounding",
+        "meaning": "making the model answer from provided sources"
+      },
+      {
+        "term": "RAG",
+        "meaning": "retrieving relevant documents and giving them to the model before it answers"
+      },
+      {
+        "term": "citation",
+        "meaning": "showing which document an answer came from"
+      },
+      {
+        "term": "eval",
+        "meaning": "a set of test questions used to measure accuracy"
+      },
+      {
+        "term": "temperature",
+        "meaning": "a setting that controls how random the output is"
+      }
+    ],
+    "mistakes": [
+      "Promising the customer that hallucinations can be removed completely.",
+      "Blaming the model without explaining what we can control.",
+      "Giving only technical fixes without the human process around them."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Define",
+      "starter": "A hallucination is when the model says something that sounds right but…"
+    },
+    {
+      "step": "Why",
+      "starter": "It happens because the model generates…, rather than…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like a new employee who…"
+    },
+    {
+      "step": "Fixes",
+      "starter": "We can reduce the risk in three ways…"
+    },
+    {
+      "step": "Honest limit",
+      "starter": "We can't remove it completely, so…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "AI is lying.",
+      "strong": "It isn't lying on purpose; it generates what sounds most likely, and sometimes that's wrong.",
+      "why": "Accurate, and avoids making the customer afraid of the tool."
+    },
+    {
+      "weak": "We will fix hallucination 100%.",
+      "strong": "We can't remove it completely, but we can reduce the risk to a level that's safe for this use.",
+      "why": "Honest hedging builds long-term trust."
+    },
+    {
+      "weak": "Use RAG and lower temperature.",
+      "strong": "We give it your official documents and tell it to answer only from them, rather than guess.",
+      "why": "Describe what happens, not the method names."
+    },
+    {
+      "weak": "It happen when question is difficult.",
+      "strong": "It happens most with very specific facts, like a product code or a policy date.",
+      "why": "Agreement fixed, and specific examples."
+    },
+    {
+      "weak": "Somebody need to check.",
+      "strong": "For refunds above a certain amount, we keep a human in the loop who approves the answer.",
+      "why": "A concrete rule instead of a vague suggestion."
+    }
+  ],
+  "model": "A hallucination is when the AI says something that sounds right but is actually made up, like a refund policy you never had. It happens because the model generates the most likely-sounding answer rather than looking up the facts. When it doesn't know, it tends to fill in the gaps. Think of it like a new employee in their first week who really wants to help. A customer asks something they don't know, and instead of saying \"let me check\", they give a confident answer. The solution isn't to fire them; it's to give them the handbook and make it OK to say \"I'm not sure\". We can reduce the risk in three ways. First, we give the model your official documents and ask it to answer only from them, rather than guess. Second, we tell it clearly that \"I don't know, let me connect you to a colleague\" is a good answer. Third, for high-risk answers, like refunds above a certain amount, we keep a human in the loop. The trade-off is that the assistant will sometimes say \"I don't know\" when a person could have answered. How strict we make it depends on the risk you're comfortable with. In most cases, with these steps, it's accurate enough, but we'll measure it before launch.",
+  "short": "A hallucination is when the AI makes up something that sounds right, because it predicts likely text rather than checking facts. We reduce the risk by making it answer only from your documents, allowing it to say \"I don't know\", and keeping a human in the loop for risky answers. We can't remove it completely, so we measure accuracy before launch.",
+  "audience": {
+    "engineer": "Most of the hallucinations in the pilot are on policy specifics: dates, amounts, product codes. These are exactly the facts that aren't in the model's weights, so it confabulates. Plan: RAG over the policy corpus with chunk-level citations, a system prompt that requires an answer to be supported by the retrieved passages and explicitly allows abstaining, and a check that rejects answers with no citation. We'll lower temperature for this flow. Then we build an eval set of about two hundred real questions, including ones that should be refused, and track a faithfulness score and abstention rate on every prompt change. High-value refunds route to a human approval queue regardless."
+  },
+  "followUps": [
+    {
+      "q": "So how accurate will it be?",
+      "answer": "I'd rather measure than guess. Before launch, we'll test it on a few hundred real customer questions and show you the results, including where it went wrong. Then you decide if it's good enough, or we keep improving."
+    },
+    {
+      "q": "Won't customers be annoyed if it says \"I don't know\"?",
+      "answer": "A little, sometimes. But a wrong answer about a refund is much worse than a polite handover to a person. In practice, if the documents are good, it only needs to do that for a small share of questions."
+    },
+    {
+      "q": "Who is responsible if it gives a wrong answer?",
+      "answer": "That's an important question for your legal team, and we should agree on it before launch. On our side, we log every answer and its sources, so we can always see exactly what happened and why."
+    }
+  ],
+  "jargon": [
+    "RAG",
+    "temperature",
+    "weights",
+    "eval",
+    "faithfulness",
+    "abstain",
+    "corpus",
+    "chunk",
+    "confabulate"
+  ],
+  "selfCheck": [
+    "I explained why it happens, not just what it is.",
+    "I used one analogy and finished it.",
+    "I gave concrete ways to reduce the risk.",
+    "I was honest that it can't be removed completely.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

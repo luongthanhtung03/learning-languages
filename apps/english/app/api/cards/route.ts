@@ -12,9 +12,11 @@ export async function GET(request: Request) {
 
 const DEFINITION = /\b(means?|meaning|(talk|talking|learning) about|is (an? )?(informal |formal )?way (to|of)|we use|describes?|refers to|if (something|someone|you|a person)|someone who is|is used to (say|describe))\b/i;
 
-type Body ={ episodeId: string; terms: string[] } | { sessionId: number };
+type Body =
+  | { episodeId: string; terms: string[] }
+  | { sessionId: number; card?: { term: string; definition?: string; example?: string } };
 
-/** Create cards from a finished episode (the words you kept) or a finished topic (your research phrases). */
+/** Create cards from a finished episode (the words you kept), a finished topic (your study phrases), or one pack line (a better way to say it). */
 export async function POST(request: Request) {
   const body = (await request.json()) as Body;
 
@@ -48,6 +50,12 @@ export async function POST(request: Request) {
   const session = getSession(body.sessionId);
   if (!session) return Response.json({ error: "Session not found" }, { status: 404 });
   const topic = findTopic(loadTopics(), session.topic_no);
+  const source_title = topic?.text ?? `Topic ${session.topic_no}`;
+  if (body.card?.term?.trim()) {
+    const { term, definition, example } = body.card;
+    addCards([{ kind: "phrase", term: term.trim(), definition: definition?.trim() || null, example: example?.trim() || null, source: "topic", source_id: String(session.id), source_title }]);
+    return Response.json({ terms: cardsFor("topic", String(session.id)) });
+  }
   const example = session.notes.targetSentence?.trim() || null;
   const phrases = (session.notes.phrases ?? "")
     .split(/\r?\n/)
@@ -62,7 +70,7 @@ export async function POST(request: Request) {
       example: example && example.toLowerCase().includes(p.toLowerCase()) ? example : null,
       source: "topic" as const,
       source_id: String(session.id),
-      source_title: topic?.text ?? `Topic ${session.topic_no}`,
+      source_title,
     })),
   );
   return Response.json({ terms: cardsFor("topic", String(session.id)) });

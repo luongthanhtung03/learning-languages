@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "A real disagreement about work, not personalities",
+    "You listened first, then found common ground or a fair test",
+    "The relationship and the result were both better afterwards"
+  ],
+  "phrases": [
+    { "phrase": "looking back", "meaning": "thinking about the past now" },
+    { "phrase": "what I learned was", "meaning": "introduces the lesson" },
+    { "phrase": "I took responsibility for", "meaning": "I accepted that something was my job or my fault" },
+    { "phrase": "see where they were coming from", "meaning": "understand their point of view" },
+    { "phrase": "agree to disagree", "meaning": "accept that you have different opinions" },
+    { "phrase": "common ground", "meaning": "points both people agree on" },
+    { "phrase": "clear the air", "meaning": "talk openly to remove tension" },
+    { "phrase": "as a result", "meaning": "introduces the outcome" }
+  ],
+  "learn": {
+    "explain": "The interviewer wants to know if you can handle disagreement maturely, because FDEs constantly work with people who have different priorities: teammates, customers, product managers. A good story is about a work disagreement, not a personality clash. Show that you stayed calm, listened to understand the other person's reasons first, talked privately rather than in front of others, focused on the shared goal, and found a solution, sometimes by testing both ideas. Never make the other person the villain; the interviewer will imagine you describing them the same way one day. End with the result and what you learned about yourself.",
+    "points": [
+      "The conflict is about work, and you describe the other person fairly.",
+      "You listened first, talked privately, and focused on the shared goal.",
+      "Both the result and the relationship ended up better."
+    ],
+    "mistakes": [
+      "Making your teammate sound lazy or stupid.",
+      "A story where you simply won the argument.",
+      "Saying \"I never have conflicts\"."
+    ]
+  },
+  "framework": [
+    { "step": "Situation", "starter": "In my capstone team, we disagreed about…" },
+    { "step": "Understand", "starter": "At first I was frustrated, but I tried to see where they were coming from…" },
+    { "step": "Action", "starter": "So I suggested we talk one-to-one and…" },
+    { "step": "Result", "starter": "As a result,…" },
+    { "step": "Lesson", "starter": "Looking back, what I learned was…" }
+  ],
+  "betterWays": [
+    { "weak": "My teammate was lazy and didn't do anything.", "strong": "My teammate and I had very different ideas about how to split the work.", "why": "Describes the disagreement, not the person." },
+    { "weak": "I told him he was wrong in the meeting.", "strong": "Instead of arguing in the group meeting, I asked if we could talk one-to-one afterwards.", "why": "Shows you handle conflict privately and respectfully." },
+    { "weak": "Finally he agreed with me.", "strong": "We agreed to test both approaches for two days and let the results decide.", "why": "A fair process instead of winning." },
+    { "weak": "It was his fault.", "strong": "I took responsibility for my part: I hadn't explained my reasons clearly.", "why": "Ownership is what the question is really testing." },
+    { "weak": "After that we are friends.", "strong": "After that, we worked well together, and he actually reviewed most of my code.", "why": "Concrete evidence of a repaired relationship; tense fixed." }
+  ],
+  "model": "In my capstone project, a teammate and I disagreed about how to make our assistant accurate. He wanted to spend our last month collecting thousands of example questions to fine-tune the model. I wanted to improve the search over the university documents instead, because I thought the model was inventing rules it simply didn't have. At first I was frustrated, and in one group meeting we argued in front of everyone, which didn't help. So I asked if we could talk one-to-one. I tried to see where he was coming from, and it turned out his worry was fair: he'd seen the model answer in the wrong style, not just with wrong facts. We found common ground: we both wanted accurate answers by the deadline. So we agreed to test both ideas for two days on the same hundred questions and let the results decide. The search improvements fixed most of the wrong facts, and his examples, used in the prompt, fixed the style. As a result, we used both, and accuracy went above ninety percent. Looking back, I took responsibility for my part: I'd presented my idea as obviously right without explaining why. What I learned was to clear the air early, in private, and to turn opinions into a test whenever possible.",
+  "short": "In my capstone, a teammate wanted to fine-tune the model while I wanted to improve the document search. We argued in a meeting, so I asked to talk one-to-one, and I understood his concern was fair. We agreed to test both ideas for two days. As a result, we used both and passed ninety percent accuracy. What I learned was to talk privately and turn opinions into a test.",
+  "followUps": [
+    { "q": "What if the test had shown he was completely right?", "answer": "Then we'd have gone with his approach, and I'd have been happy to. The goal was an accurate assistant, not my idea winning. That's exactly why I suggested a test instead of more arguing." },
+    { "q": "What would you do if a customer disagreed with you like that?", "answer": "Mostly the same: understand their reasons first, find what we both want, and suggest a small test if possible. The difference is that with a customer, it's ultimately their decision, so my job is to make sure they decide with the full picture." },
+    { "q": "Have you ever had a conflict you couldn't resolve?", "answer": "Once, about code style in a group assignment. We agreed to disagree, and simply followed a standard style guide so it wasn't personal anymore. Not every disagreement needs a winner." }
+  ],
+  "selfCheck": [
+    "I described my teammate fairly.",
+    "I showed I listened before arguing.",
+    "I used a fair process: private talk, test, shared goal.",
+    "I took responsibility for my part.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

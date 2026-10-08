@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "What's affected and what still works, in plain words",
+    "What we're doing now, without guessing the cause",
+    "When the next update comes, and the workaround meanwhile"
+  ],
+  "phrases": [
+    { "phrase": "I completely understand", "meaning": "shows empathy" },
+    { "phrase": "what I'd suggest is", "meaning": "a polite way to recommend" },
+    { "phrase": "let me make sure", "meaning": "introduces checking or confirming" },
+    { "phrase": "here's where we are", "meaning": "introduces a status update" },
+    { "phrase": "our top priority", "meaning": "the most important thing for us now" },
+    { "phrase": "as a workaround", "meaning": "a temporary way to avoid the problem" },
+    { "phrase": "I'll update you", "meaning": "I'll give you news later" },
+    { "phrase": "at this stage", "meaning": "at this point in time" }
+  ],
+  "learn": {
+    "explain": "During an outage, the customer is under pressure from their own users and bosses. They need clear, calm, regular information they can pass on, not technical details or guesses. A good status update covers: what is affected and what still works, when it started, what you're doing right now, what they can do in the meantime (a workaround), and exactly when the next update will come. Don't speculate about the cause before you know it, and don't promise a fix time you can't keep; give update times instead. Keep updates on schedule even when there's nothing new; silence is what makes customers angry.",
+    "points": [
+      "Impact first: what's broken, what still works, since when.",
+      "What you're doing now, without guessing the cause.",
+      "A workaround if possible, and a fixed time for the next update."
+    ],
+    "mistakes": [
+      "Guessing the cause or a fix time too early.",
+      "Technical details the customer can't pass on.",
+      "Going silent because there's no news."
+    ]
+  },
+  "framework": [
+    { "step": "Impact", "starter": "Here's where we are: since…, … isn't working, but… still works." },
+    { "step": "Action", "starter": "Our top priority is to… Our team is…" },
+    { "step": "Honest limit", "starter": "At this stage, we don't know the cause yet, so…" },
+    { "step": "Workaround", "starter": "As a workaround, what I'd suggest is…" },
+    { "step": "Next update", "starter": "I'll update you at… even if there's nothing new." }
+  ],
+  "betterWays": [
+    { "weak": "The database connection pool is exhausted.", "strong": "The system can't reach its data at the moment, so the assistant can't answer questions.", "why": "Impact in plain words the customer can repeat." },
+    { "weak": "It will be fixed in ten minutes.", "strong": "I can't give you a fix time yet, but I'll update you at 10:30, even if there's nothing new.", "why": "Promise update times, not fix times." },
+    { "weak": "I think maybe it's because of the update yesterday.", "strong": "At this stage we don't know the cause, and I don't want to guess.", "why": "No speculation." },
+    { "weak": "Everything is down.", "strong": "The assistant is down, but your staff can still log in and see past conversations.", "why": "Say what still works, too." },
+    { "weak": "Sorry, we are trying.", "strong": "Our top priority is getting the service back; two engineers are working on it right now.", "why": "Shows concrete action." }
+  ],
+  "model": "Thanks for calling. I completely understand this is causing problems for your team, so let me give you a clear picture. Here's where we are. Since about nine fifteen this morning, the assistant hasn't been answering questions. Your staff can still log in and see past conversations, and no data has been lost, but they can't get new answers. Our top priority is getting the service back. Two of our engineers have been working on it since nine twenty, and we've already ruled out your network and your systems; the problem is on our side. At this stage, we don't know the exact cause yet, and I don't want to guess and give you wrong information. As a workaround, what I'd suggest is that your team goes back to the old process for now, answering from the knowledge base directly. It's slower, but it works. If it helps, I can send you a short message you can forward to your managers. I'll update you at ten thirty, or earlier if it's fixed, even if there's nothing new to report. And once it's resolved, you'll get a short written report: what happened, why, and what we're changing. Let me make sure you have my direct number in case anything changes on your side.",
+  "short": "Here's where we are: since nine fifteen, the assistant hasn't been answering, but staff can log in and no data is lost. The problem is on our side, and two engineers are on it. We don't know the cause yet, so I won't guess. As a workaround, please use the knowledge base directly. I'll update you at ten thirty, even if there's nothing new.",
+  "followUps": [
+    { "q": "When will it be fixed?", "answer": "I wish I could give you a time, but I'd only be guessing, and a wrong time is worse than none. What I can promise is an update every thirty minutes until it's fixed, and the moment we have a reliable estimate, you'll have it." },
+    { "q": "This is the second time this month. What's going on?", "answer": "You're right, and that's not acceptable. Once the service is back, I'll make sure the report covers both incidents and whether they're connected, and I'd like to meet you this week to go through what we're changing to prevent it." },
+    { "q": "Can you compensate us for this?", "answer": "That's a fair question. I'll raise it with our account team today and make sure they come back to you this week. Right now, my focus is getting the service back for your team." }
+  ],
+  "selfCheck": [
+    "I said what's affected and what still works.",
+    "I didn't guess the cause or promise a fix time.",
+    "I offered a workaround.",
+    "I gave a fixed time for the next update.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "ideas": [
+    "What happened and the impact, in numbers",
+    "Timeline and root cause, without blaming people",
+    "What went well, what didn't, and the actions with owners"
+  ],
+  "phrases": [
+    {
+      "phrase": "there are four parts",
+      "meaning": "signposting: introduces a structure"
+    },
+    {
+      "phrase": "does that make sense",
+      "meaning": "checks understanding"
+    },
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "what this means for you is",
+      "meaning": "links the idea to the listener's benefit"
+    },
+    {
+      "phrase": "the impact was",
+      "meaning": "introduces the effect on users or business"
+    },
+    {
+      "phrase": "the root cause was",
+      "meaning": "introduces the underlying reason"
+    },
+    {
+      "phrase": "what went well",
+      "meaning": "introduces positive points"
+    },
+    {
+      "phrase": "going forward",
+      "meaning": "from now on"
+    }
+  ],
+  "learn": {
+    "explain": "A post-mortem is a meeting and short document after an incident, so the team learns and prevents it from happening again. It's blameless: the question is \"what in our system or process allowed this?\", not \"who made the mistake?\", because people make mistakes and systems should catch them. A clear summary covers: what happened and the impact (how many users, how long), the timeline (detected, mitigated, resolved), the root cause and contributing factors, what went well and what didn't, and action items, each with an owner and a date. For non-technical stakeholders, keep the impact and actions; shrink the technical detail.",
+    "points": [
+      "Impact first: who was affected, how much, for how long.",
+      "Blameless: focus on the system and process, not on a person.",
+      "End with specific actions, each with an owner and a date."
+    ],
+    "analogy": "Think of it like an aviation investigation after a near miss. The goal isn't to punish the pilot; it's to understand which checks failed, and change the checklist so it can't happen the same way on any plane again.",
+    "glossary": [
+      {
+        "term": "post-mortem",
+        "meaning": "a review after an incident to learn from it"
+      },
+      {
+        "term": "blameless",
+        "meaning": "focusing on systems and processes, not individuals"
+      },
+      {
+        "term": "time to detect / resolve",
+        "meaning": "how long it took to notice / to fix the problem"
+      },
+      {
+        "term": "contributing factor",
+        "meaning": "something that made the incident worse or more likely"
+      },
+      {
+        "term": "action item",
+        "meaning": "a specific follow-up task with an owner and a deadline"
+      }
+    ],
+    "mistakes": [
+      "Saying a person's name as the cause.",
+      "A long technical story with no clear impact or actions.",
+      "Action items with no owner or date."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Summary",
+      "starter": "There are four parts: what happened, why, what went well, and what we'll change."
+    },
+    {
+      "step": "Impact",
+      "starter": "The impact was…"
+    },
+    {
+      "step": "Root cause",
+      "starter": "The root cause was…"
+    },
+    {
+      "step": "Went well / didn't",
+      "starter": "What went well was… What didn't go well was…"
+    },
+    {
+      "step": "Actions",
+      "starter": "Going forward, we're doing three things…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "Nam deployed the wrong config and broke everything.",
+      "strong": "A configuration change was released without a check that would have caught the mistake.",
+      "why": "Blameless: the process gap, not the person."
+    },
+    {
+      "weak": "Many users had problems.",
+      "strong": "The impact was about twelve hundred customers unable to pay for forty minutes.",
+      "why": "Specific numbers for impact and duration."
+    },
+    {
+      "weak": "We fixed it.",
+      "strong": "We detected it after six minutes and restored service by rolling back after forty.",
+      "why": "A clear timeline."
+    },
+    {
+      "weak": "We will be more careful.",
+      "strong": "Going forward, configuration changes go through the same automatic checks as code, owned by Linh, by the twentieth.",
+      "why": "A specific action with an owner and a date."
+    },
+    {
+      "weak": "Everything was bad.",
+      "strong": "What went well was the alert, which fired within six minutes.",
+      "why": "Recognising what worked is part of a good review."
+    }
+  ],
+  "model": "Thanks for joining. There are four parts: what happened, why, what went well, and what we'll change. First, what happened. Last Tuesday, from ten past two to ten to three, customers couldn't complete payments in the app. The impact was about twelve hundred failed payments over forty minutes. Most customers retried later, but we estimate around three hundred orders were lost. Second, why. The root cause was a settings change to the payment connection that contained a mistake. Settings changes didn't go through the same automatic checks as normal code changes, so nothing caught it before customers did. This is about our process, not a person. Think of it like an aviation investigation: the goal is to fix the checklist, not to blame the pilot. Third, what went well was the alert, which fired within six minutes, and the team rolled the change back calmly. What didn't go well was that it took us more than half an hour to realise the settings change was the cause. Going forward, we're doing three things: settings changes will get the same automatic checks, every change will show up clearly on the incident dashboard, and we'll practise rolling back. Each has an owner and a date in the document. What this means for you is that this type of mistake should be caught before customers see it. Does that make sense?",
+  "short": "Last Tuesday, customers couldn't pay for forty minutes: about twelve hundred failed payments and roughly three hundred lost orders. The root cause was a settings change that skipped the automatic checks normal code gets. It's about our process, not a person. Going forward, settings changes get the same checks, and every action has an owner and a date.",
+  "audience": {
+    "engineer": "Timeline: at 14:10 a config change to the payment gateway client, a wrong base URL for the new region, was deployed through the config service, which bypasses CI. Error rate on checkout hit ninety percent within a minute. The alert fired at 14:16 and on-call acknowledged at 14:18. We spent twenty-five minutes investigating the provider before correlating with the config change, because config deploys don't appear in the deploy log. We rolled back at 14:50. Contributing factors: no validation on config, no canary for config, and config changes invisible in our incident tooling. Action items: config through CI with schema validation, config events on the deploy timeline, and a quarterly rollback drill."
+  },
+  "followUps": [
+    {
+      "q": "Who made the change?",
+      "answer": "We know, but it's not the important question, and we keep post-mortems blameless on purpose. Anyone could have made that change, because nothing in our process would have stopped it. If people fear blame, they hide problems, and we learn less."
+    },
+    {
+      "q": "Could this happen again next week?",
+      "answer": "Until the automatic checks are in place, it's possible, so in the meantime we've added a manual rule: every settings change needs a second person to review it. The automatic checks should be live by the twentieth."
+    },
+    {
+      "q": "Should we tell our customers?",
+      "answer": "I'd suggest a short, honest message to the affected customers: what happened, that it's fixed, and what we're changing. The support team has the list of affected orders, and we can help with the wording today."
+    }
+  ],
+  "jargon": [
+    "config",
+    "CI",
+    "canary",
+    "on-call",
+    "gateway",
+    "base URL",
+    "rollback",
+    "deploy log",
+    "error rate"
+  ],
+  "selfCheck": [
+    "I started with the impact, in numbers.",
+    "I explained the cause without blaming a person.",
+    "I mentioned what went well, not only what went wrong.",
+    "My actions were specific, with owners and dates.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

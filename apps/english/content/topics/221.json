@@ -1,0 +1,57 @@
+{
+  "ideas": [
+    "Present: who you are now, in one sentence",
+    "Past: two experiences that prove you fit the role",
+    "Future: why this role is the next step"
+  ],
+  "phrases": [
+    { "phrase": "I recently graduated in", "meaning": "a natural way to start as a new graduate" },
+    { "phrase": "what I enjoyed most was", "meaning": "points to the part that shows your motivation" },
+    { "phrase": "that's when I realised", "meaning": "marks the moment your direction became clear" },
+    { "phrase": "hands-on experience", "meaning": "practical experience from doing real work" },
+    { "phrase": "as a result", "meaning": "introduces the outcome of what you did" },
+    { "phrase": "end users", "meaning": "the real people who use the software" },
+    { "phrase": "which is why I'm excited about", "meaning": "connects your story to the job" },
+    { "phrase": "in a nutshell", "meaning": "in a short summary" }
+  ],
+  "learn": {
+    "explain": "This is almost always the first question, and it is not an invitation to tell your life story. The interviewer wants a 60–90 second summary that answers one thing: why are you a good fit for this job? They are also judging how clearly you can talk, which matters a lot for an FDE, because your job is talking to customers. The best structure is Present, Past, Future: who you are now, two experiences that prove the skills the job needs, and why this role is the logical next step. Prepare it, practise it until it sounds natural, but never memorise it word for word.",
+    "points": [
+      "Every sentence is chosen to fit the job: coding plus working with people.",
+      "It includes one concrete result, ideally with a number.",
+      "It ends by pointing at this role, so the interviewer's next question is easy."
+    ],
+    "mistakes": [
+      "Starting from childhood or reading out your CV in order.",
+      "Listing skills (\"I know Python, React, SQL…\") with no story or result.",
+      "Talking for three minutes. Aim for about ninety seconds."
+    ]
+  },
+  "framework": [
+    { "step": "Present", "starter": "I'm a software engineer who recently graduated in…" },
+    { "step": "Past · skill", "starter": "During my internship at…, I…" },
+    { "step": "Past · people", "starter": "What I enjoyed most was working directly with…" },
+    { "step": "Future", "starter": "That's why I'm excited about this role, because…" }
+  ],
+  "betterWays": [
+    { "weak": "My name is Tung, I am 22 years old, I come from Hanoi.", "strong": "I'm a software engineer who recently graduated in computer science from a university in Hanoi.", "why": "They have your name and age already. Open with your professional identity." },
+    { "weak": "I have many skills like Python, Java, React, SQL, Docker.", "strong": "I mostly work in Python and TypeScript, and I've used them to ship a real product to real users.", "why": "Two tools plus proof is stronger than a long list." },
+    { "weak": "I am a hard-working person and I learn fast.", "strong": "In my internship I had to learn a new framework in a week, and I shipped my first feature in the second week.", "why": "Show the quality with a fact; don't just claim it." },
+    { "weak": "I want to work at a big company to improve myself.", "strong": "I'm looking for a role where I can build things and also work closely with customers, which is exactly what an FDE does.", "why": "Talk about what you will give the role, not only what you will get." },
+    { "weak": "That's all about me.", "strong": "So in a nutshell, I'm an engineer who likes solving real problems with the people who have them.", "why": "End with a one-line summary instead of a dead stop." }
+  ],
+  "model": "Sure. I'm a software engineer, and I recently graduated in computer science from a university in Hanoi. I mostly work in Python and TypeScript, and I like building things that real people use every day. During my final year I did a six-month internship at a logistics start-up. My task was to build an internal dashboard for the operations team, who were tracking deliveries in spreadsheets. I wrote the backend and part of the frontend, and as a result the team stopped doing about two hours of manual updates every day. But what I enjoyed most was the part I didn't expect: sitting with the end users. I spent a lot of time watching how the operators actually worked, asking questions, and changing the design based on what they told me. That's when I realised I don't just want to write code from a ticket; I want to understand the customer's problem first. My capstone project gave me more hands-on experience with AI. My team built a small assistant that answers questions about university rules, and I was the one who presented it to the faculty and handled their questions. Which is why I'm excited about this Forward Deployed Engineer role. It combines engineering with working directly with customers. So in a nutshell, I'm an engineer who likes solving real problems with the people who actually have them.",
+  "short": "I'm a software engineer who recently graduated in computer science. In my internship at a logistics start-up I built a dashboard that saved the operations team about two hours of manual work a day. What I enjoyed most was sitting with the end users and changing the design based on their feedback. That's when I realised I want to understand the customer's problem, not just write code from a ticket. Which is why I'm excited about this role: it's engineering and customer work together.",
+  "followUps": [
+    { "q": "Why did you choose software engineering in the first place?", "answer": "Honestly, it started with a small script I wrote at university to automate a boring task for my family's shop. It saved them hours every week, and I loved that feeling of a small piece of code making someone's day easier. That's still what motivates me." },
+    { "q": "What did you find hardest during your internship?", "answer": "At first, understanding what the operations team really needed. They asked for one thing, but after watching them work I realised the real problem was something else. I learned to ask \"why\" a few times before I start building." },
+    { "q": "You said you like working with customers. Do you have any experience of that?", "answer": "Yes, on a small scale. In my internship the operations team were my internal customers. I ran short feedback sessions with them every week, and I demoed each new version. It taught me to explain technical trade-offs in plain language." }
+  ],
+  "selfCheck": [
+    "I started with who I am now, not my name or age.",
+    "I gave at least one concrete result, ideally a number.",
+    "I mentioned working with people, not only coding.",
+    "I finished by linking to this role.",
+    "It was under about ninety seconds in Round 3."
+  ]
+}

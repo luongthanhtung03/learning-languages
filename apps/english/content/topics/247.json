@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Stay calm, don't defend; let them speak",
+    "Find the specific concern behind the anger",
+    "Agree on measurable value and a date to review it"
+  ],
+  "phrases": [
+    { "phrase": "I completely understand", "meaning": "shows empathy" },
+    { "phrase": "what I'd suggest is", "meaning": "a polite way to recommend" },
+    { "phrase": "let me make sure I've got this right", "meaning": "introduces a summary to check understanding" },
+    { "phrase": "I hear you", "meaning": "I understand your feeling" },
+    { "phrase": "that's a fair concern", "meaning": "your worry is reasonable" },
+    { "phrase": "what would success look like", "meaning": "asks how they'd judge a good result" },
+    { "phrase": "put numbers on it", "meaning": "measure it" },
+    { "phrase": "fair enough", "meaning": "that's reasonable" }
+  ],
+  "learn": {
+    "explain": "An angry stakeholder usually has a real concern under the emotion: they may not see results, they may be under budget pressure, or they weren't consulted. They need to feel heard before they can listen to facts. So don't defend the project immediately or list features. Let them finish, acknowledge the feeling, and ask questions to find the specific concern. Summarise it back. Then be honest about what has and hasn't been delivered, and propose a concrete way to measure value that they agree with, with a date to review it. Sometimes they're partly right, and admitting that builds trust.",
+    "points": [
+      "Listen and acknowledge before explaining anything.",
+      "Find the specific concern: results, cost, or being left out.",
+      "Agree on how to measure value, and when to review it."
+    ],
+    "mistakes": [
+      "Defending the project immediately with a list of features.",
+      "Getting emotional or taking it personally.",
+      "Vague promises like \"it will get better\"."
+    ]
+  },
+  "framework": [
+    { "step": "Acknowledge", "starter": "I hear you, and I'd rather you tell me directly." },
+    { "step": "Explore", "starter": "Can I ask what's making you feel that way?" },
+    { "step": "Summarise", "starter": "Let me make sure I've got this right…" },
+    { "step": "Honest view", "starter": "That's a fair concern. Honestly,…" },
+    { "step": "Measure", "starter": "What I'd suggest is that we put numbers on it…" }
+  ],
+  "betterWays": [
+    { "weak": "No, this project is not waste, it is very good.", "strong": "I hear you, and I'd rather you tell me directly than keep it to yourself.", "why": "Acknowledge the feeling first; don't argue." },
+    { "weak": "You don't understand the AI.", "strong": "Can I ask what's making you feel that way? I want to understand what you're seeing.", "why": "Curiosity instead of blame." },
+    { "weak": "We did many features already.", "strong": "That's a fair concern: we've built a lot, but we haven't shown you clear results yet.", "why": "Admits the real gap honestly." },
+    { "weak": "It will be better soon, trust me.", "strong": "What I'd suggest is that we put numbers on it and review them together in four weeks.", "why": "Evidence and a date replace \"trust me\"." },
+    { "weak": "OK, bye.", "strong": "Fair enough. I'll send you the first numbers on Friday, and you can tell me if they're the right ones.", "why": "Ends with a specific action and invites their input." }
+  ],
+  "model": "I hear you, and honestly, I'd rather you tell me directly than keep it to yourself. Can I ask what's making you feel that way? … OK. Let me make sure I've got this right. You've approved the budget for three months, your finance team is asking what they've got for it, and so far what you've seen is demos, not results. And you weren't in the meetings where we chose the first use case. Is that fair? … That's a fair concern, and you're partly right. We've built a lot, and your support team is using it, but we haven't shown you clear numbers yet, and that's on us. Here's what I can tell you honestly today. Your support team now handles about thirty percent of emails with the assistant's draft, and they say it saves them a few minutes each time. But I'd rather prove that than say it. What would success look like for you, in numbers? … Fair enough: cost per customer email, and response time. What I'd suggest is that we put numbers on it. I'll send you the first figures on Friday, and in four weeks we review them together. If the results aren't there, we can change direction or stop. That decision should be yours, based on real data.",
+  "short": "I hear you, and I'd rather you tell me directly. Let me make sure I've got this right: finance wants results for the budget, and you've seen demos, not numbers. That's a fair concern, and partly on us. What would success look like for you? … Then let's put numbers on it: first figures on Friday, a review in four weeks, and the decision is yours.",
+  "followUps": [
+    { "q": "Why should I trust your numbers?", "answer": "You shouldn't have to. I'd suggest we take the numbers from your own systems, your ticket tool and your finance reports, and your analyst checks them. That way, they're your numbers, not ours." },
+    { "q": "What if the results are bad?", "answer": "Then we'll know, and that's valuable too. We'd look at why: maybe it's the wrong use case, or something we can fix. If it isn't worth the money, I'd rather you stop than keep paying for something that doesn't work." },
+    { "q": "Why wasn't I included earlier?", "answer": "That's a fair point, and I'm sorry. We worked mostly with the support manager, and we should have checked who else needed to be involved. From now on, I'd like to send you a short update every two weeks." }
+  ],
+  "selfCheck": [
+    "I acknowledged the feeling before explaining.",
+    "I asked a question to find the real concern.",
+    "I admitted what was fair in their criticism.",
+    "I proposed measurable success and a review date.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

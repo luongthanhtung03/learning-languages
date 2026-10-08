@@ -1,0 +1,158 @@
+{
+  "ideas": [
+    "Scaling means handling more users without slowing down or breaking",
+    "Two ways: bigger machines, or more machines sharing the work",
+    "Good design lets cost grow slower than usage"
+  ],
+  "phrases": [
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "keep up with",
+      "meaning": "manage to handle increasing demand"
+    },
+    {
+      "phrase": "share the load",
+      "meaning": "divide the work between several parts"
+    },
+    {
+      "phrase": "what this means for you is",
+      "meaning": "links the idea to the listener's benefit"
+    },
+    {
+      "phrase": "a sudden spike",
+      "meaning": "a quick, large increase"
+    },
+    {
+      "phrase": "grow with you",
+      "meaning": "become bigger as your business grows"
+    },
+    {
+      "phrase": "there's a limit to",
+      "meaning": "something can only go so far"
+    },
+    {
+      "phrase": "without breaking the bank",
+      "meaning": "without costing too much"
+    }
+  ],
+  "learn": {
+    "explain": "A system scales when it can handle more work, like more users, more data or more requests, without becoming slow or failing, and without the cost exploding. There are two main approaches. Scaling up (vertical) means giving one machine more power: more memory, a faster processor. It's simple, but there's a limit to how big one machine can get, and if it fails, everything fails. Scaling out (horizontal) means adding more machines that share the work, with a load balancer sending each user to one of them. It's more complex but almost unlimited and more reliable. In the cloud, scaling out can be automatic: machines are added during a spike and removed afterwards. Not everything scales easily; databases are often the hardest part.",
+    "points": [
+      "Scaling = handling growth without slowing down or costs exploding.",
+      "Scale up = a bigger machine; scale out = more machines sharing the load.",
+      "The hardest part to scale is usually the database, not the servers."
+    ],
+    "analogy": "Think of it like a restaurant getting busier. You can hire a faster chef, but there's a limit to how fast one person can cook. Or you can open more kitchen stations with several chefs and a manager who passes each order to whoever is free. That second option can keep up with almost any crowd.",
+    "glossary": [
+      {
+        "term": "vertical scaling",
+        "meaning": "making one machine more powerful (scale up)"
+      },
+      {
+        "term": "horizontal scaling",
+        "meaning": "adding more machines (scale out)"
+      },
+      {
+        "term": "load balancer",
+        "meaning": "the component that spreads requests across machines"
+      },
+      {
+        "term": "autoscaling",
+        "meaning": "adding and removing machines automatically based on demand"
+      },
+      {
+        "term": "bottleneck",
+        "meaning": "the one part that limits the whole system"
+      }
+    ],
+    "mistakes": [
+      "Saying \"it's in the cloud, so it scales\". Design matters more than location.",
+      "Talking only about users and forgetting cost.",
+      "Ignoring the database, which is usually the real limit."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Define",
+      "starter": "When we say a system scales, we mean…"
+    },
+    {
+      "step": "Two ways",
+      "starter": "There are two ways to do it…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like a restaurant getting busier…"
+    },
+    {
+      "step": "So what",
+      "starter": "What this means for you is…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "Scale means system can handle many user.",
+      "strong": "When we say a system scales, we mean it can keep up with more users without slowing down.",
+      "why": "Article \"the\" / plural \"users\", and \"without slowing down\" is the key."
+    },
+    {
+      "weak": "We use horizontal scaling with load balancer.",
+      "strong": "We add more machines that share the load, and a coordinator sends each user to one of them.",
+      "why": "Describe what happens, not the technical names."
+    },
+    {
+      "weak": "Cloud can scale unlimited.",
+      "strong": "In the cloud we can add machines in minutes, but the design still has to allow it.",
+      "why": "More accurate; avoids overpromising."
+    },
+    {
+      "weak": "It will be expensive when many users.",
+      "strong": "Costs grow with usage, but more slowly, so each extra customer costs you less.",
+      "why": "Turns a worry into a benefit."
+    },
+    {
+      "weak": "Database cannot scale.",
+      "strong": "The database is usually the hardest part to scale, so we plan for it early.",
+      "why": "Precise and shows foresight."
+    }
+  ],
+  "model": "When we say a system scales, we mean it can keep up with more users without slowing down, and without costs growing out of control. There are two ways to do it. Think of it like a restaurant getting busier. The first way is to hire a faster chef, which works for a while, but there's a limit to how fast one person can cook. The second way is to open more kitchen stations, with several chefs and a manager at the door who passes each order to whoever is free. In software, the first is buying a bigger machine, and the second is adding more machines that share the load. The second one can grow almost without limit, and if one machine fails, the others keep working. For your business this matters because of Black Friday and Tet. Your traffic can jump ten times in an hour. With our setup, extra machines start automatically during a sudden spike and switch off when it's quiet, so you only pay for what you use. What this means for you is a system that can grow with you without breaking the bank: in a normal month, costs stay low, and on your busiest day, customers still get a fast checkout.",
+  "short": "Scaling means handling more users without slowing down or overspending. Like a busy restaurant, we don't rely on one faster chef; we add more stations that share the load. What this means for you is that on your busiest day, like Tet or Black Friday, extra capacity starts automatically, and on quiet days you don't pay for it.",
+  "audience": {
+    "engineer": "The app servers are stateless, so scaling them horizontally is easy: they sit behind a load balancer with autoscaling on CPU and request count, and we've tested ten times normal traffic. The real bottleneck is Postgres. At peak we hit about eighty percent CPU on the primary, mostly from read-heavy catalogue queries. Plan: move those reads to a read replica, add caching for the product catalogue, and put the order-confirmation emails on a queue so they're processed asynchronously instead of inside the checkout request. If write volume keeps growing, sharding by region is the next step, but I don't think we need it this year."
+  },
+  "followUps": [
+    {
+      "q": "How many users can it handle?",
+      "answer": "We've tested it at about ten times your normal traffic with no problems. Beyond that, the main limit is the database, and we already have a plan for that if your growth continues. I'll show you the test results."
+    },
+    {
+      "q": "Will costs go up a lot as we grow?",
+      "answer": "They'll go up, but slower than your usage. Some costs are fixed, so the cost per customer actually goes down as you grow. I can model a few growth scenarios for your budget planning."
+    },
+    {
+      "q": "What happens if we suddenly go viral?",
+      "answer": "Extra capacity starts automatically within a few minutes. During the very first minutes of a huge spike, some pages might be a bit slower, but the system is designed to slow down gracefully rather than crash."
+    }
+  ],
+  "jargon": [
+    "horizontal",
+    "vertical",
+    "load balancer",
+    "autoscaling",
+    "replica",
+    "sharding",
+    "stateless",
+    "queue"
+  ],
+  "selfCheck": [
+    "I defined scaling as growth without slowing down or overspending.",
+    "I explained the two approaches with one analogy.",
+    "I connected it to the customer's real peak days.",
+    "I mentioned cost, not just users.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

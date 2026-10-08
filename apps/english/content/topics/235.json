@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "You disagreed with someone more experienced, for a good reason",
+    "You prepared evidence and raised it respectfully, in private",
+    "You accepted the final decision, whichever way it went"
+  ],
+  "phrases": [
+    { "phrase": "looking back", "meaning": "thinking about the past now" },
+    { "phrase": "what I learned was", "meaning": "introduces the lesson" },
+    { "phrase": "I took responsibility for", "meaning": "I accepted that something was my job" },
+    { "phrase": "with respect", "meaning": "a polite way to start disagreeing" },
+    { "phrase": "I might be missing something", "meaning": "shows humility when disagreeing" },
+    { "phrase": "back it up with", "meaning": "support with evidence" },
+    { "phrase": "disagree and commit", "meaning": "accept a decision you disagreed with and fully support it" },
+    { "phrase": "as a result", "meaning": "introduces the outcome" }
+  ],
+  "learn": {
+    "explain": "Companies want junior engineers who speak up when they see a problem, but who do it respectfully and accept decisions. This question checks both. A good story: you noticed a real risk, you prepared evidence instead of just an opinion, you raised it privately and with humility (\"I might be missing something\"), you listened to the senior's reasons, and you supported the final decision, even if it wasn't yours. Bonus if you learned something from their experience too. The result doesn't have to be that you were right; showing good judgement about how to disagree is what matters.",
+    "points": [
+      "You spoke up because the issue mattered, with evidence.",
+      "You were respectful, private, and open to being wrong.",
+      "You committed to the final decision either way."
+    ],
+    "mistakes": [
+      "Challenging the senior person in front of others.",
+      "\"I was right and they were wrong\" as the whole message.",
+      "Never disagreeing because \"they are senior\"."
+    ]
+  },
+  "framework": [
+    { "step": "Situation", "starter": "A senior engineer suggested…, and I was worried that…" },
+    { "step": "Prepare", "starter": "Before saying anything, I backed it up with…" },
+    { "step": "Raise it", "starter": "I asked to talk privately and said, \"I might be missing something, but…\"" },
+    { "step": "Outcome", "starter": "As a result,…" },
+    { "step": "Lesson", "starter": "Looking back, what I learned was…" }
+  ],
+  "betterWays": [
+    { "weak": "The senior was wrong and I told him.", "strong": "I had a concern about the senior engineer's plan, so I asked if I could share it with him privately.", "why": "Respectful framing and setting." },
+    { "weak": "I think your idea is bad.", "strong": "With respect, I'm worried this might be slow with real data. I might be missing something, though.", "why": "Polite, specific, and humble." },
+    { "weak": "I just feel it is not good.", "strong": "I backed it up with a quick test: with ten thousand rows, the page took eight seconds.", "why": "Evidence turns an opinion into a discussion." },
+    { "weak": "He didn't listen so I did my way.", "strong": "He decided to keep his approach for now, and I fully supported it.", "why": "Shows disagree and commit." },
+    { "weak": "I was right in the end.", "strong": "It turned out we were both partly right, and I learned why he cared about the deadline more.", "why": "Shows learning, not winning." }
+  ],
+  "model": "In my internship, a senior engineer designed the delivery history page to load all records at once and filter them in the browser. It was quick to build, but I was worried it would be very slow once a city had a year of data. Before saying anything, I wanted to back it up with evidence, not just a feeling. So I generated test data for one year and measured it: the page took about eight seconds to load. I asked if we could talk privately for ten minutes, and I said something like, \"With respect, I'm worried this might be slow with real data. I might be missing something, though.\" I showed him the numbers. He listened, and he explained something I hadn't considered: the feature had to be ready for a client meeting that Friday, and the client only had two months of data. So we agreed to disagree and commit to a plan: keep his version for the Friday meeting, and I took responsibility for building the faster version, loading data page by page, over the next sprint. As a result, the meeting went well, and the faster version shipped two weeks later, before any client hit the problem. Looking back, what I learned was to bring data, ask privately, and understand the other person's constraints.",
+  "short": "A senior engineer's design loaded all records at once, and I worried it would be slow. I tested with a year of data: eight seconds. I asked privately, said \"I might be missing something\", and showed the numbers. He explained the Friday client deadline. We kept his version for Friday, and I built the faster one next sprint. Bring data, ask privately, understand their constraints.",
+  "followUps": [
+    { "q": "What if he had dismissed your concern completely?", "answer": "I'd accept it, and maybe write a short note with the numbers so the risk was recorded. If it later became a real problem for users, I'd raise it again with my lead, focusing on the impact, not on who was right." },
+    { "q": "How do you disagree with a customer who's senior?", "answer": "The same principles: evidence, respect, and understanding their constraints. With a customer, I'd also offer options rather than just a concern, because in the end it's their decision." },
+    { "q": "Is it hard for you to speak up as a junior?", "answer": "It used to be. What helps me is preparing evidence first. When I have numbers, it feels less like criticising someone and more like sharing useful information." }
+  ],
+  "selfCheck": [
+    "I raised the issue privately and politely.",
+    "I backed my concern with evidence.",
+    "I listened and understood the senior's constraints.",
+    "I showed I committed to the final decision.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

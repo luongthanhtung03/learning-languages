@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "A real failure with real consequences, owned by you",
+    "What you did immediately to limit the damage",
+    "What changed in how you work afterwards"
+  ],
+  "phrases": [
+    { "phrase": "looking back", "meaning": "thinking about the past now" },
+    { "phrase": "I took responsibility for", "meaning": "I accepted that something was my fault" },
+    { "phrase": "what I learned was", "meaning": "introduces the lesson" },
+    { "phrase": "it didn't go to plan", "meaning": "it went wrong" },
+    { "phrase": "I underestimated", "meaning": "I thought something was smaller or easier than it was" },
+    { "phrase": "own up to", "meaning": "admit a mistake honestly" },
+    { "phrase": "since then", "meaning": "from that time until now" },
+    { "phrase": "as a result", "meaning": "introduces the outcome" }
+  ],
+  "learn": {
+    "explain": "This question tests honesty, ownership and learning. Everyone fails; the interviewer wants to see that you can admit it without blaming others, react well in the moment, and change your behaviour afterwards. Choose a real failure with real consequences, but not a disaster that shows terrible judgement or dishonesty. Spend little time on the failure itself and most of the time on what you did next and what you changed. Concrete changes (\"since then, I always…\") are more convincing than general lessons (\"I learned to be careful\"). Never choose a story where the failure was really someone else's fault.",
+    "points": [
+      "It's clearly your failure; no blaming others or bad luck.",
+      "You acted quickly to limit the damage and were open about it.",
+      "You changed a specific habit, with evidence it works."
+    ],
+    "mistakes": [
+      "A \"failure\" that is really a success (\"I failed to sleep because I worked so hard\").",
+      "Blaming teammates, the deadline or the tools.",
+      "A vague lesson with no change in behaviour."
+    ]
+  },
+  "framework": [
+    { "step": "Situation", "starter": "It didn't go to plan when…" },
+    { "step": "Own it", "starter": "I took responsibility for it, because I had…" },
+    { "step": "Damage control", "starter": "What I did straight away was…" },
+    { "step": "Change", "starter": "Since then, I always…" },
+    { "step": "Lesson", "starter": "Looking back, what I learned was…" }
+  ],
+  "betterWays": [
+    { "weak": "The failure happened because the deadline was too short.", "strong": "The failure was mine: I underestimated how long the testing would take.", "why": "Ownership instead of blaming circumstances." },
+    { "weak": "I learned to be more careful.", "strong": "Since then, I always plan a third of the time for testing and tell people my estimate as a range.", "why": "A specific, checkable change in behaviour." },
+    { "weak": "I was very sad and stressed.", "strong": "I was disappointed, but the first thing I did was tell my lead and propose a plan.", "why": "Focus on action, not feelings." },
+    { "weak": "Nobody noticed so it's ok.", "strong": "I owned up to it in the team meeting, even though nobody had noticed yet.", "why": "Shows integrity." },
+    { "weak": "It was small failure.", "strong": "It wasn't a disaster, but it cost the team a week and some trust.", "why": "Honest about the impact; article fixed." }
+  ],
+  "model": "It didn't go to plan in my internship, when I promised the operations team a new import feature in one week, and it took almost three. I underestimated it badly. I had tested it with clean sample files, but the real files from one partner had different date formats and missing values, and the first time it ran on real data, it silently skipped about two hundred deliveries. I took responsibility for it, because I'd given the estimate without looking at real data first. What I did straight away was tell my lead the same morning, before anyone else noticed, switch the feature off, and write a short note to the operations team explaining which deliveries were affected so they could check them manually. Then I spent a day collecting real files from every partner and built tests around them. As a result, the second version handled every format, and it's still running. Since then, I always ask for real data before I estimate anything, and I give estimates as a range, like \"one to two weeks\", with the main risk named. Looking back, what I learned was that saying \"I was wrong\" early is much cheaper than hoping nobody notices.",
+  "short": "In my internship I promised an import feature in one week; it took three. I'd tested with clean samples, and on real data it silently skipped two hundred deliveries. I took responsibility, told my lead immediately, switched it off, and helped the team check the affected deliveries. Since then, I always ask for real data before estimating, and I give estimates as a range.",
+  "followUps": [
+    { "q": "How did your lead react?", "answer": "Better than I expected. She was mostly glad I'd told her early. She said the problem wasn't the bug; it would have been finding out from the operations team a week later. That changed how I think about bad news." },
+    { "q": "What would you do differently from the start?", "answer": "Ask for real files from every partner on day one, before estimating. And release it to one partner's data first, instead of all of them at once." },
+    { "q": "Tell me about a bigger failure.", "answer": "In my second year, I failed a networking course the first time because I left everything to the last two weeks. I retook it, studied a little every day, and got one of the top marks. It's where my habit of steady daily practice comes from." }
+  ],
+  "selfCheck": [
+    "The failure was clearly mine.",
+    "I described what I did immediately.",
+    "I named a specific habit I changed.",
+    "I spent more time on the response than the failure.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

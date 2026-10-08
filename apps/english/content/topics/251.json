@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Yesterday: what you finished, briefly",
+    "Today: the one or two main things",
+    "Blocker: what, who can help, what you need"
+  ],
+  "phrases": [
+    { "phrase": "there are three things", "meaning": "signposting: introduces a list" },
+    { "phrase": "first of all", "meaning": "signposting: the first point" },
+    { "phrase": "does that make sense", "meaning": "checks understanding" },
+    { "phrase": "I'm blocked on", "meaning": "I can't continue because of" },
+    { "phrase": "could use a hand with", "meaning": "would like help with" },
+    { "phrase": "on track for", "meaning": "likely to finish on time" },
+    { "phrase": "I'll take it offline", "meaning": "discuss it later in a smaller group" },
+    { "phrase": "that's it from me", "meaning": "a natural way to finish your turn" }
+  ],
+  "learn": {
+    "explain": "A standup is a short daily meeting, often 15 minutes for the whole team, so each person speaks for about one minute. The team needs to know three things from you: what you finished, what you're doing today, and whether anything is blocking you. The blocker is the most important part, because it's where the team can help. Good updates are short, specific and about outcomes (\"the import fix is merged\") rather than activity (\"I worked on the import\"). If something needs a long discussion, say you'll take it offline with the right person after the meeting. Clear signposting helps people who are half-listening.",
+    "points": [
+      "Three parts: done, today, blockers; about one minute.",
+      "Outcomes, not activity: \"merged\", \"deployed\", \"tested\".",
+      "Blockers are specific: what, who can help, and what you need."
+    ],
+    "mistakes": [
+      "Listing every small task from yesterday.",
+      "Hiding a blocker until it becomes a delay.",
+      "Starting a long technical discussion in the standup."
+    ]
+  },
+  "framework": [
+    { "step": "Done", "starter": "Yesterday I finished…" },
+    { "step": "Today", "starter": "Today I'm working on…" },
+    { "step": "Blocker", "starter": "I'm blocked on… I need… from…" },
+    { "step": "Offline", "starter": "I'll take it offline with… after this." },
+    { "step": "Close", "starter": "That's it from me." }
+  ],
+  "betterWays": [
+    { "weak": "Yesterday I worked on the import, and I read some code, and I had a meeting…", "strong": "Yesterday I finished the import fix; it's merged and running on staging.", "why": "One outcome instead of a list of activities." },
+    { "weak": "I have a small problem but it's ok.", "strong": "I'm blocked on access to the customer's test database, and I need it to start testing today.", "why": "A clear blocker the team can act on." },
+    { "weak": "Anyone can help me?", "strong": "Minh, could you help me with the VPN settings? I'll take it offline with you after this.", "why": "Names the person and keeps the standup short." },
+    { "weak": "I am still doing the feature.", "strong": "The report feature is on track for Thursday.", "why": "Status against a date is more useful." },
+    { "weak": "Finish.", "strong": "That's it from me.", "why": "A natural way to hand over to the next person." }
+  ],
+  "model": "Morning, everyone. There are three things from me. First of all, yesterday: I finished the fix for the duplicate orders in the import. It's merged, it's running on staging, and the test with yesterday's real data passed. Second, today: I'm starting the testing for the refund questions in the assistant, so I'll be running the test set and checking the answers with the customer's support lead this afternoon. And third, I'm blocked on access to the customer's test database. I requested it on Monday, but the account still doesn't work through the VPN, and I need it to finish testing today. I think it's probably a settings issue on our side, not theirs. Minh, you set up the VPN last time, so I could use a hand with that, if you have ten minutes after this. I'll take it offline with you so we don't keep everyone. If it's not fixed by lunch, I'll switch to the reporting task, so I'm not losing the day, and the refund testing would move to tomorrow. Overall, I'm still on track for Thursday. Does that make sense? … OK, that's it from me.",
+  "short": "Three things from me. Yesterday, I finished the duplicate-orders fix; it's merged and tested on staging. Today, I'm testing refund questions with the support lead. And I'm blocked on access to the customer's test database through the VPN. Minh, could you give me ten minutes after this? If it's not fixed by lunch, I'll switch tasks. Still on track for Thursday. That's it from me.",
+  "followUps": [
+    { "q": "Why didn't you raise the access problem on Monday?", "answer": "You're right, I should have. I thought it would be fixed the same day, so I waited. Next time, I'll mention it at the first standup, even if it seems small, because access problems often take longer than expected." },
+    { "q": "Is Thursday still realistic?", "answer": "Yes, if I get access today. If the access takes until tomorrow, Thursday becomes tight, and I'll tell you at tomorrow's standup whether we need to move anything." },
+    { "q": "Can you explain the duplicate orders bug quickly?", "answer": "Sure, briefly: some orders were sent twice by the customer's system, and we were importing both. Now we check the order number before saving. Happy to go into detail after the standup if anyone's interested." }
+  ],
+  "selfCheck": [
+    "I covered done, today and blockers, in that order.",
+    "I described outcomes, not activities.",
+    "My blocker named what I need and from whom.",
+    "I kept it to about one minute.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

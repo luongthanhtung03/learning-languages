@@ -36,23 +36,38 @@ export function saveSettings(patch: Partial<Settings>) {
 
 export type SessionKind = "new" | "revisit" | "monthly";
 
-const EXTRA = 30; // every round runs 30s longer than the topics file suggests
+export type Round = { round: number; seconds: number; label: string; audience: string };
 
-/** Round lengths from 120-speaking-topics.md (90s P2 / 60s), each +30s. Round 3 is a polish at the same length, not a rush. */
-export function roundPlan(type: TopicType, kind: SessionKind): { round: number; seconds: number; label: string }[] {
-  const long = type === "P2";
-  if (kind === "revisit") return [{ round: 1, seconds: 60 + EXTRA, label: "Revisit" }];
-  if (kind === "monthly") return [{ round: 1, seconds: (long ? 90 : 60) + EXTRA, label: "Monthly check" }];
+/** Shrinking rounds (the 4-3-2 drill): same content in less time. EX also switches audience each round. */
+export function roundPlan(type: TopicType, kind: SessionKind): Round[] {
+  const ex = type === "EX";
+  if (kind === "revisit")
+    return [{ round: 1, seconds: 90, label: "Revisit", audience: ex ? "a non-technical manager" : "the tight version" }];
+  if (kind === "monthly") return [{ round: 1, seconds: 120, label: "Monthly check", audience: "cold, no notes" }];
+  if (ex)
+    return [
+      { round: 1, seconds: 120, label: "Round 1 · Engineer", audience: "an engineer" },
+      { round: 2, seconds: 90, label: "Round 2 · Manager", audience: "a non-technical manager — use an analogy" },
+      { round: 3, seconds: 60, label: "Round 3 · Executive", audience: "an executive in 45 seconds — then answer the follow-up" },
+    ];
   return [
-    { round: 1, seconds: (long ? 90 : 60) + EXTRA, label: "Round 1 · Cold" },
-    { round: 2, seconds: (long ? 90 : 60) + EXTRA, label: "Round 2 · Target" },
-    { round: 3, seconds: (long ? 90 : 60) + EXTRA, label: "Round 3 · Polish" },
+    { round: 1, seconds: 120, label: "Round 1 · Cold", audience: "cold, no notes" },
+    { round: 2, seconds: 90, label: "Round 2 · Pattern", audience: type === "BQ" ? "STAR, with your story" : "use the answer pattern" },
+    { round: 3, seconds: 60, label: "Round 3 · Tight", audience: "the tight version — then answer the follow-up" },
   ];
 }
 
 // ---------- sessions ----------
 
-export type SessionNotes = { phrases?: string; targetSentence?: string; idea?: string; targetUsed?: boolean };
+export type SessionNotes = {
+  phrases?: string;
+  targetSentence?: string;
+  idea?: string;
+  targetUsed?: boolean;
+  learned?: boolean; // went through the Learn step
+  story?: number; // story-bank id used for a behavioural answer
+  selfCheck?: boolean[]; // answers to the pack's self-check list
+};
 
 export type SessionRow = {
   id: number;

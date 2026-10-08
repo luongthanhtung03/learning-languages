@@ -1,0 +1,158 @@
+{
+  "ideas": [
+    "A cache keeps a copy of popular answers close by",
+    "It saves repeating slow work, so pages load faster",
+    "Trade-off: the copy can be slightly out of date"
+  ],
+  "phrases": [
+    {
+      "phrase": "think of it like",
+      "meaning": "introduces an analogy"
+    },
+    {
+      "phrase": "close at hand",
+      "meaning": "near and easy to reach"
+    },
+    {
+      "phrase": "over and over again",
+      "meaning": "many times, repeatedly"
+    },
+    {
+      "phrase": "what this means for you is",
+      "meaning": "links the idea to the listener's benefit"
+    },
+    {
+      "phrase": "a fraction of a second",
+      "meaning": "a very short time"
+    },
+    {
+      "phrase": "the catch is",
+      "meaning": "the hidden disadvantage is"
+    },
+    {
+      "phrase": "out of date",
+      "meaning": "no longer current"
+    },
+    {
+      "phrase": "takes the load off",
+      "meaning": "reduces the work for something"
+    }
+  ],
+  "learn": {
+    "explain": "A cache is a small, fast storage area that keeps copies of data that people ask for often. Getting data from the main source, like a database or another company's service, can be slow or expensive. So the first time someone asks, the system does the slow work and saves a copy in the cache. The next thousand people who ask the same thing get the copy instantly. Caches exist everywhere: in your browser, on servers, and on the phone. The main difficulty is that the copy can become old if the original data changes, so every cache needs a rule for how long a copy stays valid.",
+    "points": [
+      "A cache stores copies of popular data so it doesn't need to be fetched again.",
+      "It makes things faster and reduces load and cost on the main system.",
+      "The trade-off is freshness: cached data can be slightly out of date."
+    ],
+    "analogy": "Think of a coffee shop. Making every coffee from scratch takes time, so at 8 a.m. the barista prepares a jug of the most popular one in advance. Most customers get their coffee instantly. The catch is that if the jug has been sitting for an hour, the coffee isn't fresh, so it gets replaced regularly.",
+    "glossary": [
+      {
+        "term": "cache hit / miss",
+        "meaning": "the answer was already in the cache / it wasn't, so the slow work was needed"
+      },
+      {
+        "term": "TTL (time to live)",
+        "meaning": "how long a copy stays valid before it is thrown away"
+      },
+      {
+        "term": "invalidation",
+        "meaning": "removing a copy because the original data changed"
+      },
+      {
+        "term": "Redis",
+        "meaning": "a very popular cache tool that keeps data in memory"
+      },
+      {
+        "term": "CDN",
+        "meaning": "a network of servers around the world that caches files near users"
+      }
+    ],
+    "mistakes": [
+      "Only saying \"it makes it faster\" without explaining why.",
+      "Forgetting to mention the trade-off: stale data.",
+      "Using \"cache hit ratio\" and \"TTL\" with a non-technical listener."
+    ]
+  },
+  "framework": [
+    {
+      "step": "Define",
+      "starter": "A cache is a place where we keep a copy of…"
+    },
+    {
+      "step": "Analogy",
+      "starter": "Think of it like a coffee shop that prepares…"
+    },
+    {
+      "step": "So what",
+      "starter": "What this means for you is…"
+    },
+    {
+      "step": "Trade-off",
+      "starter": "The catch is that the copy can be…"
+    }
+  ],
+  "betterWays": [
+    {
+      "weak": "Cache is memory for save data.",
+      "strong": "A cache is a place where we keep a copy of data that people ask for a lot.",
+      "why": "Article \"a\", and \"a copy\" is the key idea."
+    },
+    {
+      "weak": "Cache hit ratio is 90%.",
+      "strong": "Nine out of ten requests are answered instantly from the copy.",
+      "why": "Turn a metric into a picture a manager understands."
+    },
+    {
+      "weak": "It make the website more fast.",
+      "strong": "It makes the page load in a fraction of a second instead of three seconds.",
+      "why": "\"makes\", no \"more fast\", and a before/after number."
+    },
+    {
+      "weak": "Sometimes data is wrong.",
+      "strong": "The catch is that the copy can be a few minutes out of date.",
+      "why": "Be precise: not wrong, just slightly old."
+    },
+    {
+      "weak": "We need to add Redis.",
+      "strong": "I'd suggest adding a cache for the product pages, because they change only once a day.",
+      "why": "Say where and why, not the tool name."
+    }
+  ],
+  "model": "A cache is a place where we keep a copy of the data people ask for most, close at hand. Here's the problem it solves. Every time someone opens your product page, the system goes to the main database, collects the prices, the stock and the reviews, and builds the page. That work is slow, and we're doing it over and over again for the same page. Think of it like a busy coffee shop. Instead of making every coffee from scratch, at eight in the morning the barista prepares a big jug of the most popular one, and most customers get theirs instantly. A cache does the same: the first visitor waits, and the next thousand get the copy in a fraction of a second. What this means for you is two things. Customers see faster pages, and fast pages sell more. And it takes the load off the database, so we need smaller servers and the monthly bill goes down. The catch is that the copy can be a little out of date. So for prices, we'd refresh it every minute, and for something like the company logo, maybe once a day. Does that make sense?",
+  "short": "A cache keeps a copy of popular data close at hand, so we don't repeat slow work for every visitor. What this means for you is faster pages, which means more sales, and a lower server bill, because the main system does far less work. The catch is that the copy can be a few minutes old, so we refresh important things like prices every minute. For important things like stock levels we refresh even faster, so the risk stays very small.",
+  "audience": {
+    "engineer": "Our product page does around twelve database queries per request, and p95 latency is about two seconds. Most of that data barely changes, so I'd put a read-through cache in Redis in front of the product service. On a miss we build the response and store it with a TTL; on a hit we skip the queries entirely. Prices need to be fresh, so they get a sixty-second TTL plus explicit invalidation when the pricing service publishes an update. Static content can sit in the CDN for a day. I expect a hit ratio above ninety percent and p95 under three hundred milliseconds. The risk is cache stampede on expiry, so I'd add jitter to the TTLs."
+  },
+  "followUps": [
+    {
+      "q": "Could a customer ever see the wrong price?",
+      "answer": "For a very short time, yes, which is why we treat prices differently. We refresh them every minute, and when you change a price on purpose, we clear the copy immediately. So in practice, customers see the new price within seconds."
+    },
+    {
+      "q": "Why didn't we do this from the start?",
+      "answer": "Honestly, at the start you didn't need it. With a few hundred visitors a day the database handled everything easily. It's a normal step as a product grows, and doing it too early just adds complexity."
+    },
+    {
+      "q": "How much faster will it be?",
+      "answer": "Based on similar setups, I'd expect the main pages to go from about two seconds to well under half a second. I'd rather not promise exact numbers until we've measured it on your real traffic, though."
+    }
+  ],
+  "jargon": [
+    "TTL",
+    "Redis",
+    "hit ratio",
+    "invalidation",
+    "CDN",
+    "p95",
+    "latency",
+    "stampede"
+  ],
+  "selfCheck": [
+    "I explained what problem the cache solves first.",
+    "I used one analogy and finished it.",
+    "I gave the benefit in the listener's terms: speed, sales, cost.",
+    "I mentioned the trade-off: the copy can be out of date.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}

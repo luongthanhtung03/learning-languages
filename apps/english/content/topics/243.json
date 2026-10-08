@@ -1,0 +1,58 @@
+{
+  "ideas": [
+    "Understand the goal behind the feature request",
+    "Be honest: it can't do that today",
+    "Offer alternatives and pass the request to the product team"
+  ],
+  "phrases": [
+    { "phrase": "I completely understand", "meaning": "shows empathy" },
+    { "phrase": "what I'd suggest is", "meaning": "a polite way to recommend" },
+    { "phrase": "let me make sure I've got this right", "meaning": "introduces a summary to check understanding" },
+    { "phrase": "I'm afraid", "meaning": "a polite way to give bad news" },
+    { "phrase": "what are you trying to achieve", "meaning": "asks about the underlying goal" },
+    { "phrase": "in the meantime", "meaning": "while waiting for something else" },
+    { "phrase": "I'll pass this on", "meaning": "I'll tell the right people" },
+    { "phrase": "I can't promise", "meaning": "an honest limit" }
+  ],
+  "learn": {
+    "explain": "Customers often ask for a specific feature that the product doesn't have. They need honesty, a sense that you understand their real goal, and a way forward. Never pretend it's possible or promise it will be built; FDEs lose trust fastest by overpromising. First, ask what they're trying to achieve, because the goal can often be met another way. Then clearly say the product can't do it today. Offer alternatives: a workaround, a small custom integration, or a manual step for now. Finally, promise only what you control: you'll pass the request and their use case to the product team, and you'll update them.",
+    "points": [
+      "Ask about the goal behind the request first.",
+      "Say clearly and kindly that it isn't possible today.",
+      "Offer alternatives and promise only what you control."
+    ],
+    "mistakes": [
+      "\"Yes, we can do it\" without checking.",
+      "\"No, impossible\" with no alternative.",
+      "Promising the feature will be in the next release."
+    ]
+  },
+  "framework": [
+    { "step": "Understand", "starter": "Can I ask what you're trying to achieve with that?" },
+    { "step": "Summarise", "starter": "Let me make sure I've got this right…" },
+    { "step": "Honest no", "starter": "I'm afraid the product can't do that today…" },
+    { "step": "Alternatives", "starter": "What I'd suggest in the meantime is…" },
+    { "step": "Commit", "starter": "I'll pass this on to our product team, and…" }
+  ],
+  "betterWays": [
+    { "weak": "No, our product cannot do it.", "strong": "I'm afraid it can't do that today, but let me understand what you need it for.", "why": "Honest, and keeps the conversation going." },
+    { "weak": "Yes, I think we can do it, no problem.", "strong": "I don't want to say yes before I've checked; I'll confirm by tomorrow.", "why": "Avoids overpromising." },
+    { "weak": "Why do you need this?", "strong": "Can I ask what you're trying to achieve with that?", "why": "Same question, but curious instead of challenging." },
+    { "weak": "Maybe it will come in next version.", "strong": "I can't promise when it will be built, but I'll pass on your use case and update you.", "why": "Promises only what you control." },
+    { "weak": "You can do it manual.", "strong": "In the meantime, there's a workaround that takes about two minutes a day.", "why": "A concrete alternative; \"manually\" not \"manual\"." }
+  ],
+  "model": "That's a good question, and I'm glad you asked. Can I ask what you're trying to achieve with automatic Excel reports? … OK, let me make sure I've got this right. Every Monday, your managers need to see last week's numbers: how many customer questions came in, how many the assistant answered, and which topics were the most common. And right now, someone spends about two hours putting that together by hand. Is that right? … I completely understand why you'd want that automated. I'm afraid the product can't send Excel reports automatically today, and I'd rather be honest about that than promise something I'm not sure of. But your actual goal, managers seeing those numbers every Monday, we can meet in another way. What I'd suggest is this. The product already has a dashboard with exactly those numbers, and I can set up a weekly email to your managers with a link to it. That takes me about an hour. If they really need the data in Excel, the dashboard has an export button, which takes about a minute. In the meantime, I'll pass this on to our product team, with your use case, because I think other customers want the same thing. I can't promise when it'll be built, but I'll update you.",
+  "short": "Can I ask what you're trying to achieve? … So your managers need last week's numbers every Monday, and someone spends two hours on it. I'm afraid automatic Excel reports aren't possible today. What I'd suggest is a weekly email with a link to the dashboard, plus a one-minute export. I'll pass your use case to our product team, but I can't promise a date.",
+  "followUps": [
+    { "q": "Your competitor told us they can do this.", "answer": "They might, and I'd ask them to show you. What I'd focus on is whether it solves your real need: managers seeing the numbers every Monday. We can do that this week. I'd rather show you something working than promise a feature." },
+    { "q": "Can't you just build it for us?", "answer": "Possibly, as a small custom piece, but it would need maintenance, and it may conflict with what the product team builds later. Let me discuss it with them first, and come back to you with options and an honest estimate." },
+    { "q": "When will you know if the product team will build it?", "answer": "I'll share your request this week, and I'll update you within two weeks on whether it's planned. If it's not planned soon, we'll make sure the workaround is as painless as possible." }
+  ],
+  "selfCheck": [
+    "I asked about the goal behind the request.",
+    "I said no clearly but kindly.",
+    "I offered a concrete alternative.",
+    "I didn't promise a feature or a date.",
+    "I answered the follow-up without restarting a sentence."
+  ]
+}
