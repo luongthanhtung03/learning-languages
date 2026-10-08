@@ -7,6 +7,7 @@ const LINKS = [
   { href: "/listening", label: "Listening" },
   { href: "/speaking", label: "Speaking" },
   { href: "/review", label: "Cards" },
+  { href: "/time", label: "Time" },
 ];
 
 export function Nav() {

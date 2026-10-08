@@ -4,6 +4,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import type { EpisodeDetail } from "@/lib/types";
 import { NeedsTimings } from "./EpisodeClient";
 import { usePlayer } from "../player";
+import { trackRecorder } from "../study-clock";
 
 type Phase = "idle" | "listen" | "speak";
 
@@ -62,6 +63,7 @@ export function ShadowPanel({ ep }: { ep: EpisodeDetail }) {
       setRecording(false);
     };
     recorderRef.current = rec;
+    trackRecorder(rec);
     rec.start();
     setRecording(true);
   }, []);

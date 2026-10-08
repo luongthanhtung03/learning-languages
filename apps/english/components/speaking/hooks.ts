@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
+import { trackRecorder } from "../study-clock";
 
 /**
  * Countdown that can be paused (focus mode) without drifting.
@@ -108,6 +109,7 @@ export function useRecorder() {
     chunksRef.current = [];
     const rec = new MediaRecorder(streamRef.current);
     rec.ondataavailable = (e) => e.data.size && chunksRef.current.push(e.data);
+    trackRecorder(rec);
     rec.start(1000);
     recRef.current = rec;
   }, []);

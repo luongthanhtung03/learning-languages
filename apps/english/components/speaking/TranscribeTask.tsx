@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useState } from "react";
 import { api } from "@/lib/client";
 import type { RecordingRow, SpeakingError } from "@/lib/speaking/store";
+import { useStudyClock } from "../study-clock";
 import { StatsTable } from "./bits";
 import { TranscriptTagger } from "./TranscriptTagger";
 
@@ -13,6 +14,7 @@ export function TranscribeTask({ recordingId, topicText, onDone }: { recordingId
   const [rec, setRec] = useState<Rec | null>(null);
   const [text, setText] = useState<string | null>(null);
   const [saved, setSaved] = useState(false);
+  useStudyClock("speaking");
 
   const apply = useCallback((r: Rec) => {
     setRec(r);

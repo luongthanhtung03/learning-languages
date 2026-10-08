@@ -7,6 +7,7 @@ import type { RecordingWithErrors, SessionDetail } from "@/lib/speaking/detail";
 import type { TopicPack } from "@/lib/speaking/pack";
 import type { SessionKind, SessionNotes } from "@/lib/speaking/store";
 import { useFocus } from "../focus-context";
+import { useStudyClock } from "../study-clock";
 import { CountdownRing, MicLevel, StatsTable, TYPE_LABEL } from "./bits";
 import { fmtClock, useCountdown, useRecorder } from "./hooks";
 import { TranscriptTagger } from "./TranscriptTagger";
@@ -20,6 +21,7 @@ type Props =
 export function SpeakingSession(props: Props) {
   const [detail, setDetail] = useState<SessionDetail | null>(null);
   const [error, setError] = useState<string | null>(null);
+  useStudyClock("speaking");
 
   const fetchDetail = useCallback(
     () =>

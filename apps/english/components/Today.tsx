@@ -5,6 +5,8 @@ import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import { api } from "@/lib/client";
 import { DAY_LABEL, itemKey, type PlanItem, type TodayPlan } from "@/lib/plan-types";
+import type { StudyTime } from "@/lib/study-time";
+import { TimeSummary } from "./StudyTime";
 
 export function itemHref(i: PlanItem) {
   if (i.kind === "listening") return `/listening/${i.episodeId}`;
@@ -24,9 +26,11 @@ export function Today() {
   const router = useRouter();
   const [plan, setPlan] = useState<TodayPlan | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const [time, setTime] = useState<StudyTime | null>(null);
 
   useEffect(() => {
     api<TodayPlan>("/api/plan").then(setPlan, (e: Error) => setError(e.message));
+    api<StudyTime>("/api/time").then(setTime, () => {});
   }, []);
 
   const startFocus = async () => {
@@ -55,6 +59,7 @@ export function Today() {
               {plan.dayType !== "new" && ` · ${DAY_LABEL[plan.dayType]}`}
             </p>
             <h1 className="mt-2 text-5xl font-semibold tracking-tight">{allDone ? "Done for today." : "Today"}</h1>
+            {time && <TimeSummary data={time} />}
           </header>
 
           <ul className="space-y-1">

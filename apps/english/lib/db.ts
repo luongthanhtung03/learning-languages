@@ -71,6 +71,11 @@ export function db(): DatabaseSync {
     CREATE INDEX IF NOT EXISTS card_due ON cards(due);
     CREATE INDEX IF NOT EXISTS review_card ON card_reviews(card_id);
     CREATE INDEX IF NOT EXISTS err_rec ON speaking_errors(recording_id);
+
+    -- active study seconds per local day
+    CREATE TABLE IF NOT EXISTS study_time (
+      day TEXT NOT NULL, skill TEXT NOT NULL, seconds INTEGER NOT NULL, PRIMARY KEY (day, skill)
+    );
   `);
   globalForDb.__db = d;
   return d;

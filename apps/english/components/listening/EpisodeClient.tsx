@@ -7,6 +7,7 @@ import type { Alignment, EpisodeDetail } from "@/lib/types";
 import type { WhisperJob as AlignJob } from "@/lib/whisper";
 import { PlayerBar, PlayerProvider } from "../player";
 import { KeepWords } from "../flashcards/KeepWords";
+import { useStudyClock } from "../study-clock";
 import { ListenPanel } from "./ListenPanel";
 import { QuizPanel } from "./QuizPanel";
 import { DictationPanel } from "./DictationPanel";
@@ -32,6 +33,7 @@ export function EpisodeClient({
   const [progress, setProgress] = useState<EpisodeProgress | null>(null);
   const [step, setStep] = useState<Step>("Listen");
   const [guess, setGuess] = useState<string | null>(null);
+  useStudyClock("listening");
 
   useEffect(() => {
     api<EpisodeDetail>(`/api/episodes/${id}`).then(setEp, (e: Error) => setError(e.message));

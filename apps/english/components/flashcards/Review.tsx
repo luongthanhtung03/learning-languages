@@ -11,6 +11,7 @@ import type { WhisperJob } from "@/lib/whisper";
 import { useFocus } from "../focus-context";
 import { MicLevel } from "../speaking/bits";
 import { fmtClock, useCountdown, useRecorder } from "../speaking/hooks";
+import { useStudyClock } from "../study-clock";
 
 const MAX_SECONDS = 30;
 
@@ -24,6 +25,7 @@ export function Review({ session = 1, onDone }: { session?: 1 | 2; onDone?: () =
   const [data, setData] = useState<Session | null>(null);
   const [idx, setIdx] = useState(0);
   const [results, setResults] = useState<{ pattern: string; ok: boolean; rating: Rating }[]>([]);
+  useStudyClock("speaking");
 
   useEffect(() => {
     api<Session>(`/api/cards/session?n=${session}`).then(setData);

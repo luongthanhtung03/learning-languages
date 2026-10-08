@@ -12,6 +12,8 @@ export async function PATCH(request: Request) {
       prep_seconds: clamp(patch.prep_seconds, 5, 120),
       research_minutes: clamp(patch.research_minutes, 1, 20),
       review_cap: clamp(patch.review_cap, 5, 40),
+      goal_listening_hours: clamp(patch.goal_listening_hours, 10, 2000),
+      goal_speaking_hours: clamp(patch.goal_speaking_hours, 10, 2000),
     }),
   );
 }

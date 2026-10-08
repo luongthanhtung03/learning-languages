@@ -12,9 +12,11 @@ export type Settings = {
   prep_seconds: number;
   research_minutes: number;
   review_cap: number; // flashcards per daily review session
+  goal_listening_hours: number; // hours-to-C1 split; ~400 h total from B1 (Cambridge guided learning hours)
+  goal_speaking_hours: number;
 };
 
-const DEFAULTS: Settings = { start_date: null, prep_seconds: 30, research_minutes: 5, review_cap: 15 };
+const DEFAULTS: Settings = { start_date: null, prep_seconds: 30, research_minutes: 5, review_cap: 15, goal_listening_hours: 150, goal_speaking_hours: 250 };
 
 export function getSettings(): Settings {
   const rows = db().prepare("SELECT key, value FROM settings").all() as { key: string; value: string }[];
