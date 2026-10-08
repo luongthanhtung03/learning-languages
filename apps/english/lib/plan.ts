@@ -142,10 +142,14 @@ function withStatus(plan: Stored): TodayPlan {
   });
   const { exclude: _exclude, ...rest } = plan;
   void _exclude;
-  return { ...rest, items: [...reviewItems(plan.cycleDay, plan.date), ...items] };
+  // speaking first, while energy is high; cards next; listening last, as the reward
+  const ordered = [...reviewItems(plan.cycleDay, plan.date), ...items].sort((a, b) => ORDER[a.kind] - ORDER[b.kind]);
+  return { ...rest, items: ordered };
 }
 
-/** Flashcard review comes first each day; the weekly review day (day 7) adds an uncapped catch-up session. */
+const ORDER: Record<PlanItem["kind"], number> = { speaking: 0, transcribe: 0, review: 1, listening: 2 };
+
+/** Flashcard review comes every day; the weekly review day (day 7) adds an uncapped catch-up session. */
 function reviewItems(cycleDay: number, date: string): PlanItem[] {
   if (!activeCardCount()) return [];
   const sessions: (1 | 2)[] = cycleDay === 7 ? [1, 2] : [1];
@@ -185,12 +189,24 @@ export function addRound(date: string): TodayPlan {
   const ep = listeningCandidates([...plan.exclude.episodes, ...episodes])[0];
   if (ep) plan.items.push({ kind: "listening", mode: "deep", episodeId: ep.id, title: ep.title, done: false });
 
+  pushNextTopic(plan, book);
+  save(plan);
+  return withStatus(plan);
+}
+
+/** Append just the next new topic, for days with extra speaking time. */
+export function addTopic(date: string): TodayPlan {
+  getPlan(date);
+  const plan = load(date)!;
+  pushNextTopic(plan, loadTopics());
+  save(plan);
+  return withStatus(plan);
+}
+
+function pushNextTopic(plan: Stored, book: TopicBook) {
   const topics = new Set([...plan.exclude.topics, ...plan.items.flatMap((i) => (i.kind === "speaking" ? [i.topicNo] : []))]);
   const next = [...rotation(book).pending, ...book.topics].find((t) => !topics.has(t.no));
   if (next) plan.items.push(speakingItem(next, "new"));
-
-  save(plan);
-  return withStatus(plan);
 }
 
 /** Replace one not-yet-done item with the next candidate of the same kind. */

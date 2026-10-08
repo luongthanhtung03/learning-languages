@@ -1,4 +1,4 @@
-import { addRound, getPlan, skipItem, today } from "@/lib/plan";
+import { addRound, addTopic, getPlan, skipItem, today } from "@/lib/plan";
 
 const dateParam = (request: Request) => {
   const d = new URL(request.url).searchParams.get("date"); // debug override: ?date=YYYY-MM-DD
@@ -14,8 +14,9 @@ export async function GET(request: Request) {
 }
 
 export async function POST(request: Request) {
-  const body = (await request.json()) as { action: "skip"; key: string } | { action: "more" };
+  const body = (await request.json()) as { action: "skip"; key: string } | { action: "more" } | { action: "topic" };
   if (body.action === "more") return Response.json(addRound(dateParam(request)));
+  if (body.action === "topic") return Response.json(addTopic(dateParam(request)));
   if (body.action !== "skip") return Response.json({ error: "Unknown action" }, { status: 400 });
   return Response.json(skipItem(dateParam(request), body.key));
 }

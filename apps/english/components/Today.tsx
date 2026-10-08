@@ -45,6 +45,7 @@ export function Today() {
   const skip = async (i: PlanItem) => setPlan(await api<TodayPlan>("/api/plan", { method: "POST", json: { action: "skip", key: itemKey(i) } }));
 
   const more = async () => setPlan(await api<TodayPlan>("/api/plan", { method: "POST", json: { action: "more" } }));
+  const moreTopic = async () => setPlan(await api<TodayPlan>("/api/plan", { method: "POST", json: { action: "topic" } }));
 
   const allDone = !!plan?.items.length && plan.items.every((i) => i.done);
 
@@ -84,19 +85,19 @@ export function Today() {
             {!plan.items.length && <li className="text-muted">Nothing planned today.</li>}
           </ul>
 
-          {plan.items.length > 0 && !allDone && (
-            <div>
+          <div className="flex items-center gap-6">
+            {plan.items.length > 0 && !allDone && (
               <button className="btn-primary px-8 py-3 text-base" onClick={startFocus}>Begin</button>
-            </div>
-          )}
-
-          {allDone && (
-            <div>
+            )}
+            <button className="link" onClick={moreTopic} title="Add the next speaking topic">
+              + one more topic
+            </button>
+            {allDone && (
               <button className="link" onClick={more} title="Add the next episode and the next topic">
                 One more round
               </button>
-            </div>
-          )}
+            )}
+          </div>
         </div>
       )}
     </main>
